@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Teams - Premier League</title>
+        <script type="text/javascript" src="https://d3js.org/d3.v7.min.js"></script>
+        <script type="text/javascript" src="menu.js"></script>
+        <script type="text/javascript" src="dropdown.js"></script>
+        <script type="text/javascript" src="teams.js"></script>
+        <script type="text/javascript" src="get_last_date.js"></script>
+
+        <link rel="stylesheet" type="text/css" href="menu.css">
+        <link rel="stylesheet" type="text/css" href="tooltip.css">
+        <link rel="stylesheet" type="text/css" href="dropdown.css">
+        <link rel="stylesheet" type="text/css" href="common.css">
+        <link rel="stylesheet" type="text/css" href="teams.css">
+        <link rel="stylesheet" type="text/css" href="radar.css">
+        
+
+        <!-- Need this to add caret arrow icon on dropdown -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    </head>
+    <body>
+        <h1>Premier League Data Viz</h1>
+        <ul class="top_menu">
+            <li><a class="menu_li" id="menu_rankings" href="index.html">Rankings</a></li>
+            <li><a class="menu_li" id="menu_matches" href="matches.html">Matches</a></li>
+            <li><a class="menu_li active" id="menu_teams" href="teams.html">Teams</a></li>
+            <li><a class="menu_li" id="menu_players" href="players.html">Players</a></li>
+            <li><a class="menu_li" id="menu_history" href="history.html">History</a></li>
+        </ul>
+
+        <div id="dropdown_container" class="column_container">
+            <div class="dropdown_title column" id="dropdown_season_title">Season:</div>
+            <div class="dropdown notouch column" id="dropdown_season">
+                <button onclick="showDrop('dropdown_content_season')" class="dropbtn" id="dropbtn_season">
+                    2022-2023
+                    <i class="fa fa-caret-down test"></i>
+                </button>
+                <ul id="dropdown_content_season" class="dropdown_content">
+                    <li class="dropdown_content_li" id="dropdown_2022_2023">2022-2023</li>
+                    <li class="dropdown_content_li" id="dropdown_2021_2022">2021-2022</li>
+                    <li class="dropdown_content_li" id="dropdown_2020_2021">2020-2021</li>
+                    <li class="dropdown_content_li" id="dropdown_2019_2020">2019-2020</li>
+                    <li class="dropdown_content_li" id="dropdown_2018_2019">2018-2019</li>
+                    <li class="dropdown_content_li" id="dropdown_2017_2018">2017-2018</li>
+                </ul>
+            </div>
+            <div class="dropdown_title column" id="dropdown_team_title">Team:</div>
+            <div class="dropdown notouch column" id="dropdown_team">
+                <button onclick="showDrop('dropdown_content_team')" class="dropbtn" id="dropbtn_team">
+                    <i class="fa fa-caret-down test"></i>
+                </button>
+                <ul id="dropdown_content_team" class="dropdown_content">
+                </ul>
+            </div>
+            <div id="updated_date" class="updated_date">on March 12, 2023</div>
+        </div>
+
+        <div class="fg_container" id="f2_container">
+            <div id="scores_title" class="fg_title_bar">Goals For & Goals Against</div>
+            <div id="bars_container"></div>
+        </div>
+
+        <div id="tooltip_bars" class="tooltip hidden">
+            <p id="ttp_1" style="text-align:center;"></p>
+            <hr>
+            <p id="ttp_2" style="text-align:center;"></p>
+        </div>
+
+        <div class="fg_container column_container" id="f3_container">
+            <div>
+                <div id="radar_title" class="fg_title_bar">Team Performance</div>
+            </div>
+            <div class="dropdowns">
+                <div class="dropdown notouch column right" id="dropdown_vsteam">
+                    <button onclick="showDrop('dropdown_content_vsteam')" class="dropbtn" id="dropbtn_vsteam">Team to be compared
+                        <i class="fa fa-caret-down"></i>
+                    </button>
+                    <ul id="dropdown_content_vsteam" class="dropdown_content">
+                    </ul>
+                </div>
+            </div>
+
+            <div class="column radar_left" id="radar_container"></div>
+            <div class="column radar_right" id="team_name_container"></div>
+        </div>
+
+        <div id="tooltip_radar" class="tooltip hidden">
+            <p id="ttp_1" style="text-align:center;"></p>
+            <hr>
+            <p id="ttp_2" style="text-align:left;"></p>
+        </div>
+
+        <script>
+            getLastDate();
+            makeTeamsCharts();
+            AddDropdownClickEvent();    
+        </script>
+
+    </body>
+</html>

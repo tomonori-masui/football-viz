@@ -1,0 +1,127 @@
+#dropdown_container {
+    width: 48%;
+    margin-left: 100px;
+    margin-top: 16px;
+}
+
+@media only screen and (max-width: 830px) {
+
+    #dropdown_container {
+        width: 90%;
+        margin-left: 25px;
+        margin-top: 10px;
+    }
+}
+
+/* Figure 1 */
+#f1_container{
+    margin: auto;
+    width: 93%;
+    margin-top: 5px;
+}
+
+.f1_left {
+    width: 68%;
+}
+
+.f1_right {
+    width: 32%;
+}
+
+.line_thin {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+}
+
+.line_thin.selected {
+    stroke-width: 3px;
+}
+
+.line_fat {
+    fill: none;
+    stroke: gray;
+    stroke-width: 15px;
+    stroke-opacity: 0;
+}
+
+.team_text {
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+}
+
+.rank_text {
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+}
+
+.tick text {
+    font-size: 12px;
+}
+
+.axis path, .axis .tick line {
+    stroke: silver;
+}
+
+.axis text, .yaxis_title {
+    fill: #666666;
+    font-family: sans-serif;
+}
+
+
+@media only screen and (max-width: 830px) {
+
+    #f1_container{
+        width: 100%;
+    }
+
+    .f1_left {
+        width: 100%;
+        float: none;
+    }
+}
+
+@media only screen and (min-width: 620px) and (max-width: 830px) {
+
+    .f1_right {
+        width: 60%;
+        margin: 30px auto 0 auto;
+        float: none;
+    }
+}
+
+@media only screen and (max-width: 620px) {
+
+    .f1_right {
+        width: 100%;
+    }
+
+    .line_thin {
+        stroke-width: 3px;
+    }
+
+    .line_thin.selected {
+        stroke-width: 5px;
+    }
+
+    .line_fat {
+        stroke-width: 20px;
+    }
+
+    .team_text {
+        font-size: 20px;
+    }
+
+    .rank_text {
+        font-size: 16px;
+    }
+
+    .xaxis text {
+        font-size: 15px;
+    }
+
+    .yaxis text, .yaxis_title {
+        font-size: 20px;
+    }
+}
+

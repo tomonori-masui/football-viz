@@ -1,0 +1,93 @@
+/* Dropdown */
+#dropdown_container {
+  width: 70%;
+  margin: auto;
+  margin-top: 16px;
+}
+
+#dropdown_team_title {
+  margin-left: 10px;
+}
+
+#dropdown_vsteam {
+    margin-left: 40px;
+    margin-top: 10px; 
+}
+
+@media only screen and (max-width: 830px) {
+
+  #dropdown_container {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  #dropdown_vsteam {
+    margin-left: 0px;
+  }
+
+}
+
+@media only screen and (max-width: 620px) {
+
+  #dropdown_vsteam {
+    margin-top: 5px; 
+  }
+}
+
+/* Figure 2 */
+#f2_container {
+  margin: 10px auto 0 auto;
+  width: 70%;
+}
+
+#scores_title {
+  padding: 1px 0;
+  margin-top: 10px;
+}
+
+.axis path, .axis .tick line {
+  stroke: silver;
+}
+
+.axis text {
+  fill: dimgray;
+  font-size: 10px;
+}
+
+.axis_title {
+  fill: dimgray;
+  font-size: 14px;
+}
+
+@media only screen and (min-width: 620px) and (max-width: 830px) {
+
+  #f2_container{
+    margin-top: 10px;
+    width: 100%;
+  }
+
+  .axis text {
+    font-size: 12px;
+  }
+
+  .axis_title {
+    font-size: 16px;
+  }
+
+}
+
+@media only screen and (max-width: 620px) {
+
+  #f2_container{
+      margin-top: 10px;
+      width: 100%;
+  }
+
+  .axis text {
+    font-size: 15px;
+  }
+
+  .axis_title {
+    font-size: 18px;
+  }
+}
