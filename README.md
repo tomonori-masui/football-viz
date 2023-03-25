@@ -1,2 +1,2 @@
 # football-viz
-Visualization of football data. The website is available at [this URL](https://tomonori-masui.github.io/football-viz/).
+Visualization of England Premier League football data. The website is available at https://www.football-viz.com/.
