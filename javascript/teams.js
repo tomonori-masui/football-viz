@@ -113,7 +113,7 @@ function changeSeason(season) {
 
 //////// Bar chart
 // set the dimensions and margins of the graph
-var ipad_width = 810 + 20;
+var ipad_width = 820 + 20;
 var mobile_width = 620;
 var margin = {
     top: 20, right: 20, 
