@@ -71,6 +71,32 @@
     clear: both;
 }
 
+
+@media only screen and (min-width: 1500px) {
+
+    #matches_header {
+        height: 36px;
+        font-size: 20px;
+        margin: 0 0 5px 0;
+    }
+
+    .matches {
+        height: 36px;
+        margin: 2px;
+        font-size: 15px;
+    }
+
+    .match_element {
+        height: 24px;
+        line-height: 34px;
+    }
+
+    .matches_date {
+        margin: 0 0 0 7px;
+        font-size: 14px;
+    }
+}
+
 @media only screen and (min-width: 840px) and (max-width: 1200px) {
 
     #matches_header {

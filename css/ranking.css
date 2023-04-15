@@ -1,16 +1,14 @@
 #dropdown_container {
-    width: 48%;
-    margin-left: 100px;
     margin-top: 16px;
+    margin-left: 60px;
+    width: 52%;
 }
 
-@media only screen and (min-width: 840px) and (max-width: 1200px) {
+@media only screen and (min-width: 1500px) {
 
-    #dropdown_container {
-        width: 60%;
-        margin-left: 25px;
+    #dropdown_container{
+        width: 750px;
     }
-
 }
 
 @media only screen and (max-width: 840px) {
@@ -75,6 +73,14 @@
 .axis text, .yaxis_title {
     fill: #666666;
     font-family: sans-serif;
+}
+
+
+@media only screen and (min-width: 1500px) {
+
+    #f1_container{
+        width: 1400px;
+    }
 }
 
 @media only screen and (min-width: 840px) and (max-width: 1200px) {

@@ -51,7 +51,6 @@ function makeRanking() {
         d3.select(".yaxis_title").remove();
 
         if (season == "2022_2023") {
-            console.log(season);
             d3.select("#updated_date").style("display", "block")
         } else {
             d3.select("#updated_date").style("display", "none")
