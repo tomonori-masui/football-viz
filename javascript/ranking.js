@@ -1,4 +1,4 @@
-function makeRanking() {
+function makeRanking(latest_season) {
 
     // set the dimensions and margins of the graph
     var mobile_width = 620;
@@ -27,16 +27,16 @@ function makeRanking() {
         .attr("transform",
             "translate(" + margin.left + "," + margin.top + ")");
 
-    drawRanking("2022_2023");
+    drawRanking(latest_season);
 
     // Add dropdown event
     d3.selectAll(".dropdown_content_li")
     .on("click", function() {
         const season = this.innerText.slice(0, 4) + "_" + this.innerText.slice(5, 9);
-        changeSeason(season);
+        changeSeason(season, latest_season);
     });
 
-    function changeSeason(season) {
+    function changeSeason(season, latest_season) {
         const season_org = season.slice(0, 4) + "-" + season.slice(5, 9);
         d3.select("#dropbtn_season").html(season_org + ' <i class="fa fa-caret-down"></i>');
 
@@ -50,7 +50,7 @@ function makeRanking() {
         d3.select(".yaxis").remove();
         d3.select(".yaxis_title").remove();
 
-        if (season == "2022_2023") {
+        if (season == latest_season) {
             d3.select("#updated_date").style("display", "block")
         } else {
             d3.select("#updated_date").style("display", "none")
@@ -443,7 +443,10 @@ function updateMatches(thisElem, data_of_date, match_data, z, team_last_position
     }
     match_filtered = match_filtered.slice(start, end);
 
-    d3.selectAll(".matches")
+    d3.selectAll("#matches_header")
+    .classed("hidden", false);
+
+    d3.selectAll("#matche_0")
     .classed("hidden", false);
 
     d3.select("#matches_header").html(team_org.slice(-1) == "s" ? team_org + "' Matches" : team_org + "'s Matches");
@@ -453,6 +456,7 @@ function updateMatches(thisElem, data_of_date, match_data, z, team_last_position
     for (const m of match_filtered){
         var m_date = formatTime(m.Date);
         match = d3.select("#match_" + i);
+        match.classed("hidden", false);
 
         match.select(".matches_date").html(m_date);
         

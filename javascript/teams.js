@@ -1,11 +1,11 @@
-function makeTeamsCharts() {
+function makeTeamsCharts(latest_season) {
 
     // Add dropdown event
     d3.select("#dropdown_content_season")
     .selectAll("li")
     .on("click", function() {
         const season = this.innerText.slice(0, 4) + "_" + this.innerText.slice(5, 9);
-        changeSeason(season);
+        changeSeason(season, latest_season);
     });
 
     // Touch screen device needs additional event listener to unselect objects
@@ -28,7 +28,7 @@ function makeTeamsCharts() {
         d3.select("#dropdown_content_season").classed('show', false)
     });
 
-    drawTeams("2022_2023");
+    drawTeams(latest_season);
 };
 
 function drawTeams(season) {
@@ -93,7 +93,7 @@ function drawTeams(season) {
     });
 };
 
-function changeSeason(season) {
+function changeSeason(season, latest_season) {
     const season_org = season.slice(0, 4) + "-" + season.slice(5, 9);
     d3.select("#dropbtn_season").html(season_org + ' <i class="fa fa-caret-down"></i>');
     d3.select("#dropbtn_vsteam").html('Team to be compared <i class="fa fa-caret-down"></i>');
@@ -101,8 +101,7 @@ function changeSeason(season) {
     d3.select("#dropdown_content_team").selectAll("li").remove();
     d3.select("#dropdown_content_vsteam").selectAll("li").remove();
 
-    if (season == "2022_2023") {
-        console.log(season);
+    if (season == latest_season) {
         d3.select("#updated_date").style("display", "block")
     } else {
         d3.select("#updated_date").style("display", "none")

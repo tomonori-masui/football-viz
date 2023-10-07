@@ -45,10 +45,11 @@
             <div class="dropdown_title column" id="dropdown_season_title">Season:</div>
             <div class="dropdown notouch column" id="dropdown_season">
                 <button onclick="showDrop('dropdown_content_season')" class="dropbtn" id="dropbtn_season">
-                    2022-2023
+                    2023-2024
                     <i class="fa fa-caret-down test"></i>
                 </button>
                 <ul id="dropdown_content_season" class="dropdown_content">
+                    <li class="dropdown_content_li" id="dropdown_2022_2023">2023-2024</li>
                     <li class="dropdown_content_li" id="dropdown_2022_2023">2022-2023</li>
                     <li class="dropdown_content_li" id="dropdown_2021_2022">2021-2022</li>
                     <li class="dropdown_content_li" id="dropdown_2020_2021">2020-2021</li>
@@ -105,7 +106,7 @@
 
         <script>
             getLastDate();
-            makeTeamsCharts();
+            makeTeamsCharts("2023_2024");
             AddDropdownClickEvent();    
         </script>
 
