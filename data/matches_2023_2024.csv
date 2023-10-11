@@ -1,4 +1,14 @@
 Date,HomeTeam,AwayTeam,FTHG,FTAG
+2023-10-08,Arsenal,Man City,1,0
+2023-10-08,Wolves,Aston Villa,1,1
+2023-10-08,West Ham,Newcastle,2,2
+2023-10-08,Brighton,Liverpool,2,2
+2023-10-07,Fulham,Sheffield United,3,1
+2023-10-07,Luton,Tottenham,0,1
+2023-10-07,Burnley,Chelsea,1,4
+2023-10-07,Everton,Bournemouth,3,0
+2023-10-07,Man United,Brentford,2,1
+2023-10-07,Crystal Palace,Nottm Forest,0,0
 2023-10-03,Luton,Burnley,1,2
 2023-10-02,Fulham,Chelsea,0,2
 2023-10-01,Nottm Forest,Brentford,1,1
@@ -18,52 +28,52 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG
 2023-09-23,Man City,Nottm Forest,2,0
 2023-09-23,Crystal Palace,Fulham,0,0
 2023-09-23,Luton,Wolves,1,1
-2023-09-23,Burnley,Man United,0,1
 2023-09-23,Brentford,Everton,1,3
+2023-09-23,Burnley,Man United,0,1
 2023-09-18,Nottm Forest,Burnley,1,1
 2023-09-17,Everton,Arsenal,0,1
 2023-09-17,Bournemouth,Chelsea,0,0
+2023-09-16,Fulham,Luton,1,0
 2023-09-16,Newcastle,Brentford,1,0
 2023-09-16,West Ham,Man City,1,3
 2023-09-16,Tottenham,Sheffield United,2,1
 2023-09-16,Man United,Brighton,1,3
-2023-09-16,Fulham,Luton,1,0
 2023-09-16,Aston Villa,Crystal Palace,3,1
 2023-09-16,Wolves,Liverpool,1,3
-2023-09-03,Crystal Palace,Wolves,3,2
 2023-09-03,Arsenal,Man United,3,1
 2023-09-03,Liverpool,Aston Villa,3,0
-2023-09-02,Brighton,Newcastle,3,1
-2023-09-02,Chelsea,Nottm Forest,0,1
+2023-09-03,Crystal Palace,Wolves,3,2
 2023-09-02,Burnley,Tottenham,2,5
+2023-09-02,Brighton,Newcastle,3,1
+2023-09-02,Man City,Fulham,5,1
+2023-09-02,Chelsea,Nottm Forest,0,1
 2023-09-02,Brentford,Bournemouth,2,2
 2023-09-02,Sheffield United,Everton,2,2
-2023-09-02,Man City,Fulham,5,1
 2023-09-01,Luton,West Ham,1,2
+2023-08-27,Burnley,Aston Villa,1,3
 2023-08-27,Newcastle,Liverpool,1,2
 2023-08-27,Sheffield United,Man City,1,2
-2023-08-27,Burnley,Aston Villa,1,3
 2023-08-26,Bournemouth,Tottenham,0,2
+2023-08-26,Everton,Wolves,0,1
+2023-08-26,Arsenal,Fulham,2,2
+2023-08-26,Brentford,Crystal Palace,1,1
 2023-08-26,Brighton,West Ham,1,3
 2023-08-26,Man United,Nottm Forest,3,2
-2023-08-26,Everton,Wolves,0,1
-2023-08-26,Brentford,Crystal Palace,1,1
-2023-08-26,Arsenal,Fulham,2,2
 2023-08-25,Chelsea,Luton,3,0
 2023-08-21,Crystal Palace,Arsenal,0,1
 2023-08-20,West Ham,Chelsea,3,1
 2023-08-20,Aston Villa,Everton,4,0
+2023-08-19,Wolves,Brighton,1,4
 2023-08-19,Man City,Newcastle,1,0
 2023-08-19,Tottenham,Man United,2,0
-2023-08-19,Wolves,Brighton,1,4
 2023-08-19,Liverpool,Bournemouth,3,1
 2023-08-19,Fulham,Brentford,0,3
 2023-08-18,Nottm Forest,Sheffield United,2,1
 2023-08-14,Man United,Wolves,1,0
 2023-08-13,Chelsea,Liverpool,1,1
 2023-08-13,Brentford,Tottenham,2,2
-2023-08-12,Everton,Fulham,0,1
 2023-08-12,Bournemouth,West Ham,1,1
+2023-08-12,Everton,Fulham,0,1
 2023-08-12,Brighton,Luton,4,1
 2023-08-12,Arsenal,Nottm Forest,2,1
 2023-08-12,Sheffield United,Crystal Palace,0,1
