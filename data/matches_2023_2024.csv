@@ -1,71 +1,141 @@
 Date,HomeTeam,AwayTeam,FTHG,FTAG
-2023-10-08,Arsenal,Man City,1,0
+2023-12-07,Tottenham,West Ham,1,2
+2023-12-07,Everton,Newcastle,3,0
+2023-12-06,Sheffield United,Liverpool,0,2
+2023-12-06,Crystal Palace,Bournemouth,0,2
+2023-12-06,Fulham,Nottm Forest,5,0
+2023-12-06,Brighton,Brentford,2,1
+2023-12-06,Aston Villa,Man City,1,0
+2023-12-06,Man United,Chelsea,2,1
+2023-12-05,Luton,Arsenal,3,4
+2023-12-05,Wolves,Burnley,1,0
+2023-12-03,Man City,Tottenham,3,3
+2023-12-03,West Ham,Crystal Palace,1,1
+2023-12-03,Liverpool,Fulham,4,3
+2023-12-03,Chelsea,Brighton,3,2
+2023-12-03,Bournemouth,Aston Villa,2,2
+2023-12-02,Burnley,Sheffield United,5,0
+2023-12-02,Arsenal,Wolves,2,1
+2023-12-02,Brentford,Luton,3,1
+2023-12-02,Nottm Forest,Everton,0,1
+2023-12-02,Newcastle,Man United,1,0
+2023-11-27,Fulham,Wolves,3,2
+2023-11-26,Everton,Man United,0,3
+2023-11-26,Tottenham,Aston Villa,1,2
+2023-11-25,Newcastle,Chelsea,4,1
+2023-11-25,Man City,Liverpool,1,1
+2023-11-25,Burnley,West Ham,1,2
+2023-11-25,Luton,Crystal Palace,2,1
+2023-11-25,Nottm Forest,Brighton,2,3
+2023-11-25,Sheffield United,Bournemouth,1,3
+2023-11-25,Brentford,Arsenal,0,1
+2023-11-12,Chelsea,Man City,4,4
+2023-11-12,West Ham,Nottm Forest,3,2
+2023-11-12,Liverpool,Brentford,3,0
+2023-11-12,Brighton,Sheffield United,1,1
+2023-11-12,Aston Villa,Fulham,3,1
+2023-11-11,Crystal Palace,Everton,2,3
+2023-11-11,Wolves,Tottenham,2,1
+2023-11-11,Arsenal,Burnley,3,1
+2023-11-11,Man United,Luton,1,0
+2023-11-11,Bournemouth,Newcastle,2,0
+2023-11-06,Tottenham,Chelsea,1,4
+2023-11-05,Luton,Liverpool,1,1
+2023-11-05,Nottm Forest,Aston Villa,2,0
+2023-11-04,Everton,Brighton,1,1
+2023-11-04,Fulham,Man United,0,1
+2023-11-04,Brentford,West Ham,3,2
+2023-11-04,Burnley,Crystal Palace,0,2
+2023-11-04,Man City,Bournemouth,6,1
+2023-11-04,Sheffield United,Wolves,2,1
+2023-11-04,Newcastle,Arsenal,1,0
+2023-10-29,Man United,Man City,0,3
+2023-10-29,Liverpool,Nottm Forest,3,0
+2023-10-29,Brighton,Fulham,1,1
+2023-10-29,Aston Villa,Luton,3,1
+2023-10-29,West Ham,Everton,0,1
+2023-10-28,Arsenal,Sheffield United,5,0
+2023-10-28,Chelsea,Brentford,0,2
+2023-10-28,Wolves,Newcastle,2,2
+2023-10-28,Bournemouth,Burnley,2,1
+2023-10-27,Crystal Palace,Tottenham,1,2
+2023-10-23,Tottenham,Fulham,2,0
+2023-10-22,Aston Villa,West Ham,4,1
+2023-10-21,Sheffield United,Man United,1,2
+2023-10-21,Chelsea,Arsenal,2,2
+2023-10-21,Nottm Forest,Luton,2,2
+2023-10-21,Newcastle,Crystal Palace,4,0
+2023-10-21,Man City,Brighton,2,1
+2023-10-21,Brentford,Burnley,3,0
+2023-10-21,Bournemouth,Wolves,1,2
+2023-10-21,Liverpool,Everton,2,0
 2023-10-08,Wolves,Aston Villa,1,1
-2023-10-08,West Ham,Newcastle,2,2
 2023-10-08,Brighton,Liverpool,2,2
-2023-10-07,Fulham,Sheffield United,3,1
-2023-10-07,Luton,Tottenham,0,1
-2023-10-07,Burnley,Chelsea,1,4
-2023-10-07,Everton,Bournemouth,3,0
-2023-10-07,Man United,Brentford,2,1
+2023-10-08,Arsenal,Man City,1,0
+2023-10-08,West Ham,Newcastle,2,2
 2023-10-07,Crystal Palace,Nottm Forest,0,0
+2023-10-07,Man United,Brentford,2,1
+2023-10-07,Fulham,Sheffield United,3,1
+2023-10-07,Everton,Bournemouth,3,0
+2023-10-07,Burnley,Chelsea,1,4
+2023-10-07,Luton,Tottenham,0,1
 2023-10-03,Luton,Burnley,1,2
 2023-10-02,Fulham,Chelsea,0,2
 2023-10-01,Nottm Forest,Brentford,1,1
-2023-09-30,Newcastle,Burnley,2,0
+2023-09-30,Man United,Crystal Palace,0,1
 2023-09-30,Aston Villa,Brighton,6,1
 2023-09-30,Bournemouth,Arsenal,0,4
-2023-09-30,Man United,Crystal Palace,0,1
 2023-09-30,Everton,Luton,1,2
+2023-09-30,Tottenham,Liverpool,2,1
+2023-09-30,Newcastle,Burnley,2,0
 2023-09-30,West Ham,Sheffield United,2,0
 2023-09-30,Wolves,Man City,2,1
-2023-09-30,Tottenham,Liverpool,2,1
-2023-09-24,Sheffield United,Newcastle,0,8
-2023-09-24,Liverpool,West Ham,3,1
-2023-09-24,Chelsea,Aston Villa,0,1
 2023-09-24,Brighton,Bournemouth,3,1
 2023-09-24,Arsenal,Tottenham,2,2
-2023-09-23,Man City,Nottm Forest,2,0
-2023-09-23,Crystal Palace,Fulham,0,0
-2023-09-23,Luton,Wolves,1,1
-2023-09-23,Brentford,Everton,1,3
+2023-09-24,Chelsea,Aston Villa,0,1
+2023-09-24,Sheffield United,Newcastle,0,8
+2023-09-24,Liverpool,West Ham,3,1
 2023-09-23,Burnley,Man United,0,1
+2023-09-23,Brentford,Everton,1,3
+2023-09-23,Man City,Nottm Forest,2,0
+2023-09-23,Luton,Wolves,1,1
+2023-09-23,Crystal Palace,Fulham,0,0
 2023-09-18,Nottm Forest,Burnley,1,1
 2023-09-17,Everton,Arsenal,0,1
 2023-09-17,Bournemouth,Chelsea,0,0
-2023-09-16,Fulham,Luton,1,0
-2023-09-16,Newcastle,Brentford,1,0
-2023-09-16,West Ham,Man City,1,3
-2023-09-16,Tottenham,Sheffield United,2,1
 2023-09-16,Man United,Brighton,1,3
-2023-09-16,Aston Villa,Crystal Palace,3,1
 2023-09-16,Wolves,Liverpool,1,3
-2023-09-03,Arsenal,Man United,3,1
-2023-09-03,Liverpool,Aston Villa,3,0
+2023-09-16,Fulham,Luton,1,0
+2023-09-16,Aston Villa,Crystal Palace,3,1
+2023-09-16,Tottenham,Sheffield United,2,1
+2023-09-16,West Ham,Man City,1,3
+2023-09-16,Newcastle,Brentford,1,0
 2023-09-03,Crystal Palace,Wolves,3,2
-2023-09-02,Burnley,Tottenham,2,5
-2023-09-02,Brighton,Newcastle,3,1
+2023-09-03,Liverpool,Aston Villa,3,0
+2023-09-03,Arsenal,Man United,3,1
 2023-09-02,Man City,Fulham,5,1
 2023-09-02,Chelsea,Nottm Forest,0,1
+2023-09-02,Burnley,Tottenham,2,5
 2023-09-02,Brentford,Bournemouth,2,2
 2023-09-02,Sheffield United,Everton,2,2
+2023-09-02,Brighton,Newcastle,3,1
 2023-09-01,Luton,West Ham,1,2
-2023-08-27,Burnley,Aston Villa,1,3
 2023-08-27,Newcastle,Liverpool,1,2
 2023-08-27,Sheffield United,Man City,1,2
+2023-08-27,Burnley,Aston Villa,1,3
 2023-08-26,Bournemouth,Tottenham,0,2
 2023-08-26,Everton,Wolves,0,1
-2023-08-26,Arsenal,Fulham,2,2
 2023-08-26,Brentford,Crystal Palace,1,1
-2023-08-26,Brighton,West Ham,1,3
+2023-08-26,Arsenal,Fulham,2,2
 2023-08-26,Man United,Nottm Forest,3,2
+2023-08-26,Brighton,West Ham,1,3
 2023-08-25,Chelsea,Luton,3,0
 2023-08-21,Crystal Palace,Arsenal,0,1
 2023-08-20,West Ham,Chelsea,3,1
 2023-08-20,Aston Villa,Everton,4,0
-2023-08-19,Wolves,Brighton,1,4
 2023-08-19,Man City,Newcastle,1,0
 2023-08-19,Tottenham,Man United,2,0
+2023-08-19,Wolves,Brighton,1,4
 2023-08-19,Liverpool,Bournemouth,3,1
 2023-08-19,Fulham,Brentford,0,3
 2023-08-18,Nottm Forest,Sheffield United,2,1
