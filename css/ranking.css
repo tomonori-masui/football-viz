@@ -1,7 +1,6 @@
 #dropdown_container {
-    margin-top: 16px;
     margin-left: 60px;
-    width: 52%;
+    width: 78%;
 }
 
 @media only screen and (min-width: 1500px) {
@@ -23,16 +22,13 @@
 /* Figure 1 */
 #f1_container{
     margin: auto;
-    width: 93%;
-    margin-top: 5px;
+    width: 1000px;
+    margin-top: 20px;
 }
 
-.f1_left {
-    width: 68%;
-}
-
-.f1_right {
-    width: 32%;
+.f1 {
+    width: 100%;
+    margin: auto;
 }
 
 .line_thin {
@@ -53,17 +49,17 @@
 }
 
 .team_text {
-    font-size: 15px;
+    font-size: 13px;
     font-family: Arial, sans-serif;
 }
 
 .rank_text {
-    font-size: 12px;
+    font-size: 11px;
     font-family: Arial, sans-serif;
 }
 
 .tick text {
-    font-size: 12px;
+    font-size: 11px;
 }
 
 .axis path, .axis .tick line {
@@ -75,48 +71,25 @@
     font-family: sans-serif;
 }
 
+.yaxis_title {
+    font-size: 15px;
+}
 
 @media only screen and (min-width: 1500px) {
 
     #f1_container{
-        width: 1400px;
+        width: 1300px;
     }
 }
 
-@media only screen and (min-width: 840px) and (max-width: 1200px) {
+@media only screen and (max-width: 1000px) {
 
     #f1_container{
         width: 100%;
-    }
-
-}
-
-@media only screen and (max-width: 840px) {
-
-    #f1_container{
-        width: 100%;
-    }
-
-    .f1_left {
-        width: 100%;
-        float: none;
-    }
-}
-
-@media only screen and (min-width: 620px) and (max-width: 840px) {
-
-    .f1_right {
-        width: 60%;
-        margin: 30px auto 0 auto;
-        float: none;
     }
 }
 
 @media only screen and (max-width: 620px) {
-
-    .f1_right {
-        width: 100%;
-    }
 
     .line_thin {
         stroke-width: 3px;
@@ -126,20 +99,16 @@
         stroke-width: 5px;
     }
 
-    .line_fat {
-        stroke-width: 20px;
-    }
-
     .team_text {
-        font-size: 20px;
+        font-size: 25px;
     }
 
     .rank_text {
-        font-size: 16px;
+        font-size: 18px;
     }
 
     .xaxis text {
-        font-size: 15px;
+        font-size: 18px;
     }
 
     .yaxis text, .yaxis_title {
