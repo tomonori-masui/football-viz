@@ -22,22 +22,29 @@
 .tooltip p{
     margin: 0;
     font-family: Verdana, sans-serif;
-    font-size: 16px;
+    font-size: 14px;
     color: white;
     line-height: 17px;
 }
 
-.tooltip span{
-    font-size: 12px;
-    color: LightGray;
+#tooltip_f1 .ttp_1{
+    font-weight: bold;
 }
 
-.tooltip hr {
+#tooltip_f1 .ttp_1 span{
+    font-weight: normal;
+}
+
+#tooltip_f1 .ttp_2 span{
+    font-size: 12px;
+}
+
+#tooltip_f1 hr {
   height:1px;
   margin-bottom: 0px;
   border-width:0;
-  background-color:gray;
-  color:gray;
+  background-color:#eaecee;
+  color:#eaecee;
 }
 
 @media only screen and (max-width: 620px) {
@@ -47,7 +54,7 @@
         line-height: 13px;
     }
   
-    .tooltip span{
+    #tooltip_f1 .ttp_2 span{
         font-size: 9px;
     }
   

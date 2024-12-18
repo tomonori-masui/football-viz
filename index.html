@@ -36,17 +36,17 @@
 
   <h1>Premier League Data Viz</h1>
   <ul class="top_menu">
-    <li><a class="menu_li active" id="menu_rankings" href="index.html">Rankings</a></li>
+    <li><a class="menu_li active" id="menu_rankings" href="index.html">Standings</a></li>
     <li><a class="menu_li" id="menu_matches" href="matches.html">Matches</a></li>
     <li><a class="menu_li" id="menu_teams" href="teams.html">Teams</a></li>
     <li><a class="menu_li" id="menu_players" href="players.html">Players</a></li>
     <li><a class="menu_li" id="menu_history" href="history.html">History</a></li>
   </ul>
 
-  <div id="tooltip" class="tooltip hidden">
-      <p id="ttp_1" style="text-align:center;"></p>
+  <div id="tooltip_f1" class="tooltip hidden">
+      <p class="ttp_1" style="text-align:center;"></p>
       <hr>
-      <p id="ttp_2" style="text-align:center;"></p>
+      <p class="ttp_2" style="text-align:center;"></p>
   </div>
 
   
@@ -55,10 +55,11 @@
         <div class="dropdown_title column" id="dropdown_season_title">Season:</div>
         <div class="dropdown notouch column" id="dropdown_season">
           <button onclick="showDrop('dropdown_content_season')" class="dropbtn" id="dropbtn_season">
-              2023-2024
+              2024-2025
               <i class="fa fa-caret-down test"></i>
           </button>
           <ul id="dropdown_content_season" class="dropdown_content">
+            <li class="dropdown_content_li" id="dropdown_2024_2025">2024-2025</li>
             <li class="dropdown_content_li" id="dropdown_2023_2024">2023-2024</li>
             <li class="dropdown_content_li" id="dropdown_2022_2023">2022-2023</li>
             <li class="dropdown_content_li" id="dropdown_2021_2022">2021-2022</li>
@@ -70,14 +71,12 @@
         </div>
         <div id="updated_date" class="updated_date"></div>
       </div>
-      <div class="column f1_left" id="ranking_container"></div>
-      <div class="column f1_right" id="matches_container"></div>
+      <div class="f1" id="ranking_container"></div>
   </div>
 
   <script>
     getLastDate();
-    makeMatchesList();
-    makeRanking("2023_2024");
+    makeRanking("2024_2025");
     AddDropdownClickEvent();
   </script>
 

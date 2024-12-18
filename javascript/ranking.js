@@ -2,17 +2,21 @@ function makeRanking(latest_season) {
 
     // set the dimensions and margins of the graph
     var mobile_width = 620;
-    var margin = {top: 20, right: window.innerWidth > mobile_width ? 20 : 40, 
-                  bottom: window.innerWidth > mobile_width ? 50 : 70, left: 60},
+    var margin = {top: 18, right: window.innerWidth > mobile_width ? 20 : 40, 
+                  bottom: window.innerWidth > mobile_width ? 50 : 80, left: 60},
     width = 800 - margin.left - margin.right,
-    height = window.innerWidth > mobile_width ? 480 - margin.top - margin.bottom : 580 - margin.top - margin.bottom;
+    height = (window.innerWidth > mobile_width ? 430 - margin.top - margin.bottom 
+        : 1000 - margin.top - margin.bottom
+    );
 
     // set the ranges
-    var team_name_width = 130
+    var team_name_width = window.innerWidth > mobile_width ? 130 : 200
     var x = d3.scaleTime().range([0, width-team_name_width]),
     y = d3.scaleLinear().range([0, height]),
     z = d3.scaleOrdinal(d3.schemeTableau10);
     // z = d3.scaleOrdinal(d3.schemeCategory10);
+
+    const formatDate = d3.timeFormat("%y-%m-%d")
 
     // define the line
     var valueline = d3.line()
@@ -21,7 +25,8 @@ function makeRanking(latest_season) {
     .y(function(d) { return y(d.position); });
 
     var svg = d3.select("#ranking_container").append("svg")
-        .attr("viewBox", "0 0 " +  (width + margin.left + margin.right) + " " + (height + margin.top + margin.bottom))
+        .attr("viewBox", "0 0 " +  (width + margin.left + margin.right) 
+            + " " + (height + margin.top + margin.bottom))
         .append("g")
         .attr("id", "plot")
         .attr("transform",
@@ -46,6 +51,8 @@ function makeRanking(latest_season) {
         d3.select("#g_dots").remove();
         d3.select("#g_rank_text").remove();
         d3.select("#g_pointer").remove();
+        d3.selectAll(".g_match_dots").remove();
+        d3.selectAll(".g_match_dots_fat").remove();
         d3.select(".xaxis").remove();
         d3.select(".yaxis").remove();
         d3.select(".yaxis_title").remove();
@@ -78,6 +85,12 @@ function makeRanking(latest_season) {
                     d.Date = d3.timeParse("%Y-%m-%d")(d.Date);
                     d.FTAG = parseInt(d.FTAG);
                     d.FTHG = parseInt(d.FTHG);
+                    d.AwayTeamCumPts = parseInt(d.AwayTeamCumPts);
+                    d.AwayTeamRank = parseInt(d.AwayTeamRank);
+                    d.AwayTeamPosition = parseInt(d.AwayTeamPosition);
+                    d.HomeTeamCumPts = parseInt(d.HomeTeamCumPts);
+                    d.HomeTeamRank = parseInt(d.HomeTeamRank);
+                    d.HomeTeamPosition = parseInt(d.HomeTeamPosition);
                 });
 
                 var ranking_data_g = d3.group(ranking_data, d => d.team_s)
@@ -138,8 +151,11 @@ function makeRanking(latest_season) {
                     .enter()
                     .append("circle")
                     .attr("class", "dots")
-                    .attr("r", window.innerWidth > mobile_width ? "10" : "12")
-                    .attr("cx", width-team_name_width+14)
+                    .attr("r", window.innerWidth > mobile_width ? "8" : "16")
+                    .attr("cx", d => {
+                        let dx = window.innerWidth > mobile_width ? 14 : 26;
+                        return width-team_name_width+dx
+                    })
                     .attr("cy", d => y(team_last_position[d[0]]))
                     .style('fill', d => team_last_rank[d[0]] <= 5 ? 
                     z(team_last_position[d[0]]) : "LightGray")
@@ -154,7 +170,10 @@ function makeRanking(latest_season) {
                     .enter()
                     .append("text")
                     .attr("class", "rank_text")
-                    .attr("x", width-team_name_width+14)
+                    .attr("x", d => {
+                        let dx = window.innerWidth > mobile_width ? 14 : 26;
+                        return width-team_name_width+dx
+                    })
                     .attr("y", d => y(team_last_position[d[0]]))
                     .attr("dy", "0.35em")
                     .attr("id", function(d) { return "rank_text_" + d[0]; })
@@ -180,7 +199,7 @@ function makeRanking(latest_season) {
 
                 d3.selectAll(".xaxis")
                 .selectAll("text")
-                .attr("transform", "translate(-15," + (window.innerWidth > mobile_width ? 17 : 22) + ")rotate(-45)")
+                .attr("transform", "translate(-15," + (window.innerWidth > mobile_width ? 17 : 30) + ")rotate(-45)")
                 ;
 
                 // Add the y Axis
@@ -192,7 +211,66 @@ function makeRanking(latest_season) {
                     .attr("class", "yaxis_title")
                     .attr("text-anchor", "middle")  
                     .attr("transform", "translate("+ (- margin.left*0.7) +","+(height/2)+")rotate(-90)")  
-                    .text("Rankings");
+                    .text("Standings");
+
+                // draw match dots
+                for (const [key, value] of ranking_data_g.entries()) {
+                    let team = value[0].Team;
+                    let match_filtered = structuredClone(match_data.filter(
+                        d => d.HomeTeam == team || d.AwayTeam == team
+                    ));
+                
+                    for (const m of match_filtered){
+                        m.team_s = key;
+                        m.team = team; 
+                        m.rank = m.HomeTeam == team ? m.HomeTeamRank : m.AwayTeamRank;
+                        m.position = m.HomeTeam == team ? m.HomeTeamPosition : m.AwayTeamPosition;
+                        m.TeamCumPts = m.HomeTeam == team ? m.HomeTeamCumPts : m.AwayTeamCumPts;
+                        if (m.FTHG == m.FTAG){
+                            m.resultColor = "#b2babb";
+                            m.resultColorToolTip = "#616a6b";
+                        } else if ((m.HomeTeam == team && m.FTHG > m.FTAG) || (m.AwayTeam == team && m.FTHG < m.FTAG)){
+                            m.resultColor = "#7dcea0";
+                            m.resultColorToolTip = "#1e8449";
+                        } else {
+                            m.resultColor = "#ec7063";
+                            m.resultColorToolTip = "#e74c3c";
+                        }
+                    };
+
+                    svg.append("g")
+                    .attr("id", "g_match_dots_" + key)
+                    .attr("class", "g_match_dots")
+                    .selectAll("circle")
+                    .data(match_filtered)
+                    .enter()
+                    .append("circle")
+                    .attr("id", d => "match_dots_" + key + "_" + formatDate(d.Date))
+                    .attr("class", "match_dots match_dots_" + key)
+                    .attr("r", window.innerWidth > mobile_width ? "3.5" : "6.5")
+                    .attr("cx", d => x(d.Date))
+                    .attr("cy", d => y(d.position))
+                    .style('fill', d => d.resultColor)
+                    .style('stroke', d => z(team_last_position[d.team_s]))
+                    .style("stroke-width", window.innerWidth > mobile_width ? "1.5" : "3")
+                    .style("display", "none")
+                    ;
+
+                    svg.append("g")
+                    .attr("id", "g_match_dots_fat_" + key)
+                    .attr("class", "g_match_dots_fat")
+                    .selectAll("circle")
+                    .data(match_filtered)
+                    .enter()
+                    .append("circle")
+                    .attr("class", "match_dots_fat match_dots_fat_" + key)
+                    .attr("r", window.innerWidth > mobile_width ? "10" : "14")
+                    .attr("cx", d => x(d.Date))
+                    .attr("cy", d => y(d.position))
+                    .style('fill', d => d.resultColor)
+                    .style("opacity", "0")
+                    ;
+                };
 
                 // Initial animation
                 const t = d3.timer((elapsed) => {
@@ -230,8 +308,9 @@ function makeRanking(latest_season) {
                         .duration(1000)
                         .style("opacity", "1")
                         .attr("transform", function(d) { 
-                        len = d[1].length -1 ;  
-                        return "translate(" + (x(d[1][len].Date) + 30) + "," + y(d[1][len].position) + ")"; })
+                        len = d[1].length -1 ;
+                        let offset = window.innerWidth > mobile_width ? 30 : 48;
+                        return "translate(" + (x(d[1][len].Date) + offset) + "," + y(d[1][len].position) + ")"; })
                         ;
 
                         d3.selectAll(".dots")
@@ -252,6 +331,11 @@ function makeRanking(latest_season) {
 
                 // Event functions
                 function mouseLineSelect(thisElem) {
+                    var team = thisElem.__data__[0];
+                    lineSelect(team);
+                };
+
+                function lineSelect(team) {
 
                     d3.selectAll(".line_thin")
                     .style("stroke", "LightGray")
@@ -259,7 +343,6 @@ function makeRanking(latest_season) {
                     d3.selectAll(".team_text").style("fill", "LightGray");
                     d3.selectAll(".dots").style("fill", "LightGray");
 
-                    var team = thisElem.__data__[0];
                     d3.select("#line_" + team)
                     .style('stroke', z(team_last_position[team]))
                     .classed("selected", true)
@@ -270,6 +353,9 @@ function makeRanking(latest_season) {
 
                     d3.select("#dot_" + team)
                     .style('fill', z(team_last_position[team]));
+
+                    d3.selectAll(".match_dots_" + team)
+                    .style("display", null)
                 };
 
                 function mouseLineUnselect() {
@@ -287,31 +373,27 @@ function makeRanking(latest_season) {
                     .style('fill', d => team_last_rank[d[0]] <= 5 ? 
                     z(team_last_position[d[0]]) : "LightGray");
 
-                    d3.select("#tooltip")
-                    .classed("hidden", true);
-
                     d3.select("#pointer")
                     .style("display", "none");
 
                     d3.selectAll(".matches")
                     .classed("hidden", true);
+
+                    d3.selectAll(".match_dots")
+                    .attr("r", window.innerWidth > mobile_width ? "3.5" : "6.5")
+                    .style("stroke-width", window.innerWidth > mobile_width ? "1.5" : "3")
+                    .style("display", "none")
                 };
 
-                function movePointer(thisElem, event) {
+                function mouseMatchDotsSelect(thisElem, event){
 
-                    var team = thisElem.__data__[0];
-                    pos = d3.pointer(event);
+                    d3.select("#match_dots_" + thisElem.__data__.team_s 
+                        + "_" + formatDate(thisElem.__data__.Date))
+                    .attr('r', window.innerWidth > mobile_width ? "6" : "11")
+                    .style("stroke-width", window.innerWidth > mobile_width ? "3" : "6")
+                    ;
 
-                    var array = thisElem.__data__[1];
-                    const data_of_date = d3.least(array, d => Math.abs(x(d.Date) - pos[0]));
-
-                    d3.select("#pointer")
-                    .style("display", null)
-                    .style('fill', z(team_last_position[team]))
-                    .attr("cx", x(data_of_date.Date))
-                    .attr("cy", y(data_of_date.position));
-
-                    const rect = document.getElementById('g_line_fat').getBoundingClientRect();
+                    lineSelect(thisElem.__data__.team_s);
 
                     if (window.innerWidth > 500){
                         if (event.pageX - 120 > 0){
@@ -337,29 +419,48 @@ function makeRanking(latest_season) {
                         }
                     }
 
-                    d3.select("#tooltip")
+                    let resultText;
+                    if (thisElem.__data__.HomeTeam == thisElem.__data__.team){
+                        resultText = thisElem.__data__['HomeTeam'] + " " + thisElem.__data__['FTHG']
+                        + " - <span>"
+                        + thisElem.__data__['FTAG'] + " " + thisElem.__data__['AwayTeam'] + "</span>"
+                    } else {
+                        resultText = "<span>" + thisElem.__data__['HomeTeam'] + " " + thisElem.__data__['FTHG']
+                        + "</span> - "
+                        + thisElem.__data__['FTAG'] + " " + thisElem.__data__['AwayTeam']
+                    };
+
+                    d3.select("#tooltip_f1")
                     .classed("hidden", false)
                     .style("left", left_pos + "px")
                     .style("top", top_pos + "px")
-                    .select("#ttp_1")
-                    .html(thisElem.__data__[1][0]['Team']);
+                    .style("background-color", thisElem.__data__.resultColorToolTip)
+                    .select(".ttp_1")
+                    .html(resultText);
 
                     const formatTime = d3.timeFormat("%b %d");
-                    const date = formatTime(data_of_date.Date);
+                    const date = formatTime(thisElem.__data__.Date);
 
-                    const rank_suffix = data_of_date.rank == 1 ? "st" : 
-                                        data_of_date.rank == 2 ? "nd" :
-                                        data_of_date.rank == 3 ? "rd" :
+                    const rank_suffix = thisElem.__data__.rank == 1 ? "st" : 
+                                        thisElem.__data__.rank == 2 ? "nd" :
+                                        thisElem.__data__.rank == 3 ? "rd" :
                                         "th";
-                    d3.select("#tooltip")
-                    .select("#ttp_2")
-                    .html(data_of_date.rank + "<span>" + rank_suffix + " | " 
-                    + data_of_date.CumPts + " Pts | " + date + "</span>");
+                    d3.select("#tooltip_f1")
+                    .select(".ttp_2")
+                    .html("<span>" + date + " | " + thisElem.__data__.TeamCumPts + " Pts | " + "</span>"
+                        + thisElem.__data__.rank + "<span>" + rank_suffix + "</span>"
+                    );
+                }
 
-                    updateMatches(thisElem, data_of_date, match_data, z, team_last_position);
+                function mouseMatchDotsUnselect() {
+                    d3.select("#tooltip_f1")
+                    .classed("hidden", true);
 
-                };
-
+                    d3.selectAll(".match_dots")
+                    .attr("r", window.innerWidth > mobile_width ? "3.5" : "6.5")
+                    .style("stroke-width", window.innerWidth > mobile_width ? "1.5" : "3")
+                    .style("display", "none")
+                }
 
                 function addEvent() {
 
@@ -367,7 +468,6 @@ function makeRanking(latest_season) {
                     .on("mouseover", function(event, d) { mouseLineSelect(this) ;})
                     .on("click", function(event, d) { mouseLineSelect(this) ;})
                     .on("mouseout", function(event, d) { mouseLineUnselect() ;})
-                    .on("mousemove",  function(event, d) { movePointer(this, event) ;})
                     ;
 
                     d3.selectAll(".team_text")
@@ -375,7 +475,7 @@ function makeRanking(latest_season) {
                     .on("click", function(event, d) { 
                         mouseLineSelect(this);
                         d3.select("#pointer").style("display", "none");
-                        d3.select("#tooltip").classed("hidden", true);
+                        d3.select("#tooltip_f1").classed("hidden", true);
                     })
                     .on("mouseout", function(event, d) { mouseLineUnselect() ;})
                     ;
@@ -385,7 +485,7 @@ function makeRanking(latest_season) {
                     .on("click", function(event, d) { 
                         mouseLineSelect(this);
                         d3.select("#pointer").style("display", "none");
-                        d3.select("#tooltip").classed("hidden", true);
+                        d3.select("#tooltip_f1").classed("hidden", true);
                     })
                     .on("mouseout", function(event, d) { mouseLineUnselect() ;})
                     ;
@@ -395,16 +495,25 @@ function makeRanking(latest_season) {
                     .on("click", function(event, d) {
                         mouseLineSelect(this);
                         d3.select("#pointer").style("display", "none");
-                        d3.select("#tooltip").classed("hidden", true);
+                        d3.select("#tooltip_f1").classed("hidden", true);
                     })
                     .on("mouseout", function(event, d) { mouseLineUnselect() ;})
+                    ;
+
+                    d3.selectAll(".match_dots_fat")
+                    .on("mouseover", function(event, d) { mouseMatchDotsSelect(this, event) ;})
+                    .on("click", function(event, d) { mouseMatchDotsSelect(this, event) ;})
+                    .on("mouseout", function(event, d) {
+                        mouseMatchDotsUnselect();
+                        mouseLineUnselect();
+                    })
                     ;
 
                 };
 
                 // Touch screen device needs additional event listener to unselect objects
                 function touchUnselect(event) {
-                    var noRedirect = '.line_fat, .team_text, .dots, .rank_text';
+                    var noRedirect = '.line_fat, .team_text, .dots, .rank_text .match_dots_fat';
                     if (!event.target.matches(noRedirect)) {
                         mouseLineUnselect();
                     }
@@ -416,75 +525,4 @@ function makeRanking(latest_season) {
         });
     };
 
-};
-
-function updateMatches(thisElem, data_of_date, match_data, z, team_last_position) {
-
-    const team = thisElem.__data__[0];
-    const team_org = thisElem.__data__[1][0]['Team'];
-    var match_filtered = match_data.filter(d => d.HomeTeam == team_org || d.AwayTeam == team_org);
-
-    const closest = d3.least(match_filtered, d => Math.abs(d.Date - data_of_date.Date));
-
-    const index = match_filtered.findIndex(object => {
-        return object.Date == closest.Date;
-    });
-    const len = match_filtered.length;
-
-    if (index - 5 >= 0 && index + 6 <= len){
-        var start = index - 5;
-        var end = index + 6;
-    } else if (index + 6 > len) {
-        var start = len >= 11 ? len - 11 : 0;
-        var end = len;
-    } else {
-        var start = 0;
-        var end = len >= 11 ? 11 : len;
-    }
-    match_filtered = match_filtered.slice(start, end);
-
-    d3.selectAll("#matches_header")
-    .classed("hidden", false);
-
-    d3.selectAll("#matche_0")
-    .classed("hidden", false);
-
-    d3.select("#matches_header").html(team_org.slice(-1) == "s" ? team_org + "' Matches" : team_org + "'s Matches");
-
-    var i = 1;
-    const formatTime = d3.timeFormat("%b %d");
-    for (const m of match_filtered){
-        var m_date = formatTime(m.Date);
-        match = d3.select("#match_" + i);
-        match.classed("hidden", false);
-
-        match.select(".matches_date").html(m_date);
-        
-        var span_color = "<span style='color:" + z(team_last_position[team]) + "'>";
-        var home_team = m.HomeTeam == team_org ? span_color + m.HomeTeam + "</span>" : m.HomeTeam;
-        var away_team = m.AwayTeam == team_org ? span_color + m.AwayTeam + "</span>" : m.AwayTeam;
-        var home_score = m.FTHG > m.FTAG ? 
-            "<span style='font-weight: bold;'>" + m.FTHG + "</span>" : m.FTHG;
-        var away_score = m.FTHG < m.FTAG ? 
-            "<span style='font-weight: bold;'>" + m.FTAG + "</span>" : m.FTAG;
-        if (m.HomeTeam == team_org){
-            var result = m.FTHG > m.FTAG ? "W" : m.FTHG < m.FTAG ? "L" : "D";
-        } else {
-            var result = m.FTHG < m.FTAG ? "W" : m.FTHG > m.FTAG ? "L" : "D";
-        };
-
-        match.select(".matches_result")
-             .style("color", result == "W" ? "forestgreen" : result == "L" ? "crimson" : "slategray")
-             .html(result);
-        match.select(".matches_home").html(home_team + " &nbsp " + home_score);
-        match.select(".matches_away").html(away_score + " &nbsp " + away_team);
-
-        if (closest.Date == m.Date) {
-            match.style("background-color", "seashell");
-        } else {
-            match.style("background-color", "transparent");
-        };
-
-        i += 1;
-    };
 };
