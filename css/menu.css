@@ -31,6 +31,14 @@
     font-weight: bold;
 }
 
+@media only screen and (min-width: 1500px) {
+
+    .top_menu li a {
+        padding: 22px 24px;
+        font-size: 18px;
+    }
+}
+
 @media only screen and (max-width: 620px) {
 
     .top_menu li a {

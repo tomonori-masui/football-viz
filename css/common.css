@@ -45,6 +45,18 @@ h1 {
     font-family: sans-serif;
 }
 
+@media only screen and (min-width: 1500px) {
+
+    h1 {
+        font-size: 40px;
+        letter-spacing: 2.3px;
+    }
+
+    .updated_date{
+        font-size: 18px;
+    }
+}
+
 @media only screen and (max-width: 620px) {
 
     h1 {
