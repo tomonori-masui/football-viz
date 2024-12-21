@@ -76,17 +76,17 @@
 
     .dropdown_title {
         padding: 7px 10px;
-        font-size: 22px;
+        font-size: 20px;
     }
 
     .dropbtn{
         padding: 7px 12px;
-        font-size: 20px;
+        font-size: 18px;
     }
 
     .dropdown_content li {
         padding: 10px 10px;
-        font-size: 20px;
+        font-size: 18px;
     }
 
     #dropdown_content_season {

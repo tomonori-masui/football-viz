@@ -47,6 +47,18 @@
   color:#eaecee;
 }
 
+@media only screen and (min-width: 1500px) {
+
+    .tooltip p{
+        font-size: 18px;
+        line-height: 20px;
+    }
+  
+    #tooltip_f1 .ttp_2 span{
+        font-size: 15px;
+    }
+}
+
 @media only screen and (max-width: 620px) {
 
     .tooltip p{
