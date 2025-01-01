@@ -38,11 +38,16 @@ h1 {
 }
 
 .updated_date {
-    padding: 9px;
-    float: right;
     font-size: 12px;
     color: #909497;
     font-family: sans-serif;
+    text-align: right;
+}
+
+.flex_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
 }
 
 @media only screen and (min-width: 1500px) {
@@ -74,7 +79,7 @@ h1 {
     }
 
     .updated_date {
-        padding: 8px;
-        font-size: 10px;
+        font-size: 8px;
+        width: 60px;
     }
 }

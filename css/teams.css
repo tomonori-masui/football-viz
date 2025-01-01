@@ -1,55 +1,49 @@
 /* Dropdown */
 #dropdown_container {
-  width: 70%;
-  margin: auto;
-  margin-top: 16px;
+  margin-left: 30px;
 }
 
-#dropdown_team_title {
+#dropdown_team_container {
   margin-left: 10px;
-}
-
-#dropdown_vsteam {
-    margin-left: 40px;
-    margin-top: 10px; 
-}
-
-@media only screen and (min-width: 1500px) {
-
-  #dropdown_container{
-    width: 1100px;
-  }
-}
-
-@media only screen and (max-width: 840px) {
-
-  #dropdown_container {
-    width: 100%;
-    margin-top: 10px;
-  }
-
-  #dropdown_vsteam {
-    margin-left: 0px;
-  }
-
 }
 
 @media only screen and (max-width: 620px) {
 
-  #dropdown_vsteam {
-    margin-top: 5px; 
+  #dropdown_container {
+    margin-left: 0px;
+  }
+
+  #dropdown_team_container {
+    margin-left: 3px;
   }
 }
 
 /* Figure 2 */
 #f2_container {
-  margin: 10px auto 0 auto;
+  margin: 20px auto 0 auto;
   width: 70%;
 }
 
-#scores_title {
-  padding: 1px 0;
-  margin-top: 10px;
+.team_texts {
+  fill: DimGray;
+  text-anchor: middle;
+  font-size: 13px;
+  pointer-events: none;
+}
+
+#background_text {
+  fill: #e5e7e9;
+  font-size: 70px;
+  text-anchor: end;
+}
+
+.team_dots {
+  stroke-width: 2px;
+}
+
+.dots_connect {
+  stroke-width: 2px;
+  stroke: Crimson;
 }
 
 .axis path, .axis .tick line {
@@ -63,7 +57,7 @@
 
 .axis_title {
   fill: dimgray;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 @media only screen and (min-width: 1500px) {
@@ -97,11 +91,27 @@
       width: 100%;
   }
 
+  .team_texts {
+    font-size: 25px;
+  }
+
+  #background_text {
+    font-size: 100px;
+  }
+
+  .team_dots {
+    stroke-width: 4px;
+  }
+
+  .dots_connect {
+    stroke-width: 4px;
+  }
+
   .axis text {
-    font-size: 15px;
+    font-size: 18px;
   }
 
   .axis_title {
-    font-size: 18px;
+    font-size: 24px;
   }
 }

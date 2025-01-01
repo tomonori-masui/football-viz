@@ -1,4 +1,6 @@
-function makeRanking(latest_season) {
+import { bringToFront } from './utils.js';
+
+export function makeRanking(latest_season) {
 
     // set the dimensions and margins of the graph
     var mobile_width = 620;
@@ -43,7 +45,8 @@ function makeRanking(latest_season) {
 
     function changeSeason(season, latest_season) {
         const season_org = season.slice(0, 4) + "-" + season.slice(5, 9);
-        d3.select("#dropbtn_season").html(season_org + ' <i class="fa fa-caret-down"></i>');
+        d3.select("#dropbtn_season").html('<span class="left">' + season_org + '</span>' 
+            + ' <i class="fa fa-caret-down right"></i>');
 
         d3.select("#g_line_thin").remove();
         d3.select("#g_line_fat").remove();
@@ -285,8 +288,8 @@ function makeRanking(latest_season) {
                     .duration(40)
                     .ease(d3.easeLinear)
                     .attr("transform", function(d) { 
-                    len = d[1].length -1 ;
-                    cur_idx = parseInt(elapsed/25);
+                    let len = d[1].length -1 ;
+                    let cur_idx = parseInt(elapsed/25);
 
                     const date =  (cur_idx > len) ? d[1][len].Date : d[1][cur_idx].Date;
                     const position =  (cur_idx > len) ? d[1][len].position : d[1][cur_idx].position;   
@@ -308,7 +311,7 @@ function makeRanking(latest_season) {
                         .duration(1000)
                         .style("opacity", "1")
                         .attr("transform", function(d) { 
-                        len = d[1].length -1 ;
+                        let len = d[1].length -1 ;
                         let offset = window.innerWidth > mobile_width ? 30 : 48;
                         return "translate(" + (x(d[1][len].Date) + offset) + "," + y(d[1][len].position) + ")"; })
                         ;
@@ -346,6 +349,7 @@ function makeRanking(latest_season) {
                     d3.select("#line_" + team)
                     .style('stroke', z(team_last_position[team]))
                     .classed("selected", true)
+                    .call(bringToFront)
                     ;
 
                     d3.select("#team_text_" + team)

@@ -22,9 +22,17 @@
 .tooltip p{
     margin: 0;
     font-family: Verdana, sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     color: white;
     line-height: 17px;
+    padding: 1px 15px 1px 15px;
+    letter-spacing: 1.25px;
+}
+
+.tooltip hr {
+    height:1px;
+    margin-bottom: 1px;
+    border-width:0;
 }
 
 #tooltip_f1 .ttp_1{
@@ -36,15 +44,32 @@
 }
 
 #tooltip_f1 .ttp_2 span{
-    font-size: 12px;
+    font-size: 14px;
 }
 
 #tooltip_f1 hr {
-  height:1px;
-  margin-bottom: 0px;
-  border-width:0;
   background-color:#eaecee;
   color:#eaecee;
+}
+
+#tooltip_f2 .ttp_header {
+    font-size: 16px;
+    line-height: 18px;
+}
+
+#tooltip_f2 .ttp_body {
+    font-size: 14px;
+    line-height: 16px;
+}
+
+#tooltip_f2 span{
+    font-size: 12px;
+    color: LightGray;
+}
+
+#tooltip_f2 hr {
+    background-color:gray;
+    color:gray;
 }
 
 @media only screen and (min-width: 1500px) {
@@ -64,6 +89,8 @@
     .tooltip p{
         font-size: 13px;
         line-height: 13px;
+        padding: 1px 3px 1px 3px;
+        letter-spacing: normal;
     }
   
     #tooltip_f1 .ttp_2 span{

@@ -1,5 +1,6 @@
 #dropdown_container {
     margin-left: 60px;
+    margin-bottom: 8px;
     width: 78%;
 }
 
@@ -89,6 +90,10 @@
 }
 
 @media only screen and (max-width: 620px) {
+
+    #f1_container{
+        margin-top: 10px;
+    }
 
     .line_thin {
         stroke-width: 3px;

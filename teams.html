@@ -1,22 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z3GSVNGHVM"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z3GSVNGHVM"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
 
-        gtag('config', 'G-Z3GSVNGHVM');
-    </script>
+            gtag('config', 'G-Z3GSVNGHVM');
+        </script>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Teams - Premier League</title>
         <script type="text/javascript" src="https://d3js.org/d3.v7.min.js"></script>
         <script type="text/javascript" src="javascript/menu.js"></script>
         <script type="text/javascript" src="javascript/dropdown.js"></script>
-        <script type="text/javascript" src="javascript/teams.js"></script>
         <script type="text/javascript" src="javascript/get_last_date.js"></script>
 
         <link rel="stylesheet" type="text/css" href="css/menu.css">
@@ -41,72 +40,48 @@
             <li><a class="menu_li" id="menu_history" href="history.html">History</a></li>
         </ul>
 
-        <div id="dropdown_container" class="column_container">
-            <div class="dropdown_title column" id="dropdown_season_title">Season:</div>
-            <div class="dropdown notouch column" id="dropdown_season">
-                <button onclick="showDrop('dropdown_content_season')" class="dropbtn" id="dropbtn_season">
-                    2023-2024
-                    <i class="fa fa-caret-down test"></i>
-                </button>
-                <ul id="dropdown_content_season" class="dropdown_content">
-                    <li class="dropdown_content_li" id="dropdown_2022_2023">2023-2024</li>
-                    <li class="dropdown_content_li" id="dropdown_2022_2023">2022-2023</li>
-                    <li class="dropdown_content_li" id="dropdown_2021_2022">2021-2022</li>
-                    <li class="dropdown_content_li" id="dropdown_2020_2021">2020-2021</li>
-                    <li class="dropdown_content_li" id="dropdown_2019_2020">2019-2020</li>
-                    <li class="dropdown_content_li" id="dropdown_2018_2019">2018-2019</li>
-                    <li class="dropdown_content_li" id="dropdown_2017_2018">2017-2018</li>
-                </ul>
-            </div>
-            <div class="dropdown_title column" id="dropdown_team_title">Team:</div>
-            <div class="dropdown notouch column" id="dropdown_team">
-                <button onclick="showDrop('dropdown_content_team')" class="dropbtn" id="dropbtn_team">
-                    <i class="fa fa-caret-down test"></i>
-                </button>
-                <ul id="dropdown_content_team" class="dropdown_content">
-                </ul>
-            </div>
-            <div id="updated_date" class="updated_date"></div>
+        <div id="tooltip_f2" class="tooltip hidden">
+            <p class="ttp_header" id="ttp_1" style="text-align:center;"></p>
+            <hr>
+            <p class="ttp_body" id="ttp_2"></p>
+            <p class="ttp_body" id="ttp_3"></p>
+            <p class="ttp_body" id="ttp_4"></p>
         </div>
 
         <div class="fg_container" id="f2_container">
-            <div id="scores_title" class="fg_title_bar">Goals For & Goals Against</div>
-            <div id="bars_container"></div>
-        </div>
 
-        <div id="tooltip_bars" class="tooltip hidden">
-            <p id="ttp_1" style="text-align:center;"></p>
-            <hr>
-            <p id="ttp_2" style="text-align:center;"></p>
-        </div>
-
-        <div class="fg_container column_container" id="f3_container">
-            <div>
-                <div id="radar_title" class="fg_title_bar">Team Performance</div>
-            </div>
-            <div class="dropdowns">
-                <div class="dropdown notouch column right" id="dropdown_vsteam">
-                    <button onclick="showDrop('dropdown_content_vsteam')" class="dropbtn" id="dropbtn_vsteam">Team to be compared
-                        <i class="fa fa-caret-down"></i>
-                    </button>
-                    <ul id="dropdown_content_vsteam" class="dropdown_content">
-                    </ul>
+            <div id="dropdown_date_container" class="flex_container">
+                <div id="dropdown_container" class="flex_container">
+                    <div id="dropdown_season_container" class="flex_container">
+                        <div class="dropdown_title" id="dropdown_season_title">Season:</div>
+                        <div class="dropdown notouch" id="dropdown_season">
+                            <button onclick="showDrop('dropdown_content_season')" class="dropbtn" id="dropbtn_season">
+                            </button>
+                            <ul id="dropdown_content_season" class="dropdown_content">
+                            </ul>
+                        </div>
+                    </div>
+                    <div id="dropdown_team_container" class="flex_container">
+                        <div class="dropdown_title" id="dropdown_team_title">Team:</div>
+                        <div class="dropdown notouch" id="dropdown_team">
+                            <button onclick="showDrop('dropdown_content_team')" class="dropbtn" id="dropbtn_team">
+                            </button>
+                            <ul id="dropdown_content_team" class="dropdown_content">
+                            </ul>
+                        </div>
+                    </div>
                 </div>
+                <div id="updated_date" class="updated_date"></div>
             </div>
-
-            <div class="column radar_left" id="radar_container"></div>
-            <div class="column radar_right" id="team_name_container"></div>
+        
+            <div class="f2" id="teams_container"></div>
         </div>
 
-        <div id="tooltip_radar" class="tooltip hidden">
-            <p id="ttp_1" style="text-align:center;"></p>
-            <hr>
-            <p id="ttp_2" style="text-align:left;"></p>
-        </div>
+        <script type="module">
+            import { drawTeams } from './javascript/teams.js';
 
-        <script>
             getLastDate();
-            makeTeamsCharts("2023_2024");
+            drawTeams();
             AddDropdownClickEvent();    
         </script>
 
