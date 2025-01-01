@@ -1,41 +1,71 @@
 Date,HomeTeam,AwayTeam,FTHG,FTAG,HomeTeamRank,HomeTeamPosition,HomeTeamCumPts,AwayTeamRank,AwayTeamPosition,AwayTeamCumPts
-2024-12-15,Southampton,Tottenham,0,5,20.0,20,5.0,10.0,10,23.0
+2024-12-30,Man United,Newcastle,0,2,14.0,14,22.0,5.0,5,32.0
+2024-12-30,Ipswich,Chelsea,2,0,18.0,18,15.0,4.0,4,35.0
+2024-12-30,Aston Villa,Brighton,2,2,9.0,9,29.0,10.0,10,27.0
+2024-12-29,West Ham,Liverpool,0,5,13.0,13,23.0,1.0,1,45.0
+2024-12-29,Tottenham,Wolves,2,2,11.0,11,24.0,17.0,17,16.0
+2024-12-29,Fulham,Bournemouth,2,2,8.0,8,29.0,6.0,6,30.0
+2024-12-29,Everton,Nottm Forest,0,2,16.0,16,17.0,2.0,2,37.0
+2024-12-29,Crystal Palace,Southampton,2,1,15.0,15,20.0,20.0,20,6.0
+2024-12-29,Leicester,Man City,0,2,18.0,18,14.0,5.0,5,31.0
+2024-12-27,Brighton,Brentford,0,0,10.0,10,26.0,11.0,11,24.0
+2024-12-27,Arsenal,Ipswich,1,0,2.0,2,36.0,19.0,19,12.0
+2024-12-26,Liverpool,Leicester,3,1,1.0,1,42.0,18.0,18,14.0
+2024-12-26,Wolves,Man United,2,0,17.0,17,15.0,14.0,14,22.0
+2024-12-26,Southampton,West Ham,0,1,20.0,20,6.0,13.0,13,23.0
+2024-12-26,Nottm Forest,Tottenham,1,0,3.0,3,34.0,11.0,11,23.0
+2024-12-26,Newcastle,Aston Villa,3,0,5.0,5,29.0,9.0,9,28.0
+2024-12-26,Chelsea,Fulham,1,2,2.0,2,35.0,8.0,8,28.0
+2024-12-26,Bournemouth,Crystal Palace,0,0,6.0,6,29.0,16.0,16,17.0
+2024-12-26,Man City,Everton,1,1,7.0,7,28.0,15.0,15,17.0
+2024-12-22,Leicester,Wolves,0,3,17.0,17,14.0,18.0,18,12.0
+2024-12-22,Everton,Chelsea,0,0,15.0,15,16.0,2.0,2,35.0
+2024-12-22,Fulham,Southampton,0,0,9.0,9,25.0,20.0,20,6.0
+2024-12-22,Man United,Bournemouth,0,3,13.0,13,22.0,5.0,5,28.0
+2024-12-22,Tottenham,Liverpool,3,6,11.0,11,23.0,1.0,1,39.0
+2024-12-21,Crystal Palace,Arsenal,1,5,15.0,15,16.0,3.0,3,33.0
+2024-12-21,West Ham,Brighton,1,1,14.0,14,20.0,9.0,9,25.0
+2024-12-21,Ipswich,Newcastle,0,4,18.0,18,12.0,7.0,7,26.0
+2024-12-21,Brentford,Nottm Forest,0,2,12.0,12,23.0,4.0,4,31.0
+2024-12-21,Aston Villa,Man City,2,1,5.0,5,28.0,6.0,6,27.0
+2024-12-16,Bournemouth,West Ham,1,1,6.0,6,25.0,14.0,14,19.0
 2024-12-15,Chelsea,Brentford,2,1,2.0,2,34.0,11.0,11,23.0
 2024-12-15,Man City,Man United,1,2,5.0,5,27.0,13.0,13,22.0
 2024-12-15,Brighton,Crystal Palace,1,3,9.0,9,24.0,15.0,15,16.0
+2024-12-15,Southampton,Tottenham,0,5,20.0,20,5.0,10.0,10,23.0
+2024-12-14,Nottm Forest,Aston Villa,2,1,4.0,4,28.0,6.0,6,25.0
+2024-12-14,Wolves,Ipswich,1,2,19.0,19,9.0,18.0,18,12.0
 2024-12-14,Newcastle,Leicester,4,0,11.0,11,23.0,16.0,16,14.0
 2024-12-14,Liverpool,Fulham,2,2,1.0,1,36.0,9.0,9,24.0
 2024-12-14,Arsenal,Everton,0,0,3.0,3,30.0,15.0,15,15.0
-2024-12-14,Wolves,Ipswich,1,2,19.0,19,9.0,18.0,18,12.0
-2024-12-14,Nottm Forest,Aston Villa,2,1,4.0,4,28.0,6.0,6,25.0
 2024-12-09,West Ham,Wolves,2,1,14.0,14,18.0,19.0,19,9.0
 2024-12-08,Tottenham,Chelsea,3,4,11.0,11,20.0,2.0,2,31.0
 2024-12-08,Leicester,Brighton,2,2,16.0,16,14.0,7.0,7,24.0
 2024-12-08,Ipswich,Bournemouth,1,2,18.0,18,9.0,8.0,8,24.0
 2024-12-08,Fulham,Arsenal,1,1,10.0,10,23.0,3.0,3,29.0
-2024-12-07,Man United,Nottm Forest,2,3,13.0,13,19.0,5.0,5,25.0
-2024-12-07,Crystal Palace,Man City,2,2,16.0,16,13.0,4.0,4,27.0
 2024-12-07,Brentford,Newcastle,4,2,7.0,7,23.0,12.0,12,20.0
 2024-12-07,Aston Villa,Southampton,1,0,6.0,6,25.0,20.0,20,5.0
-2024-12-05,Fulham,Brighton,3,1,6.0,6,22.0,5.0,5,23.0
+2024-12-07,Crystal Palace,Man City,2,2,16.0,16,13.0,4.0,4,27.0
+2024-12-07,Man United,Nottm Forest,2,3,13.0,13,19.0,5.0,5,25.0
 2024-12-05,Bournemouth,Tottenham,1,0,9.0,9,21.0,10.0,10,20.0
+2024-12-05,Fulham,Brighton,3,1,6.0,6,22.0,5.0,5,23.0
+2024-12-04,Aston Villa,Brentford,3,1,7.0,7,22.0,9.0,9,20.0
 2024-12-04,Arsenal,Man United,2,0,3.0,3,28.0,11.0,11,19.0
 2024-12-04,Southampton,Chelsea,1,5,20.0,20,5.0,2.0,2,28.0
 2024-12-04,Newcastle,Liverpool,3,3,10.0,10,20.0,1.0,1,35.0
 2024-12-04,Man City,Nottm Forest,3,0,4.0,4,26.0,6.0,6,22.0
 2024-12-04,Everton,Wolves,4,0,15.0,15,14.0,19.0,19,9.0
-2024-12-04,Aston Villa,Brentford,3,1,7.0,7,22.0,9.0,9,20.0
-2024-12-03,Leicester,West Ham,3,1,15.0,15,13.0,14.0,14,15.0
 2024-12-03,Ipswich,Crystal Palace,0,1,19.0,19,9.0,16.0,16,12.0
+2024-12-03,Leicester,West Ham,3,1,15.0,15,13.0,14.0,14,15.0
 2024-12-01,Liverpool,Man City,2,0,1.0,1,34.0,5.0,5,23.0
 2024-12-01,Tottenham,Fulham,1,1,7.0,7,20.0,10.0,10,19.0
 2024-12-01,Man United,Everton,4,0,9.0,9,19.0,15.0,15,11.0
 2024-12-01,Chelsea,Aston Villa,3,0,2.0,3,25.0,12.0,12,19.0
+2024-11-30,West Ham,Arsenal,2,5,14.0,14,15.0,2.0,2,25.0
+2024-11-30,Wolves,Bournemouth,2,4,18.0,18,9.0,11.0,11,18.0
 2024-11-30,Nottm Forest,Ipswich,1,0,6.0,6,22.0,19.0,19,9.0
 2024-11-30,Crystal Palace,Newcastle,1,1,17.0,17,9.0,10.0,10,19.0
 2024-11-30,Brentford,Leicester,4,1,7.0,7,20.0,16.0,16,10.0
-2024-11-30,Wolves,Bournemouth,2,4,18.0,18,9.0,11.0,11,18.0
-2024-11-30,West Ham,Arsenal,2,5,14.0,14,15.0,2.0,2,25.0
 2024-11-29,Brighton,Southampton,1,1,2.0,2,23.0,20.0,20,5.0
 2024-11-25,Newcastle,West Ham,0,2,10.0,10,18.0,14.0,14,15.0
 2024-11-24,Southampton,Liverpool,2,3,20.0,20,4.0,1.0,1,31.0
@@ -47,30 +77,30 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,HomeTeamRank,HomeTeamPosition,HomeTeamCumPts,Aw
 2024-11-23,Aston Villa,Crystal Palace,2,2,8.0,8,19.0,18.0,18,8.0
 2024-11-23,Arsenal,Nottm Forest,3,0,4.0,4,22.0,7.0,7,19.0
 2024-11-23,Leicester,Chelsea,1,2,16.0,16,10.0,3.0,3,22.0
-2024-11-10,Chelsea,Arsenal,1,1,3.0,3,19.0,4.0,4,19.0
-2024-11-10,Tottenham,Ipswich,1,2,10.0,10,16.0,17.0,17,8.0
 2024-11-10,Nottm Forest,Newcastle,1,3,5.0,5,19.0,8.0,8,18.0
 2024-11-10,Man United,Leicester,3,0,13.0,13,15.0,15.0,15,10.0
-2024-11-09,Brentford,Bournemouth,3,2,10.0,10,16.0,11.0,11,15.0
-2024-11-09,Wolves,Southampton,2,0,18.0,18,6.0,20.0,20,4.0
-2024-11-09,Crystal Palace,Fulham,0,2,17.0,17,7.0,7.0,7,18.0
-2024-11-09,West Ham,Everton,0,0,14.0,14,12.0,16.0,16,10.0
+2024-11-10,Tottenham,Ipswich,1,2,10.0,10,16.0,17.0,17,8.0
+2024-11-10,Chelsea,Arsenal,1,1,3.0,3,19.0,4.0,4,19.0
 2024-11-09,Liverpool,Aston Villa,2,0,1.0,1,28.0,8.0,8,18.0
 2024-11-09,Brighton,Man City,2,1,4.0,4,19.0,2.0,2,23.0
+2024-11-09,Wolves,Southampton,2,0,18.0,18,6.0,20.0,20,4.0
+2024-11-09,West Ham,Everton,0,0,14.0,14,12.0,16.0,16,10.0
+2024-11-09,Crystal Palace,Fulham,0,2,17.0,17,7.0,7.0,7,18.0
+2024-11-09,Brentford,Bournemouth,3,2,10.0,10,16.0,11.0,11,15.0
 2024-11-04,Fulham,Brentford,2,1,9.0,9,15.0,12.0,12,13.0
-2024-11-03,Man United,Chelsea,1,1,13.0,13,12.0,4.0,4,18.0
 2024-11-03,Tottenham,Aston Villa,4,1,7.0,7,16.0,6.0,6,18.0
-2024-11-02,Liverpool,Brighton,2,1,1.0,1,25.0,7.0,7,16.0
-2024-11-02,Wolves,Crystal Palace,2,2,20.0,20,3.0,17.0,17,7.0
+2024-11-03,Man United,Chelsea,1,1,13.0,13,12.0,4.0,4,18.0
 2024-11-02,Southampton,Everton,1,0,19.0,19,4.0,16.0,16,9.0
+2024-11-02,Wolves,Crystal Palace,2,2,20.0,20,3.0,17.0,17,7.0
 2024-11-02,Nottm Forest,West Ham,3,0,3.0,3,19.0,14.0,14,11.0
+2024-11-02,Liverpool,Brighton,2,1,1.0,1,25.0,7.0,7,16.0
 2024-11-02,Ipswich,Leicester,1,1,18.0,18,5.0,15.0,15,10.0
 2024-11-02,Bournemouth,Man City,2,1,8.0,8,15.0,2.0,2,23.0
 2024-11-02,Newcastle,Arsenal,1,0,9.0,9,15.0,4.0,4,18.0
-2024-10-27,Chelsea,Newcastle,2,1,5.0,5,17.0,12.0,12,12.0
 2024-10-27,Arsenal,Liverpool,2,2,3.0,3,18.0,2.0,2,22.0
 2024-10-27,West Ham,Man United,2,1,13.0,13,11.0,14.0,14,11.0
 2024-10-27,Crystal Palace,Tottenham,1,0,17.0,17,6.0,8.0,8,13.0
+2024-10-27,Chelsea,Newcastle,2,1,5.0,5,17.0,12.0,12,12.0
 2024-10-26,Brighton,Wolves,2,2,5.0,5,16.0,19.0,19,2.0
 2024-10-26,Brentford,Ipswich,4,3,9.0,9,13.0,17.0,17,4.0
 2024-10-26,Aston Villa,Bournemouth,1,1,3.0,3,18.0,11.0,11,12.0
@@ -84,45 +114,45 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,HomeTeamRank,HomeTeamPosition,HomeTeamCumPts,Aw
 2024-10-19,Southampton,Leicester,2,3,20.0,20,1.0,14.0,14,9.0
 2024-10-19,Newcastle,Brighton,0,1,8.0,8,12.0,5.0,5,15.0
 2024-10-19,Man United,Brentford,2,1,11.0,11,11.0,13.0,13,10.0
-2024-10-19,Ipswich,Everton,0,2,17.0,17,4.0,16.0,16,8.0
 2024-10-19,Fulham,Aston Villa,1,3,9.0,9,11.0,4.0,4,17.0
 2024-10-19,Tottenham,West Ham,4,1,7.0,7,13.0,15.0,15,8.0
-2024-10-06,Brighton,Tottenham,3,2,6.0,6,12.0,9.0,9,10.0
+2024-10-19,Ipswich,Everton,0,2,17.0,17,4.0,16.0,16,8.0
 2024-10-06,Chelsea,Nottm Forest,1,1,4.0,4,14.0,10.0,10,10.0
 2024-10-06,Aston Villa,Man United,0,0,5.0,5,14.0,14.0,14,8.0
-2024-10-05,Brentford,Wolves,5,3,9.0,9,10.0,20.0,20,1.0
-2024-10-05,Crystal Palace,Liverpool,0,1,18.0,18,3.0,1.0,1,18.0
-2024-10-05,Arsenal,Southampton,3,1,3.0,3,17.0,19.0,19,1.0
-2024-10-05,Leicester,Bournemouth,1,0,15.0,15,6.0,13.0,13,8.0
-2024-10-05,Man City,Fulham,3,2,2.0,2,17.0,7.0,7,11.0
+2024-10-06,Brighton,Tottenham,3,2,6.0,6,12.0,9.0,9,10.0
 2024-10-05,West Ham,Ipswich,4,1,12.0,12,8.0,17.0,17,4.0
+2024-10-05,Man City,Fulham,3,2,2.0,2,17.0,7.0,7,11.0
+2024-10-05,Leicester,Bournemouth,1,0,15.0,15,6.0,13.0,13,8.0
+2024-10-05,Brentford,Wolves,5,3,9.0,9,10.0,20.0,20,1.0
+2024-10-05,Arsenal,Southampton,3,1,3.0,3,17.0,19.0,19,1.0
+2024-10-05,Crystal Palace,Liverpool,0,1,18.0,18,3.0,1.0,1,18.0
 2024-10-05,Everton,Newcastle,0,0,16.0,16,5.0,6.0,6,12.0
 2024-09-30,Bournemouth,Southampton,3,1,11.0,11,8.0,19.0,19,1.0
 2024-09-29,Man United,Tottenham,0,3,12.0,12,7.0,8.0,8,10.0
 2024-09-29,Ipswich,Aston Villa,2,2,15.0,15,4.0,5.0,5,13.0
-2024-09-28,Wolves,Liverpool,1,2,20.0,20,1.0,1.0,1,15.0
-2024-09-28,Nottm Forest,Fulham,0,1,9.0,9,9.0,6.0,6,11.0
-2024-09-28,Everton,Crystal Palace,2,1,15.0,15,4.0,17.0,17,3.0
 2024-09-28,Chelsea,Brighton,4,2,4.0,4,13.0,8.0,8,9.0
-2024-09-28,Brentford,West Ham,1,1,12.0,12,7.0,14.0,14,5.0
 2024-09-28,Arsenal,Leicester,4,2,3.0,3,14.0,16.0,16,3.0
+2024-09-28,Brentford,West Ham,1,1,12.0,12,7.0,14.0,14,5.0
 2024-09-28,Newcastle,Man City,1,1,7.0,7,11.0,2.0,2,14.0
-2024-09-22,Man City,Arsenal,2,2,1.0,1,13.0,4.0,4,11.0
+2024-09-28,Everton,Crystal Palace,2,1,15.0,15,4.0,17.0,17,3.0
+2024-09-28,Nottm Forest,Fulham,0,1,9.0,9,9.0,6.0,6,11.0
+2024-09-28,Wolves,Liverpool,1,2,20.0,20,1.0,1.0,1,15.0
 2024-09-22,Brighton,Nottm Forest,2,2,7.0,7,9.0,8.0,8,9.0
-2024-09-21,Aston Villa,Wolves,3,1,3.0,3,12.0,19.0,20,1.0
+2024-09-22,Man City,Arsenal,2,2,1.0,1,13.0,4.0,4,11.0
 2024-09-21,West Ham,Chelsea,0,3,14.0,14,4.0,4.0,4,10.0
-2024-09-21,Liverpool,Bournemouth,3,0,1.0,1,12.0,13.0,13,5.0
 2024-09-21,Leicester,Everton,1,1,15.0,15,3.0,19.0,19,1.0
+2024-09-21,Aston Villa,Wolves,3,1,3.0,3,12.0,19.0,20,1.0
 2024-09-21,Fulham,Newcastle,3,1,8.0,8,8.0,6.0,6,10.0
-2024-09-21,Southampton,Ipswich,1,1,18.0,18,1.0,17.0,17,3.0
-2024-09-21,Tottenham,Brentford,3,1,10.0,10,7.0,12.0,12,6.0
 2024-09-21,Crystal Palace,Man United,0,0,16.0,16,3.0,11.0,11,7.0
-2024-09-15,Wolves,Newcastle,1,2,18.0,18,1.0,3.0,3,10.0
+2024-09-21,Liverpool,Bournemouth,3,0,1.0,1,12.0,13.0,13,5.0
+2024-09-21,Tottenham,Brentford,3,1,10.0,10,7.0,12.0,12,6.0
+2024-09-21,Southampton,Ipswich,1,1,18.0,18,1.0,17.0,17,3.0
 2024-09-15,Tottenham,Arsenal,0,1,13.0,13,4.0,2.0,2,10.0
+2024-09-15,Wolves,Newcastle,1,2,18.0,18,1.0,3.0,3,10.0
+2024-09-14,Crystal Palace,Leicester,2,2,16.0,16,2.0,15.0,15,2.0
 2024-09-14,Liverpool,Nottm Forest,0,1,2.0,2,9.0,5.0,5,8.0
 2024-09-14,Southampton,Man United,0,3,19.0,19,0.0,10.0,10,6.0
 2024-09-14,Brighton,Ipswich,0,0,4.0,4,8.0,17.0,17,2.0
-2024-09-14,Crystal Palace,Leicester,2,2,16.0,16,2.0,15.0,15,2.0
 2024-09-14,Fulham,West Ham,1,1,12.0,12,5.0,14.0,14,4.0
 2024-09-14,Man City,Brentford,2,1,1.0,1,12.0,9.0,9,6.0
 2024-09-14,Aston Villa,Everton,3,2,3.0,3,9.0,20.0,20,0.0
@@ -131,27 +161,27 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,HomeTeamRank,HomeTeamPosition,HomeTeamCumPts,Aw
 2024-09-01,Newcastle,Tottenham,2,1,5.0,5,7.0,10.0,10,4.0
 2024-09-01,Chelsea,Crystal Palace,1,1,11.0,11,4.0,16.0,16,1.0
 2024-08-31,Ipswich,Fulham,1,1,16.0,16,1.0,11.0,11,4.0
-2024-08-31,Arsenal,Brighton,1,1,3.0,3,7.0,2.0,2,7.0
 2024-08-31,Brentford,Southampton,3,1,5.0,5,6.0,19.0,19,0.0
 2024-08-31,Everton,Bournemouth,2,3,20.0,20,0.0,7.0,7,5.0
+2024-08-31,Arsenal,Brighton,1,1,3.0,3,7.0,2.0,2,7.0
 2024-08-31,Leicester,Aston Villa,1,2,15.0,15,1.0,6.0,6,6.0
-2024-08-31,West Ham,Man City,1,3,14.0,14,3.0,1.0,1,9.0
 2024-08-31,Nottm Forest,Wolves,1,1,8.0,8,5.0,17.0,17,1.0
+2024-08-31,West Ham,Man City,1,3,14.0,14,3.0,1.0,1,9.0
 2024-08-25,Liverpool,Brentford,2,0,3.0,4,6.0,12.0,13,3.0
 2024-08-25,Wolves,Chelsea,2,6,19.0,19,0.0,8.0,8,3.0
 2024-08-25,Bournemouth,Newcastle,1,1,14.0,14,2.0,6.0,6,4.0
-2024-08-24,Man City,Ipswich,4,1,1.0,1,6.0,19.0,19,0.0
-2024-08-24,Aston Villa,Arsenal,0,2,12.0,12,3.0,3.0,3,6.0
-2024-08-24,Tottenham,Everton,4,0,4.0,4,4.0,20.0,20,0.0
-2024-08-24,Southampton,Nottm Forest,0,1,15.0,16,0.0,5.0,5,4.0
-2024-08-24,Fulham,Leicester,2,1,10.0,10,3.0,14.0,14,1.0
-2024-08-24,Crystal Palace,West Ham,0,2,18.0,18,0.0,7.0,7,3.0
 2024-08-24,Brighton,Man United,2,1,2.0,2,6.0,10.0,11,3.0
+2024-08-24,Crystal Palace,West Ham,0,2,18.0,18,0.0,7.0,7,3.0
+2024-08-24,Fulham,Leicester,2,1,10.0,10,3.0,14.0,14,1.0
+2024-08-24,Man City,Ipswich,4,1,1.0,1,6.0,19.0,19,0.0
+2024-08-24,Southampton,Nottm Forest,0,1,15.0,16,0.0,5.0,5,4.0
+2024-08-24,Tottenham,Everton,4,0,4.0,4,4.0,20.0,20,0.0
+2024-08-24,Aston Villa,Arsenal,0,2,12.0,12,3.0,3.0,3,6.0
 2024-08-19,Leicester,Tottenham,1,1,9.0,10,1.0,9.0,12,1.0
 2024-08-18,Chelsea,Man City,0,2,17.0,17,0.0,2.0,4,3.0
 2024-08-18,Brentford,Crystal Palace,2,1,5.0,6,3.0,13.0,13,0.0
-2024-08-17,Arsenal,Wolves,2,0,2.0,2,3.0,18.0,19,0.0
 2024-08-17,Newcastle,Southampton,1,0,5.0,6,3.0,16.0,17,0.0
+2024-08-17,Arsenal,Wolves,2,0,2.0,2,3.0,18.0,19,0.0
 2024-08-17,Everton,Brighton,0,3,20.0,20,0.0,1.0,1,3.0
 2024-08-17,Ipswich,Liverpool,0,2,18.0,18,0.0,2.0,3,3.0
 2024-08-17,Nottm Forest,Bournemouth,1,1,7.0,8,1.0,7.0,7,1.0
