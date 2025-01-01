@@ -377,7 +377,7 @@ function mouseDotsSelect(d, event, isSeason){
     .style("left", leftPos + "px")
     .style("top", topPos + "px")
     .select("#ttp_1")
-    .html(isSeason ? d.Team + " " + d.season
+    .html(isSeason ? d.Team
         : d.season.slice(0, 4) + "-" + d.season.slice(5, 9));
 
     d3.select("#tooltip_f2")
