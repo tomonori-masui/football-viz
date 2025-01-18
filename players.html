@@ -19,6 +19,7 @@
 
   <link rel="stylesheet" type="text/css" href="css/menu.css">
   <link rel="stylesheet" type="text/css" href="css/common.css">
+  <link rel="stylesheet" type="text/css" href="css/players.css">
 
 </head>
 <body>
@@ -32,7 +33,16 @@
     <li><a class="menu_li" id="menu_history" href="history.html">History</a></li>
   </ul>
 
-  <div class="coming_soon">Coming soon..</div>
+  <div class="fg_container" id="f3_container">
+    <div class="f3" id="players_container"></div>
+  </div>
+
+  <script type="module">
+    import { drawPlayers } from './javascript/players.js';
+
+    // getLastDate();
+    drawPlayers();
+  </script>
 
 </body>
 </html>
