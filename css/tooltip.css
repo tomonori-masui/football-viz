@@ -57,7 +57,7 @@
     line-height: 18px;
 }
 
-#tooltip_f2 .ttp_body {
+#tooltip_f2 .ttp_body, #tooltip_f3 p{
     font-size: 14px;
     line-height: 16px;
 }
@@ -67,7 +67,7 @@
     color: LightGray;
 }
 
-#tooltip_f2 hr {
+#tooltip_f2 hr, #tooltip_f3 hr {
     background-color:gray;
     color:gray;
 }

@@ -16,11 +16,18 @@
 
   <script type="text/javascript" src="https://d3js.org/d3.v7.min.js"></script>
   <script type="text/javascript" src="javascript/menu.js"></script>
+  <script type="text/javascript" src="javascript/dropdown.js"></script>
+  <script type="text/javascript" src="javascript/get_last_date.js"></script>
 
   <link rel="stylesheet" type="text/css" href="css/menu.css">
   <link rel="stylesheet" type="text/css" href="css/common.css">
   <link rel="stylesheet" type="text/css" href="css/players.css">
+  <link rel="stylesheet" type="text/css" href="css/tooltip.css">
+  <link rel="stylesheet" type="text/css" href="css/dropdown.css">
+  <link rel="stylesheet" type="text/css" href="css/players.css">
 
+  <!-- Need this to add caret arrow icon on dropdown -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
 
@@ -33,7 +40,30 @@
     <li><a class="menu_li" id="menu_history" href="history.html">History</a></li>
   </ul>
 
+  <div id="tooltip_f3" class="tooltip hidden">
+    <p id="ttp_1" style="text-align:center;"></p>
+    <hr>
+    <p id="ttp_2"></p>
+    <p id="ttp_3"></p>
+  </div>
+
   <div class="fg_container" id="f3_container">
+    <div id="dropdown_container" class="flex_container">
+      <div id="dropdown_players_container" class="flex_container">
+        <div class="dropdown_title" id="dropdown_players_title">Stats:</div>
+        <div class="dropdown notouch" id="dropdown_players">
+          <button onclick="showDrop('dropdown_content_players')" class="dropbtn" id="dropbtn_players">
+              <span class="left">Goals</span>
+              <i class="fa fa-caret-down right"></i>
+          </button>
+          <ul id="dropdown_content_players" class="dropdown_content">
+            <li class="dropdown_content_li" id="dropdown_goals">Goals</li>
+            <li class="dropdown_content_li" id="dropdown_assists">Assists</li>
+          </ul>
+        </div>
+      </div>
+      <div id="updated_date" class="updated_date"></div>
+    </div>
     <div class="f3" id="players_container"></div>
   </div>
 
@@ -42,6 +72,7 @@
 
     // getLastDate();
     drawPlayers();
+    AddDropdownClickEvent();
   </script>
 
 </body>
