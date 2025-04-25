@@ -1,0 +1,2521 @@
+date,player_team,value,rank,player,team
+2020-09-12,andrewrobertson_liverpool,1.0,1.0,Andrew Robertson,Liverpool
+2020-09-12,aaroncresswell_westham,0.0,2.0,Aaron Cresswell,West Ham
+2020-09-12,bernardosilva_manchestercity,0.0,3.0,Bernardo Silva,Manchester City
+2020-09-12,bertrandtraore_astonvilla,0.0,4.0,Bertrand Traore,Aston Villa
+2020-09-12,brunofernandes_manchesterutd,0.0,5.0,Bruno Fernandes,Manchester Utd
+2020-09-12,eberechieze_crystalpalace,0.0,6.0,Eberechi Eze,Crystal Palace
+2020-09-12,harrykane_tottenham,0.0,7.0,Harry Kane,Tottenham
+2020-09-12,jackgrealish_astonvilla,0.0,8.0,Jack Grealish,Aston Villa
+2020-09-12,jackharrison_leedsunited,0.0,9.0,Jack Harrison,Leeds United
+2020-09-12,jameswardprowse_southampton,0.0,10.0,James Ward-Prowse,Southampton
+2020-09-12,jamievardy_leicestercity,0.0,11.0,Jamie Vardy,Leicester City
+2020-09-12,kevindebruyne_manchestercity,0.0,12.0,Kevin De Bruyne,Manchester City
+2020-09-12,lucasdigne_everton,0.0,13.0,Lucas Digne,Everton
+2020-09-12,marcusrashford_manchesterutd,0.0,14.0,Marcus Rashford,Manchester Utd
+2020-09-12,matheuspereira_westbrom,0.0,15.0,Matheus Pereira,West Brom
+2020-09-12,pascalgross_brighton,0.0,16.0,Pascal Gross,Brighton
+2020-09-12,patrickbamford_leedsunited,0.0,17.0,Patrick Bamford,Leeds United
+2020-09-12,pedroneto_wolves,0.0,18.0,Pedro Neto,Wolves
+2020-09-12,raheemsterling_manchestercity,0.0,19.0,Raheem Sterling,Manchester City
+2020-09-12,raphinha_leedsunited,0.0,20.0,Raphinha,Leeds United
+2020-09-12,riyadmahrez_manchestercity,0.0,21.0,Riyad Mahrez,Manchester City
+2020-09-12,robertofirmino_liverpool,0.0,22.0,Roberto Firmino,Liverpool
+2020-09-12,sadiomane_liverpool,0.0,23.0,Sadio Mane,Liverpool
+2020-09-12,saidbenrahma_westham,0.0,24.0,Said Benrahma,West Ham
+2020-09-12,sonheungmin_tottenham,0.0,25.0,Son Heung-min,Tottenham
+2020-09-12,timowerner_chelsea,0.0,26.0,Timo Werner,Chelsea
+2020-09-12,trentalexanderarnold_liverpool,0.0,27.0,Trent Alexander-Arnold,Liverpool
+2020-09-12,vladimircoufal_westham,0.0,28.0,Vladimir Coufal,West Ham
+2020-09-13,andrewrobertson_liverpool,1.0,1.0,Andrew Robertson,Liverpool
+2020-09-13,lucasdigne_everton,1.0,2.0,Lucas Digne,Everton
+2020-09-13,aaroncresswell_westham,0.0,3.0,Aaron Cresswell,West Ham
+2020-09-13,bernardosilva_manchestercity,0.0,4.0,Bernardo Silva,Manchester City
+2020-09-13,bertrandtraore_astonvilla,0.0,5.0,Bertrand Traore,Aston Villa
+2020-09-13,brunofernandes_manchesterutd,0.0,6.0,Bruno Fernandes,Manchester Utd
+2020-09-13,eberechieze_crystalpalace,0.0,7.0,Eberechi Eze,Crystal Palace
+2020-09-13,harrykane_tottenham,0.0,8.0,Harry Kane,Tottenham
+2020-09-13,jackgrealish_astonvilla,0.0,9.0,Jack Grealish,Aston Villa
+2020-09-13,jackharrison_leedsunited,0.0,10.0,Jack Harrison,Leeds United
+2020-09-13,jameswardprowse_southampton,0.0,11.0,James Ward-Prowse,Southampton
+2020-09-13,jamievardy_leicestercity,0.0,12.0,Jamie Vardy,Leicester City
+2020-09-13,kevindebruyne_manchestercity,0.0,13.0,Kevin De Bruyne,Manchester City
+2020-09-13,marcusrashford_manchesterutd,0.0,14.0,Marcus Rashford,Manchester Utd
+2020-09-13,matheuspereira_westbrom,0.0,15.0,Matheus Pereira,West Brom
+2020-09-13,pascalgross_brighton,0.0,16.0,Pascal Gross,Brighton
+2020-09-13,patrickbamford_leedsunited,0.0,17.0,Patrick Bamford,Leeds United
+2020-09-13,pedroneto_wolves,0.0,18.0,Pedro Neto,Wolves
+2020-09-13,raheemsterling_manchestercity,0.0,19.0,Raheem Sterling,Manchester City
+2020-09-13,raphinha_leedsunited,0.0,20.0,Raphinha,Leeds United
+2020-09-13,riyadmahrez_manchestercity,0.0,21.0,Riyad Mahrez,Manchester City
+2020-09-13,robertofirmino_liverpool,0.0,22.0,Roberto Firmino,Liverpool
+2020-09-13,sadiomane_liverpool,0.0,23.0,Sadio Mane,Liverpool
+2020-09-13,saidbenrahma_westham,0.0,24.0,Said Benrahma,West Ham
+2020-09-13,sonheungmin_tottenham,0.0,25.0,Son Heung-min,Tottenham
+2020-09-13,timowerner_chelsea,0.0,26.0,Timo Werner,Chelsea
+2020-09-13,trentalexanderarnold_liverpool,0.0,27.0,Trent Alexander-Arnold,Liverpool
+2020-09-13,vladimircoufal_westham,0.0,28.0,Vladimir Coufal,West Ham
+2020-09-14,andrewrobertson_liverpool,1.0,1.0,Andrew Robertson,Liverpool
+2020-09-14,lucasdigne_everton,1.0,2.0,Lucas Digne,Everton
+2020-09-14,pedroneto_wolves,1.0,3.0,Pedro Neto,Wolves
+2020-09-14,aaroncresswell_westham,0.0,4.0,Aaron Cresswell,West Ham
+2020-09-14,bernardosilva_manchestercity,0.0,5.0,Bernardo Silva,Manchester City
+2020-09-14,bertrandtraore_astonvilla,0.0,6.0,Bertrand Traore,Aston Villa
+2020-09-14,brunofernandes_manchesterutd,0.0,7.0,Bruno Fernandes,Manchester Utd
+2020-09-14,eberechieze_crystalpalace,0.0,8.0,Eberechi Eze,Crystal Palace
+2020-09-14,harrykane_tottenham,0.0,9.0,Harry Kane,Tottenham
+2020-09-14,jackgrealish_astonvilla,0.0,10.0,Jack Grealish,Aston Villa
+2020-09-14,jackharrison_leedsunited,0.0,11.0,Jack Harrison,Leeds United
+2020-09-14,jameswardprowse_southampton,0.0,12.0,James Ward-Prowse,Southampton
+2020-09-14,jamievardy_leicestercity,0.0,13.0,Jamie Vardy,Leicester City
+2020-09-14,kevindebruyne_manchestercity,0.0,14.0,Kevin De Bruyne,Manchester City
+2020-09-14,marcusrashford_manchesterutd,0.0,15.0,Marcus Rashford,Manchester Utd
+2020-09-14,matheuspereira_westbrom,0.0,16.0,Matheus Pereira,West Brom
+2020-09-14,pascalgross_brighton,0.0,17.0,Pascal Gross,Brighton
+2020-09-14,patrickbamford_leedsunited,0.0,18.0,Patrick Bamford,Leeds United
+2020-09-14,raheemsterling_manchestercity,0.0,19.0,Raheem Sterling,Manchester City
+2020-09-14,raphinha_leedsunited,0.0,20.0,Raphinha,Leeds United
+2020-09-14,riyadmahrez_manchestercity,0.0,21.0,Riyad Mahrez,Manchester City
+2020-09-14,robertofirmino_liverpool,0.0,22.0,Roberto Firmino,Liverpool
+2020-09-14,sadiomane_liverpool,0.0,23.0,Sadio Mane,Liverpool
+2020-09-14,saidbenrahma_westham,0.0,24.0,Said Benrahma,West Ham
+2020-09-14,sonheungmin_tottenham,0.0,25.0,Son Heung-min,Tottenham
+2020-09-14,timowerner_chelsea,0.0,26.0,Timo Werner,Chelsea
+2020-09-14,trentalexanderarnold_liverpool,0.0,27.0,Trent Alexander-Arnold,Liverpool
+2020-09-14,vladimircoufal_westham,0.0,28.0,Vladimir Coufal,West Ham
+2020-09-19,andrewrobertson_liverpool,1.0,1.0,Andrew Robertson,Liverpool
+2020-09-19,lucasdigne_everton,1.0,2.0,Lucas Digne,Everton
+2020-09-19,matheuspereira_westbrom,1.0,3.0,Matheus Pereira,West Brom
+2020-09-19,patrickbamford_leedsunited,1.0,4.0,Patrick Bamford,Leeds United
+2020-09-19,pedroneto_wolves,1.0,5.0,Pedro Neto,Wolves
+2020-09-19,aaroncresswell_westham,0.0,6.0,Aaron Cresswell,West Ham
+2020-09-19,bernardosilva_manchestercity,0.0,7.0,Bernardo Silva,Manchester City
+2020-09-19,bertrandtraore_astonvilla,0.0,8.0,Bertrand Traore,Aston Villa
+2020-09-19,brunofernandes_manchesterutd,0.0,9.0,Bruno Fernandes,Manchester Utd
+2020-09-19,eberechieze_crystalpalace,0.0,10.0,Eberechi Eze,Crystal Palace
+2020-09-19,harrykane_tottenham,0.0,11.0,Harry Kane,Tottenham
+2020-09-19,jackgrealish_astonvilla,0.0,12.0,Jack Grealish,Aston Villa
+2020-09-19,jackharrison_leedsunited,0.0,13.0,Jack Harrison,Leeds United
+2020-09-19,jameswardprowse_southampton,0.0,14.0,James Ward-Prowse,Southampton
+2020-09-19,jamievardy_leicestercity,0.0,15.0,Jamie Vardy,Leicester City
+2020-09-19,kevindebruyne_manchestercity,0.0,16.0,Kevin De Bruyne,Manchester City
+2020-09-19,marcusrashford_manchesterutd,0.0,17.0,Marcus Rashford,Manchester Utd
+2020-09-19,pascalgross_brighton,0.0,18.0,Pascal Gross,Brighton
+2020-09-19,raheemsterling_manchestercity,0.0,19.0,Raheem Sterling,Manchester City
+2020-09-19,raphinha_leedsunited,0.0,20.0,Raphinha,Leeds United
+2020-09-19,riyadmahrez_manchestercity,0.0,21.0,Riyad Mahrez,Manchester City
+2020-09-19,robertofirmino_liverpool,0.0,22.0,Roberto Firmino,Liverpool
+2020-09-19,sadiomane_liverpool,0.0,23.0,Sadio Mane,Liverpool
+2020-09-19,saidbenrahma_westham,0.0,24.0,Said Benrahma,West Ham
+2020-09-19,sonheungmin_tottenham,0.0,25.0,Son Heung-min,Tottenham
+2020-09-19,timowerner_chelsea,0.0,26.0,Timo Werner,Chelsea
+2020-09-19,trentalexanderarnold_liverpool,0.0,27.0,Trent Alexander-Arnold,Liverpool
+2020-09-19,vladimircoufal_westham,0.0,28.0,Vladimir Coufal,West Ham
+2020-09-20,harrykane_tottenham,4.0,1.0,Harry Kane,Tottenham
+2020-09-20,andrewrobertson_liverpool,1.0,2.0,Andrew Robertson,Liverpool
+2020-09-20,lucasdigne_everton,1.0,3.0,Lucas Digne,Everton
+2020-09-20,matheuspereira_westbrom,1.0,4.0,Matheus Pereira,West Brom
+2020-09-20,patrickbamford_leedsunited,1.0,5.0,Patrick Bamford,Leeds United
+2020-09-20,pedroneto_wolves,1.0,6.0,Pedro Neto,Wolves
+2020-09-20,robertofirmino_liverpool,1.0,7.0,Roberto Firmino,Liverpool
+2020-09-20,aaroncresswell_westham,0.0,8.0,Aaron Cresswell,West Ham
+2020-09-20,bernardosilva_manchestercity,0.0,9.0,Bernardo Silva,Manchester City
+2020-09-20,bertrandtraore_astonvilla,0.0,10.0,Bertrand Traore,Aston Villa
+2020-09-20,brunofernandes_manchesterutd,0.0,11.0,Bruno Fernandes,Manchester Utd
+2020-09-20,eberechieze_crystalpalace,0.0,12.0,Eberechi Eze,Crystal Palace
+2020-09-20,jackgrealish_astonvilla,0.0,13.0,Jack Grealish,Aston Villa
+2020-09-20,jackharrison_leedsunited,0.0,14.0,Jack Harrison,Leeds United
+2020-09-20,jameswardprowse_southampton,0.0,15.0,James Ward-Prowse,Southampton
+2020-09-20,jamievardy_leicestercity,0.0,16.0,Jamie Vardy,Leicester City
+2020-09-20,kevindebruyne_manchestercity,0.0,17.0,Kevin De Bruyne,Manchester City
+2020-09-20,marcusrashford_manchesterutd,0.0,18.0,Marcus Rashford,Manchester Utd
+2020-09-20,pascalgross_brighton,0.0,19.0,Pascal Gross,Brighton
+2020-09-20,raheemsterling_manchestercity,0.0,20.0,Raheem Sterling,Manchester City
+2020-09-20,raphinha_leedsunited,0.0,21.0,Raphinha,Leeds United
+2020-09-20,riyadmahrez_manchestercity,0.0,22.0,Riyad Mahrez,Manchester City
+2020-09-20,sadiomane_liverpool,0.0,23.0,Sadio Mane,Liverpool
+2020-09-20,saidbenrahma_westham,0.0,24.0,Said Benrahma,West Ham
+2020-09-20,sonheungmin_tottenham,0.0,25.0,Son Heung-min,Tottenham
+2020-09-20,timowerner_chelsea,0.0,26.0,Timo Werner,Chelsea
+2020-09-20,trentalexanderarnold_liverpool,0.0,27.0,Trent Alexander-Arnold,Liverpool
+2020-09-20,vladimircoufal_westham,0.0,28.0,Vladimir Coufal,West Ham
+2020-09-21,harrykane_tottenham,4.0,1.0,Harry Kane,Tottenham
+2020-09-21,andrewrobertson_liverpool,1.0,2.0,Andrew Robertson,Liverpool
+2020-09-21,kevindebruyne_manchestercity,1.0,3.0,Kevin De Bruyne,Manchester City
+2020-09-21,lucasdigne_everton,1.0,4.0,Lucas Digne,Everton
+2020-09-21,matheuspereira_westbrom,1.0,5.0,Matheus Pereira,West Brom
+2020-09-21,patrickbamford_leedsunited,1.0,6.0,Patrick Bamford,Leeds United
+2020-09-21,pedroneto_wolves,1.0,7.0,Pedro Neto,Wolves
+2020-09-21,raheemsterling_manchestercity,1.0,8.0,Raheem Sterling,Manchester City
+2020-09-21,robertofirmino_liverpool,1.0,9.0,Roberto Firmino,Liverpool
+2020-09-21,aaroncresswell_westham,0.0,10.0,Aaron Cresswell,West Ham
+2020-09-21,bernardosilva_manchestercity,0.0,11.0,Bernardo Silva,Manchester City
+2020-09-21,bertrandtraore_astonvilla,0.0,12.0,Bertrand Traore,Aston Villa
+2020-09-21,brunofernandes_manchesterutd,0.0,13.0,Bruno Fernandes,Manchester Utd
+2020-09-21,eberechieze_crystalpalace,0.0,14.0,Eberechi Eze,Crystal Palace
+2020-09-21,jackgrealish_astonvilla,0.0,15.0,Jack Grealish,Aston Villa
+2020-09-21,jackharrison_leedsunited,0.0,16.0,Jack Harrison,Leeds United
+2020-09-21,jameswardprowse_southampton,0.0,17.0,James Ward-Prowse,Southampton
+2020-09-21,jamievardy_leicestercity,0.0,18.0,Jamie Vardy,Leicester City
+2020-09-21,marcusrashford_manchesterutd,0.0,19.0,Marcus Rashford,Manchester Utd
+2020-09-21,pascalgross_brighton,0.0,20.0,Pascal Gross,Brighton
+2020-09-21,raphinha_leedsunited,0.0,21.0,Raphinha,Leeds United
+2020-09-21,riyadmahrez_manchestercity,0.0,22.0,Riyad Mahrez,Manchester City
+2020-09-21,sadiomane_liverpool,0.0,23.0,Sadio Mane,Liverpool
+2020-09-21,saidbenrahma_westham,0.0,24.0,Said Benrahma,West Ham
+2020-09-21,sonheungmin_tottenham,0.0,25.0,Son Heung-min,Tottenham
+2020-09-21,timowerner_chelsea,0.0,26.0,Timo Werner,Chelsea
+2020-09-21,trentalexanderarnold_liverpool,0.0,27.0,Trent Alexander-Arnold,Liverpool
+2020-09-21,vladimircoufal_westham,0.0,28.0,Vladimir Coufal,West Ham
+2020-09-26,harrykane_tottenham,4.0,1.0,Harry Kane,Tottenham
+2020-09-26,matheuspereira_westbrom,2.0,2.0,Matheus Pereira,West Brom
+2020-09-26,andrewrobertson_liverpool,1.0,3.0,Andrew Robertson,Liverpool
+2020-09-26,brunofernandes_manchesterutd,1.0,4.0,Bruno Fernandes,Manchester Utd
+2020-09-26,kevindebruyne_manchestercity,1.0,5.0,Kevin De Bruyne,Manchester City
+2020-09-26,lucasdigne_everton,1.0,6.0,Lucas Digne,Everton
+2020-09-26,patrickbamford_leedsunited,1.0,7.0,Patrick Bamford,Leeds United
+2020-09-26,pedroneto_wolves,1.0,8.0,Pedro Neto,Wolves
+2020-09-26,raheemsterling_manchestercity,1.0,9.0,Raheem Sterling,Manchester City
+2020-09-26,robertofirmino_liverpool,1.0,10.0,Roberto Firmino,Liverpool
+2020-09-26,aaroncresswell_westham,0.0,11.0,Aaron Cresswell,West Ham
+2020-09-26,bernardosilva_manchestercity,0.0,12.0,Bernardo Silva,Manchester City
+2020-09-26,bertrandtraore_astonvilla,0.0,13.0,Bertrand Traore,Aston Villa
+2020-09-26,eberechieze_crystalpalace,0.0,14.0,Eberechi Eze,Crystal Palace
+2020-09-26,jackgrealish_astonvilla,0.0,15.0,Jack Grealish,Aston Villa
+2020-09-26,jackharrison_leedsunited,0.0,16.0,Jack Harrison,Leeds United
+2020-09-26,jameswardprowse_southampton,0.0,17.0,James Ward-Prowse,Southampton
+2020-09-26,jamievardy_leicestercity,0.0,18.0,Jamie Vardy,Leicester City
+2020-09-26,marcusrashford_manchesterutd,0.0,19.0,Marcus Rashford,Manchester Utd
+2020-09-26,pascalgross_brighton,0.0,20.0,Pascal Gross,Brighton
+2020-09-26,raphinha_leedsunited,0.0,21.0,Raphinha,Leeds United
+2020-09-26,riyadmahrez_manchestercity,0.0,22.0,Riyad Mahrez,Manchester City
+2020-09-26,sadiomane_liverpool,0.0,23.0,Sadio Mane,Liverpool
+2020-09-26,saidbenrahma_westham,0.0,24.0,Said Benrahma,West Ham
+2020-09-26,sonheungmin_tottenham,0.0,25.0,Son Heung-min,Tottenham
+2020-09-26,timowerner_chelsea,0.0,26.0,Timo Werner,Chelsea
+2020-09-26,trentalexanderarnold_liverpool,0.0,27.0,Trent Alexander-Arnold,Liverpool
+2020-09-26,vladimircoufal_westham,0.0,28.0,Vladimir Coufal,West Ham
+2020-09-27,harrykane_tottenham,5.0,1.0,Harry Kane,Tottenham
+2020-09-27,matheuspereira_westbrom,2.0,2.0,Matheus Pereira,West Brom
+2020-09-27,andrewrobertson_liverpool,1.0,3.0,Andrew Robertson,Liverpool
+2020-09-27,brunofernandes_manchesterutd,1.0,4.0,Bruno Fernandes,Manchester Utd
+2020-09-27,jackharrison_leedsunited,1.0,5.0,Jack Harrison,Leeds United
+2020-09-27,kevindebruyne_manchestercity,1.0,6.0,Kevin De Bruyne,Manchester City
+2020-09-27,lucasdigne_everton,1.0,7.0,Lucas Digne,Everton
+2020-09-27,patrickbamford_leedsunited,1.0,8.0,Patrick Bamford,Leeds United
+2020-09-27,pedroneto_wolves,1.0,9.0,Pedro Neto,Wolves
+2020-09-27,raheemsterling_manchestercity,1.0,10.0,Raheem Sterling,Manchester City
+2020-09-27,riyadmahrez_manchestercity,1.0,11.0,Riyad Mahrez,Manchester City
+2020-09-27,robertofirmino_liverpool,1.0,12.0,Roberto Firmino,Liverpool
+2020-09-27,aaroncresswell_westham,0.0,13.0,Aaron Cresswell,West Ham
+2020-09-27,bernardosilva_manchestercity,0.0,14.0,Bernardo Silva,Manchester City
+2020-09-27,bertrandtraore_astonvilla,0.0,15.0,Bertrand Traore,Aston Villa
+2020-09-27,eberechieze_crystalpalace,0.0,16.0,Eberechi Eze,Crystal Palace
+2020-09-27,jackgrealish_astonvilla,0.0,17.0,Jack Grealish,Aston Villa
+2020-09-27,jameswardprowse_southampton,0.0,18.0,James Ward-Prowse,Southampton
+2020-09-27,jamievardy_leicestercity,0.0,19.0,Jamie Vardy,Leicester City
+2020-09-27,marcusrashford_manchesterutd,0.0,20.0,Marcus Rashford,Manchester Utd
+2020-09-27,pascalgross_brighton,0.0,21.0,Pascal Gross,Brighton
+2020-09-27,raphinha_leedsunited,0.0,22.0,Raphinha,Leeds United
+2020-09-27,sadiomane_liverpool,0.0,23.0,Sadio Mane,Liverpool
+2020-09-27,saidbenrahma_westham,0.0,24.0,Said Benrahma,West Ham
+2020-09-27,sonheungmin_tottenham,0.0,25.0,Son Heung-min,Tottenham
+2020-09-27,timowerner_chelsea,0.0,26.0,Timo Werner,Chelsea
+2020-09-27,trentalexanderarnold_liverpool,0.0,27.0,Trent Alexander-Arnold,Liverpool
+2020-09-27,vladimircoufal_westham,0.0,28.0,Vladimir Coufal,West Ham
+2020-09-28,harrykane_tottenham,5.0,1.0,Harry Kane,Tottenham
+2020-09-28,matheuspereira_westbrom,2.0,2.0,Matheus Pereira,West Brom
+2020-09-28,andrewrobertson_liverpool,1.0,3.0,Andrew Robertson,Liverpool
+2020-09-28,brunofernandes_manchesterutd,1.0,4.0,Bruno Fernandes,Manchester Utd
+2020-09-28,jackharrison_leedsunited,1.0,5.0,Jack Harrison,Leeds United
+2020-09-28,kevindebruyne_manchestercity,1.0,6.0,Kevin De Bruyne,Manchester City
+2020-09-28,lucasdigne_everton,1.0,7.0,Lucas Digne,Everton
+2020-09-28,patrickbamford_leedsunited,1.0,8.0,Patrick Bamford,Leeds United
+2020-09-28,pedroneto_wolves,1.0,9.0,Pedro Neto,Wolves
+2020-09-28,raheemsterling_manchestercity,1.0,10.0,Raheem Sterling,Manchester City
+2020-09-28,riyadmahrez_manchestercity,1.0,11.0,Riyad Mahrez,Manchester City
+2020-09-28,robertofirmino_liverpool,1.0,12.0,Roberto Firmino,Liverpool
+2020-09-28,trentalexanderarnold_liverpool,1.0,13.0,Trent Alexander-Arnold,Liverpool
+2020-09-28,aaroncresswell_westham,0.0,14.0,Aaron Cresswell,West Ham
+2020-09-28,bernardosilva_manchestercity,0.0,15.0,Bernardo Silva,Manchester City
+2020-09-28,bertrandtraore_astonvilla,0.0,16.0,Bertrand Traore,Aston Villa
+2020-09-28,eberechieze_crystalpalace,0.0,17.0,Eberechi Eze,Crystal Palace
+2020-09-28,jackgrealish_astonvilla,0.0,18.0,Jack Grealish,Aston Villa
+2020-09-28,jameswardprowse_southampton,0.0,19.0,James Ward-Prowse,Southampton
+2020-09-28,jamievardy_leicestercity,0.0,20.0,Jamie Vardy,Leicester City
+2020-09-28,marcusrashford_manchesterutd,0.0,21.0,Marcus Rashford,Manchester Utd
+2020-09-28,pascalgross_brighton,0.0,22.0,Pascal Gross,Brighton
+2020-09-28,raphinha_leedsunited,0.0,23.0,Raphinha,Leeds United
+2020-09-28,sadiomane_liverpool,0.0,24.0,Sadio Mane,Liverpool
+2020-09-28,saidbenrahma_westham,0.0,25.0,Said Benrahma,West Ham
+2020-09-28,sonheungmin_tottenham,0.0,26.0,Son Heung-min,Tottenham
+2020-09-28,timowerner_chelsea,0.0,27.0,Timo Werner,Chelsea
+2020-09-28,vladimircoufal_westham,0.0,28.0,Vladimir Coufal,West Ham
+2020-10-04,harrykane_tottenham,6.0,1.0,Harry Kane,Tottenham
+2020-10-04,jackgrealish_astonvilla,3.0,2.0,Jack Grealish,Aston Villa
+2020-10-04,aaroncresswell_westham,2.0,3.0,Aaron Cresswell,West Ham
+2020-10-04,matheuspereira_westbrom,2.0,4.0,Matheus Pereira,West Brom
+2020-10-04,robertofirmino_liverpool,2.0,5.0,Roberto Firmino,Liverpool
+2020-10-04,andrewrobertson_liverpool,1.0,6.0,Andrew Robertson,Liverpool
+2020-10-04,brunofernandes_manchesterutd,1.0,7.0,Bruno Fernandes,Manchester Utd
+2020-10-04,jackharrison_leedsunited,1.0,8.0,Jack Harrison,Leeds United
+2020-10-04,kevindebruyne_manchestercity,1.0,9.0,Kevin De Bruyne,Manchester City
+2020-10-04,lucasdigne_everton,1.0,10.0,Lucas Digne,Everton
+2020-10-04,patrickbamford_leedsunited,1.0,11.0,Patrick Bamford,Leeds United
+2020-10-04,pedroneto_wolves,1.0,12.0,Pedro Neto,Wolves
+2020-10-04,raheemsterling_manchestercity,1.0,13.0,Raheem Sterling,Manchester City
+2020-10-04,riyadmahrez_manchestercity,1.0,14.0,Riyad Mahrez,Manchester City
+2020-10-04,sonheungmin_tottenham,1.0,15.0,Son Heung-min,Tottenham
+2020-10-04,trentalexanderarnold_liverpool,1.0,16.0,Trent Alexander-Arnold,Liverpool
+2020-10-04,bernardosilva_manchestercity,0.0,17.0,Bernardo Silva,Manchester City
+2020-10-04,bertrandtraore_astonvilla,0.0,18.0,Bertrand Traore,Aston Villa
+2020-10-04,eberechieze_crystalpalace,0.0,19.0,Eberechi Eze,Crystal Palace
+2020-10-04,jameswardprowse_southampton,0.0,20.0,James Ward-Prowse,Southampton
+2020-10-04,jamievardy_leicestercity,0.0,21.0,Jamie Vardy,Leicester City
+2020-10-04,marcusrashford_manchesterutd,0.0,22.0,Marcus Rashford,Manchester Utd
+2020-10-04,pascalgross_brighton,0.0,23.0,Pascal Gross,Brighton
+2020-10-04,raphinha_leedsunited,0.0,24.0,Raphinha,Leeds United
+2020-10-04,sadiomane_liverpool,0.0,25.0,Sadio Mane,Liverpool
+2020-10-04,saidbenrahma_westham,0.0,26.0,Said Benrahma,West Ham
+2020-10-04,timowerner_chelsea,0.0,27.0,Timo Werner,Chelsea
+2020-10-04,vladimircoufal_westham,0.0,28.0,Vladimir Coufal,West Ham
+2020-10-17,harrykane_tottenham,6.0,1.0,Harry Kane,Tottenham
+2020-10-17,jackgrealish_astonvilla,3.0,2.0,Jack Grealish,Aston Villa
+2020-10-17,aaroncresswell_westham,2.0,3.0,Aaron Cresswell,West Ham
+2020-10-17,andrewrobertson_liverpool,2.0,4.0,Andrew Robertson,Liverpool
+2020-10-17,brunofernandes_manchesterutd,2.0,5.0,Bruno Fernandes,Manchester Utd
+2020-10-17,lucasdigne_everton,2.0,6.0,Lucas Digne,Everton
+2020-10-17,marcusrashford_manchesterutd,2.0,7.0,Marcus Rashford,Manchester Utd
+2020-10-17,matheuspereira_westbrom,2.0,8.0,Matheus Pereira,West Brom
+2020-10-17,robertofirmino_liverpool,2.0,9.0,Roberto Firmino,Liverpool
+2020-10-17,jackharrison_leedsunited,1.0,10.0,Jack Harrison,Leeds United
+2020-10-17,kevindebruyne_manchestercity,1.0,11.0,Kevin De Bruyne,Manchester City
+2020-10-17,patrickbamford_leedsunited,1.0,12.0,Patrick Bamford,Leeds United
+2020-10-17,pedroneto_wolves,1.0,13.0,Pedro Neto,Wolves
+2020-10-17,raheemsterling_manchestercity,1.0,14.0,Raheem Sterling,Manchester City
+2020-10-17,riyadmahrez_manchestercity,1.0,15.0,Riyad Mahrez,Manchester City
+2020-10-17,sonheungmin_tottenham,1.0,16.0,Son Heung-min,Tottenham
+2020-10-17,timowerner_chelsea,1.0,17.0,Timo Werner,Chelsea
+2020-10-17,trentalexanderarnold_liverpool,1.0,18.0,Trent Alexander-Arnold,Liverpool
+2020-10-17,bernardosilva_manchestercity,0.0,19.0,Bernardo Silva,Manchester City
+2020-10-17,bertrandtraore_astonvilla,0.0,20.0,Bertrand Traore,Aston Villa
+2020-10-17,eberechieze_crystalpalace,0.0,21.0,Eberechi Eze,Crystal Palace
+2020-10-17,jameswardprowse_southampton,0.0,22.0,James Ward-Prowse,Southampton
+2020-10-17,jamievardy_leicestercity,0.0,23.0,Jamie Vardy,Leicester City
+2020-10-17,pascalgross_brighton,0.0,24.0,Pascal Gross,Brighton
+2020-10-17,raphinha_leedsunited,0.0,25.0,Raphinha,Leeds United
+2020-10-17,sadiomane_liverpool,0.0,26.0,Sadio Mane,Liverpool
+2020-10-17,saidbenrahma_westham,0.0,27.0,Said Benrahma,West Ham
+2020-10-17,vladimircoufal_westham,0.0,28.0,Vladimir Coufal,West Ham
+2020-10-18,harrykane_tottenham,7.0,1.0,Harry Kane,Tottenham
+2020-10-18,aaroncresswell_westham,3.0,2.0,Aaron Cresswell,West Ham
+2020-10-18,jackgrealish_astonvilla,3.0,3.0,Jack Grealish,Aston Villa
+2020-10-18,andrewrobertson_liverpool,2.0,4.0,Andrew Robertson,Liverpool
+2020-10-18,brunofernandes_manchesterutd,2.0,5.0,Bruno Fernandes,Manchester Utd
+2020-10-18,lucasdigne_everton,2.0,6.0,Lucas Digne,Everton
+2020-10-18,marcusrashford_manchesterutd,2.0,7.0,Marcus Rashford,Manchester Utd
+2020-10-18,matheuspereira_westbrom,2.0,8.0,Matheus Pereira,West Brom
+2020-10-18,robertofirmino_liverpool,2.0,9.0,Roberto Firmino,Liverpool
+2020-10-18,sonheungmin_tottenham,2.0,10.0,Son Heung-min,Tottenham
+2020-10-18,jackharrison_leedsunited,1.0,11.0,Jack Harrison,Leeds United
+2020-10-18,kevindebruyne_manchestercity,1.0,12.0,Kevin De Bruyne,Manchester City
+2020-10-18,patrickbamford_leedsunited,1.0,13.0,Patrick Bamford,Leeds United
+2020-10-18,pedroneto_wolves,1.0,14.0,Pedro Neto,Wolves
+2020-10-18,raheemsterling_manchestercity,1.0,15.0,Raheem Sterling,Manchester City
+2020-10-18,riyadmahrez_manchestercity,1.0,16.0,Riyad Mahrez,Manchester City
+2020-10-18,timowerner_chelsea,1.0,17.0,Timo Werner,Chelsea
+2020-10-18,trentalexanderarnold_liverpool,1.0,18.0,Trent Alexander-Arnold,Liverpool
+2020-10-18,bernardosilva_manchestercity,0.0,19.0,Bernardo Silva,Manchester City
+2020-10-18,bertrandtraore_astonvilla,0.0,20.0,Bertrand Traore,Aston Villa
+2020-10-18,eberechieze_crystalpalace,0.0,21.0,Eberechi Eze,Crystal Palace
+2020-10-18,jameswardprowse_southampton,0.0,22.0,James Ward-Prowse,Southampton
+2020-10-18,jamievardy_leicestercity,0.0,23.0,Jamie Vardy,Leicester City
+2020-10-18,pascalgross_brighton,0.0,24.0,Pascal Gross,Brighton
+2020-10-18,raphinha_leedsunited,0.0,25.0,Raphinha,Leeds United
+2020-10-18,sadiomane_liverpool,0.0,26.0,Sadio Mane,Liverpool
+2020-10-18,saidbenrahma_westham,0.0,27.0,Said Benrahma,West Ham
+2020-10-18,vladimircoufal_westham,0.0,28.0,Vladimir Coufal,West Ham
+2020-10-24,harrykane_tottenham,7.0,1.0,Harry Kane,Tottenham
+2020-10-24,aaroncresswell_westham,3.0,2.0,Aaron Cresswell,West Ham
+2020-10-24,jackgrealish_astonvilla,3.0,3.0,Jack Grealish,Aston Villa
+2020-10-24,andrewrobertson_liverpool,2.0,4.0,Andrew Robertson,Liverpool
+2020-10-24,brunofernandes_manchesterutd,2.0,5.0,Bruno Fernandes,Manchester Utd
+2020-10-24,lucasdigne_everton,2.0,6.0,Lucas Digne,Everton
+2020-10-24,marcusrashford_manchesterutd,2.0,7.0,Marcus Rashford,Manchester Utd
+2020-10-24,matheuspereira_westbrom,2.0,8.0,Matheus Pereira,West Brom
+2020-10-24,robertofirmino_liverpool,2.0,9.0,Roberto Firmino,Liverpool
+2020-10-24,sonheungmin_tottenham,2.0,10.0,Son Heung-min,Tottenham
+2020-10-24,jackharrison_leedsunited,1.0,11.0,Jack Harrison,Leeds United
+2020-10-24,kevindebruyne_manchestercity,1.0,12.0,Kevin De Bruyne,Manchester City
+2020-10-24,patrickbamford_leedsunited,1.0,13.0,Patrick Bamford,Leeds United
+2020-10-24,pedroneto_wolves,1.0,14.0,Pedro Neto,Wolves
+2020-10-24,raheemsterling_manchestercity,1.0,15.0,Raheem Sterling,Manchester City
+2020-10-24,riyadmahrez_manchestercity,1.0,16.0,Riyad Mahrez,Manchester City
+2020-10-24,sadiomane_liverpool,1.0,17.0,Sadio Mane,Liverpool
+2020-10-24,timowerner_chelsea,1.0,18.0,Timo Werner,Chelsea
+2020-10-24,trentalexanderarnold_liverpool,1.0,19.0,Trent Alexander-Arnold,Liverpool
+2020-10-24,vladimircoufal_westham,1.0,20.0,Vladimir Coufal,West Ham
+2020-10-24,bernardosilva_manchestercity,0.0,21.0,Bernardo Silva,Manchester City
+2020-10-24,bertrandtraore_astonvilla,0.0,22.0,Bertrand Traore,Aston Villa
+2020-10-24,eberechieze_crystalpalace,0.0,23.0,Eberechi Eze,Crystal Palace
+2020-10-24,jameswardprowse_southampton,0.0,24.0,James Ward-Prowse,Southampton
+2020-10-24,jamievardy_leicestercity,0.0,25.0,Jamie Vardy,Leicester City
+2020-10-24,pascalgross_brighton,0.0,26.0,Pascal Gross,Brighton
+2020-10-24,raphinha_leedsunited,0.0,27.0,Raphinha,Leeds United
+2020-10-24,saidbenrahma_westham,0.0,28.0,Said Benrahma,West Ham
+2020-10-26,harrykane_tottenham,8.0,1.0,Harry Kane,Tottenham
+2020-10-26,aaroncresswell_westham,3.0,2.0,Aaron Cresswell,West Ham
+2020-10-26,jackgrealish_astonvilla,3.0,3.0,Jack Grealish,Aston Villa
+2020-10-26,andrewrobertson_liverpool,2.0,4.0,Andrew Robertson,Liverpool
+2020-10-26,brunofernandes_manchesterutd,2.0,5.0,Bruno Fernandes,Manchester Utd
+2020-10-26,lucasdigne_everton,2.0,6.0,Lucas Digne,Everton
+2020-10-26,marcusrashford_manchesterutd,2.0,7.0,Marcus Rashford,Manchester Utd
+2020-10-26,matheuspereira_westbrom,2.0,8.0,Matheus Pereira,West Brom
+2020-10-26,robertofirmino_liverpool,2.0,9.0,Roberto Firmino,Liverpool
+2020-10-26,sonheungmin_tottenham,2.0,10.0,Son Heung-min,Tottenham
+2020-10-26,jackharrison_leedsunited,1.0,11.0,Jack Harrison,Leeds United
+2020-10-26,kevindebruyne_manchestercity,1.0,12.0,Kevin De Bruyne,Manchester City
+2020-10-26,patrickbamford_leedsunited,1.0,13.0,Patrick Bamford,Leeds United
+2020-10-26,pedroneto_wolves,1.0,14.0,Pedro Neto,Wolves
+2020-10-26,raheemsterling_manchestercity,1.0,15.0,Raheem Sterling,Manchester City
+2020-10-26,riyadmahrez_manchestercity,1.0,16.0,Riyad Mahrez,Manchester City
+2020-10-26,sadiomane_liverpool,1.0,17.0,Sadio Mane,Liverpool
+2020-10-26,timowerner_chelsea,1.0,18.0,Timo Werner,Chelsea
+2020-10-26,trentalexanderarnold_liverpool,1.0,19.0,Trent Alexander-Arnold,Liverpool
+2020-10-26,vladimircoufal_westham,1.0,20.0,Vladimir Coufal,West Ham
+2020-10-26,bernardosilva_manchestercity,0.0,21.0,Bernardo Silva,Manchester City
+2020-10-26,bertrandtraore_astonvilla,0.0,22.0,Bertrand Traore,Aston Villa
+2020-10-26,eberechieze_crystalpalace,0.0,23.0,Eberechi Eze,Crystal Palace
+2020-10-26,jameswardprowse_southampton,0.0,24.0,James Ward-Prowse,Southampton
+2020-10-26,jamievardy_leicestercity,0.0,25.0,Jamie Vardy,Leicester City
+2020-10-26,pascalgross_brighton,0.0,26.0,Pascal Gross,Brighton
+2020-10-26,raphinha_leedsunited,0.0,27.0,Raphinha,Leeds United
+2020-10-26,saidbenrahma_westham,0.0,28.0,Said Benrahma,West Ham
+2020-10-30,harrykane_tottenham,8.0,1.0,Harry Kane,Tottenham
+2020-10-30,aaroncresswell_westham,3.0,2.0,Aaron Cresswell,West Ham
+2020-10-30,jackgrealish_astonvilla,3.0,3.0,Jack Grealish,Aston Villa
+2020-10-30,andrewrobertson_liverpool,2.0,4.0,Andrew Robertson,Liverpool
+2020-10-30,brunofernandes_manchesterutd,2.0,5.0,Bruno Fernandes,Manchester Utd
+2020-10-30,lucasdigne_everton,2.0,6.0,Lucas Digne,Everton
+2020-10-30,marcusrashford_manchesterutd,2.0,7.0,Marcus Rashford,Manchester Utd
+2020-10-30,matheuspereira_westbrom,2.0,8.0,Matheus Pereira,West Brom
+2020-10-30,pedroneto_wolves,2.0,9.0,Pedro Neto,Wolves
+2020-10-30,robertofirmino_liverpool,2.0,10.0,Roberto Firmino,Liverpool
+2020-10-30,sonheungmin_tottenham,2.0,11.0,Son Heung-min,Tottenham
+2020-10-30,jackharrison_leedsunited,1.0,12.0,Jack Harrison,Leeds United
+2020-10-30,kevindebruyne_manchestercity,1.0,13.0,Kevin De Bruyne,Manchester City
+2020-10-30,patrickbamford_leedsunited,1.0,14.0,Patrick Bamford,Leeds United
+2020-10-30,raheemsterling_manchestercity,1.0,15.0,Raheem Sterling,Manchester City
+2020-10-30,riyadmahrez_manchestercity,1.0,16.0,Riyad Mahrez,Manchester City
+2020-10-30,sadiomane_liverpool,1.0,17.0,Sadio Mane,Liverpool
+2020-10-30,timowerner_chelsea,1.0,18.0,Timo Werner,Chelsea
+2020-10-30,trentalexanderarnold_liverpool,1.0,19.0,Trent Alexander-Arnold,Liverpool
+2020-10-30,vladimircoufal_westham,1.0,20.0,Vladimir Coufal,West Ham
+2020-10-30,bernardosilva_manchestercity,0.0,21.0,Bernardo Silva,Manchester City
+2020-10-30,bertrandtraore_astonvilla,0.0,22.0,Bertrand Traore,Aston Villa
+2020-10-30,eberechieze_crystalpalace,0.0,23.0,Eberechi Eze,Crystal Palace
+2020-10-30,jameswardprowse_southampton,0.0,24.0,James Ward-Prowse,Southampton
+2020-10-30,jamievardy_leicestercity,0.0,25.0,Jamie Vardy,Leicester City
+2020-10-30,pascalgross_brighton,0.0,26.0,Pascal Gross,Brighton
+2020-10-30,raphinha_leedsunited,0.0,27.0,Raphinha,Leeds United
+2020-10-30,saidbenrahma_westham,0.0,28.0,Said Benrahma,West Ham
+2020-10-31,harrykane_tottenham,8.0,1.0,Harry Kane,Tottenham
+2020-10-31,aaroncresswell_westham,3.0,2.0,Aaron Cresswell,West Ham
+2020-10-31,jackgrealish_astonvilla,3.0,3.0,Jack Grealish,Aston Villa
+2020-10-31,andrewrobertson_liverpool,2.0,4.0,Andrew Robertson,Liverpool
+2020-10-31,brunofernandes_manchesterutd,2.0,5.0,Bruno Fernandes,Manchester Utd
+2020-10-31,kevindebruyne_manchestercity,2.0,6.0,Kevin De Bruyne,Manchester City
+2020-10-31,lucasdigne_everton,2.0,7.0,Lucas Digne,Everton
+2020-10-31,marcusrashford_manchesterutd,2.0,8.0,Marcus Rashford,Manchester Utd
+2020-10-31,matheuspereira_westbrom,2.0,9.0,Matheus Pereira,West Brom
+2020-10-31,pedroneto_wolves,2.0,10.0,Pedro Neto,Wolves
+2020-10-31,robertofirmino_liverpool,2.0,11.0,Roberto Firmino,Liverpool
+2020-10-31,sonheungmin_tottenham,2.0,12.0,Son Heung-min,Tottenham
+2020-10-31,jackharrison_leedsunited,1.0,13.0,Jack Harrison,Leeds United
+2020-10-31,patrickbamford_leedsunited,1.0,14.0,Patrick Bamford,Leeds United
+2020-10-31,raheemsterling_manchestercity,1.0,15.0,Raheem Sterling,Manchester City
+2020-10-31,riyadmahrez_manchestercity,1.0,16.0,Riyad Mahrez,Manchester City
+2020-10-31,sadiomane_liverpool,1.0,17.0,Sadio Mane,Liverpool
+2020-10-31,timowerner_chelsea,1.0,18.0,Timo Werner,Chelsea
+2020-10-31,trentalexanderarnold_liverpool,1.0,19.0,Trent Alexander-Arnold,Liverpool
+2020-10-31,vladimircoufal_westham,1.0,20.0,Vladimir Coufal,West Ham
+2020-10-31,bernardosilva_manchestercity,0.0,21.0,Bernardo Silva,Manchester City
+2020-10-31,bertrandtraore_astonvilla,0.0,22.0,Bertrand Traore,Aston Villa
+2020-10-31,eberechieze_crystalpalace,0.0,23.0,Eberechi Eze,Crystal Palace
+2020-10-31,jameswardprowse_southampton,0.0,24.0,James Ward-Prowse,Southampton
+2020-10-31,jamievardy_leicestercity,0.0,25.0,Jamie Vardy,Leicester City
+2020-10-31,pascalgross_brighton,0.0,26.0,Pascal Gross,Brighton
+2020-10-31,raphinha_leedsunited,0.0,27.0,Raphinha,Leeds United
+2020-10-31,saidbenrahma_westham,0.0,28.0,Said Benrahma,West Ham
+2020-11-01,harrykane_tottenham,8.0,1.0,Harry Kane,Tottenham
+2020-11-01,jackgrealish_astonvilla,4.0,2.0,Jack Grealish,Aston Villa
+2020-11-01,aaroncresswell_westham,3.0,3.0,Aaron Cresswell,West Ham
+2020-11-01,andrewrobertson_liverpool,2.0,4.0,Andrew Robertson,Liverpool
+2020-11-01,brunofernandes_manchesterutd,2.0,5.0,Bruno Fernandes,Manchester Utd
+2020-11-01,kevindebruyne_manchestercity,2.0,6.0,Kevin De Bruyne,Manchester City
+2020-11-01,lucasdigne_everton,2.0,7.0,Lucas Digne,Everton
+2020-11-01,marcusrashford_manchesterutd,2.0,8.0,Marcus Rashford,Manchester Utd
+2020-11-01,matheuspereira_westbrom,2.0,9.0,Matheus Pereira,West Brom
+2020-11-01,pedroneto_wolves,2.0,10.0,Pedro Neto,Wolves
+2020-11-01,robertofirmino_liverpool,2.0,11.0,Roberto Firmino,Liverpool
+2020-11-01,sonheungmin_tottenham,2.0,12.0,Son Heung-min,Tottenham
+2020-11-01,jackharrison_leedsunited,1.0,13.0,Jack Harrison,Leeds United
+2020-11-01,jameswardprowse_southampton,1.0,14.0,James Ward-Prowse,Southampton
+2020-11-01,pascalgross_brighton,1.0,15.0,Pascal Gross,Brighton
+2020-11-01,patrickbamford_leedsunited,1.0,16.0,Patrick Bamford,Leeds United
+2020-11-01,raheemsterling_manchestercity,1.0,17.0,Raheem Sterling,Manchester City
+2020-11-01,riyadmahrez_manchestercity,1.0,18.0,Riyad Mahrez,Manchester City
+2020-11-01,sadiomane_liverpool,1.0,19.0,Sadio Mane,Liverpool
+2020-11-01,timowerner_chelsea,1.0,20.0,Timo Werner,Chelsea
+2020-11-01,trentalexanderarnold_liverpool,1.0,21.0,Trent Alexander-Arnold,Liverpool
+2020-11-01,vladimircoufal_westham,1.0,22.0,Vladimir Coufal,West Ham
+2020-11-01,bernardosilva_manchestercity,0.0,23.0,Bernardo Silva,Manchester City
+2020-11-01,bertrandtraore_astonvilla,0.0,24.0,Bertrand Traore,Aston Villa
+2020-11-01,eberechieze_crystalpalace,0.0,25.0,Eberechi Eze,Crystal Palace
+2020-11-01,jamievardy_leicestercity,0.0,26.0,Jamie Vardy,Leicester City
+2020-11-01,raphinha_leedsunited,0.0,27.0,Raphinha,Leeds United
+2020-11-01,saidbenrahma_westham,0.0,28.0,Said Benrahma,West Ham
+2020-11-02,harrykane_tottenham,8.0,1.0,Harry Kane,Tottenham
+2020-11-02,jackgrealish_astonvilla,4.0,2.0,Jack Grealish,Aston Villa
+2020-11-02,aaroncresswell_westham,3.0,3.0,Aaron Cresswell,West Ham
+2020-11-02,andrewrobertson_liverpool,2.0,4.0,Andrew Robertson,Liverpool
+2020-11-02,brunofernandes_manchesterutd,2.0,5.0,Bruno Fernandes,Manchester Utd
+2020-11-02,jackharrison_leedsunited,2.0,6.0,Jack Harrison,Leeds United
+2020-11-02,kevindebruyne_manchestercity,2.0,7.0,Kevin De Bruyne,Manchester City
+2020-11-02,lucasdigne_everton,2.0,8.0,Lucas Digne,Everton
+2020-11-02,marcusrashford_manchesterutd,2.0,9.0,Marcus Rashford,Manchester Utd
+2020-11-02,matheuspereira_westbrom,2.0,10.0,Matheus Pereira,West Brom
+2020-11-02,pedroneto_wolves,2.0,11.0,Pedro Neto,Wolves
+2020-11-02,robertofirmino_liverpool,2.0,12.0,Roberto Firmino,Liverpool
+2020-11-02,sonheungmin_tottenham,2.0,13.0,Son Heung-min,Tottenham
+2020-11-02,jameswardprowse_southampton,1.0,14.0,James Ward-Prowse,Southampton
+2020-11-02,jamievardy_leicestercity,1.0,15.0,Jamie Vardy,Leicester City
+2020-11-02,pascalgross_brighton,1.0,16.0,Pascal Gross,Brighton
+2020-11-02,patrickbamford_leedsunited,1.0,17.0,Patrick Bamford,Leeds United
+2020-11-02,raheemsterling_manchestercity,1.0,18.0,Raheem Sterling,Manchester City
+2020-11-02,riyadmahrez_manchestercity,1.0,19.0,Riyad Mahrez,Manchester City
+2020-11-02,sadiomane_liverpool,1.0,20.0,Sadio Mane,Liverpool
+2020-11-02,timowerner_chelsea,1.0,21.0,Timo Werner,Chelsea
+2020-11-02,trentalexanderarnold_liverpool,1.0,22.0,Trent Alexander-Arnold,Liverpool
+2020-11-02,vladimircoufal_westham,1.0,23.0,Vladimir Coufal,West Ham
+2020-11-02,bernardosilva_manchestercity,0.0,24.0,Bernardo Silva,Manchester City
+2020-11-02,bertrandtraore_astonvilla,0.0,25.0,Bertrand Traore,Aston Villa
+2020-11-02,eberechieze_crystalpalace,0.0,26.0,Eberechi Eze,Crystal Palace
+2020-11-02,raphinha_leedsunited,0.0,27.0,Raphinha,Leeds United
+2020-11-02,saidbenrahma_westham,0.0,28.0,Said Benrahma,West Ham
+2020-11-07,harrykane_tottenham,8.0,1.0,Harry Kane,Tottenham
+2020-11-07,jackgrealish_astonvilla,4.0,2.0,Jack Grealish,Aston Villa
+2020-11-07,aaroncresswell_westham,3.0,3.0,Aaron Cresswell,West Ham
+2020-11-07,brunofernandes_manchesterutd,3.0,4.0,Bruno Fernandes,Manchester Utd
+2020-11-07,marcusrashford_manchesterutd,3.0,5.0,Marcus Rashford,Manchester Utd
+2020-11-07,andrewrobertson_liverpool,2.0,6.0,Andrew Robertson,Liverpool
+2020-11-07,jackharrison_leedsunited,2.0,7.0,Jack Harrison,Leeds United
+2020-11-07,kevindebruyne_manchestercity,2.0,8.0,Kevin De Bruyne,Manchester City
+2020-11-07,lucasdigne_everton,2.0,9.0,Lucas Digne,Everton
+2020-11-07,matheuspereira_westbrom,2.0,10.0,Matheus Pereira,West Brom
+2020-11-07,pedroneto_wolves,2.0,11.0,Pedro Neto,Wolves
+2020-11-07,robertofirmino_liverpool,2.0,12.0,Roberto Firmino,Liverpool
+2020-11-07,sonheungmin_tottenham,2.0,13.0,Son Heung-min,Tottenham
+2020-11-07,eberechieze_crystalpalace,1.0,14.0,Eberechi Eze,Crystal Palace
+2020-11-07,jameswardprowse_southampton,1.0,15.0,James Ward-Prowse,Southampton
+2020-11-07,jamievardy_leicestercity,1.0,16.0,Jamie Vardy,Leicester City
+2020-11-07,pascalgross_brighton,1.0,17.0,Pascal Gross,Brighton
+2020-11-07,patrickbamford_leedsunited,1.0,18.0,Patrick Bamford,Leeds United
+2020-11-07,raheemsterling_manchestercity,1.0,19.0,Raheem Sterling,Manchester City
+2020-11-07,riyadmahrez_manchestercity,1.0,20.0,Riyad Mahrez,Manchester City
+2020-11-07,sadiomane_liverpool,1.0,21.0,Sadio Mane,Liverpool
+2020-11-07,saidbenrahma_westham,1.0,22.0,Said Benrahma,West Ham
+2020-11-07,timowerner_chelsea,1.0,23.0,Timo Werner,Chelsea
+2020-11-07,trentalexanderarnold_liverpool,1.0,24.0,Trent Alexander-Arnold,Liverpool
+2020-11-07,vladimircoufal_westham,1.0,25.0,Vladimir Coufal,West Ham
+2020-11-07,bernardosilva_manchestercity,0.0,26.0,Bernardo Silva,Manchester City
+2020-11-07,bertrandtraore_astonvilla,0.0,27.0,Bertrand Traore,Aston Villa
+2020-11-07,raphinha_leedsunited,0.0,28.0,Raphinha,Leeds United
+2020-11-08,harrykane_tottenham,8.0,1.0,Harry Kane,Tottenham
+2020-11-08,jackgrealish_astonvilla,5.0,2.0,Jack Grealish,Aston Villa
+2020-11-08,aaroncresswell_westham,3.0,3.0,Aaron Cresswell,West Ham
+2020-11-08,brunofernandes_manchesterutd,3.0,4.0,Bruno Fernandes,Manchester Utd
+2020-11-08,kevindebruyne_manchestercity,3.0,5.0,Kevin De Bruyne,Manchester City
+2020-11-08,marcusrashford_manchesterutd,3.0,6.0,Marcus Rashford,Manchester Utd
+2020-11-08,andrewrobertson_liverpool,2.0,7.0,Andrew Robertson,Liverpool
+2020-11-08,jackharrison_leedsunited,2.0,8.0,Jack Harrison,Leeds United
+2020-11-08,lucasdigne_everton,2.0,9.0,Lucas Digne,Everton
+2020-11-08,matheuspereira_westbrom,2.0,10.0,Matheus Pereira,West Brom
+2020-11-08,pedroneto_wolves,2.0,11.0,Pedro Neto,Wolves
+2020-11-08,robertofirmino_liverpool,2.0,12.0,Roberto Firmino,Liverpool
+2020-11-08,sonheungmin_tottenham,2.0,13.0,Son Heung-min,Tottenham
+2020-11-08,eberechieze_crystalpalace,1.0,14.0,Eberechi Eze,Crystal Palace
+2020-11-08,jameswardprowse_southampton,1.0,15.0,James Ward-Prowse,Southampton
+2020-11-08,jamievardy_leicestercity,1.0,16.0,Jamie Vardy,Leicester City
+2020-11-08,pascalgross_brighton,1.0,17.0,Pascal Gross,Brighton
+2020-11-08,patrickbamford_leedsunited,1.0,18.0,Patrick Bamford,Leeds United
+2020-11-08,raheemsterling_manchestercity,1.0,19.0,Raheem Sterling,Manchester City
+2020-11-08,riyadmahrez_manchestercity,1.0,20.0,Riyad Mahrez,Manchester City
+2020-11-08,sadiomane_liverpool,1.0,21.0,Sadio Mane,Liverpool
+2020-11-08,saidbenrahma_westham,1.0,22.0,Said Benrahma,West Ham
+2020-11-08,timowerner_chelsea,1.0,23.0,Timo Werner,Chelsea
+2020-11-08,trentalexanderarnold_liverpool,1.0,24.0,Trent Alexander-Arnold,Liverpool
+2020-11-08,vladimircoufal_westham,1.0,25.0,Vladimir Coufal,West Ham
+2020-11-08,bernardosilva_manchestercity,0.0,26.0,Bernardo Silva,Manchester City
+2020-11-08,bertrandtraore_astonvilla,0.0,27.0,Bertrand Traore,Aston Villa
+2020-11-08,raphinha_leedsunited,0.0,28.0,Raphinha,Leeds United
+2020-11-21,harrykane_tottenham,9.0,1.0,Harry Kane,Tottenham
+2020-11-21,jackgrealish_astonvilla,5.0,2.0,Jack Grealish,Aston Villa
+2020-11-21,aaroncresswell_westham,3.0,3.0,Aaron Cresswell,West Ham
+2020-11-21,brunofernandes_manchesterutd,3.0,4.0,Bruno Fernandes,Manchester Utd
+2020-11-21,kevindebruyne_manchestercity,3.0,5.0,Kevin De Bruyne,Manchester City
+2020-11-21,marcusrashford_manchesterutd,3.0,6.0,Marcus Rashford,Manchester Utd
+2020-11-21,andrewrobertson_liverpool,2.0,7.0,Andrew Robertson,Liverpool
+2020-11-21,jackharrison_leedsunited,2.0,8.0,Jack Harrison,Leeds United
+2020-11-21,lucasdigne_everton,2.0,9.0,Lucas Digne,Everton
+2020-11-21,matheuspereira_westbrom,2.0,10.0,Matheus Pereira,West Brom
+2020-11-21,pascalgross_brighton,2.0,11.0,Pascal Gross,Brighton
+2020-11-21,pedroneto_wolves,2.0,12.0,Pedro Neto,Wolves
+2020-11-21,robertofirmino_liverpool,2.0,13.0,Roberto Firmino,Liverpool
+2020-11-21,sonheungmin_tottenham,2.0,14.0,Son Heung-min,Tottenham
+2020-11-21,timowerner_chelsea,2.0,15.0,Timo Werner,Chelsea
+2020-11-21,bertrandtraore_astonvilla,1.0,16.0,Bertrand Traore,Aston Villa
+2020-11-21,eberechieze_crystalpalace,1.0,17.0,Eberechi Eze,Crystal Palace
+2020-11-21,jameswardprowse_southampton,1.0,18.0,James Ward-Prowse,Southampton
+2020-11-21,jamievardy_leicestercity,1.0,19.0,Jamie Vardy,Leicester City
+2020-11-21,patrickbamford_leedsunited,1.0,20.0,Patrick Bamford,Leeds United
+2020-11-21,raheemsterling_manchestercity,1.0,21.0,Raheem Sterling,Manchester City
+2020-11-21,riyadmahrez_manchestercity,1.0,22.0,Riyad Mahrez,Manchester City
+2020-11-21,sadiomane_liverpool,1.0,23.0,Sadio Mane,Liverpool
+2020-11-21,saidbenrahma_westham,1.0,24.0,Said Benrahma,West Ham
+2020-11-21,trentalexanderarnold_liverpool,1.0,25.0,Trent Alexander-Arnold,Liverpool
+2020-11-21,vladimircoufal_westham,1.0,26.0,Vladimir Coufal,West Ham
+2020-11-21,bernardosilva_manchestercity,0.0,27.0,Bernardo Silva,Manchester City
+2020-11-21,raphinha_leedsunited,0.0,28.0,Raphinha,Leeds United
+2020-11-22,harrykane_tottenham,9.0,1.0,Harry Kane,Tottenham
+2020-11-22,jackgrealish_astonvilla,5.0,2.0,Jack Grealish,Aston Villa
+2020-11-22,lucasdigne_everton,4.0,3.0,Lucas Digne,Everton
+2020-11-22,aaroncresswell_westham,3.0,4.0,Aaron Cresswell,West Ham
+2020-11-22,andrewrobertson_liverpool,3.0,5.0,Andrew Robertson,Liverpool
+2020-11-22,brunofernandes_manchesterutd,3.0,6.0,Bruno Fernandes,Manchester Utd
+2020-11-22,kevindebruyne_manchestercity,3.0,7.0,Kevin De Bruyne,Manchester City
+2020-11-22,marcusrashford_manchesterutd,3.0,8.0,Marcus Rashford,Manchester Utd
+2020-11-22,jackharrison_leedsunited,2.0,9.0,Jack Harrison,Leeds United
+2020-11-22,matheuspereira_westbrom,2.0,10.0,Matheus Pereira,West Brom
+2020-11-22,pascalgross_brighton,2.0,11.0,Pascal Gross,Brighton
+2020-11-22,pedroneto_wolves,2.0,12.0,Pedro Neto,Wolves
+2020-11-22,robertofirmino_liverpool,2.0,13.0,Roberto Firmino,Liverpool
+2020-11-22,sonheungmin_tottenham,2.0,14.0,Son Heung-min,Tottenham
+2020-11-22,timowerner_chelsea,2.0,15.0,Timo Werner,Chelsea
+2020-11-22,bertrandtraore_astonvilla,1.0,16.0,Bertrand Traore,Aston Villa
+2020-11-22,eberechieze_crystalpalace,1.0,17.0,Eberechi Eze,Crystal Palace
+2020-11-22,jameswardprowse_southampton,1.0,18.0,James Ward-Prowse,Southampton
+2020-11-22,jamievardy_leicestercity,1.0,19.0,Jamie Vardy,Leicester City
+2020-11-22,patrickbamford_leedsunited,1.0,20.0,Patrick Bamford,Leeds United
+2020-11-22,raheemsterling_manchestercity,1.0,21.0,Raheem Sterling,Manchester City
+2020-11-22,riyadmahrez_manchestercity,1.0,22.0,Riyad Mahrez,Manchester City
+2020-11-22,sadiomane_liverpool,1.0,23.0,Sadio Mane,Liverpool
+2020-11-22,saidbenrahma_westham,1.0,24.0,Said Benrahma,West Ham
+2020-11-22,trentalexanderarnold_liverpool,1.0,25.0,Trent Alexander-Arnold,Liverpool
+2020-11-22,vladimircoufal_westham,1.0,26.0,Vladimir Coufal,West Ham
+2020-11-22,bernardosilva_manchestercity,0.0,27.0,Bernardo Silva,Manchester City
+2020-11-22,raphinha_leedsunited,0.0,28.0,Raphinha,Leeds United
+2020-11-28,harrykane_tottenham,9.0,1.0,Harry Kane,Tottenham
+2020-11-28,jackgrealish_astonvilla,5.0,2.0,Jack Grealish,Aston Villa
+2020-11-28,kevindebruyne_manchestercity,5.0,3.0,Kevin De Bruyne,Manchester City
+2020-11-28,lucasdigne_everton,4.0,4.0,Lucas Digne,Everton
+2020-11-28,aaroncresswell_westham,3.0,5.0,Aaron Cresswell,West Ham
+2020-11-28,andrewrobertson_liverpool,3.0,6.0,Andrew Robertson,Liverpool
+2020-11-28,brunofernandes_manchesterutd,3.0,7.0,Bruno Fernandes,Manchester Utd
+2020-11-28,jackharrison_leedsunited,3.0,8.0,Jack Harrison,Leeds United
+2020-11-28,marcusrashford_manchesterutd,3.0,9.0,Marcus Rashford,Manchester Utd
+2020-11-28,matheuspereira_westbrom,2.0,10.0,Matheus Pereira,West Brom
+2020-11-28,pascalgross_brighton,2.0,11.0,Pascal Gross,Brighton
+2020-11-28,pedroneto_wolves,2.0,12.0,Pedro Neto,Wolves
+2020-11-28,robertofirmino_liverpool,2.0,13.0,Roberto Firmino,Liverpool
+2020-11-28,sonheungmin_tottenham,2.0,14.0,Son Heung-min,Tottenham
+2020-11-28,timowerner_chelsea,2.0,15.0,Timo Werner,Chelsea
+2020-11-28,bertrandtraore_astonvilla,1.0,16.0,Bertrand Traore,Aston Villa
+2020-11-28,eberechieze_crystalpalace,1.0,17.0,Eberechi Eze,Crystal Palace
+2020-11-28,jameswardprowse_southampton,1.0,18.0,James Ward-Prowse,Southampton
+2020-11-28,jamievardy_leicestercity,1.0,19.0,Jamie Vardy,Leicester City
+2020-11-28,patrickbamford_leedsunited,1.0,20.0,Patrick Bamford,Leeds United
+2020-11-28,raheemsterling_manchestercity,1.0,21.0,Raheem Sterling,Manchester City
+2020-11-28,riyadmahrez_manchestercity,1.0,22.0,Riyad Mahrez,Manchester City
+2020-11-28,sadiomane_liverpool,1.0,23.0,Sadio Mane,Liverpool
+2020-11-28,saidbenrahma_westham,1.0,24.0,Said Benrahma,West Ham
+2020-11-28,trentalexanderarnold_liverpool,1.0,25.0,Trent Alexander-Arnold,Liverpool
+2020-11-28,vladimircoufal_westham,1.0,26.0,Vladimir Coufal,West Ham
+2020-11-28,bernardosilva_manchestercity,0.0,27.0,Bernardo Silva,Manchester City
+2020-11-28,raphinha_leedsunited,0.0,28.0,Raphinha,Leeds United
+2020-11-29,harrykane_tottenham,9.0,1.0,Harry Kane,Tottenham
+2020-11-29,jackgrealish_astonvilla,5.0,2.0,Jack Grealish,Aston Villa
+2020-11-29,kevindebruyne_manchestercity,5.0,3.0,Kevin De Bruyne,Manchester City
+2020-11-29,lucasdigne_everton,4.0,4.0,Lucas Digne,Everton
+2020-11-29,marcusrashford_manchesterutd,4.0,5.0,Marcus Rashford,Manchester Utd
+2020-11-29,aaroncresswell_westham,3.0,6.0,Aaron Cresswell,West Ham
+2020-11-29,andrewrobertson_liverpool,3.0,7.0,Andrew Robertson,Liverpool
+2020-11-29,brunofernandes_manchesterutd,3.0,8.0,Bruno Fernandes,Manchester Utd
+2020-11-29,jackharrison_leedsunited,3.0,9.0,Jack Harrison,Leeds United
+2020-11-29,jameswardprowse_southampton,2.0,10.0,James Ward-Prowse,Southampton
+2020-11-29,matheuspereira_westbrom,2.0,11.0,Matheus Pereira,West Brom
+2020-11-29,pascalgross_brighton,2.0,12.0,Pascal Gross,Brighton
+2020-11-29,pedroneto_wolves,2.0,13.0,Pedro Neto,Wolves
+2020-11-29,robertofirmino_liverpool,2.0,14.0,Roberto Firmino,Liverpool
+2020-11-29,sonheungmin_tottenham,2.0,15.0,Son Heung-min,Tottenham
+2020-11-29,timowerner_chelsea,2.0,16.0,Timo Werner,Chelsea
+2020-11-29,bertrandtraore_astonvilla,1.0,17.0,Bertrand Traore,Aston Villa
+2020-11-29,eberechieze_crystalpalace,1.0,18.0,Eberechi Eze,Crystal Palace
+2020-11-29,jamievardy_leicestercity,1.0,19.0,Jamie Vardy,Leicester City
+2020-11-29,patrickbamford_leedsunited,1.0,20.0,Patrick Bamford,Leeds United
+2020-11-29,raheemsterling_manchestercity,1.0,21.0,Raheem Sterling,Manchester City
+2020-11-29,riyadmahrez_manchestercity,1.0,22.0,Riyad Mahrez,Manchester City
+2020-11-29,sadiomane_liverpool,1.0,23.0,Sadio Mane,Liverpool
+2020-11-29,saidbenrahma_westham,1.0,24.0,Said Benrahma,West Ham
+2020-11-29,trentalexanderarnold_liverpool,1.0,25.0,Trent Alexander-Arnold,Liverpool
+2020-11-29,vladimircoufal_westham,1.0,26.0,Vladimir Coufal,West Ham
+2020-11-29,bernardosilva_manchestercity,0.0,27.0,Bernardo Silva,Manchester City
+2020-11-29,raphinha_leedsunited,0.0,28.0,Raphinha,Leeds United
+2020-11-30,harrykane_tottenham,9.0,1.0,Harry Kane,Tottenham
+2020-11-30,jackgrealish_astonvilla,5.0,2.0,Jack Grealish,Aston Villa
+2020-11-30,kevindebruyne_manchestercity,5.0,3.0,Kevin De Bruyne,Manchester City
+2020-11-30,lucasdigne_everton,4.0,4.0,Lucas Digne,Everton
+2020-11-30,marcusrashford_manchesterutd,4.0,5.0,Marcus Rashford,Manchester Utd
+2020-11-30,aaroncresswell_westham,3.0,6.0,Aaron Cresswell,West Ham
+2020-11-30,andrewrobertson_liverpool,3.0,7.0,Andrew Robertson,Liverpool
+2020-11-30,brunofernandes_manchesterutd,3.0,8.0,Bruno Fernandes,Manchester Utd
+2020-11-30,jackharrison_leedsunited,3.0,9.0,Jack Harrison,Leeds United
+2020-11-30,jameswardprowse_southampton,2.0,10.0,James Ward-Prowse,Southampton
+2020-11-30,jamievardy_leicestercity,2.0,11.0,Jamie Vardy,Leicester City
+2020-11-30,matheuspereira_westbrom,2.0,12.0,Matheus Pereira,West Brom
+2020-11-30,pascalgross_brighton,2.0,13.0,Pascal Gross,Brighton
+2020-11-30,pedroneto_wolves,2.0,14.0,Pedro Neto,Wolves
+2020-11-30,robertofirmino_liverpool,2.0,15.0,Roberto Firmino,Liverpool
+2020-11-30,saidbenrahma_westham,2.0,16.0,Said Benrahma,West Ham
+2020-11-30,sonheungmin_tottenham,2.0,17.0,Son Heung-min,Tottenham
+2020-11-30,timowerner_chelsea,2.0,18.0,Timo Werner,Chelsea
+2020-11-30,bertrandtraore_astonvilla,1.0,19.0,Bertrand Traore,Aston Villa
+2020-11-30,eberechieze_crystalpalace,1.0,20.0,Eberechi Eze,Crystal Palace
+2020-11-30,patrickbamford_leedsunited,1.0,21.0,Patrick Bamford,Leeds United
+2020-11-30,raheemsterling_manchestercity,1.0,22.0,Raheem Sterling,Manchester City
+2020-11-30,riyadmahrez_manchestercity,1.0,23.0,Riyad Mahrez,Manchester City
+2020-11-30,sadiomane_liverpool,1.0,24.0,Sadio Mane,Liverpool
+2020-11-30,trentalexanderarnold_liverpool,1.0,25.0,Trent Alexander-Arnold,Liverpool
+2020-11-30,vladimircoufal_westham,1.0,26.0,Vladimir Coufal,West Ham
+2020-11-30,bernardosilva_manchestercity,0.0,27.0,Bernardo Silva,Manchester City
+2020-11-30,raphinha_leedsunited,0.0,28.0,Raphinha,Leeds United
+2020-12-05,harrykane_tottenham,9.0,1.0,Harry Kane,Tottenham
+2020-12-05,kevindebruyne_manchestercity,6.0,2.0,Kevin De Bruyne,Manchester City
+2020-12-05,jackgrealish_astonvilla,5.0,3.0,Jack Grealish,Aston Villa
+2020-12-05,brunofernandes_manchesterutd,4.0,4.0,Bruno Fernandes,Manchester Utd
+2020-12-05,lucasdigne_everton,4.0,5.0,Lucas Digne,Everton
+2020-12-05,marcusrashford_manchesterutd,4.0,6.0,Marcus Rashford,Manchester Utd
+2020-12-05,aaroncresswell_westham,3.0,7.0,Aaron Cresswell,West Ham
+2020-12-05,andrewrobertson_liverpool,3.0,8.0,Andrew Robertson,Liverpool
+2020-12-05,jackharrison_leedsunited,3.0,9.0,Jack Harrison,Leeds United
+2020-12-05,timowerner_chelsea,3.0,10.0,Timo Werner,Chelsea
+2020-12-05,jameswardprowse_southampton,2.0,11.0,James Ward-Prowse,Southampton
+2020-12-05,jamievardy_leicestercity,2.0,12.0,Jamie Vardy,Leicester City
+2020-12-05,matheuspereira_westbrom,2.0,13.0,Matheus Pereira,West Brom
+2020-12-05,pascalgross_brighton,2.0,14.0,Pascal Gross,Brighton
+2020-12-05,pedroneto_wolves,2.0,15.0,Pedro Neto,Wolves
+2020-12-05,robertofirmino_liverpool,2.0,16.0,Roberto Firmino,Liverpool
+2020-12-05,saidbenrahma_westham,2.0,17.0,Said Benrahma,West Ham
+2020-12-05,sonheungmin_tottenham,2.0,18.0,Son Heung-min,Tottenham
+2020-12-05,bertrandtraore_astonvilla,1.0,19.0,Bertrand Traore,Aston Villa
+2020-12-05,eberechieze_crystalpalace,1.0,20.0,Eberechi Eze,Crystal Palace
+2020-12-05,patrickbamford_leedsunited,1.0,21.0,Patrick Bamford,Leeds United
+2020-12-05,raheemsterling_manchestercity,1.0,22.0,Raheem Sterling,Manchester City
+2020-12-05,riyadmahrez_manchestercity,1.0,23.0,Riyad Mahrez,Manchester City
+2020-12-05,sadiomane_liverpool,1.0,24.0,Sadio Mane,Liverpool
+2020-12-05,trentalexanderarnold_liverpool,1.0,25.0,Trent Alexander-Arnold,Liverpool
+2020-12-05,vladimircoufal_westham,1.0,26.0,Vladimir Coufal,West Ham
+2020-12-05,bernardosilva_manchestercity,0.0,27.0,Bernardo Silva,Manchester City
+2020-12-05,raphinha_leedsunited,0.0,28.0,Raphinha,Leeds United
+2020-12-06,harrykane_tottenham,10.0,1.0,Harry Kane,Tottenham
+2020-12-06,kevindebruyne_manchestercity,6.0,2.0,Kevin De Bruyne,Manchester City
+2020-12-06,jackgrealish_astonvilla,5.0,3.0,Jack Grealish,Aston Villa
+2020-12-06,brunofernandes_manchesterutd,4.0,4.0,Bruno Fernandes,Manchester Utd
+2020-12-06,lucasdigne_everton,4.0,5.0,Lucas Digne,Everton
+2020-12-06,marcusrashford_manchesterutd,4.0,6.0,Marcus Rashford,Manchester Utd
+2020-12-06,aaroncresswell_westham,3.0,7.0,Aaron Cresswell,West Ham
+2020-12-06,andrewrobertson_liverpool,3.0,8.0,Andrew Robertson,Liverpool
+2020-12-06,jackharrison_leedsunited,3.0,9.0,Jack Harrison,Leeds United
+2020-12-06,sonheungmin_tottenham,3.0,10.0,Son Heung-min,Tottenham
+2020-12-06,timowerner_chelsea,3.0,11.0,Timo Werner,Chelsea
+2020-12-06,eberechieze_crystalpalace,2.0,12.0,Eberechi Eze,Crystal Palace
+2020-12-06,jameswardprowse_southampton,2.0,13.0,James Ward-Prowse,Southampton
+2020-12-06,jamievardy_leicestercity,2.0,14.0,Jamie Vardy,Leicester City
+2020-12-06,matheuspereira_westbrom,2.0,15.0,Matheus Pereira,West Brom
+2020-12-06,pascalgross_brighton,2.0,16.0,Pascal Gross,Brighton
+2020-12-06,pedroneto_wolves,2.0,17.0,Pedro Neto,Wolves
+2020-12-06,robertofirmino_liverpool,2.0,18.0,Roberto Firmino,Liverpool
+2020-12-06,saidbenrahma_westham,2.0,19.0,Said Benrahma,West Ham
+2020-12-06,bertrandtraore_astonvilla,1.0,20.0,Bertrand Traore,Aston Villa
+2020-12-06,patrickbamford_leedsunited,1.0,21.0,Patrick Bamford,Leeds United
+2020-12-06,raheemsterling_manchestercity,1.0,22.0,Raheem Sterling,Manchester City
+2020-12-06,riyadmahrez_manchestercity,1.0,23.0,Riyad Mahrez,Manchester City
+2020-12-06,sadiomane_liverpool,1.0,24.0,Sadio Mane,Liverpool
+2020-12-06,trentalexanderarnold_liverpool,1.0,25.0,Trent Alexander-Arnold,Liverpool
+2020-12-06,vladimircoufal_westham,1.0,26.0,Vladimir Coufal,West Ham
+2020-12-06,bernardosilva_manchestercity,0.0,27.0,Bernardo Silva,Manchester City
+2020-12-06,raphinha_leedsunited,0.0,28.0,Raphinha,Leeds United
+2020-12-07,harrykane_tottenham,10.0,1.0,Harry Kane,Tottenham
+2020-12-07,kevindebruyne_manchestercity,6.0,2.0,Kevin De Bruyne,Manchester City
+2020-12-07,jackgrealish_astonvilla,5.0,3.0,Jack Grealish,Aston Villa
+2020-12-07,brunofernandes_manchesterutd,4.0,4.0,Bruno Fernandes,Manchester Utd
+2020-12-07,lucasdigne_everton,4.0,5.0,Lucas Digne,Everton
+2020-12-07,marcusrashford_manchesterutd,4.0,6.0,Marcus Rashford,Manchester Utd
+2020-12-07,aaroncresswell_westham,3.0,7.0,Aaron Cresswell,West Ham
+2020-12-07,andrewrobertson_liverpool,3.0,8.0,Andrew Robertson,Liverpool
+2020-12-07,jackharrison_leedsunited,3.0,9.0,Jack Harrison,Leeds United
+2020-12-07,jameswardprowse_southampton,3.0,10.0,James Ward-Prowse,Southampton
+2020-12-07,sonheungmin_tottenham,3.0,11.0,Son Heung-min,Tottenham
+2020-12-07,timowerner_chelsea,3.0,12.0,Timo Werner,Chelsea
+2020-12-07,eberechieze_crystalpalace,2.0,13.0,Eberechi Eze,Crystal Palace
+2020-12-07,jamievardy_leicestercity,2.0,14.0,Jamie Vardy,Leicester City
+2020-12-07,matheuspereira_westbrom,2.0,15.0,Matheus Pereira,West Brom
+2020-12-07,pascalgross_brighton,2.0,16.0,Pascal Gross,Brighton
+2020-12-07,pedroneto_wolves,2.0,17.0,Pedro Neto,Wolves
+2020-12-07,robertofirmino_liverpool,2.0,18.0,Roberto Firmino,Liverpool
+2020-12-07,saidbenrahma_westham,2.0,19.0,Said Benrahma,West Ham
+2020-12-07,bertrandtraore_astonvilla,1.0,20.0,Bertrand Traore,Aston Villa
+2020-12-07,patrickbamford_leedsunited,1.0,21.0,Patrick Bamford,Leeds United
+2020-12-07,raheemsterling_manchestercity,1.0,22.0,Raheem Sterling,Manchester City
+2020-12-07,riyadmahrez_manchestercity,1.0,23.0,Riyad Mahrez,Manchester City
+2020-12-07,sadiomane_liverpool,1.0,24.0,Sadio Mane,Liverpool
+2020-12-07,trentalexanderarnold_liverpool,1.0,25.0,Trent Alexander-Arnold,Liverpool
+2020-12-07,vladimircoufal_westham,1.0,26.0,Vladimir Coufal,West Ham
+2020-12-07,bernardosilva_manchestercity,0.0,27.0,Bernardo Silva,Manchester City
+2020-12-07,raphinha_leedsunited,0.0,28.0,Raphinha,Leeds United
+2020-12-11,harrykane_tottenham,10.0,1.0,Harry Kane,Tottenham
+2020-12-11,kevindebruyne_manchestercity,6.0,2.0,Kevin De Bruyne,Manchester City
+2020-12-11,jackgrealish_astonvilla,5.0,3.0,Jack Grealish,Aston Villa
+2020-12-11,aaroncresswell_westham,4.0,4.0,Aaron Cresswell,West Ham
+2020-12-11,brunofernandes_manchesterutd,4.0,5.0,Bruno Fernandes,Manchester Utd
+2020-12-11,lucasdigne_everton,4.0,6.0,Lucas Digne,Everton
+2020-12-11,marcusrashford_manchesterutd,4.0,7.0,Marcus Rashford,Manchester Utd
+2020-12-11,andrewrobertson_liverpool,3.0,8.0,Andrew Robertson,Liverpool
+2020-12-11,jackharrison_leedsunited,3.0,9.0,Jack Harrison,Leeds United
+2020-12-11,jameswardprowse_southampton,3.0,10.0,James Ward-Prowse,Southampton
+2020-12-11,sonheungmin_tottenham,3.0,11.0,Son Heung-min,Tottenham
+2020-12-11,timowerner_chelsea,3.0,12.0,Timo Werner,Chelsea
+2020-12-11,eberechieze_crystalpalace,2.0,13.0,Eberechi Eze,Crystal Palace
+2020-12-11,jamievardy_leicestercity,2.0,14.0,Jamie Vardy,Leicester City
+2020-12-11,matheuspereira_westbrom,2.0,15.0,Matheus Pereira,West Brom
+2020-12-11,pascalgross_brighton,2.0,16.0,Pascal Gross,Brighton
+2020-12-11,pedroneto_wolves,2.0,17.0,Pedro Neto,Wolves
+2020-12-11,robertofirmino_liverpool,2.0,18.0,Roberto Firmino,Liverpool
+2020-12-11,saidbenrahma_westham,2.0,19.0,Said Benrahma,West Ham
+2020-12-11,bertrandtraore_astonvilla,1.0,20.0,Bertrand Traore,Aston Villa
+2020-12-11,patrickbamford_leedsunited,1.0,21.0,Patrick Bamford,Leeds United
+2020-12-11,raheemsterling_manchestercity,1.0,22.0,Raheem Sterling,Manchester City
+2020-12-11,riyadmahrez_manchestercity,1.0,23.0,Riyad Mahrez,Manchester City
+2020-12-11,sadiomane_liverpool,1.0,24.0,Sadio Mane,Liverpool
+2020-12-11,trentalexanderarnold_liverpool,1.0,25.0,Trent Alexander-Arnold,Liverpool
+2020-12-11,vladimircoufal_westham,1.0,26.0,Vladimir Coufal,West Ham
+2020-12-11,bernardosilva_manchestercity,0.0,27.0,Bernardo Silva,Manchester City
+2020-12-11,raphinha_leedsunited,0.0,28.0,Raphinha,Leeds United
+2020-12-13,harrykane_tottenham,10.0,1.0,Harry Kane,Tottenham
+2020-12-13,kevindebruyne_manchestercity,6.0,2.0,Kevin De Bruyne,Manchester City
+2020-12-13,jackgrealish_astonvilla,5.0,3.0,Jack Grealish,Aston Villa
+2020-12-13,aaroncresswell_westham,4.0,4.0,Aaron Cresswell,West Ham
+2020-12-13,brunofernandes_manchesterutd,4.0,5.0,Bruno Fernandes,Manchester Utd
+2020-12-13,jamievardy_leicestercity,4.0,6.0,Jamie Vardy,Leicester City
+2020-12-13,lucasdigne_everton,4.0,7.0,Lucas Digne,Everton
+2020-12-13,marcusrashford_manchesterutd,4.0,8.0,Marcus Rashford,Manchester Utd
+2020-12-13,sonheungmin_tottenham,4.0,9.0,Son Heung-min,Tottenham
+2020-12-13,andrewrobertson_liverpool,3.0,10.0,Andrew Robertson,Liverpool
+2020-12-13,jackharrison_leedsunited,3.0,11.0,Jack Harrison,Leeds United
+2020-12-13,jameswardprowse_southampton,3.0,12.0,James Ward-Prowse,Southampton
+2020-12-13,timowerner_chelsea,3.0,13.0,Timo Werner,Chelsea
+2020-12-13,eberechieze_crystalpalace,2.0,14.0,Eberechi Eze,Crystal Palace
+2020-12-13,matheuspereira_westbrom,2.0,15.0,Matheus Pereira,West Brom
+2020-12-13,pascalgross_brighton,2.0,16.0,Pascal Gross,Brighton
+2020-12-13,pedroneto_wolves,2.0,17.0,Pedro Neto,Wolves
+2020-12-13,robertofirmino_liverpool,2.0,18.0,Roberto Firmino,Liverpool
+2020-12-13,saidbenrahma_westham,2.0,19.0,Said Benrahma,West Ham
+2020-12-13,bertrandtraore_astonvilla,1.0,20.0,Bertrand Traore,Aston Villa
+2020-12-13,patrickbamford_leedsunited,1.0,21.0,Patrick Bamford,Leeds United
+2020-12-13,raheemsterling_manchestercity,1.0,22.0,Raheem Sterling,Manchester City
+2020-12-13,riyadmahrez_manchestercity,1.0,23.0,Riyad Mahrez,Manchester City
+2020-12-13,sadiomane_liverpool,1.0,24.0,Sadio Mane,Liverpool
+2020-12-13,trentalexanderarnold_liverpool,1.0,25.0,Trent Alexander-Arnold,Liverpool
+2020-12-13,vladimircoufal_westham,1.0,26.0,Vladimir Coufal,West Ham
+2020-12-13,bernardosilva_manchestercity,0.0,27.0,Bernardo Silva,Manchester City
+2020-12-13,raphinha_leedsunited,0.0,28.0,Raphinha,Leeds United
+2020-12-15,harrykane_tottenham,10.0,1.0,Harry Kane,Tottenham
+2020-12-15,kevindebruyne_manchestercity,6.0,2.0,Kevin De Bruyne,Manchester City
+2020-12-15,jackgrealish_astonvilla,5.0,3.0,Jack Grealish,Aston Villa
+2020-12-15,aaroncresswell_westham,4.0,4.0,Aaron Cresswell,West Ham
+2020-12-15,brunofernandes_manchesterutd,4.0,5.0,Bruno Fernandes,Manchester Utd
+2020-12-15,jamievardy_leicestercity,4.0,6.0,Jamie Vardy,Leicester City
+2020-12-15,lucasdigne_everton,4.0,7.0,Lucas Digne,Everton
+2020-12-15,marcusrashford_manchesterutd,4.0,8.0,Marcus Rashford,Manchester Utd
+2020-12-15,sonheungmin_tottenham,4.0,9.0,Son Heung-min,Tottenham
+2020-12-15,andrewrobertson_liverpool,3.0,10.0,Andrew Robertson,Liverpool
+2020-12-15,jackharrison_leedsunited,3.0,11.0,Jack Harrison,Leeds United
+2020-12-15,jameswardprowse_southampton,3.0,12.0,James Ward-Prowse,Southampton
+2020-12-15,timowerner_chelsea,3.0,13.0,Timo Werner,Chelsea
+2020-12-15,eberechieze_crystalpalace,2.0,14.0,Eberechi Eze,Crystal Palace
+2020-12-15,matheuspereira_westbrom,2.0,15.0,Matheus Pereira,West Brom
+2020-12-15,pascalgross_brighton,2.0,16.0,Pascal Gross,Brighton
+2020-12-15,pedroneto_wolves,2.0,17.0,Pedro Neto,Wolves
+2020-12-15,raheemsterling_manchestercity,2.0,18.0,Raheem Sterling,Manchester City
+2020-12-15,robertofirmino_liverpool,2.0,19.0,Roberto Firmino,Liverpool
+2020-12-15,saidbenrahma_westham,2.0,20.0,Said Benrahma,West Ham
+2020-12-15,bertrandtraore_astonvilla,1.0,21.0,Bertrand Traore,Aston Villa
+2020-12-15,patrickbamford_leedsunited,1.0,22.0,Patrick Bamford,Leeds United
+2020-12-15,riyadmahrez_manchestercity,1.0,23.0,Riyad Mahrez,Manchester City
+2020-12-15,sadiomane_liverpool,1.0,24.0,Sadio Mane,Liverpool
+2020-12-15,trentalexanderarnold_liverpool,1.0,25.0,Trent Alexander-Arnold,Liverpool
+2020-12-15,vladimircoufal_westham,1.0,26.0,Vladimir Coufal,West Ham
+2020-12-15,bernardosilva_manchestercity,0.0,27.0,Bernardo Silva,Manchester City
+2020-12-15,raphinha_leedsunited,0.0,28.0,Raphinha,Leeds United
+2020-12-16,harrykane_tottenham,10.0,1.0,Harry Kane,Tottenham
+2020-12-16,kevindebruyne_manchestercity,6.0,2.0,Kevin De Bruyne,Manchester City
+2020-12-16,jackgrealish_astonvilla,5.0,3.0,Jack Grealish,Aston Villa
+2020-12-16,aaroncresswell_westham,4.0,4.0,Aaron Cresswell,West Ham
+2020-12-16,andrewrobertson_liverpool,4.0,5.0,Andrew Robertson,Liverpool
+2020-12-16,brunofernandes_manchesterutd,4.0,6.0,Bruno Fernandes,Manchester Utd
+2020-12-16,jackharrison_leedsunited,4.0,7.0,Jack Harrison,Leeds United
+2020-12-16,jamievardy_leicestercity,4.0,8.0,Jamie Vardy,Leicester City
+2020-12-16,lucasdigne_everton,4.0,9.0,Lucas Digne,Everton
+2020-12-16,marcusrashford_manchesterutd,4.0,10.0,Marcus Rashford,Manchester Utd
+2020-12-16,sonheungmin_tottenham,4.0,11.0,Son Heung-min,Tottenham
+2020-12-16,jameswardprowse_southampton,3.0,12.0,James Ward-Prowse,Southampton
+2020-12-16,timowerner_chelsea,3.0,13.0,Timo Werner,Chelsea
+2020-12-16,eberechieze_crystalpalace,2.0,14.0,Eberechi Eze,Crystal Palace
+2020-12-16,matheuspereira_westbrom,2.0,15.0,Matheus Pereira,West Brom
+2020-12-16,pascalgross_brighton,2.0,16.0,Pascal Gross,Brighton
+2020-12-16,pedroneto_wolves,2.0,17.0,Pedro Neto,Wolves
+2020-12-16,raheemsterling_manchestercity,2.0,18.0,Raheem Sterling,Manchester City
+2020-12-16,robertofirmino_liverpool,2.0,19.0,Roberto Firmino,Liverpool
+2020-12-16,saidbenrahma_westham,2.0,20.0,Said Benrahma,West Ham
+2020-12-16,vladimircoufal_westham,2.0,21.0,Vladimir Coufal,West Ham
+2020-12-16,bertrandtraore_astonvilla,1.0,22.0,Bertrand Traore,Aston Villa
+2020-12-16,patrickbamford_leedsunited,1.0,23.0,Patrick Bamford,Leeds United
+2020-12-16,riyadmahrez_manchestercity,1.0,24.0,Riyad Mahrez,Manchester City
+2020-12-16,sadiomane_liverpool,1.0,25.0,Sadio Mane,Liverpool
+2020-12-16,trentalexanderarnold_liverpool,1.0,26.0,Trent Alexander-Arnold,Liverpool
+2020-12-16,bernardosilva_manchestercity,0.0,27.0,Bernardo Silva,Manchester City
+2020-12-16,raphinha_leedsunited,0.0,28.0,Raphinha,Leeds United
+2020-12-19,harrykane_tottenham,10.0,1.0,Harry Kane,Tottenham
+2020-12-19,kevindebruyne_manchestercity,7.0,2.0,Kevin De Bruyne,Manchester City
+2020-12-19,andrewrobertson_liverpool,5.0,3.0,Andrew Robertson,Liverpool
+2020-12-19,jackgrealish_astonvilla,5.0,4.0,Jack Grealish,Aston Villa
+2020-12-19,aaroncresswell_westham,4.0,5.0,Aaron Cresswell,West Ham
+2020-12-19,brunofernandes_manchesterutd,4.0,6.0,Bruno Fernandes,Manchester Utd
+2020-12-19,jackharrison_leedsunited,4.0,7.0,Jack Harrison,Leeds United
+2020-12-19,jamievardy_leicestercity,4.0,8.0,Jamie Vardy,Leicester City
+2020-12-19,lucasdigne_everton,4.0,9.0,Lucas Digne,Everton
+2020-12-19,marcusrashford_manchesterutd,4.0,10.0,Marcus Rashford,Manchester Utd
+2020-12-19,sonheungmin_tottenham,4.0,11.0,Son Heung-min,Tottenham
+2020-12-19,jameswardprowse_southampton,3.0,12.0,James Ward-Prowse,Southampton
+2020-12-19,robertofirmino_liverpool,3.0,13.0,Roberto Firmino,Liverpool
+2020-12-19,timowerner_chelsea,3.0,14.0,Timo Werner,Chelsea
+2020-12-19,eberechieze_crystalpalace,2.0,15.0,Eberechi Eze,Crystal Palace
+2020-12-19,matheuspereira_westbrom,2.0,16.0,Matheus Pereira,West Brom
+2020-12-19,pascalgross_brighton,2.0,17.0,Pascal Gross,Brighton
+2020-12-19,pedroneto_wolves,2.0,18.0,Pedro Neto,Wolves
+2020-12-19,raheemsterling_manchestercity,2.0,19.0,Raheem Sterling,Manchester City
+2020-12-19,sadiomane_liverpool,2.0,20.0,Sadio Mane,Liverpool
+2020-12-19,saidbenrahma_westham,2.0,21.0,Said Benrahma,West Ham
+2020-12-19,trentalexanderarnold_liverpool,2.0,22.0,Trent Alexander-Arnold,Liverpool
+2020-12-19,vladimircoufal_westham,2.0,23.0,Vladimir Coufal,West Ham
+2020-12-19,bertrandtraore_astonvilla,1.0,24.0,Bertrand Traore,Aston Villa
+2020-12-19,patrickbamford_leedsunited,1.0,25.0,Patrick Bamford,Leeds United
+2020-12-19,riyadmahrez_manchestercity,1.0,26.0,Riyad Mahrez,Manchester City
+2020-12-19,bernardosilva_manchestercity,0.0,27.0,Bernardo Silva,Manchester City
+2020-12-19,raphinha_leedsunited,0.0,28.0,Raphinha,Leeds United
+2020-12-20,harrykane_tottenham,10.0,1.0,Harry Kane,Tottenham
+2020-12-20,kevindebruyne_manchestercity,7.0,2.0,Kevin De Bruyne,Manchester City
+2020-12-20,jackgrealish_astonvilla,6.0,3.0,Jack Grealish,Aston Villa
+2020-12-20,andrewrobertson_liverpool,5.0,4.0,Andrew Robertson,Liverpool
+2020-12-20,brunofernandes_manchesterutd,5.0,5.0,Bruno Fernandes,Manchester Utd
+2020-12-20,aaroncresswell_westham,4.0,6.0,Aaron Cresswell,West Ham
+2020-12-20,jackharrison_leedsunited,4.0,7.0,Jack Harrison,Leeds United
+2020-12-20,jamievardy_leicestercity,4.0,8.0,Jamie Vardy,Leicester City
+2020-12-20,lucasdigne_everton,4.0,9.0,Lucas Digne,Everton
+2020-12-20,marcusrashford_manchesterutd,4.0,10.0,Marcus Rashford,Manchester Utd
+2020-12-20,sonheungmin_tottenham,4.0,11.0,Son Heung-min,Tottenham
+2020-12-20,jameswardprowse_southampton,3.0,12.0,James Ward-Prowse,Southampton
+2020-12-20,robertofirmino_liverpool,3.0,13.0,Roberto Firmino,Liverpool
+2020-12-20,timowerner_chelsea,3.0,14.0,Timo Werner,Chelsea
+2020-12-20,bertrandtraore_astonvilla,2.0,15.0,Bertrand Traore,Aston Villa
+2020-12-20,eberechieze_crystalpalace,2.0,16.0,Eberechi Eze,Crystal Palace
+2020-12-20,matheuspereira_westbrom,2.0,17.0,Matheus Pereira,West Brom
+2020-12-20,pascalgross_brighton,2.0,18.0,Pascal Gross,Brighton
+2020-12-20,pedroneto_wolves,2.0,19.0,Pedro Neto,Wolves
+2020-12-20,raheemsterling_manchestercity,2.0,20.0,Raheem Sterling,Manchester City
+2020-12-20,raphinha_leedsunited,2.0,21.0,Raphinha,Leeds United
+2020-12-20,sadiomane_liverpool,2.0,22.0,Sadio Mane,Liverpool
+2020-12-20,saidbenrahma_westham,2.0,23.0,Said Benrahma,West Ham
+2020-12-20,trentalexanderarnold_liverpool,2.0,24.0,Trent Alexander-Arnold,Liverpool
+2020-12-20,vladimircoufal_westham,2.0,25.0,Vladimir Coufal,West Ham
+2020-12-20,patrickbamford_leedsunited,1.0,26.0,Patrick Bamford,Leeds United
+2020-12-20,riyadmahrez_manchestercity,1.0,27.0,Riyad Mahrez,Manchester City
+2020-12-20,bernardosilva_manchestercity,0.0,28.0,Bernardo Silva,Manchester City
+2020-12-21,harrykane_tottenham,10.0,1.0,Harry Kane,Tottenham
+2020-12-21,kevindebruyne_manchestercity,7.0,2.0,Kevin De Bruyne,Manchester City
+2020-12-21,jackgrealish_astonvilla,6.0,3.0,Jack Grealish,Aston Villa
+2020-12-21,andrewrobertson_liverpool,5.0,4.0,Andrew Robertson,Liverpool
+2020-12-21,brunofernandes_manchesterutd,5.0,5.0,Bruno Fernandes,Manchester Utd
+2020-12-21,aaroncresswell_westham,4.0,6.0,Aaron Cresswell,West Ham
+2020-12-21,jackharrison_leedsunited,4.0,7.0,Jack Harrison,Leeds United
+2020-12-21,jamievardy_leicestercity,4.0,8.0,Jamie Vardy,Leicester City
+2020-12-21,lucasdigne_everton,4.0,9.0,Lucas Digne,Everton
+2020-12-21,marcusrashford_manchesterutd,4.0,10.0,Marcus Rashford,Manchester Utd
+2020-12-21,sonheungmin_tottenham,4.0,11.0,Son Heung-min,Tottenham
+2020-12-21,timowerner_chelsea,4.0,12.0,Timo Werner,Chelsea
+2020-12-21,jameswardprowse_southampton,3.0,13.0,James Ward-Prowse,Southampton
+2020-12-21,robertofirmino_liverpool,3.0,14.0,Roberto Firmino,Liverpool
+2020-12-21,bertrandtraore_astonvilla,2.0,15.0,Bertrand Traore,Aston Villa
+2020-12-21,eberechieze_crystalpalace,2.0,16.0,Eberechi Eze,Crystal Palace
+2020-12-21,matheuspereira_westbrom,2.0,17.0,Matheus Pereira,West Brom
+2020-12-21,pascalgross_brighton,2.0,18.0,Pascal Gross,Brighton
+2020-12-21,pedroneto_wolves,2.0,19.0,Pedro Neto,Wolves
+2020-12-21,raheemsterling_manchestercity,2.0,20.0,Raheem Sterling,Manchester City
+2020-12-21,raphinha_leedsunited,2.0,21.0,Raphinha,Leeds United
+2020-12-21,sadiomane_liverpool,2.0,22.0,Sadio Mane,Liverpool
+2020-12-21,saidbenrahma_westham,2.0,23.0,Said Benrahma,West Ham
+2020-12-21,trentalexanderarnold_liverpool,2.0,24.0,Trent Alexander-Arnold,Liverpool
+2020-12-21,vladimircoufal_westham,2.0,25.0,Vladimir Coufal,West Ham
+2020-12-21,patrickbamford_leedsunited,1.0,26.0,Patrick Bamford,Leeds United
+2020-12-21,riyadmahrez_manchestercity,1.0,27.0,Riyad Mahrez,Manchester City
+2020-12-21,bernardosilva_manchestercity,0.0,28.0,Bernardo Silva,Manchester City
+2020-12-26,harrykane_tottenham,10.0,1.0,Harry Kane,Tottenham
+2020-12-26,kevindebruyne_manchestercity,7.0,2.0,Kevin De Bruyne,Manchester City
+2020-12-26,brunofernandes_manchesterutd,6.0,3.0,Bruno Fernandes,Manchester Utd
+2020-12-26,jackgrealish_astonvilla,6.0,4.0,Jack Grealish,Aston Villa
+2020-12-26,andrewrobertson_liverpool,5.0,5.0,Andrew Robertson,Liverpool
+2020-12-26,aaroncresswell_westham,4.0,6.0,Aaron Cresswell,West Ham
+2020-12-26,jackharrison_leedsunited,4.0,7.0,Jack Harrison,Leeds United
+2020-12-26,jamievardy_leicestercity,4.0,8.0,Jamie Vardy,Leicester City
+2020-12-26,lucasdigne_everton,4.0,9.0,Lucas Digne,Everton
+2020-12-26,marcusrashford_manchesterutd,4.0,10.0,Marcus Rashford,Manchester Utd
+2020-12-26,sonheungmin_tottenham,4.0,11.0,Son Heung-min,Tottenham
+2020-12-26,timowerner_chelsea,4.0,12.0,Timo Werner,Chelsea
+2020-12-26,jameswardprowse_southampton,3.0,13.0,James Ward-Prowse,Southampton
+2020-12-26,raheemsterling_manchestercity,3.0,14.0,Raheem Sterling,Manchester City
+2020-12-26,robertofirmino_liverpool,3.0,15.0,Roberto Firmino,Liverpool
+2020-12-26,bertrandtraore_astonvilla,2.0,16.0,Bertrand Traore,Aston Villa
+2020-12-26,eberechieze_crystalpalace,2.0,17.0,Eberechi Eze,Crystal Palace
+2020-12-26,matheuspereira_westbrom,2.0,18.0,Matheus Pereira,West Brom
+2020-12-26,pascalgross_brighton,2.0,19.0,Pascal Gross,Brighton
+2020-12-26,pedroneto_wolves,2.0,20.0,Pedro Neto,Wolves
+2020-12-26,raphinha_leedsunited,2.0,21.0,Raphinha,Leeds United
+2020-12-26,sadiomane_liverpool,2.0,22.0,Sadio Mane,Liverpool
+2020-12-26,saidbenrahma_westham,2.0,23.0,Said Benrahma,West Ham
+2020-12-26,trentalexanderarnold_liverpool,2.0,24.0,Trent Alexander-Arnold,Liverpool
+2020-12-26,vladimircoufal_westham,2.0,25.0,Vladimir Coufal,West Ham
+2020-12-26,patrickbamford_leedsunited,1.0,26.0,Patrick Bamford,Leeds United
+2020-12-26,riyadmahrez_manchestercity,1.0,27.0,Riyad Mahrez,Manchester City
+2020-12-26,bernardosilva_manchestercity,0.0,28.0,Bernardo Silva,Manchester City
+2020-12-27,harrykane_tottenham,10.0,1.0,Harry Kane,Tottenham
+2020-12-27,kevindebruyne_manchestercity,7.0,2.0,Kevin De Bruyne,Manchester City
+2020-12-27,brunofernandes_manchesterutd,6.0,3.0,Bruno Fernandes,Manchester Utd
+2020-12-27,jackgrealish_astonvilla,6.0,4.0,Jack Grealish,Aston Villa
+2020-12-27,andrewrobertson_liverpool,5.0,5.0,Andrew Robertson,Liverpool
+2020-12-27,aaroncresswell_westham,4.0,6.0,Aaron Cresswell,West Ham
+2020-12-27,jackharrison_leedsunited,4.0,7.0,Jack Harrison,Leeds United
+2020-12-27,jamievardy_leicestercity,4.0,8.0,Jamie Vardy,Leicester City
+2020-12-27,lucasdigne_everton,4.0,9.0,Lucas Digne,Everton
+2020-12-27,marcusrashford_manchesterutd,4.0,10.0,Marcus Rashford,Manchester Utd
+2020-12-27,sonheungmin_tottenham,4.0,11.0,Son Heung-min,Tottenham
+2020-12-27,timowerner_chelsea,4.0,12.0,Timo Werner,Chelsea
+2020-12-27,jameswardprowse_southampton,3.0,13.0,James Ward-Prowse,Southampton
+2020-12-27,matheuspereira_westbrom,3.0,14.0,Matheus Pereira,West Brom
+2020-12-27,pedroneto_wolves,3.0,15.0,Pedro Neto,Wolves
+2020-12-27,raheemsterling_manchestercity,3.0,16.0,Raheem Sterling,Manchester City
+2020-12-27,robertofirmino_liverpool,3.0,17.0,Roberto Firmino,Liverpool
+2020-12-27,bertrandtraore_astonvilla,2.0,18.0,Bertrand Traore,Aston Villa
+2020-12-27,eberechieze_crystalpalace,2.0,19.0,Eberechi Eze,Crystal Palace
+2020-12-27,pascalgross_brighton,2.0,20.0,Pascal Gross,Brighton
+2020-12-27,raphinha_leedsunited,2.0,21.0,Raphinha,Leeds United
+2020-12-27,sadiomane_liverpool,2.0,22.0,Sadio Mane,Liverpool
+2020-12-27,saidbenrahma_westham,2.0,23.0,Said Benrahma,West Ham
+2020-12-27,trentalexanderarnold_liverpool,2.0,24.0,Trent Alexander-Arnold,Liverpool
+2020-12-27,vladimircoufal_westham,2.0,25.0,Vladimir Coufal,West Ham
+2020-12-27,patrickbamford_leedsunited,1.0,26.0,Patrick Bamford,Leeds United
+2020-12-27,riyadmahrez_manchestercity,1.0,27.0,Riyad Mahrez,Manchester City
+2020-12-27,bernardosilva_manchestercity,0.0,28.0,Bernardo Silva,Manchester City
+2020-12-29,harrykane_tottenham,10.0,1.0,Harry Kane,Tottenham
+2020-12-29,brunofernandes_manchesterutd,7.0,2.0,Bruno Fernandes,Manchester Utd
+2020-12-29,kevindebruyne_manchestercity,7.0,3.0,Kevin De Bruyne,Manchester City
+2020-12-29,jackgrealish_astonvilla,6.0,4.0,Jack Grealish,Aston Villa
+2020-12-29,andrewrobertson_liverpool,5.0,5.0,Andrew Robertson,Liverpool
+2020-12-29,aaroncresswell_westham,4.0,6.0,Aaron Cresswell,West Ham
+2020-12-29,jackharrison_leedsunited,4.0,7.0,Jack Harrison,Leeds United
+2020-12-29,jamievardy_leicestercity,4.0,8.0,Jamie Vardy,Leicester City
+2020-12-29,lucasdigne_everton,4.0,9.0,Lucas Digne,Everton
+2020-12-29,marcusrashford_manchesterutd,4.0,10.0,Marcus Rashford,Manchester Utd
+2020-12-29,sonheungmin_tottenham,4.0,11.0,Son Heung-min,Tottenham
+2020-12-29,timowerner_chelsea,4.0,12.0,Timo Werner,Chelsea
+2020-12-29,jameswardprowse_southampton,3.0,13.0,James Ward-Prowse,Southampton
+2020-12-29,matheuspereira_westbrom,3.0,14.0,Matheus Pereira,West Brom
+2020-12-29,pedroneto_wolves,3.0,15.0,Pedro Neto,Wolves
+2020-12-29,raheemsterling_manchestercity,3.0,16.0,Raheem Sterling,Manchester City
+2020-12-29,robertofirmino_liverpool,3.0,17.0,Roberto Firmino,Liverpool
+2020-12-29,bertrandtraore_astonvilla,2.0,18.0,Bertrand Traore,Aston Villa
+2020-12-29,eberechieze_crystalpalace,2.0,19.0,Eberechi Eze,Crystal Palace
+2020-12-29,pascalgross_brighton,2.0,20.0,Pascal Gross,Brighton
+2020-12-29,patrickbamford_leedsunited,2.0,21.0,Patrick Bamford,Leeds United
+2020-12-29,raphinha_leedsunited,2.0,22.0,Raphinha,Leeds United
+2020-12-29,sadiomane_liverpool,2.0,23.0,Sadio Mane,Liverpool
+2020-12-29,saidbenrahma_westham,2.0,24.0,Said Benrahma,West Ham
+2020-12-29,trentalexanderarnold_liverpool,2.0,25.0,Trent Alexander-Arnold,Liverpool
+2020-12-29,vladimircoufal_westham,2.0,26.0,Vladimir Coufal,West Ham
+2020-12-29,riyadmahrez_manchestercity,1.0,27.0,Riyad Mahrez,Manchester City
+2020-12-29,bernardosilva_manchestercity,0.0,28.0,Bernardo Silva,Manchester City
+2021-01-01,harrykane_tottenham,10.0,1.0,Harry Kane,Tottenham
+2021-01-01,brunofernandes_manchesterutd,7.0,2.0,Bruno Fernandes,Manchester Utd
+2021-01-01,jackgrealish_astonvilla,7.0,3.0,Jack Grealish,Aston Villa
+2021-01-01,kevindebruyne_manchestercity,7.0,4.0,Kevin De Bruyne,Manchester City
+2021-01-01,andrewrobertson_liverpool,5.0,5.0,Andrew Robertson,Liverpool
+2021-01-01,aaroncresswell_westham,4.0,6.0,Aaron Cresswell,West Ham
+2021-01-01,jackharrison_leedsunited,4.0,7.0,Jack Harrison,Leeds United
+2021-01-01,jamievardy_leicestercity,4.0,8.0,Jamie Vardy,Leicester City
+2021-01-01,lucasdigne_everton,4.0,9.0,Lucas Digne,Everton
+2021-01-01,marcusrashford_manchesterutd,4.0,10.0,Marcus Rashford,Manchester Utd
+2021-01-01,sonheungmin_tottenham,4.0,11.0,Son Heung-min,Tottenham
+2021-01-01,timowerner_chelsea,4.0,12.0,Timo Werner,Chelsea
+2021-01-01,jameswardprowse_southampton,3.0,13.0,James Ward-Prowse,Southampton
+2021-01-01,matheuspereira_westbrom,3.0,14.0,Matheus Pereira,West Brom
+2021-01-01,pedroneto_wolves,3.0,15.0,Pedro Neto,Wolves
+2021-01-01,raheemsterling_manchestercity,3.0,16.0,Raheem Sterling,Manchester City
+2021-01-01,robertofirmino_liverpool,3.0,17.0,Roberto Firmino,Liverpool
+2021-01-01,bertrandtraore_astonvilla,2.0,18.0,Bertrand Traore,Aston Villa
+2021-01-01,eberechieze_crystalpalace,2.0,19.0,Eberechi Eze,Crystal Palace
+2021-01-01,pascalgross_brighton,2.0,20.0,Pascal Gross,Brighton
+2021-01-01,patrickbamford_leedsunited,2.0,21.0,Patrick Bamford,Leeds United
+2021-01-01,raphinha_leedsunited,2.0,22.0,Raphinha,Leeds United
+2021-01-01,sadiomane_liverpool,2.0,23.0,Sadio Mane,Liverpool
+2021-01-01,saidbenrahma_westham,2.0,24.0,Said Benrahma,West Ham
+2021-01-01,trentalexanderarnold_liverpool,2.0,25.0,Trent Alexander-Arnold,Liverpool
+2021-01-01,vladimircoufal_westham,2.0,26.0,Vladimir Coufal,West Ham
+2021-01-01,riyadmahrez_manchestercity,1.0,27.0,Riyad Mahrez,Manchester City
+2021-01-01,bernardosilva_manchestercity,0.0,28.0,Bernardo Silva,Manchester City
+2021-01-02,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-01-02,brunofernandes_manchesterutd,7.0,2.0,Bruno Fernandes,Manchester Utd
+2021-01-02,jackgrealish_astonvilla,7.0,3.0,Jack Grealish,Aston Villa
+2021-01-02,kevindebruyne_manchestercity,7.0,4.0,Kevin De Bruyne,Manchester City
+2021-01-02,andrewrobertson_liverpool,5.0,5.0,Andrew Robertson,Liverpool
+2021-01-02,sonheungmin_tottenham,5.0,6.0,Son Heung-min,Tottenham
+2021-01-02,aaroncresswell_westham,4.0,7.0,Aaron Cresswell,West Ham
+2021-01-02,jackharrison_leedsunited,4.0,8.0,Jack Harrison,Leeds United
+2021-01-02,jamievardy_leicestercity,4.0,9.0,Jamie Vardy,Leicester City
+2021-01-02,lucasdigne_everton,4.0,10.0,Lucas Digne,Everton
+2021-01-02,marcusrashford_manchesterutd,4.0,11.0,Marcus Rashford,Manchester Utd
+2021-01-02,timowerner_chelsea,4.0,12.0,Timo Werner,Chelsea
+2021-01-02,jameswardprowse_southampton,3.0,13.0,James Ward-Prowse,Southampton
+2021-01-02,matheuspereira_westbrom,3.0,14.0,Matheus Pereira,West Brom
+2021-01-02,pedroneto_wolves,3.0,15.0,Pedro Neto,Wolves
+2021-01-02,raheemsterling_manchestercity,3.0,16.0,Raheem Sterling,Manchester City
+2021-01-02,robertofirmino_liverpool,3.0,17.0,Roberto Firmino,Liverpool
+2021-01-02,bertrandtraore_astonvilla,2.0,18.0,Bertrand Traore,Aston Villa
+2021-01-02,eberechieze_crystalpalace,2.0,19.0,Eberechi Eze,Crystal Palace
+2021-01-02,pascalgross_brighton,2.0,20.0,Pascal Gross,Brighton
+2021-01-02,patrickbamford_leedsunited,2.0,21.0,Patrick Bamford,Leeds United
+2021-01-02,raphinha_leedsunited,2.0,22.0,Raphinha,Leeds United
+2021-01-02,sadiomane_liverpool,2.0,23.0,Sadio Mane,Liverpool
+2021-01-02,saidbenrahma_westham,2.0,24.0,Said Benrahma,West Ham
+2021-01-02,trentalexanderarnold_liverpool,2.0,25.0,Trent Alexander-Arnold,Liverpool
+2021-01-02,vladimircoufal_westham,2.0,26.0,Vladimir Coufal,West Ham
+2021-01-02,riyadmahrez_manchestercity,1.0,27.0,Riyad Mahrez,Manchester City
+2021-01-02,bernardosilva_manchestercity,0.0,28.0,Bernardo Silva,Manchester City
+2021-01-03,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-01-03,kevindebruyne_manchestercity,8.0,2.0,Kevin De Bruyne,Manchester City
+2021-01-03,brunofernandes_manchesterutd,7.0,3.0,Bruno Fernandes,Manchester Utd
+2021-01-03,jackgrealish_astonvilla,7.0,4.0,Jack Grealish,Aston Villa
+2021-01-03,andrewrobertson_liverpool,5.0,5.0,Andrew Robertson,Liverpool
+2021-01-03,jamievardy_leicestercity,5.0,6.0,Jamie Vardy,Leicester City
+2021-01-03,sonheungmin_tottenham,5.0,7.0,Son Heung-min,Tottenham
+2021-01-03,aaroncresswell_westham,4.0,8.0,Aaron Cresswell,West Ham
+2021-01-03,jackharrison_leedsunited,4.0,9.0,Jack Harrison,Leeds United
+2021-01-03,lucasdigne_everton,4.0,10.0,Lucas Digne,Everton
+2021-01-03,marcusrashford_manchesterutd,4.0,11.0,Marcus Rashford,Manchester Utd
+2021-01-03,timowerner_chelsea,4.0,12.0,Timo Werner,Chelsea
+2021-01-03,jameswardprowse_southampton,3.0,13.0,James Ward-Prowse,Southampton
+2021-01-03,matheuspereira_westbrom,3.0,14.0,Matheus Pereira,West Brom
+2021-01-03,pedroneto_wolves,3.0,15.0,Pedro Neto,Wolves
+2021-01-03,raheemsterling_manchestercity,3.0,16.0,Raheem Sterling,Manchester City
+2021-01-03,robertofirmino_liverpool,3.0,17.0,Roberto Firmino,Liverpool
+2021-01-03,bertrandtraore_astonvilla,2.0,18.0,Bertrand Traore,Aston Villa
+2021-01-03,eberechieze_crystalpalace,2.0,19.0,Eberechi Eze,Crystal Palace
+2021-01-03,pascalgross_brighton,2.0,20.0,Pascal Gross,Brighton
+2021-01-03,patrickbamford_leedsunited,2.0,21.0,Patrick Bamford,Leeds United
+2021-01-03,raphinha_leedsunited,2.0,22.0,Raphinha,Leeds United
+2021-01-03,sadiomane_liverpool,2.0,23.0,Sadio Mane,Liverpool
+2021-01-03,saidbenrahma_westham,2.0,24.0,Said Benrahma,West Ham
+2021-01-03,trentalexanderarnold_liverpool,2.0,25.0,Trent Alexander-Arnold,Liverpool
+2021-01-03,vladimircoufal_westham,2.0,26.0,Vladimir Coufal,West Ham
+2021-01-03,riyadmahrez_manchestercity,1.0,27.0,Riyad Mahrez,Manchester City
+2021-01-03,bernardosilva_manchestercity,0.0,28.0,Bernardo Silva,Manchester City
+2021-01-04,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-01-04,kevindebruyne_manchestercity,8.0,2.0,Kevin De Bruyne,Manchester City
+2021-01-04,brunofernandes_manchesterutd,7.0,3.0,Bruno Fernandes,Manchester Utd
+2021-01-04,jackgrealish_astonvilla,7.0,4.0,Jack Grealish,Aston Villa
+2021-01-04,andrewrobertson_liverpool,5.0,5.0,Andrew Robertson,Liverpool
+2021-01-04,jamievardy_leicestercity,5.0,6.0,Jamie Vardy,Leicester City
+2021-01-04,sonheungmin_tottenham,5.0,7.0,Son Heung-min,Tottenham
+2021-01-04,aaroncresswell_westham,4.0,8.0,Aaron Cresswell,West Ham
+2021-01-04,jackharrison_leedsunited,4.0,9.0,Jack Harrison,Leeds United
+2021-01-04,jameswardprowse_southampton,4.0,10.0,James Ward-Prowse,Southampton
+2021-01-04,lucasdigne_everton,4.0,11.0,Lucas Digne,Everton
+2021-01-04,marcusrashford_manchesterutd,4.0,12.0,Marcus Rashford,Manchester Utd
+2021-01-04,timowerner_chelsea,4.0,13.0,Timo Werner,Chelsea
+2021-01-04,matheuspereira_westbrom,3.0,14.0,Matheus Pereira,West Brom
+2021-01-04,pedroneto_wolves,3.0,15.0,Pedro Neto,Wolves
+2021-01-04,raheemsterling_manchestercity,3.0,16.0,Raheem Sterling,Manchester City
+2021-01-04,robertofirmino_liverpool,3.0,17.0,Roberto Firmino,Liverpool
+2021-01-04,bertrandtraore_astonvilla,2.0,18.0,Bertrand Traore,Aston Villa
+2021-01-04,eberechieze_crystalpalace,2.0,19.0,Eberechi Eze,Crystal Palace
+2021-01-04,pascalgross_brighton,2.0,20.0,Pascal Gross,Brighton
+2021-01-04,patrickbamford_leedsunited,2.0,21.0,Patrick Bamford,Leeds United
+2021-01-04,raphinha_leedsunited,2.0,22.0,Raphinha,Leeds United
+2021-01-04,sadiomane_liverpool,2.0,23.0,Sadio Mane,Liverpool
+2021-01-04,saidbenrahma_westham,2.0,24.0,Said Benrahma,West Ham
+2021-01-04,trentalexanderarnold_liverpool,2.0,25.0,Trent Alexander-Arnold,Liverpool
+2021-01-04,vladimircoufal_westham,2.0,26.0,Vladimir Coufal,West Ham
+2021-01-04,riyadmahrez_manchestercity,1.0,27.0,Riyad Mahrez,Manchester City
+2021-01-04,bernardosilva_manchestercity,0.0,28.0,Bernardo Silva,Manchester City
+2021-01-12,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-01-12,kevindebruyne_manchestercity,8.0,2.0,Kevin De Bruyne,Manchester City
+2021-01-12,brunofernandes_manchesterutd,7.0,3.0,Bruno Fernandes,Manchester Utd
+2021-01-12,jackgrealish_astonvilla,7.0,4.0,Jack Grealish,Aston Villa
+2021-01-12,andrewrobertson_liverpool,5.0,5.0,Andrew Robertson,Liverpool
+2021-01-12,jamievardy_leicestercity,5.0,6.0,Jamie Vardy,Leicester City
+2021-01-12,lucasdigne_everton,5.0,7.0,Lucas Digne,Everton
+2021-01-12,marcusrashford_manchesterutd,5.0,8.0,Marcus Rashford,Manchester Utd
+2021-01-12,sonheungmin_tottenham,5.0,9.0,Son Heung-min,Tottenham
+2021-01-12,aaroncresswell_westham,4.0,10.0,Aaron Cresswell,West Ham
+2021-01-12,jackharrison_leedsunited,4.0,11.0,Jack Harrison,Leeds United
+2021-01-12,jameswardprowse_southampton,4.0,12.0,James Ward-Prowse,Southampton
+2021-01-12,timowerner_chelsea,4.0,13.0,Timo Werner,Chelsea
+2021-01-12,matheuspereira_westbrom,3.0,14.0,Matheus Pereira,West Brom
+2021-01-12,pedroneto_wolves,3.0,15.0,Pedro Neto,Wolves
+2021-01-12,raheemsterling_manchestercity,3.0,16.0,Raheem Sterling,Manchester City
+2021-01-12,robertofirmino_liverpool,3.0,17.0,Roberto Firmino,Liverpool
+2021-01-12,bertrandtraore_astonvilla,2.0,18.0,Bertrand Traore,Aston Villa
+2021-01-12,eberechieze_crystalpalace,2.0,19.0,Eberechi Eze,Crystal Palace
+2021-01-12,pascalgross_brighton,2.0,20.0,Pascal Gross,Brighton
+2021-01-12,patrickbamford_leedsunited,2.0,21.0,Patrick Bamford,Leeds United
+2021-01-12,raphinha_leedsunited,2.0,22.0,Raphinha,Leeds United
+2021-01-12,sadiomane_liverpool,2.0,23.0,Sadio Mane,Liverpool
+2021-01-12,saidbenrahma_westham,2.0,24.0,Said Benrahma,West Ham
+2021-01-12,trentalexanderarnold_liverpool,2.0,25.0,Trent Alexander-Arnold,Liverpool
+2021-01-12,vladimircoufal_westham,2.0,26.0,Vladimir Coufal,West Ham
+2021-01-12,riyadmahrez_manchestercity,1.0,27.0,Riyad Mahrez,Manchester City
+2021-01-12,bernardosilva_manchestercity,0.0,28.0,Bernardo Silva,Manchester City
+2021-01-13,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-01-13,kevindebruyne_manchestercity,9.0,2.0,Kevin De Bruyne,Manchester City
+2021-01-13,brunofernandes_manchesterutd,7.0,3.0,Bruno Fernandes,Manchester Utd
+2021-01-13,jackgrealish_astonvilla,7.0,4.0,Jack Grealish,Aston Villa
+2021-01-13,andrewrobertson_liverpool,5.0,5.0,Andrew Robertson,Liverpool
+2021-01-13,jamievardy_leicestercity,5.0,6.0,Jamie Vardy,Leicester City
+2021-01-13,lucasdigne_everton,5.0,7.0,Lucas Digne,Everton
+2021-01-13,marcusrashford_manchesterutd,5.0,8.0,Marcus Rashford,Manchester Utd
+2021-01-13,sonheungmin_tottenham,5.0,9.0,Son Heung-min,Tottenham
+2021-01-13,aaroncresswell_westham,4.0,10.0,Aaron Cresswell,West Ham
+2021-01-13,jackharrison_leedsunited,4.0,11.0,Jack Harrison,Leeds United
+2021-01-13,jameswardprowse_southampton,4.0,12.0,James Ward-Prowse,Southampton
+2021-01-13,timowerner_chelsea,4.0,13.0,Timo Werner,Chelsea
+2021-01-13,matheuspereira_westbrom,3.0,14.0,Matheus Pereira,West Brom
+2021-01-13,pedroneto_wolves,3.0,15.0,Pedro Neto,Wolves
+2021-01-13,raheemsterling_manchestercity,3.0,16.0,Raheem Sterling,Manchester City
+2021-01-13,robertofirmino_liverpool,3.0,17.0,Roberto Firmino,Liverpool
+2021-01-13,bertrandtraore_astonvilla,2.0,18.0,Bertrand Traore,Aston Villa
+2021-01-13,eberechieze_crystalpalace,2.0,19.0,Eberechi Eze,Crystal Palace
+2021-01-13,pascalgross_brighton,2.0,20.0,Pascal Gross,Brighton
+2021-01-13,patrickbamford_leedsunited,2.0,21.0,Patrick Bamford,Leeds United
+2021-01-13,raphinha_leedsunited,2.0,22.0,Raphinha,Leeds United
+2021-01-13,sadiomane_liverpool,2.0,23.0,Sadio Mane,Liverpool
+2021-01-13,saidbenrahma_westham,2.0,24.0,Said Benrahma,West Ham
+2021-01-13,trentalexanderarnold_liverpool,2.0,25.0,Trent Alexander-Arnold,Liverpool
+2021-01-13,vladimircoufal_westham,2.0,26.0,Vladimir Coufal,West Ham
+2021-01-13,riyadmahrez_manchestercity,1.0,27.0,Riyad Mahrez,Manchester City
+2021-01-13,bernardosilva_manchestercity,0.0,28.0,Bernardo Silva,Manchester City
+2021-01-17,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-01-17,kevindebruyne_manchestercity,10.0,2.0,Kevin De Bruyne,Manchester City
+2021-01-17,brunofernandes_manchesterutd,7.0,3.0,Bruno Fernandes,Manchester Utd
+2021-01-17,jackgrealish_astonvilla,7.0,4.0,Jack Grealish,Aston Villa
+2021-01-17,sonheungmin_tottenham,6.0,5.0,Son Heung-min,Tottenham
+2021-01-17,andrewrobertson_liverpool,5.0,6.0,Andrew Robertson,Liverpool
+2021-01-17,jamievardy_leicestercity,5.0,7.0,Jamie Vardy,Leicester City
+2021-01-17,lucasdigne_everton,5.0,8.0,Lucas Digne,Everton
+2021-01-17,marcusrashford_manchesterutd,5.0,9.0,Marcus Rashford,Manchester Utd
+2021-01-17,aaroncresswell_westham,4.0,10.0,Aaron Cresswell,West Ham
+2021-01-17,jackharrison_leedsunited,4.0,11.0,Jack Harrison,Leeds United
+2021-01-17,jameswardprowse_southampton,4.0,12.0,James Ward-Prowse,Southampton
+2021-01-17,timowerner_chelsea,4.0,13.0,Timo Werner,Chelsea
+2021-01-17,matheuspereira_westbrom,3.0,14.0,Matheus Pereira,West Brom
+2021-01-17,pedroneto_wolves,3.0,15.0,Pedro Neto,Wolves
+2021-01-17,raheemsterling_manchestercity,3.0,16.0,Raheem Sterling,Manchester City
+2021-01-17,robertofirmino_liverpool,3.0,17.0,Roberto Firmino,Liverpool
+2021-01-17,bertrandtraore_astonvilla,2.0,18.0,Bertrand Traore,Aston Villa
+2021-01-17,eberechieze_crystalpalace,2.0,19.0,Eberechi Eze,Crystal Palace
+2021-01-17,pascalgross_brighton,2.0,20.0,Pascal Gross,Brighton
+2021-01-17,patrickbamford_leedsunited,2.0,21.0,Patrick Bamford,Leeds United
+2021-01-17,raphinha_leedsunited,2.0,22.0,Raphinha,Leeds United
+2021-01-17,sadiomane_liverpool,2.0,23.0,Sadio Mane,Liverpool
+2021-01-17,saidbenrahma_westham,2.0,24.0,Said Benrahma,West Ham
+2021-01-17,trentalexanderarnold_liverpool,2.0,25.0,Trent Alexander-Arnold,Liverpool
+2021-01-17,vladimircoufal_westham,2.0,26.0,Vladimir Coufal,West Ham
+2021-01-17,riyadmahrez_manchestercity,1.0,27.0,Riyad Mahrez,Manchester City
+2021-01-17,bernardosilva_manchestercity,0.0,28.0,Bernardo Silva,Manchester City
+2021-01-19,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-01-19,kevindebruyne_manchestercity,10.0,2.0,Kevin De Bruyne,Manchester City
+2021-01-19,brunofernandes_manchesterutd,7.0,3.0,Bruno Fernandes,Manchester Utd
+2021-01-19,jackgrealish_astonvilla,7.0,4.0,Jack Grealish,Aston Villa
+2021-01-19,sonheungmin_tottenham,6.0,5.0,Son Heung-min,Tottenham
+2021-01-19,andrewrobertson_liverpool,5.0,6.0,Andrew Robertson,Liverpool
+2021-01-19,jamievardy_leicestercity,5.0,7.0,Jamie Vardy,Leicester City
+2021-01-19,lucasdigne_everton,5.0,8.0,Lucas Digne,Everton
+2021-01-19,marcusrashford_manchesterutd,5.0,9.0,Marcus Rashford,Manchester Utd
+2021-01-19,aaroncresswell_westham,4.0,10.0,Aaron Cresswell,West Ham
+2021-01-19,jackharrison_leedsunited,4.0,11.0,Jack Harrison,Leeds United
+2021-01-19,jameswardprowse_southampton,4.0,12.0,James Ward-Prowse,Southampton
+2021-01-19,timowerner_chelsea,4.0,13.0,Timo Werner,Chelsea
+2021-01-19,matheuspereira_westbrom,3.0,14.0,Matheus Pereira,West Brom
+2021-01-19,pedroneto_wolves,3.0,15.0,Pedro Neto,Wolves
+2021-01-19,raheemsterling_manchestercity,3.0,16.0,Raheem Sterling,Manchester City
+2021-01-19,robertofirmino_liverpool,3.0,17.0,Roberto Firmino,Liverpool
+2021-01-19,vladimircoufal_westham,3.0,18.0,Vladimir Coufal,West Ham
+2021-01-19,bertrandtraore_astonvilla,2.0,19.0,Bertrand Traore,Aston Villa
+2021-01-19,eberechieze_crystalpalace,2.0,20.0,Eberechi Eze,Crystal Palace
+2021-01-19,pascalgross_brighton,2.0,21.0,Pascal Gross,Brighton
+2021-01-19,patrickbamford_leedsunited,2.0,22.0,Patrick Bamford,Leeds United
+2021-01-19,raphinha_leedsunited,2.0,23.0,Raphinha,Leeds United
+2021-01-19,sadiomane_liverpool,2.0,24.0,Sadio Mane,Liverpool
+2021-01-19,saidbenrahma_westham,2.0,25.0,Said Benrahma,West Ham
+2021-01-19,trentalexanderarnold_liverpool,2.0,26.0,Trent Alexander-Arnold,Liverpool
+2021-01-19,riyadmahrez_manchestercity,1.0,27.0,Riyad Mahrez,Manchester City
+2021-01-19,bernardosilva_manchestercity,0.0,28.0,Bernardo Silva,Manchester City
+2021-01-23,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-01-23,kevindebruyne_manchestercity,10.0,2.0,Kevin De Bruyne,Manchester City
+2021-01-23,jackgrealish_astonvilla,8.0,3.0,Jack Grealish,Aston Villa
+2021-01-23,brunofernandes_manchesterutd,7.0,4.0,Bruno Fernandes,Manchester Utd
+2021-01-23,sonheungmin_tottenham,6.0,5.0,Son Heung-min,Tottenham
+2021-01-23,andrewrobertson_liverpool,5.0,6.0,Andrew Robertson,Liverpool
+2021-01-23,jamievardy_leicestercity,5.0,7.0,Jamie Vardy,Leicester City
+2021-01-23,lucasdigne_everton,5.0,8.0,Lucas Digne,Everton
+2021-01-23,marcusrashford_manchesterutd,5.0,9.0,Marcus Rashford,Manchester Utd
+2021-01-23,aaroncresswell_westham,4.0,10.0,Aaron Cresswell,West Ham
+2021-01-23,jackharrison_leedsunited,4.0,11.0,Jack Harrison,Leeds United
+2021-01-23,jameswardprowse_southampton,4.0,12.0,James Ward-Prowse,Southampton
+2021-01-23,timowerner_chelsea,4.0,13.0,Timo Werner,Chelsea
+2021-01-23,matheuspereira_westbrom,3.0,14.0,Matheus Pereira,West Brom
+2021-01-23,pedroneto_wolves,3.0,15.0,Pedro Neto,Wolves
+2021-01-23,raheemsterling_manchestercity,3.0,16.0,Raheem Sterling,Manchester City
+2021-01-23,robertofirmino_liverpool,3.0,17.0,Roberto Firmino,Liverpool
+2021-01-23,vladimircoufal_westham,3.0,18.0,Vladimir Coufal,West Ham
+2021-01-23,bertrandtraore_astonvilla,2.0,19.0,Bertrand Traore,Aston Villa
+2021-01-23,eberechieze_crystalpalace,2.0,20.0,Eberechi Eze,Crystal Palace
+2021-01-23,pascalgross_brighton,2.0,21.0,Pascal Gross,Brighton
+2021-01-23,patrickbamford_leedsunited,2.0,22.0,Patrick Bamford,Leeds United
+2021-01-23,raphinha_leedsunited,2.0,23.0,Raphinha,Leeds United
+2021-01-23,sadiomane_liverpool,2.0,24.0,Sadio Mane,Liverpool
+2021-01-23,saidbenrahma_westham,2.0,25.0,Said Benrahma,West Ham
+2021-01-23,trentalexanderarnold_liverpool,2.0,26.0,Trent Alexander-Arnold,Liverpool
+2021-01-23,riyadmahrez_manchestercity,1.0,27.0,Riyad Mahrez,Manchester City
+2021-01-23,bernardosilva_manchestercity,0.0,28.0,Bernardo Silva,Manchester City
+2021-01-26,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-01-26,kevindebruyne_manchestercity,10.0,2.0,Kevin De Bruyne,Manchester City
+2021-01-26,jackgrealish_astonvilla,8.0,3.0,Jack Grealish,Aston Villa
+2021-01-26,brunofernandes_manchesterutd,7.0,4.0,Bruno Fernandes,Manchester Utd
+2021-01-26,sonheungmin_tottenham,6.0,5.0,Son Heung-min,Tottenham
+2021-01-26,aaroncresswell_westham,5.0,6.0,Aaron Cresswell,West Ham
+2021-01-26,andrewrobertson_liverpool,5.0,7.0,Andrew Robertson,Liverpool
+2021-01-26,jameswardprowse_southampton,5.0,8.0,James Ward-Prowse,Southampton
+2021-01-26,jamievardy_leicestercity,5.0,9.0,Jamie Vardy,Leicester City
+2021-01-26,lucasdigne_everton,5.0,10.0,Lucas Digne,Everton
+2021-01-26,marcusrashford_manchesterutd,5.0,11.0,Marcus Rashford,Manchester Utd
+2021-01-26,jackharrison_leedsunited,4.0,12.0,Jack Harrison,Leeds United
+2021-01-26,raheemsterling_manchestercity,4.0,13.0,Raheem Sterling,Manchester City
+2021-01-26,timowerner_chelsea,4.0,14.0,Timo Werner,Chelsea
+2021-01-26,matheuspereira_westbrom,3.0,15.0,Matheus Pereira,West Brom
+2021-01-26,pedroneto_wolves,3.0,16.0,Pedro Neto,Wolves
+2021-01-26,raphinha_leedsunited,3.0,17.0,Raphinha,Leeds United
+2021-01-26,robertofirmino_liverpool,3.0,18.0,Roberto Firmino,Liverpool
+2021-01-26,vladimircoufal_westham,3.0,19.0,Vladimir Coufal,West Ham
+2021-01-26,bertrandtraore_astonvilla,2.0,20.0,Bertrand Traore,Aston Villa
+2021-01-26,eberechieze_crystalpalace,2.0,21.0,Eberechi Eze,Crystal Palace
+2021-01-26,pascalgross_brighton,2.0,22.0,Pascal Gross,Brighton
+2021-01-26,patrickbamford_leedsunited,2.0,23.0,Patrick Bamford,Leeds United
+2021-01-26,riyadmahrez_manchestercity,2.0,24.0,Riyad Mahrez,Manchester City
+2021-01-26,sadiomane_liverpool,2.0,25.0,Sadio Mane,Liverpool
+2021-01-26,saidbenrahma_westham,2.0,26.0,Said Benrahma,West Ham
+2021-01-26,trentalexanderarnold_liverpool,2.0,27.0,Trent Alexander-Arnold,Liverpool
+2021-01-26,bernardosilva_manchestercity,1.0,28.0,Bernardo Silva,Manchester City
+2021-01-28,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-01-28,kevindebruyne_manchestercity,10.0,2.0,Kevin De Bruyne,Manchester City
+2021-01-28,jackgrealish_astonvilla,8.0,3.0,Jack Grealish,Aston Villa
+2021-01-28,brunofernandes_manchesterutd,7.0,4.0,Bruno Fernandes,Manchester Utd
+2021-01-28,sonheungmin_tottenham,6.0,5.0,Son Heung-min,Tottenham
+2021-01-28,aaroncresswell_westham,5.0,6.0,Aaron Cresswell,West Ham
+2021-01-28,andrewrobertson_liverpool,5.0,7.0,Andrew Robertson,Liverpool
+2021-01-28,jameswardprowse_southampton,5.0,8.0,James Ward-Prowse,Southampton
+2021-01-28,jamievardy_leicestercity,5.0,9.0,Jamie Vardy,Leicester City
+2021-01-28,lucasdigne_everton,5.0,10.0,Lucas Digne,Everton
+2021-01-28,marcusrashford_manchesterutd,5.0,11.0,Marcus Rashford,Manchester Utd
+2021-01-28,jackharrison_leedsunited,4.0,12.0,Jack Harrison,Leeds United
+2021-01-28,raheemsterling_manchestercity,4.0,13.0,Raheem Sterling,Manchester City
+2021-01-28,timowerner_chelsea,4.0,14.0,Timo Werner,Chelsea
+2021-01-28,matheuspereira_westbrom,3.0,15.0,Matheus Pereira,West Brom
+2021-01-28,pedroneto_wolves,3.0,16.0,Pedro Neto,Wolves
+2021-01-28,raphinha_leedsunited,3.0,17.0,Raphinha,Leeds United
+2021-01-28,robertofirmino_liverpool,3.0,18.0,Roberto Firmino,Liverpool
+2021-01-28,sadiomane_liverpool,3.0,19.0,Sadio Mane,Liverpool
+2021-01-28,trentalexanderarnold_liverpool,3.0,20.0,Trent Alexander-Arnold,Liverpool
+2021-01-28,vladimircoufal_westham,3.0,21.0,Vladimir Coufal,West Ham
+2021-01-28,bertrandtraore_astonvilla,2.0,22.0,Bertrand Traore,Aston Villa
+2021-01-28,eberechieze_crystalpalace,2.0,23.0,Eberechi Eze,Crystal Palace
+2021-01-28,pascalgross_brighton,2.0,24.0,Pascal Gross,Brighton
+2021-01-28,patrickbamford_leedsunited,2.0,25.0,Patrick Bamford,Leeds United
+2021-01-28,riyadmahrez_manchestercity,2.0,26.0,Riyad Mahrez,Manchester City
+2021-01-28,saidbenrahma_westham,2.0,27.0,Said Benrahma,West Ham
+2021-01-28,bernardosilva_manchestercity,1.0,28.0,Bernardo Silva,Manchester City
+2021-01-30,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-01-30,kevindebruyne_manchestercity,10.0,2.0,Kevin De Bruyne,Manchester City
+2021-01-30,jackgrealish_astonvilla,9.0,3.0,Jack Grealish,Aston Villa
+2021-01-30,brunofernandes_manchesterutd,7.0,4.0,Bruno Fernandes,Manchester Utd
+2021-01-30,sonheungmin_tottenham,6.0,5.0,Son Heung-min,Tottenham
+2021-01-30,aaroncresswell_westham,5.0,6.0,Aaron Cresswell,West Ham
+2021-01-30,andrewrobertson_liverpool,5.0,7.0,Andrew Robertson,Liverpool
+2021-01-30,jameswardprowse_southampton,5.0,8.0,James Ward-Prowse,Southampton
+2021-01-30,jamievardy_leicestercity,5.0,9.0,Jamie Vardy,Leicester City
+2021-01-30,lucasdigne_everton,5.0,10.0,Lucas Digne,Everton
+2021-01-30,marcusrashford_manchesterutd,5.0,11.0,Marcus Rashford,Manchester Utd
+2021-01-30,jackharrison_leedsunited,4.0,12.0,Jack Harrison,Leeds United
+2021-01-30,raheemsterling_manchestercity,4.0,13.0,Raheem Sterling,Manchester City
+2021-01-30,timowerner_chelsea,4.0,14.0,Timo Werner,Chelsea
+2021-01-30,matheuspereira_westbrom,3.0,15.0,Matheus Pereira,West Brom
+2021-01-30,pedroneto_wolves,3.0,16.0,Pedro Neto,Wolves
+2021-01-30,raphinha_leedsunited,3.0,17.0,Raphinha,Leeds United
+2021-01-30,robertofirmino_liverpool,3.0,18.0,Roberto Firmino,Liverpool
+2021-01-30,sadiomane_liverpool,3.0,19.0,Sadio Mane,Liverpool
+2021-01-30,trentalexanderarnold_liverpool,3.0,20.0,Trent Alexander-Arnold,Liverpool
+2021-01-30,vladimircoufal_westham,3.0,21.0,Vladimir Coufal,West Ham
+2021-01-30,bertrandtraore_astonvilla,2.0,22.0,Bertrand Traore,Aston Villa
+2021-01-30,eberechieze_crystalpalace,2.0,23.0,Eberechi Eze,Crystal Palace
+2021-01-30,pascalgross_brighton,2.0,24.0,Pascal Gross,Brighton
+2021-01-30,patrickbamford_leedsunited,2.0,25.0,Patrick Bamford,Leeds United
+2021-01-30,riyadmahrez_manchestercity,2.0,26.0,Riyad Mahrez,Manchester City
+2021-01-30,saidbenrahma_westham,2.0,27.0,Said Benrahma,West Ham
+2021-01-30,bernardosilva_manchestercity,1.0,28.0,Bernardo Silva,Manchester City
+2021-01-31,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-01-31,kevindebruyne_manchestercity,10.0,2.0,Kevin De Bruyne,Manchester City
+2021-01-31,jackgrealish_astonvilla,9.0,3.0,Jack Grealish,Aston Villa
+2021-01-31,brunofernandes_manchesterutd,7.0,4.0,Bruno Fernandes,Manchester Utd
+2021-01-31,sonheungmin_tottenham,6.0,5.0,Son Heung-min,Tottenham
+2021-01-31,aaroncresswell_westham,5.0,6.0,Aaron Cresswell,West Ham
+2021-01-31,andrewrobertson_liverpool,5.0,7.0,Andrew Robertson,Liverpool
+2021-01-31,jameswardprowse_southampton,5.0,8.0,James Ward-Prowse,Southampton
+2021-01-31,jamievardy_leicestercity,5.0,9.0,Jamie Vardy,Leicester City
+2021-01-31,lucasdigne_everton,5.0,10.0,Lucas Digne,Everton
+2021-01-31,marcusrashford_manchesterutd,5.0,11.0,Marcus Rashford,Manchester Utd
+2021-01-31,jackharrison_leedsunited,4.0,12.0,Jack Harrison,Leeds United
+2021-01-31,patrickbamford_leedsunited,4.0,13.0,Patrick Bamford,Leeds United
+2021-01-31,raheemsterling_manchestercity,4.0,14.0,Raheem Sterling,Manchester City
+2021-01-31,raphinha_leedsunited,4.0,15.0,Raphinha,Leeds United
+2021-01-31,robertofirmino_liverpool,4.0,16.0,Roberto Firmino,Liverpool
+2021-01-31,timowerner_chelsea,4.0,17.0,Timo Werner,Chelsea
+2021-01-31,matheuspereira_westbrom,3.0,18.0,Matheus Pereira,West Brom
+2021-01-31,pascalgross_brighton,3.0,19.0,Pascal Gross,Brighton
+2021-01-31,pedroneto_wolves,3.0,20.0,Pedro Neto,Wolves
+2021-01-31,sadiomane_liverpool,3.0,21.0,Sadio Mane,Liverpool
+2021-01-31,trentalexanderarnold_liverpool,3.0,22.0,Trent Alexander-Arnold,Liverpool
+2021-01-31,vladimircoufal_westham,3.0,23.0,Vladimir Coufal,West Ham
+2021-01-31,bertrandtraore_astonvilla,2.0,24.0,Bertrand Traore,Aston Villa
+2021-01-31,eberechieze_crystalpalace,2.0,25.0,Eberechi Eze,Crystal Palace
+2021-01-31,riyadmahrez_manchestercity,2.0,26.0,Riyad Mahrez,Manchester City
+2021-01-31,saidbenrahma_westham,2.0,27.0,Said Benrahma,West Ham
+2021-01-31,bernardosilva_manchestercity,1.0,28.0,Bernardo Silva,Manchester City
+2021-02-02,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-02-02,kevindebruyne_manchestercity,10.0,2.0,Kevin De Bruyne,Manchester City
+2021-02-02,brunofernandes_manchesterutd,9.0,3.0,Bruno Fernandes,Manchester Utd
+2021-02-02,jackgrealish_astonvilla,9.0,4.0,Jack Grealish,Aston Villa
+2021-02-02,sonheungmin_tottenham,6.0,5.0,Son Heung-min,Tottenham
+2021-02-02,aaroncresswell_westham,5.0,6.0,Aaron Cresswell,West Ham
+2021-02-02,andrewrobertson_liverpool,5.0,7.0,Andrew Robertson,Liverpool
+2021-02-02,jameswardprowse_southampton,5.0,8.0,James Ward-Prowse,Southampton
+2021-02-02,jamievardy_leicestercity,5.0,9.0,Jamie Vardy,Leicester City
+2021-02-02,lucasdigne_everton,5.0,10.0,Lucas Digne,Everton
+2021-02-02,marcusrashford_manchesterutd,5.0,11.0,Marcus Rashford,Manchester Utd
+2021-02-02,jackharrison_leedsunited,4.0,12.0,Jack Harrison,Leeds United
+2021-02-02,patrickbamford_leedsunited,4.0,13.0,Patrick Bamford,Leeds United
+2021-02-02,pedroneto_wolves,4.0,14.0,Pedro Neto,Wolves
+2021-02-02,raheemsterling_manchestercity,4.0,15.0,Raheem Sterling,Manchester City
+2021-02-02,raphinha_leedsunited,4.0,16.0,Raphinha,Leeds United
+2021-02-02,robertofirmino_liverpool,4.0,17.0,Roberto Firmino,Liverpool
+2021-02-02,timowerner_chelsea,4.0,18.0,Timo Werner,Chelsea
+2021-02-02,eberechieze_crystalpalace,3.0,19.0,Eberechi Eze,Crystal Palace
+2021-02-02,matheuspereira_westbrom,3.0,20.0,Matheus Pereira,West Brom
+2021-02-02,pascalgross_brighton,3.0,21.0,Pascal Gross,Brighton
+2021-02-02,sadiomane_liverpool,3.0,22.0,Sadio Mane,Liverpool
+2021-02-02,trentalexanderarnold_liverpool,3.0,23.0,Trent Alexander-Arnold,Liverpool
+2021-02-02,vladimircoufal_westham,3.0,24.0,Vladimir Coufal,West Ham
+2021-02-02,bertrandtraore_astonvilla,2.0,25.0,Bertrand Traore,Aston Villa
+2021-02-02,riyadmahrez_manchestercity,2.0,26.0,Riyad Mahrez,Manchester City
+2021-02-02,saidbenrahma_westham,2.0,27.0,Said Benrahma,West Ham
+2021-02-02,bernardosilva_manchestercity,1.0,28.0,Bernardo Silva,Manchester City
+2021-02-03,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-02-03,jackgrealish_astonvilla,10.0,2.0,Jack Grealish,Aston Villa
+2021-02-03,kevindebruyne_manchestercity,10.0,3.0,Kevin De Bruyne,Manchester City
+2021-02-03,brunofernandes_manchesterutd,9.0,4.0,Bruno Fernandes,Manchester Utd
+2021-02-03,lucasdigne_everton,6.0,5.0,Lucas Digne,Everton
+2021-02-03,sonheungmin_tottenham,6.0,6.0,Son Heung-min,Tottenham
+2021-02-03,aaroncresswell_westham,5.0,7.0,Aaron Cresswell,West Ham
+2021-02-03,andrewrobertson_liverpool,5.0,8.0,Andrew Robertson,Liverpool
+2021-02-03,jameswardprowse_southampton,5.0,9.0,James Ward-Prowse,Southampton
+2021-02-03,jamievardy_leicestercity,5.0,10.0,Jamie Vardy,Leicester City
+2021-02-03,marcusrashford_manchesterutd,5.0,11.0,Marcus Rashford,Manchester Utd
+2021-02-03,patrickbamford_leedsunited,5.0,12.0,Patrick Bamford,Leeds United
+2021-02-03,jackharrison_leedsunited,4.0,13.0,Jack Harrison,Leeds United
+2021-02-03,pedroneto_wolves,4.0,14.0,Pedro Neto,Wolves
+2021-02-03,raheemsterling_manchestercity,4.0,15.0,Raheem Sterling,Manchester City
+2021-02-03,raphinha_leedsunited,4.0,16.0,Raphinha,Leeds United
+2021-02-03,robertofirmino_liverpool,4.0,17.0,Roberto Firmino,Liverpool
+2021-02-03,timowerner_chelsea,4.0,18.0,Timo Werner,Chelsea
+2021-02-03,eberechieze_crystalpalace,3.0,19.0,Eberechi Eze,Crystal Palace
+2021-02-03,matheuspereira_westbrom,3.0,20.0,Matheus Pereira,West Brom
+2021-02-03,pascalgross_brighton,3.0,21.0,Pascal Gross,Brighton
+2021-02-03,sadiomane_liverpool,3.0,22.0,Sadio Mane,Liverpool
+2021-02-03,saidbenrahma_westham,3.0,23.0,Said Benrahma,West Ham
+2021-02-03,trentalexanderarnold_liverpool,3.0,24.0,Trent Alexander-Arnold,Liverpool
+2021-02-03,vladimircoufal_westham,3.0,25.0,Vladimir Coufal,West Ham
+2021-02-03,bertrandtraore_astonvilla,2.0,26.0,Bertrand Traore,Aston Villa
+2021-02-03,riyadmahrez_manchestercity,2.0,27.0,Riyad Mahrez,Manchester City
+2021-02-03,bernardosilva_manchestercity,1.0,28.0,Bernardo Silva,Manchester City
+2021-02-06,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-02-06,jackgrealish_astonvilla,10.0,2.0,Jack Grealish,Aston Villa
+2021-02-06,kevindebruyne_manchestercity,10.0,3.0,Kevin De Bruyne,Manchester City
+2021-02-06,brunofernandes_manchesterutd,9.0,4.0,Bruno Fernandes,Manchester Utd
+2021-02-06,lucasdigne_everton,6.0,5.0,Lucas Digne,Everton
+2021-02-06,marcusrashford_manchesterutd,6.0,6.0,Marcus Rashford,Manchester Utd
+2021-02-06,sonheungmin_tottenham,6.0,7.0,Son Heung-min,Tottenham
+2021-02-06,aaroncresswell_westham,5.0,8.0,Aaron Cresswell,West Ham
+2021-02-06,andrewrobertson_liverpool,5.0,9.0,Andrew Robertson,Liverpool
+2021-02-06,jameswardprowse_southampton,5.0,10.0,James Ward-Prowse,Southampton
+2021-02-06,jamievardy_leicestercity,5.0,11.0,Jamie Vardy,Leicester City
+2021-02-06,patrickbamford_leedsunited,5.0,12.0,Patrick Bamford,Leeds United
+2021-02-06,jackharrison_leedsunited,4.0,13.0,Jack Harrison,Leeds United
+2021-02-06,pascalgross_brighton,4.0,14.0,Pascal Gross,Brighton
+2021-02-06,pedroneto_wolves,4.0,15.0,Pedro Neto,Wolves
+2021-02-06,raheemsterling_manchestercity,4.0,16.0,Raheem Sterling,Manchester City
+2021-02-06,raphinha_leedsunited,4.0,17.0,Raphinha,Leeds United
+2021-02-06,robertofirmino_liverpool,4.0,18.0,Roberto Firmino,Liverpool
+2021-02-06,timowerner_chelsea,4.0,19.0,Timo Werner,Chelsea
+2021-02-06,bertrandtraore_astonvilla,3.0,20.0,Bertrand Traore,Aston Villa
+2021-02-06,eberechieze_crystalpalace,3.0,21.0,Eberechi Eze,Crystal Palace
+2021-02-06,matheuspereira_westbrom,3.0,22.0,Matheus Pereira,West Brom
+2021-02-06,sadiomane_liverpool,3.0,23.0,Sadio Mane,Liverpool
+2021-02-06,saidbenrahma_westham,3.0,24.0,Said Benrahma,West Ham
+2021-02-06,trentalexanderarnold_liverpool,3.0,25.0,Trent Alexander-Arnold,Liverpool
+2021-02-06,vladimircoufal_westham,3.0,26.0,Vladimir Coufal,West Ham
+2021-02-06,riyadmahrez_manchestercity,2.0,27.0,Riyad Mahrez,Manchester City
+2021-02-06,bernardosilva_manchestercity,1.0,28.0,Bernardo Silva,Manchester City
+2021-02-07,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-02-07,jackgrealish_astonvilla,10.0,2.0,Jack Grealish,Aston Villa
+2021-02-07,kevindebruyne_manchestercity,10.0,3.0,Kevin De Bruyne,Manchester City
+2021-02-07,brunofernandes_manchesterutd,9.0,4.0,Bruno Fernandes,Manchester Utd
+2021-02-07,lucasdigne_everton,6.0,5.0,Lucas Digne,Everton
+2021-02-07,marcusrashford_manchesterutd,6.0,6.0,Marcus Rashford,Manchester Utd
+2021-02-07,sonheungmin_tottenham,6.0,7.0,Son Heung-min,Tottenham
+2021-02-07,aaroncresswell_westham,5.0,8.0,Aaron Cresswell,West Ham
+2021-02-07,andrewrobertson_liverpool,5.0,9.0,Andrew Robertson,Liverpool
+2021-02-07,jameswardprowse_southampton,5.0,10.0,James Ward-Prowse,Southampton
+2021-02-07,jamievardy_leicestercity,5.0,11.0,Jamie Vardy,Leicester City
+2021-02-07,patrickbamford_leedsunited,5.0,12.0,Patrick Bamford,Leeds United
+2021-02-07,timowerner_chelsea,5.0,13.0,Timo Werner,Chelsea
+2021-02-07,jackharrison_leedsunited,4.0,14.0,Jack Harrison,Leeds United
+2021-02-07,pascalgross_brighton,4.0,15.0,Pascal Gross,Brighton
+2021-02-07,pedroneto_wolves,4.0,16.0,Pedro Neto,Wolves
+2021-02-07,raheemsterling_manchestercity,4.0,17.0,Raheem Sterling,Manchester City
+2021-02-07,raphinha_leedsunited,4.0,18.0,Raphinha,Leeds United
+2021-02-07,robertofirmino_liverpool,4.0,19.0,Roberto Firmino,Liverpool
+2021-02-07,bertrandtraore_astonvilla,3.0,20.0,Bertrand Traore,Aston Villa
+2021-02-07,eberechieze_crystalpalace,3.0,21.0,Eberechi Eze,Crystal Palace
+2021-02-07,matheuspereira_westbrom,3.0,22.0,Matheus Pereira,West Brom
+2021-02-07,sadiomane_liverpool,3.0,23.0,Sadio Mane,Liverpool
+2021-02-07,saidbenrahma_westham,3.0,24.0,Said Benrahma,West Ham
+2021-02-07,trentalexanderarnold_liverpool,3.0,25.0,Trent Alexander-Arnold,Liverpool
+2021-02-07,vladimircoufal_westham,3.0,26.0,Vladimir Coufal,West Ham
+2021-02-07,bernardosilva_manchestercity,2.0,27.0,Bernardo Silva,Manchester City
+2021-02-07,riyadmahrez_manchestercity,2.0,28.0,Riyad Mahrez,Manchester City
+2021-02-13,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-02-13,jackgrealish_astonvilla,10.0,2.0,Jack Grealish,Aston Villa
+2021-02-13,kevindebruyne_manchestercity,10.0,3.0,Kevin De Bruyne,Manchester City
+2021-02-13,brunofernandes_manchesterutd,9.0,4.0,Bruno Fernandes,Manchester Utd
+2021-02-13,lucasdigne_everton,6.0,5.0,Lucas Digne,Everton
+2021-02-13,marcusrashford_manchesterutd,6.0,6.0,Marcus Rashford,Manchester Utd
+2021-02-13,sonheungmin_tottenham,6.0,7.0,Son Heung-min,Tottenham
+2021-02-13,aaroncresswell_westham,5.0,8.0,Aaron Cresswell,West Ham
+2021-02-13,andrewrobertson_liverpool,5.0,9.0,Andrew Robertson,Liverpool
+2021-02-13,jameswardprowse_southampton,5.0,10.0,James Ward-Prowse,Southampton
+2021-02-13,jamievardy_leicestercity,5.0,11.0,Jamie Vardy,Leicester City
+2021-02-13,patrickbamford_leedsunited,5.0,12.0,Patrick Bamford,Leeds United
+2021-02-13,raheemsterling_manchestercity,5.0,13.0,Raheem Sterling,Manchester City
+2021-02-13,robertofirmino_liverpool,5.0,14.0,Roberto Firmino,Liverpool
+2021-02-13,timowerner_chelsea,5.0,15.0,Timo Werner,Chelsea
+2021-02-13,jackharrison_leedsunited,4.0,16.0,Jack Harrison,Leeds United
+2021-02-13,pascalgross_brighton,4.0,17.0,Pascal Gross,Brighton
+2021-02-13,pedroneto_wolves,4.0,18.0,Pedro Neto,Wolves
+2021-02-13,raphinha_leedsunited,4.0,19.0,Raphinha,Leeds United
+2021-02-13,bertrandtraore_astonvilla,3.0,20.0,Bertrand Traore,Aston Villa
+2021-02-13,eberechieze_crystalpalace,3.0,21.0,Eberechi Eze,Crystal Palace
+2021-02-13,matheuspereira_westbrom,3.0,22.0,Matheus Pereira,West Brom
+2021-02-13,sadiomane_liverpool,3.0,23.0,Sadio Mane,Liverpool
+2021-02-13,saidbenrahma_westham,3.0,24.0,Said Benrahma,West Ham
+2021-02-13,trentalexanderarnold_liverpool,3.0,25.0,Trent Alexander-Arnold,Liverpool
+2021-02-13,vladimircoufal_westham,3.0,26.0,Vladimir Coufal,West Ham
+2021-02-13,bernardosilva_manchestercity,2.0,27.0,Bernardo Silva,Manchester City
+2021-02-13,riyadmahrez_manchestercity,2.0,28.0,Riyad Mahrez,Manchester City
+2021-02-14,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-02-14,jackgrealish_astonvilla,10.0,2.0,Jack Grealish,Aston Villa
+2021-02-14,kevindebruyne_manchestercity,10.0,3.0,Kevin De Bruyne,Manchester City
+2021-02-14,brunofernandes_manchesterutd,9.0,4.0,Bruno Fernandes,Manchester Utd
+2021-02-14,lucasdigne_everton,6.0,5.0,Lucas Digne,Everton
+2021-02-14,marcusrashford_manchesterutd,6.0,6.0,Marcus Rashford,Manchester Utd
+2021-02-14,sonheungmin_tottenham,6.0,7.0,Son Heung-min,Tottenham
+2021-02-14,aaroncresswell_westham,5.0,8.0,Aaron Cresswell,West Ham
+2021-02-14,andrewrobertson_liverpool,5.0,9.0,Andrew Robertson,Liverpool
+2021-02-14,jameswardprowse_southampton,5.0,10.0,James Ward-Prowse,Southampton
+2021-02-14,jamievardy_leicestercity,5.0,11.0,Jamie Vardy,Leicester City
+2021-02-14,patrickbamford_leedsunited,5.0,12.0,Patrick Bamford,Leeds United
+2021-02-14,raheemsterling_manchestercity,5.0,13.0,Raheem Sterling,Manchester City
+2021-02-14,raphinha_leedsunited,5.0,14.0,Raphinha,Leeds United
+2021-02-14,robertofirmino_liverpool,5.0,15.0,Roberto Firmino,Liverpool
+2021-02-14,timowerner_chelsea,5.0,16.0,Timo Werner,Chelsea
+2021-02-14,jackharrison_leedsunited,4.0,17.0,Jack Harrison,Leeds United
+2021-02-14,pascalgross_brighton,4.0,18.0,Pascal Gross,Brighton
+2021-02-14,pedroneto_wolves,4.0,19.0,Pedro Neto,Wolves
+2021-02-14,bertrandtraore_astonvilla,3.0,20.0,Bertrand Traore,Aston Villa
+2021-02-14,eberechieze_crystalpalace,3.0,21.0,Eberechi Eze,Crystal Palace
+2021-02-14,matheuspereira_westbrom,3.0,22.0,Matheus Pereira,West Brom
+2021-02-14,sadiomane_liverpool,3.0,23.0,Sadio Mane,Liverpool
+2021-02-14,saidbenrahma_westham,3.0,24.0,Said Benrahma,West Ham
+2021-02-14,trentalexanderarnold_liverpool,3.0,25.0,Trent Alexander-Arnold,Liverpool
+2021-02-14,vladimircoufal_westham,3.0,26.0,Vladimir Coufal,West Ham
+2021-02-14,bernardosilva_manchestercity,2.0,27.0,Bernardo Silva,Manchester City
+2021-02-14,riyadmahrez_manchestercity,2.0,28.0,Riyad Mahrez,Manchester City
+2021-02-15,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-02-15,jackgrealish_astonvilla,10.0,2.0,Jack Grealish,Aston Villa
+2021-02-15,kevindebruyne_manchestercity,10.0,3.0,Kevin De Bruyne,Manchester City
+2021-02-15,brunofernandes_manchesterutd,9.0,4.0,Bruno Fernandes,Manchester Utd
+2021-02-15,aaroncresswell_westham,6.0,5.0,Aaron Cresswell,West Ham
+2021-02-15,lucasdigne_everton,6.0,6.0,Lucas Digne,Everton
+2021-02-15,marcusrashford_manchesterutd,6.0,7.0,Marcus Rashford,Manchester Utd
+2021-02-15,sonheungmin_tottenham,6.0,8.0,Son Heung-min,Tottenham
+2021-02-15,andrewrobertson_liverpool,5.0,9.0,Andrew Robertson,Liverpool
+2021-02-15,jameswardprowse_southampton,5.0,10.0,James Ward-Prowse,Southampton
+2021-02-15,jamievardy_leicestercity,5.0,11.0,Jamie Vardy,Leicester City
+2021-02-15,patrickbamford_leedsunited,5.0,12.0,Patrick Bamford,Leeds United
+2021-02-15,raheemsterling_manchestercity,5.0,13.0,Raheem Sterling,Manchester City
+2021-02-15,raphinha_leedsunited,5.0,14.0,Raphinha,Leeds United
+2021-02-15,robertofirmino_liverpool,5.0,15.0,Roberto Firmino,Liverpool
+2021-02-15,timowerner_chelsea,5.0,16.0,Timo Werner,Chelsea
+2021-02-15,jackharrison_leedsunited,4.0,17.0,Jack Harrison,Leeds United
+2021-02-15,pascalgross_brighton,4.0,18.0,Pascal Gross,Brighton
+2021-02-15,pedroneto_wolves,4.0,19.0,Pedro Neto,Wolves
+2021-02-15,saidbenrahma_westham,4.0,20.0,Said Benrahma,West Ham
+2021-02-15,bertrandtraore_astonvilla,3.0,21.0,Bertrand Traore,Aston Villa
+2021-02-15,eberechieze_crystalpalace,3.0,22.0,Eberechi Eze,Crystal Palace
+2021-02-15,matheuspereira_westbrom,3.0,23.0,Matheus Pereira,West Brom
+2021-02-15,sadiomane_liverpool,3.0,24.0,Sadio Mane,Liverpool
+2021-02-15,trentalexanderarnold_liverpool,3.0,25.0,Trent Alexander-Arnold,Liverpool
+2021-02-15,vladimircoufal_westham,3.0,26.0,Vladimir Coufal,West Ham
+2021-02-15,bernardosilva_manchestercity,2.0,27.0,Bernardo Silva,Manchester City
+2021-02-15,riyadmahrez_manchestercity,2.0,28.0,Riyad Mahrez,Manchester City
+2021-02-17,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-02-17,jackgrealish_astonvilla,10.0,2.0,Jack Grealish,Aston Villa
+2021-02-17,kevindebruyne_manchestercity,10.0,3.0,Kevin De Bruyne,Manchester City
+2021-02-17,brunofernandes_manchesterutd,9.0,4.0,Bruno Fernandes,Manchester Utd
+2021-02-17,aaroncresswell_westham,6.0,5.0,Aaron Cresswell,West Ham
+2021-02-17,lucasdigne_everton,6.0,6.0,Lucas Digne,Everton
+2021-02-17,marcusrashford_manchesterutd,6.0,7.0,Marcus Rashford,Manchester Utd
+2021-02-17,sonheungmin_tottenham,6.0,8.0,Son Heung-min,Tottenham
+2021-02-17,andrewrobertson_liverpool,5.0,9.0,Andrew Robertson,Liverpool
+2021-02-17,jameswardprowse_southampton,5.0,10.0,James Ward-Prowse,Southampton
+2021-02-17,jamievardy_leicestercity,5.0,11.0,Jamie Vardy,Leicester City
+2021-02-17,patrickbamford_leedsunited,5.0,12.0,Patrick Bamford,Leeds United
+2021-02-17,raheemsterling_manchestercity,5.0,13.0,Raheem Sterling,Manchester City
+2021-02-17,raphinha_leedsunited,5.0,14.0,Raphinha,Leeds United
+2021-02-17,robertofirmino_liverpool,5.0,15.0,Roberto Firmino,Liverpool
+2021-02-17,timowerner_chelsea,5.0,16.0,Timo Werner,Chelsea
+2021-02-17,jackharrison_leedsunited,4.0,17.0,Jack Harrison,Leeds United
+2021-02-17,pascalgross_brighton,4.0,18.0,Pascal Gross,Brighton
+2021-02-17,pedroneto_wolves,4.0,19.0,Pedro Neto,Wolves
+2021-02-17,saidbenrahma_westham,4.0,20.0,Said Benrahma,West Ham
+2021-02-17,bernardosilva_manchestercity,3.0,21.0,Bernardo Silva,Manchester City
+2021-02-17,bertrandtraore_astonvilla,3.0,22.0,Bertrand Traore,Aston Villa
+2021-02-17,eberechieze_crystalpalace,3.0,23.0,Eberechi Eze,Crystal Palace
+2021-02-17,matheuspereira_westbrom,3.0,24.0,Matheus Pereira,West Brom
+2021-02-17,sadiomane_liverpool,3.0,25.0,Sadio Mane,Liverpool
+2021-02-17,trentalexanderarnold_liverpool,3.0,26.0,Trent Alexander-Arnold,Liverpool
+2021-02-17,vladimircoufal_westham,3.0,27.0,Vladimir Coufal,West Ham
+2021-02-17,riyadmahrez_manchestercity,2.0,28.0,Riyad Mahrez,Manchester City
+2021-02-21,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-02-21,brunofernandes_manchesterutd,10.0,2.0,Bruno Fernandes,Manchester Utd
+2021-02-21,jackgrealish_astonvilla,10.0,3.0,Jack Grealish,Aston Villa
+2021-02-21,kevindebruyne_manchestercity,10.0,4.0,Kevin De Bruyne,Manchester City
+2021-02-21,aaroncresswell_westham,6.0,5.0,Aaron Cresswell,West Ham
+2021-02-21,lucasdigne_everton,6.0,6.0,Lucas Digne,Everton
+2021-02-21,marcusrashford_manchesterutd,6.0,7.0,Marcus Rashford,Manchester Utd
+2021-02-21,sonheungmin_tottenham,6.0,8.0,Son Heung-min,Tottenham
+2021-02-21,andrewrobertson_liverpool,5.0,9.0,Andrew Robertson,Liverpool
+2021-02-21,jameswardprowse_southampton,5.0,10.0,James Ward-Prowse,Southampton
+2021-02-21,jamievardy_leicestercity,5.0,11.0,Jamie Vardy,Leicester City
+2021-02-21,patrickbamford_leedsunited,5.0,12.0,Patrick Bamford,Leeds United
+2021-02-21,raheemsterling_manchestercity,5.0,13.0,Raheem Sterling,Manchester City
+2021-02-21,raphinha_leedsunited,5.0,14.0,Raphinha,Leeds United
+2021-02-21,robertofirmino_liverpool,5.0,15.0,Roberto Firmino,Liverpool
+2021-02-21,timowerner_chelsea,5.0,16.0,Timo Werner,Chelsea
+2021-02-21,jackharrison_leedsunited,4.0,17.0,Jack Harrison,Leeds United
+2021-02-21,pascalgross_brighton,4.0,18.0,Pascal Gross,Brighton
+2021-02-21,pedroneto_wolves,4.0,19.0,Pedro Neto,Wolves
+2021-02-21,saidbenrahma_westham,4.0,20.0,Said Benrahma,West Ham
+2021-02-21,bernardosilva_manchestercity,3.0,21.0,Bernardo Silva,Manchester City
+2021-02-21,bertrandtraore_astonvilla,3.0,22.0,Bertrand Traore,Aston Villa
+2021-02-21,eberechieze_crystalpalace,3.0,23.0,Eberechi Eze,Crystal Palace
+2021-02-21,matheuspereira_westbrom,3.0,24.0,Matheus Pereira,West Brom
+2021-02-21,riyadmahrez_manchestercity,3.0,25.0,Riyad Mahrez,Manchester City
+2021-02-21,sadiomane_liverpool,3.0,26.0,Sadio Mane,Liverpool
+2021-02-21,trentalexanderarnold_liverpool,3.0,27.0,Trent Alexander-Arnold,Liverpool
+2021-02-21,vladimircoufal_westham,3.0,28.0,Vladimir Coufal,West Ham
+2021-02-27,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-02-27,kevindebruyne_manchestercity,11.0,2.0,Kevin De Bruyne,Manchester City
+2021-02-27,brunofernandes_manchesterutd,10.0,3.0,Bruno Fernandes,Manchester Utd
+2021-02-27,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-02-27,aaroncresswell_westham,6.0,5.0,Aaron Cresswell,West Ham
+2021-02-27,lucasdigne_everton,6.0,6.0,Lucas Digne,Everton
+2021-02-27,marcusrashford_manchesterutd,6.0,7.0,Marcus Rashford,Manchester Utd
+2021-02-27,sonheungmin_tottenham,6.0,8.0,Son Heung-min,Tottenham
+2021-02-27,andrewrobertson_liverpool,5.0,9.0,Andrew Robertson,Liverpool
+2021-02-27,jameswardprowse_southampton,5.0,10.0,James Ward-Prowse,Southampton
+2021-02-27,jamievardy_leicestercity,5.0,11.0,Jamie Vardy,Leicester City
+2021-02-27,patrickbamford_leedsunited,5.0,12.0,Patrick Bamford,Leeds United
+2021-02-27,pedroneto_wolves,5.0,13.0,Pedro Neto,Wolves
+2021-02-27,raheemsterling_manchestercity,5.0,14.0,Raheem Sterling,Manchester City
+2021-02-27,raphinha_leedsunited,5.0,15.0,Raphinha,Leeds United
+2021-02-27,robertofirmino_liverpool,5.0,16.0,Roberto Firmino,Liverpool
+2021-02-27,timowerner_chelsea,5.0,17.0,Timo Werner,Chelsea
+2021-02-27,jackharrison_leedsunited,4.0,18.0,Jack Harrison,Leeds United
+2021-02-27,pascalgross_brighton,4.0,19.0,Pascal Gross,Brighton
+2021-02-27,riyadmahrez_manchestercity,4.0,20.0,Riyad Mahrez,Manchester City
+2021-02-27,saidbenrahma_westham,4.0,21.0,Said Benrahma,West Ham
+2021-02-27,bernardosilva_manchestercity,3.0,22.0,Bernardo Silva,Manchester City
+2021-02-27,bertrandtraore_astonvilla,3.0,23.0,Bertrand Traore,Aston Villa
+2021-02-27,eberechieze_crystalpalace,3.0,24.0,Eberechi Eze,Crystal Palace
+2021-02-27,matheuspereira_westbrom,3.0,25.0,Matheus Pereira,West Brom
+2021-02-27,sadiomane_liverpool,3.0,26.0,Sadio Mane,Liverpool
+2021-02-27,trentalexanderarnold_liverpool,3.0,27.0,Trent Alexander-Arnold,Liverpool
+2021-02-27,vladimircoufal_westham,3.0,28.0,Vladimir Coufal,West Ham
+2021-02-28,harrykane_tottenham,11.0,1.0,Harry Kane,Tottenham
+2021-02-28,kevindebruyne_manchestercity,11.0,2.0,Kevin De Bruyne,Manchester City
+2021-02-28,brunofernandes_manchesterutd,10.0,3.0,Bruno Fernandes,Manchester Utd
+2021-02-28,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-02-28,sonheungmin_tottenham,8.0,5.0,Son Heung-min,Tottenham
+2021-02-28,aaroncresswell_westham,6.0,6.0,Aaron Cresswell,West Ham
+2021-02-28,lucasdigne_everton,6.0,7.0,Lucas Digne,Everton
+2021-02-28,marcusrashford_manchesterutd,6.0,8.0,Marcus Rashford,Manchester Utd
+2021-02-28,andrewrobertson_liverpool,5.0,9.0,Andrew Robertson,Liverpool
+2021-02-28,jameswardprowse_southampton,5.0,10.0,James Ward-Prowse,Southampton
+2021-02-28,jamievardy_leicestercity,5.0,11.0,Jamie Vardy,Leicester City
+2021-02-28,patrickbamford_leedsunited,5.0,12.0,Patrick Bamford,Leeds United
+2021-02-28,pedroneto_wolves,5.0,13.0,Pedro Neto,Wolves
+2021-02-28,raheemsterling_manchestercity,5.0,14.0,Raheem Sterling,Manchester City
+2021-02-28,raphinha_leedsunited,5.0,15.0,Raphinha,Leeds United
+2021-02-28,robertofirmino_liverpool,5.0,16.0,Roberto Firmino,Liverpool
+2021-02-28,timowerner_chelsea,5.0,17.0,Timo Werner,Chelsea
+2021-02-28,jackharrison_leedsunited,4.0,18.0,Jack Harrison,Leeds United
+2021-02-28,pascalgross_brighton,4.0,19.0,Pascal Gross,Brighton
+2021-02-28,riyadmahrez_manchestercity,4.0,20.0,Riyad Mahrez,Manchester City
+2021-02-28,saidbenrahma_westham,4.0,21.0,Said Benrahma,West Ham
+2021-02-28,bernardosilva_manchestercity,3.0,22.0,Bernardo Silva,Manchester City
+2021-02-28,bertrandtraore_astonvilla,3.0,23.0,Bertrand Traore,Aston Villa
+2021-02-28,eberechieze_crystalpalace,3.0,24.0,Eberechi Eze,Crystal Palace
+2021-02-28,matheuspereira_westbrom,3.0,25.0,Matheus Pereira,West Brom
+2021-02-28,sadiomane_liverpool,3.0,26.0,Sadio Mane,Liverpool
+2021-02-28,trentalexanderarnold_liverpool,3.0,27.0,Trent Alexander-Arnold,Liverpool
+2021-02-28,vladimircoufal_westham,3.0,28.0,Vladimir Coufal,West Ham
+2021-03-07,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-03-07,kevindebruyne_manchestercity,11.0,2.0,Kevin De Bruyne,Manchester City
+2021-03-07,brunofernandes_manchesterutd,10.0,3.0,Bruno Fernandes,Manchester Utd
+2021-03-07,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-03-07,sonheungmin_tottenham,9.0,5.0,Son Heung-min,Tottenham
+2021-03-07,marcusrashford_manchesterutd,7.0,6.0,Marcus Rashford,Manchester Utd
+2021-03-07,aaroncresswell_westham,6.0,7.0,Aaron Cresswell,West Ham
+2021-03-07,lucasdigne_everton,6.0,8.0,Lucas Digne,Everton
+2021-03-07,andrewrobertson_liverpool,5.0,9.0,Andrew Robertson,Liverpool
+2021-03-07,jameswardprowse_southampton,5.0,10.0,James Ward-Prowse,Southampton
+2021-03-07,jamievardy_leicestercity,5.0,11.0,Jamie Vardy,Leicester City
+2021-03-07,patrickbamford_leedsunited,5.0,12.0,Patrick Bamford,Leeds United
+2021-03-07,pedroneto_wolves,5.0,13.0,Pedro Neto,Wolves
+2021-03-07,raheemsterling_manchestercity,5.0,14.0,Raheem Sterling,Manchester City
+2021-03-07,raphinha_leedsunited,5.0,15.0,Raphinha,Leeds United
+2021-03-07,robertofirmino_liverpool,5.0,16.0,Roberto Firmino,Liverpool
+2021-03-07,timowerner_chelsea,5.0,17.0,Timo Werner,Chelsea
+2021-03-07,jackharrison_leedsunited,4.0,18.0,Jack Harrison,Leeds United
+2021-03-07,pascalgross_brighton,4.0,19.0,Pascal Gross,Brighton
+2021-03-07,riyadmahrez_manchestercity,4.0,20.0,Riyad Mahrez,Manchester City
+2021-03-07,saidbenrahma_westham,4.0,21.0,Said Benrahma,West Ham
+2021-03-07,bernardosilva_manchestercity,3.0,22.0,Bernardo Silva,Manchester City
+2021-03-07,bertrandtraore_astonvilla,3.0,23.0,Bertrand Traore,Aston Villa
+2021-03-07,eberechieze_crystalpalace,3.0,24.0,Eberechi Eze,Crystal Palace
+2021-03-07,matheuspereira_westbrom,3.0,25.0,Matheus Pereira,West Brom
+2021-03-07,sadiomane_liverpool,3.0,26.0,Sadio Mane,Liverpool
+2021-03-07,trentalexanderarnold_liverpool,3.0,27.0,Trent Alexander-Arnold,Liverpool
+2021-03-07,vladimircoufal_westham,3.0,28.0,Vladimir Coufal,West Ham
+2021-03-08,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-03-08,kevindebruyne_manchestercity,11.0,2.0,Kevin De Bruyne,Manchester City
+2021-03-08,brunofernandes_manchesterutd,10.0,3.0,Bruno Fernandes,Manchester Utd
+2021-03-08,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-03-08,sonheungmin_tottenham,9.0,5.0,Son Heung-min,Tottenham
+2021-03-08,aaroncresswell_westham,7.0,6.0,Aaron Cresswell,West Ham
+2021-03-08,marcusrashford_manchesterutd,7.0,7.0,Marcus Rashford,Manchester Utd
+2021-03-08,lucasdigne_everton,6.0,8.0,Lucas Digne,Everton
+2021-03-08,andrewrobertson_liverpool,5.0,9.0,Andrew Robertson,Liverpool
+2021-03-08,jameswardprowse_southampton,5.0,10.0,James Ward-Prowse,Southampton
+2021-03-08,jamievardy_leicestercity,5.0,11.0,Jamie Vardy,Leicester City
+2021-03-08,patrickbamford_leedsunited,5.0,12.0,Patrick Bamford,Leeds United
+2021-03-08,pedroneto_wolves,5.0,13.0,Pedro Neto,Wolves
+2021-03-08,raheemsterling_manchestercity,5.0,14.0,Raheem Sterling,Manchester City
+2021-03-08,raphinha_leedsunited,5.0,15.0,Raphinha,Leeds United
+2021-03-08,robertofirmino_liverpool,5.0,16.0,Roberto Firmino,Liverpool
+2021-03-08,timowerner_chelsea,5.0,17.0,Timo Werner,Chelsea
+2021-03-08,jackharrison_leedsunited,4.0,18.0,Jack Harrison,Leeds United
+2021-03-08,pascalgross_brighton,4.0,19.0,Pascal Gross,Brighton
+2021-03-08,riyadmahrez_manchestercity,4.0,20.0,Riyad Mahrez,Manchester City
+2021-03-08,saidbenrahma_westham,4.0,21.0,Said Benrahma,West Ham
+2021-03-08,bernardosilva_manchestercity,3.0,22.0,Bernardo Silva,Manchester City
+2021-03-08,bertrandtraore_astonvilla,3.0,23.0,Bertrand Traore,Aston Villa
+2021-03-08,eberechieze_crystalpalace,3.0,24.0,Eberechi Eze,Crystal Palace
+2021-03-08,matheuspereira_westbrom,3.0,25.0,Matheus Pereira,West Brom
+2021-03-08,sadiomane_liverpool,3.0,26.0,Sadio Mane,Liverpool
+2021-03-08,trentalexanderarnold_liverpool,3.0,27.0,Trent Alexander-Arnold,Liverpool
+2021-03-08,vladimircoufal_westham,3.0,28.0,Vladimir Coufal,West Ham
+2021-03-14,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-03-14,kevindebruyne_manchestercity,11.0,2.0,Kevin De Bruyne,Manchester City
+2021-03-14,brunofernandes_manchesterutd,10.0,3.0,Bruno Fernandes,Manchester Utd
+2021-03-14,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-03-14,sonheungmin_tottenham,9.0,5.0,Son Heung-min,Tottenham
+2021-03-14,aaroncresswell_westham,7.0,6.0,Aaron Cresswell,West Ham
+2021-03-14,jamievardy_leicestercity,7.0,7.0,Jamie Vardy,Leicester City
+2021-03-14,marcusrashford_manchesterutd,7.0,8.0,Marcus Rashford,Manchester Utd
+2021-03-14,lucasdigne_everton,6.0,9.0,Lucas Digne,Everton
+2021-03-14,andrewrobertson_liverpool,5.0,10.0,Andrew Robertson,Liverpool
+2021-03-14,jameswardprowse_southampton,5.0,11.0,James Ward-Prowse,Southampton
+2021-03-14,pascalgross_brighton,5.0,12.0,Pascal Gross,Brighton
+2021-03-14,patrickbamford_leedsunited,5.0,13.0,Patrick Bamford,Leeds United
+2021-03-14,pedroneto_wolves,5.0,14.0,Pedro Neto,Wolves
+2021-03-14,raheemsterling_manchestercity,5.0,15.0,Raheem Sterling,Manchester City
+2021-03-14,raphinha_leedsunited,5.0,16.0,Raphinha,Leeds United
+2021-03-14,robertofirmino_liverpool,5.0,17.0,Roberto Firmino,Liverpool
+2021-03-14,timowerner_chelsea,5.0,18.0,Timo Werner,Chelsea
+2021-03-14,jackharrison_leedsunited,4.0,19.0,Jack Harrison,Leeds United
+2021-03-14,riyadmahrez_manchestercity,4.0,20.0,Riyad Mahrez,Manchester City
+2021-03-14,saidbenrahma_westham,4.0,21.0,Said Benrahma,West Ham
+2021-03-14,bernardosilva_manchestercity,3.0,22.0,Bernardo Silva,Manchester City
+2021-03-14,bertrandtraore_astonvilla,3.0,23.0,Bertrand Traore,Aston Villa
+2021-03-14,eberechieze_crystalpalace,3.0,24.0,Eberechi Eze,Crystal Palace
+2021-03-14,matheuspereira_westbrom,3.0,25.0,Matheus Pereira,West Brom
+2021-03-14,sadiomane_liverpool,3.0,26.0,Sadio Mane,Liverpool
+2021-03-14,trentalexanderarnold_liverpool,3.0,27.0,Trent Alexander-Arnold,Liverpool
+2021-03-14,vladimircoufal_westham,3.0,28.0,Vladimir Coufal,West Ham
+2021-03-15,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-03-15,kevindebruyne_manchestercity,11.0,2.0,Kevin De Bruyne,Manchester City
+2021-03-15,brunofernandes_manchesterutd,10.0,3.0,Bruno Fernandes,Manchester Utd
+2021-03-15,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-03-15,sonheungmin_tottenham,9.0,5.0,Son Heung-min,Tottenham
+2021-03-15,aaroncresswell_westham,7.0,6.0,Aaron Cresswell,West Ham
+2021-03-15,jamievardy_leicestercity,7.0,7.0,Jamie Vardy,Leicester City
+2021-03-15,marcusrashford_manchesterutd,7.0,8.0,Marcus Rashford,Manchester Utd
+2021-03-15,lucasdigne_everton,6.0,9.0,Lucas Digne,Everton
+2021-03-15,andrewrobertson_liverpool,5.0,10.0,Andrew Robertson,Liverpool
+2021-03-15,jameswardprowse_southampton,5.0,11.0,James Ward-Prowse,Southampton
+2021-03-15,pascalgross_brighton,5.0,12.0,Pascal Gross,Brighton
+2021-03-15,patrickbamford_leedsunited,5.0,13.0,Patrick Bamford,Leeds United
+2021-03-15,pedroneto_wolves,5.0,14.0,Pedro Neto,Wolves
+2021-03-15,raheemsterling_manchestercity,5.0,15.0,Raheem Sterling,Manchester City
+2021-03-15,raphinha_leedsunited,5.0,16.0,Raphinha,Leeds United
+2021-03-15,robertofirmino_liverpool,5.0,17.0,Roberto Firmino,Liverpool
+2021-03-15,timowerner_chelsea,5.0,18.0,Timo Werner,Chelsea
+2021-03-15,jackharrison_leedsunited,4.0,19.0,Jack Harrison,Leeds United
+2021-03-15,riyadmahrez_manchestercity,4.0,20.0,Riyad Mahrez,Manchester City
+2021-03-15,sadiomane_liverpool,4.0,21.0,Sadio Mane,Liverpool
+2021-03-15,saidbenrahma_westham,4.0,22.0,Said Benrahma,West Ham
+2021-03-15,bernardosilva_manchestercity,3.0,23.0,Bernardo Silva,Manchester City
+2021-03-15,bertrandtraore_astonvilla,3.0,24.0,Bertrand Traore,Aston Villa
+2021-03-15,eberechieze_crystalpalace,3.0,25.0,Eberechi Eze,Crystal Palace
+2021-03-15,matheuspereira_westbrom,3.0,26.0,Matheus Pereira,West Brom
+2021-03-15,trentalexanderarnold_liverpool,3.0,27.0,Trent Alexander-Arnold,Liverpool
+2021-03-15,vladimircoufal_westham,3.0,28.0,Vladimir Coufal,West Ham
+2021-03-19,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-03-19,kevindebruyne_manchestercity,11.0,2.0,Kevin De Bruyne,Manchester City
+2021-03-19,brunofernandes_manchesterutd,10.0,3.0,Bruno Fernandes,Manchester Utd
+2021-03-19,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-03-19,sonheungmin_tottenham,9.0,5.0,Son Heung-min,Tottenham
+2021-03-19,aaroncresswell_westham,7.0,6.0,Aaron Cresswell,West Ham
+2021-03-19,jamievardy_leicestercity,7.0,7.0,Jamie Vardy,Leicester City
+2021-03-19,marcusrashford_manchesterutd,7.0,8.0,Marcus Rashford,Manchester Utd
+2021-03-19,lucasdigne_everton,6.0,9.0,Lucas Digne,Everton
+2021-03-19,patrickbamford_leedsunited,6.0,10.0,Patrick Bamford,Leeds United
+2021-03-19,andrewrobertson_liverpool,5.0,11.0,Andrew Robertson,Liverpool
+2021-03-19,jackharrison_leedsunited,5.0,12.0,Jack Harrison,Leeds United
+2021-03-19,jameswardprowse_southampton,5.0,13.0,James Ward-Prowse,Southampton
+2021-03-19,pascalgross_brighton,5.0,14.0,Pascal Gross,Brighton
+2021-03-19,pedroneto_wolves,5.0,15.0,Pedro Neto,Wolves
+2021-03-19,raheemsterling_manchestercity,5.0,16.0,Raheem Sterling,Manchester City
+2021-03-19,raphinha_leedsunited,5.0,17.0,Raphinha,Leeds United
+2021-03-19,robertofirmino_liverpool,5.0,18.0,Roberto Firmino,Liverpool
+2021-03-19,timowerner_chelsea,5.0,19.0,Timo Werner,Chelsea
+2021-03-19,riyadmahrez_manchestercity,4.0,20.0,Riyad Mahrez,Manchester City
+2021-03-19,sadiomane_liverpool,4.0,21.0,Sadio Mane,Liverpool
+2021-03-19,saidbenrahma_westham,4.0,22.0,Said Benrahma,West Ham
+2021-03-19,bernardosilva_manchestercity,3.0,23.0,Bernardo Silva,Manchester City
+2021-03-19,bertrandtraore_astonvilla,3.0,24.0,Bertrand Traore,Aston Villa
+2021-03-19,eberechieze_crystalpalace,3.0,25.0,Eberechi Eze,Crystal Palace
+2021-03-19,matheuspereira_westbrom,3.0,26.0,Matheus Pereira,West Brom
+2021-03-19,trentalexanderarnold_liverpool,3.0,27.0,Trent Alexander-Arnold,Liverpool
+2021-03-19,vladimircoufal_westham,3.0,28.0,Vladimir Coufal,West Ham
+2021-03-20,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-03-20,kevindebruyne_manchestercity,11.0,2.0,Kevin De Bruyne,Manchester City
+2021-03-20,brunofernandes_manchesterutd,10.0,3.0,Bruno Fernandes,Manchester Utd
+2021-03-20,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-03-20,sonheungmin_tottenham,9.0,5.0,Son Heung-min,Tottenham
+2021-03-20,aaroncresswell_westham,7.0,6.0,Aaron Cresswell,West Ham
+2021-03-20,jamievardy_leicestercity,7.0,7.0,Jamie Vardy,Leicester City
+2021-03-20,marcusrashford_manchesterutd,7.0,8.0,Marcus Rashford,Manchester Utd
+2021-03-20,lucasdigne_everton,6.0,9.0,Lucas Digne,Everton
+2021-03-20,pascalgross_brighton,6.0,10.0,Pascal Gross,Brighton
+2021-03-20,patrickbamford_leedsunited,6.0,11.0,Patrick Bamford,Leeds United
+2021-03-20,andrewrobertson_liverpool,5.0,12.0,Andrew Robertson,Liverpool
+2021-03-20,jackharrison_leedsunited,5.0,13.0,Jack Harrison,Leeds United
+2021-03-20,jameswardprowse_southampton,5.0,14.0,James Ward-Prowse,Southampton
+2021-03-20,pedroneto_wolves,5.0,15.0,Pedro Neto,Wolves
+2021-03-20,raheemsterling_manchestercity,5.0,16.0,Raheem Sterling,Manchester City
+2021-03-20,raphinha_leedsunited,5.0,17.0,Raphinha,Leeds United
+2021-03-20,robertofirmino_liverpool,5.0,18.0,Roberto Firmino,Liverpool
+2021-03-20,timowerner_chelsea,5.0,19.0,Timo Werner,Chelsea
+2021-03-20,riyadmahrez_manchestercity,4.0,20.0,Riyad Mahrez,Manchester City
+2021-03-20,sadiomane_liverpool,4.0,21.0,Sadio Mane,Liverpool
+2021-03-20,saidbenrahma_westham,4.0,22.0,Said Benrahma,West Ham
+2021-03-20,bernardosilva_manchestercity,3.0,23.0,Bernardo Silva,Manchester City
+2021-03-20,bertrandtraore_astonvilla,3.0,24.0,Bertrand Traore,Aston Villa
+2021-03-20,eberechieze_crystalpalace,3.0,25.0,Eberechi Eze,Crystal Palace
+2021-03-20,matheuspereira_westbrom,3.0,26.0,Matheus Pereira,West Brom
+2021-03-20,trentalexanderarnold_liverpool,3.0,27.0,Trent Alexander-Arnold,Liverpool
+2021-03-20,vladimircoufal_westham,3.0,28.0,Vladimir Coufal,West Ham
+2021-04-03,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-04-03,kevindebruyne_manchestercity,11.0,2.0,Kevin De Bruyne,Manchester City
+2021-04-03,brunofernandes_manchesterutd,10.0,3.0,Bruno Fernandes,Manchester Utd
+2021-04-03,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-04-03,sonheungmin_tottenham,9.0,5.0,Son Heung-min,Tottenham
+2021-04-03,aaroncresswell_westham,7.0,6.0,Aaron Cresswell,West Ham
+2021-04-03,jamievardy_leicestercity,7.0,7.0,Jamie Vardy,Leicester City
+2021-04-03,marcusrashford_manchesterutd,7.0,8.0,Marcus Rashford,Manchester Utd
+2021-04-03,lucasdigne_everton,6.0,9.0,Lucas Digne,Everton
+2021-04-03,pascalgross_brighton,6.0,10.0,Pascal Gross,Brighton
+2021-04-03,patrickbamford_leedsunited,6.0,11.0,Patrick Bamford,Leeds United
+2021-04-03,raheemsterling_manchestercity,6.0,12.0,Raheem Sterling,Manchester City
+2021-04-03,raphinha_leedsunited,6.0,13.0,Raphinha,Leeds United
+2021-04-03,timowerner_chelsea,6.0,14.0,Timo Werner,Chelsea
+2021-04-03,andrewrobertson_liverpool,5.0,15.0,Andrew Robertson,Liverpool
+2021-04-03,jackharrison_leedsunited,5.0,16.0,Jack Harrison,Leeds United
+2021-04-03,jameswardprowse_southampton,5.0,17.0,James Ward-Prowse,Southampton
+2021-04-03,matheuspereira_westbrom,5.0,18.0,Matheus Pereira,West Brom
+2021-04-03,pedroneto_wolves,5.0,19.0,Pedro Neto,Wolves
+2021-04-03,robertofirmino_liverpool,5.0,20.0,Roberto Firmino,Liverpool
+2021-04-03,sadiomane_liverpool,5.0,21.0,Sadio Mane,Liverpool
+2021-04-03,riyadmahrez_manchestercity,4.0,22.0,Riyad Mahrez,Manchester City
+2021-04-03,saidbenrahma_westham,4.0,23.0,Said Benrahma,West Ham
+2021-04-03,trentalexanderarnold_liverpool,4.0,24.0,Trent Alexander-Arnold,Liverpool
+2021-04-03,bernardosilva_manchestercity,3.0,25.0,Bernardo Silva,Manchester City
+2021-04-03,bertrandtraore_astonvilla,3.0,26.0,Bertrand Traore,Aston Villa
+2021-04-03,eberechieze_crystalpalace,3.0,27.0,Eberechi Eze,Crystal Palace
+2021-04-03,vladimircoufal_westham,3.0,28.0,Vladimir Coufal,West Ham
+2021-04-04,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-04-04,brunofernandes_manchesterutd,11.0,2.0,Bruno Fernandes,Manchester Utd
+2021-04-04,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-04-04,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-04-04,sonheungmin_tottenham,9.0,5.0,Son Heung-min,Tottenham
+2021-04-04,aaroncresswell_westham,7.0,6.0,Aaron Cresswell,West Ham
+2021-04-04,jamievardy_leicestercity,7.0,7.0,Jamie Vardy,Leicester City
+2021-04-04,marcusrashford_manchesterutd,7.0,8.0,Marcus Rashford,Manchester Utd
+2021-04-04,lucasdigne_everton,6.0,9.0,Lucas Digne,Everton
+2021-04-04,pascalgross_brighton,6.0,10.0,Pascal Gross,Brighton
+2021-04-04,patrickbamford_leedsunited,6.0,11.0,Patrick Bamford,Leeds United
+2021-04-04,raheemsterling_manchestercity,6.0,12.0,Raheem Sterling,Manchester City
+2021-04-04,raphinha_leedsunited,6.0,13.0,Raphinha,Leeds United
+2021-04-04,timowerner_chelsea,6.0,14.0,Timo Werner,Chelsea
+2021-04-04,andrewrobertson_liverpool,5.0,15.0,Andrew Robertson,Liverpool
+2021-04-04,jackharrison_leedsunited,5.0,16.0,Jack Harrison,Leeds United
+2021-04-04,jameswardprowse_southampton,5.0,17.0,James Ward-Prowse,Southampton
+2021-04-04,matheuspereira_westbrom,5.0,18.0,Matheus Pereira,West Brom
+2021-04-04,pedroneto_wolves,5.0,19.0,Pedro Neto,Wolves
+2021-04-04,robertofirmino_liverpool,5.0,20.0,Roberto Firmino,Liverpool
+2021-04-04,sadiomane_liverpool,5.0,21.0,Sadio Mane,Liverpool
+2021-04-04,bertrandtraore_astonvilla,4.0,22.0,Bertrand Traore,Aston Villa
+2021-04-04,riyadmahrez_manchestercity,4.0,23.0,Riyad Mahrez,Manchester City
+2021-04-04,saidbenrahma_westham,4.0,24.0,Said Benrahma,West Ham
+2021-04-04,trentalexanderarnold_liverpool,4.0,25.0,Trent Alexander-Arnold,Liverpool
+2021-04-04,bernardosilva_manchestercity,3.0,26.0,Bernardo Silva,Manchester City
+2021-04-04,eberechieze_crystalpalace,3.0,27.0,Eberechi Eze,Crystal Palace
+2021-04-04,vladimircoufal_westham,3.0,28.0,Vladimir Coufal,West Ham
+2021-04-05,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-04-05,brunofernandes_manchesterutd,11.0,2.0,Bruno Fernandes,Manchester Utd
+2021-04-05,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-04-05,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-04-05,sonheungmin_tottenham,9.0,5.0,Son Heung-min,Tottenham
+2021-04-05,aaroncresswell_westham,7.0,6.0,Aaron Cresswell,West Ham
+2021-04-05,jamievardy_leicestercity,7.0,7.0,Jamie Vardy,Leicester City
+2021-04-05,marcusrashford_manchesterutd,7.0,8.0,Marcus Rashford,Manchester Utd
+2021-04-05,lucasdigne_everton,6.0,9.0,Lucas Digne,Everton
+2021-04-05,pascalgross_brighton,6.0,10.0,Pascal Gross,Brighton
+2021-04-05,patrickbamford_leedsunited,6.0,11.0,Patrick Bamford,Leeds United
+2021-04-05,pedroneto_wolves,6.0,12.0,Pedro Neto,Wolves
+2021-04-05,raheemsterling_manchestercity,6.0,13.0,Raheem Sterling,Manchester City
+2021-04-05,raphinha_leedsunited,6.0,14.0,Raphinha,Leeds United
+2021-04-05,timowerner_chelsea,6.0,15.0,Timo Werner,Chelsea
+2021-04-05,andrewrobertson_liverpool,5.0,16.0,Andrew Robertson,Liverpool
+2021-04-05,jackharrison_leedsunited,5.0,17.0,Jack Harrison,Leeds United
+2021-04-05,jameswardprowse_southampton,5.0,18.0,James Ward-Prowse,Southampton
+2021-04-05,matheuspereira_westbrom,5.0,19.0,Matheus Pereira,West Brom
+2021-04-05,robertofirmino_liverpool,5.0,20.0,Roberto Firmino,Liverpool
+2021-04-05,sadiomane_liverpool,5.0,21.0,Sadio Mane,Liverpool
+2021-04-05,bertrandtraore_astonvilla,4.0,22.0,Bertrand Traore,Aston Villa
+2021-04-05,riyadmahrez_manchestercity,4.0,23.0,Riyad Mahrez,Manchester City
+2021-04-05,saidbenrahma_westham,4.0,24.0,Said Benrahma,West Ham
+2021-04-05,trentalexanderarnold_liverpool,4.0,25.0,Trent Alexander-Arnold,Liverpool
+2021-04-05,vladimircoufal_westham,4.0,26.0,Vladimir Coufal,West Ham
+2021-04-05,bernardosilva_manchestercity,3.0,27.0,Bernardo Silva,Manchester City
+2021-04-05,eberechieze_crystalpalace,3.0,28.0,Eberechi Eze,Crystal Palace
+2021-04-10,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-04-10,brunofernandes_manchesterutd,11.0,2.0,Bruno Fernandes,Manchester Utd
+2021-04-10,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-04-10,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-04-10,sonheungmin_tottenham,9.0,5.0,Son Heung-min,Tottenham
+2021-04-10,aaroncresswell_westham,7.0,6.0,Aaron Cresswell,West Ham
+2021-04-10,jamievardy_leicestercity,7.0,7.0,Jamie Vardy,Leicester City
+2021-04-10,marcusrashford_manchesterutd,7.0,8.0,Marcus Rashford,Manchester Utd
+2021-04-10,patrickbamford_leedsunited,7.0,9.0,Patrick Bamford,Leeds United
+2021-04-10,lucasdigne_everton,6.0,10.0,Lucas Digne,Everton
+2021-04-10,pascalgross_brighton,6.0,11.0,Pascal Gross,Brighton
+2021-04-10,pedroneto_wolves,6.0,12.0,Pedro Neto,Wolves
+2021-04-10,raheemsterling_manchestercity,6.0,13.0,Raheem Sterling,Manchester City
+2021-04-10,raphinha_leedsunited,6.0,14.0,Raphinha,Leeds United
+2021-04-10,timowerner_chelsea,6.0,15.0,Timo Werner,Chelsea
+2021-04-10,andrewrobertson_liverpool,5.0,16.0,Andrew Robertson,Liverpool
+2021-04-10,jackharrison_leedsunited,5.0,17.0,Jack Harrison,Leeds United
+2021-04-10,jameswardprowse_southampton,5.0,18.0,James Ward-Prowse,Southampton
+2021-04-10,matheuspereira_westbrom,5.0,19.0,Matheus Pereira,West Brom
+2021-04-10,robertofirmino_liverpool,5.0,20.0,Roberto Firmino,Liverpool
+2021-04-10,sadiomane_liverpool,5.0,21.0,Sadio Mane,Liverpool
+2021-04-10,bernardosilva_manchestercity,4.0,22.0,Bernardo Silva,Manchester City
+2021-04-10,bertrandtraore_astonvilla,4.0,23.0,Bertrand Traore,Aston Villa
+2021-04-10,riyadmahrez_manchestercity,4.0,24.0,Riyad Mahrez,Manchester City
+2021-04-10,saidbenrahma_westham,4.0,25.0,Said Benrahma,West Ham
+2021-04-10,trentalexanderarnold_liverpool,4.0,26.0,Trent Alexander-Arnold,Liverpool
+2021-04-10,vladimircoufal_westham,4.0,27.0,Vladimir Coufal,West Ham
+2021-04-10,eberechieze_crystalpalace,3.0,28.0,Eberechi Eze,Crystal Palace
+2021-04-11,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-04-11,brunofernandes_manchesterutd,11.0,2.0,Bruno Fernandes,Manchester Utd
+2021-04-11,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-04-11,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-04-11,sonheungmin_tottenham,9.0,5.0,Son Heung-min,Tottenham
+2021-04-11,aaroncresswell_westham,7.0,6.0,Aaron Cresswell,West Ham
+2021-04-11,jamievardy_leicestercity,7.0,7.0,Jamie Vardy,Leicester City
+2021-04-11,marcusrashford_manchesterutd,7.0,8.0,Marcus Rashford,Manchester Utd
+2021-04-11,patrickbamford_leedsunited,7.0,9.0,Patrick Bamford,Leeds United
+2021-04-11,lucasdigne_everton,6.0,10.0,Lucas Digne,Everton
+2021-04-11,pascalgross_brighton,6.0,11.0,Pascal Gross,Brighton
+2021-04-11,pedroneto_wolves,6.0,12.0,Pedro Neto,Wolves
+2021-04-11,raheemsterling_manchestercity,6.0,13.0,Raheem Sterling,Manchester City
+2021-04-11,raphinha_leedsunited,6.0,14.0,Raphinha,Leeds United
+2021-04-11,timowerner_chelsea,6.0,15.0,Timo Werner,Chelsea
+2021-04-11,andrewrobertson_liverpool,5.0,16.0,Andrew Robertson,Liverpool
+2021-04-11,jackharrison_leedsunited,5.0,17.0,Jack Harrison,Leeds United
+2021-04-11,jameswardprowse_southampton,5.0,18.0,James Ward-Prowse,Southampton
+2021-04-11,matheuspereira_westbrom,5.0,19.0,Matheus Pereira,West Brom
+2021-04-11,robertofirmino_liverpool,5.0,20.0,Roberto Firmino,Liverpool
+2021-04-11,sadiomane_liverpool,5.0,21.0,Sadio Mane,Liverpool
+2021-04-11,vladimircoufal_westham,5.0,22.0,Vladimir Coufal,West Ham
+2021-04-11,bernardosilva_manchestercity,4.0,23.0,Bernardo Silva,Manchester City
+2021-04-11,bertrandtraore_astonvilla,4.0,24.0,Bertrand Traore,Aston Villa
+2021-04-11,riyadmahrez_manchestercity,4.0,25.0,Riyad Mahrez,Manchester City
+2021-04-11,saidbenrahma_westham,4.0,26.0,Said Benrahma,West Ham
+2021-04-11,trentalexanderarnold_liverpool,4.0,27.0,Trent Alexander-Arnold,Liverpool
+2021-04-11,eberechieze_crystalpalace,3.0,28.0,Eberechi Eze,Crystal Palace
+2021-04-18,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-04-18,brunofernandes_manchesterutd,11.0,2.0,Bruno Fernandes,Manchester Utd
+2021-04-18,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-04-18,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-04-18,sonheungmin_tottenham,9.0,5.0,Son Heung-min,Tottenham
+2021-04-18,marcusrashford_manchesterutd,8.0,6.0,Marcus Rashford,Manchester Utd
+2021-04-18,aaroncresswell_westham,7.0,7.0,Aaron Cresswell,West Ham
+2021-04-18,jamievardy_leicestercity,7.0,8.0,Jamie Vardy,Leicester City
+2021-04-18,patrickbamford_leedsunited,7.0,9.0,Patrick Bamford,Leeds United
+2021-04-18,lucasdigne_everton,6.0,10.0,Lucas Digne,Everton
+2021-04-18,pascalgross_brighton,6.0,11.0,Pascal Gross,Brighton
+2021-04-18,pedroneto_wolves,6.0,12.0,Pedro Neto,Wolves
+2021-04-18,raheemsterling_manchestercity,6.0,13.0,Raheem Sterling,Manchester City
+2021-04-18,raphinha_leedsunited,6.0,14.0,Raphinha,Leeds United
+2021-04-18,timowerner_chelsea,6.0,15.0,Timo Werner,Chelsea
+2021-04-18,andrewrobertson_liverpool,5.0,16.0,Andrew Robertson,Liverpool
+2021-04-18,jackharrison_leedsunited,5.0,17.0,Jack Harrison,Leeds United
+2021-04-18,jameswardprowse_southampton,5.0,18.0,James Ward-Prowse,Southampton
+2021-04-18,matheuspereira_westbrom,5.0,19.0,Matheus Pereira,West Brom
+2021-04-18,robertofirmino_liverpool,5.0,20.0,Roberto Firmino,Liverpool
+2021-04-18,sadiomane_liverpool,5.0,21.0,Sadio Mane,Liverpool
+2021-04-18,vladimircoufal_westham,5.0,22.0,Vladimir Coufal,West Ham
+2021-04-18,bernardosilva_manchestercity,4.0,23.0,Bernardo Silva,Manchester City
+2021-04-18,bertrandtraore_astonvilla,4.0,24.0,Bertrand Traore,Aston Villa
+2021-04-18,riyadmahrez_manchestercity,4.0,25.0,Riyad Mahrez,Manchester City
+2021-04-18,saidbenrahma_westham,4.0,26.0,Said Benrahma,West Ham
+2021-04-18,trentalexanderarnold_liverpool,4.0,27.0,Trent Alexander-Arnold,Liverpool
+2021-04-18,eberechieze_crystalpalace,3.0,28.0,Eberechi Eze,Crystal Palace
+2021-04-19,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-04-19,brunofernandes_manchesterutd,11.0,2.0,Bruno Fernandes,Manchester Utd
+2021-04-19,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-04-19,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-04-19,sonheungmin_tottenham,9.0,5.0,Son Heung-min,Tottenham
+2021-04-19,marcusrashford_manchesterutd,8.0,6.0,Marcus Rashford,Manchester Utd
+2021-04-19,aaroncresswell_westham,7.0,7.0,Aaron Cresswell,West Ham
+2021-04-19,jamievardy_leicestercity,7.0,8.0,Jamie Vardy,Leicester City
+2021-04-19,patrickbamford_leedsunited,7.0,9.0,Patrick Bamford,Leeds United
+2021-04-19,jackharrison_leedsunited,6.0,10.0,Jack Harrison,Leeds United
+2021-04-19,lucasdigne_everton,6.0,11.0,Lucas Digne,Everton
+2021-04-19,pascalgross_brighton,6.0,12.0,Pascal Gross,Brighton
+2021-04-19,pedroneto_wolves,6.0,13.0,Pedro Neto,Wolves
+2021-04-19,raheemsterling_manchestercity,6.0,14.0,Raheem Sterling,Manchester City
+2021-04-19,raphinha_leedsunited,6.0,15.0,Raphinha,Leeds United
+2021-04-19,timowerner_chelsea,6.0,16.0,Timo Werner,Chelsea
+2021-04-19,andrewrobertson_liverpool,5.0,17.0,Andrew Robertson,Liverpool
+2021-04-19,jameswardprowse_southampton,5.0,18.0,James Ward-Prowse,Southampton
+2021-04-19,matheuspereira_westbrom,5.0,19.0,Matheus Pereira,West Brom
+2021-04-19,robertofirmino_liverpool,5.0,20.0,Roberto Firmino,Liverpool
+2021-04-19,sadiomane_liverpool,5.0,21.0,Sadio Mane,Liverpool
+2021-04-19,trentalexanderarnold_liverpool,5.0,22.0,Trent Alexander-Arnold,Liverpool
+2021-04-19,vladimircoufal_westham,5.0,23.0,Vladimir Coufal,West Ham
+2021-04-19,bernardosilva_manchestercity,4.0,24.0,Bernardo Silva,Manchester City
+2021-04-19,bertrandtraore_astonvilla,4.0,25.0,Bertrand Traore,Aston Villa
+2021-04-19,riyadmahrez_manchestercity,4.0,26.0,Riyad Mahrez,Manchester City
+2021-04-19,saidbenrahma_westham,4.0,27.0,Said Benrahma,West Ham
+2021-04-19,eberechieze_crystalpalace,3.0,28.0,Eberechi Eze,Crystal Palace
+2021-04-21,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-04-21,brunofernandes_manchesterutd,11.0,2.0,Bruno Fernandes,Manchester Utd
+2021-04-21,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-04-21,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-04-21,sonheungmin_tottenham,9.0,5.0,Son Heung-min,Tottenham
+2021-04-21,marcusrashford_manchesterutd,8.0,6.0,Marcus Rashford,Manchester Utd
+2021-04-21,aaroncresswell_westham,7.0,7.0,Aaron Cresswell,West Ham
+2021-04-21,jamievardy_leicestercity,7.0,8.0,Jamie Vardy,Leicester City
+2021-04-21,patrickbamford_leedsunited,7.0,9.0,Patrick Bamford,Leeds United
+2021-04-21,bernardosilva_manchestercity,6.0,10.0,Bernardo Silva,Manchester City
+2021-04-21,jackharrison_leedsunited,6.0,11.0,Jack Harrison,Leeds United
+2021-04-21,jameswardprowse_southampton,6.0,12.0,James Ward-Prowse,Southampton
+2021-04-21,lucasdigne_everton,6.0,13.0,Lucas Digne,Everton
+2021-04-21,pascalgross_brighton,6.0,14.0,Pascal Gross,Brighton
+2021-04-21,pedroneto_wolves,6.0,15.0,Pedro Neto,Wolves
+2021-04-21,raheemsterling_manchestercity,6.0,16.0,Raheem Sterling,Manchester City
+2021-04-21,raphinha_leedsunited,6.0,17.0,Raphinha,Leeds United
+2021-04-21,timowerner_chelsea,6.0,18.0,Timo Werner,Chelsea
+2021-04-21,andrewrobertson_liverpool,5.0,19.0,Andrew Robertson,Liverpool
+2021-04-21,matheuspereira_westbrom,5.0,20.0,Matheus Pereira,West Brom
+2021-04-21,robertofirmino_liverpool,5.0,21.0,Roberto Firmino,Liverpool
+2021-04-21,sadiomane_liverpool,5.0,22.0,Sadio Mane,Liverpool
+2021-04-21,trentalexanderarnold_liverpool,5.0,23.0,Trent Alexander-Arnold,Liverpool
+2021-04-21,vladimircoufal_westham,5.0,24.0,Vladimir Coufal,West Ham
+2021-04-21,bertrandtraore_astonvilla,4.0,25.0,Bertrand Traore,Aston Villa
+2021-04-21,riyadmahrez_manchestercity,4.0,26.0,Riyad Mahrez,Manchester City
+2021-04-21,saidbenrahma_westham,4.0,27.0,Said Benrahma,West Ham
+2021-04-21,eberechieze_crystalpalace,3.0,28.0,Eberechi Eze,Crystal Palace
+2021-04-22,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-04-22,brunofernandes_manchesterutd,11.0,2.0,Bruno Fernandes,Manchester Utd
+2021-04-22,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-04-22,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-04-22,sonheungmin_tottenham,9.0,5.0,Son Heung-min,Tottenham
+2021-04-22,jamievardy_leicestercity,8.0,6.0,Jamie Vardy,Leicester City
+2021-04-22,marcusrashford_manchesterutd,8.0,7.0,Marcus Rashford,Manchester Utd
+2021-04-22,aaroncresswell_westham,7.0,8.0,Aaron Cresswell,West Ham
+2021-04-22,patrickbamford_leedsunited,7.0,9.0,Patrick Bamford,Leeds United
+2021-04-22,bernardosilva_manchestercity,6.0,10.0,Bernardo Silva,Manchester City
+2021-04-22,jackharrison_leedsunited,6.0,11.0,Jack Harrison,Leeds United
+2021-04-22,jameswardprowse_southampton,6.0,12.0,James Ward-Prowse,Southampton
+2021-04-22,lucasdigne_everton,6.0,13.0,Lucas Digne,Everton
+2021-04-22,pascalgross_brighton,6.0,14.0,Pascal Gross,Brighton
+2021-04-22,pedroneto_wolves,6.0,15.0,Pedro Neto,Wolves
+2021-04-22,raheemsterling_manchestercity,6.0,16.0,Raheem Sterling,Manchester City
+2021-04-22,raphinha_leedsunited,6.0,17.0,Raphinha,Leeds United
+2021-04-22,timowerner_chelsea,6.0,18.0,Timo Werner,Chelsea
+2021-04-22,andrewrobertson_liverpool,5.0,19.0,Andrew Robertson,Liverpool
+2021-04-22,matheuspereira_westbrom,5.0,20.0,Matheus Pereira,West Brom
+2021-04-22,robertofirmino_liverpool,5.0,21.0,Roberto Firmino,Liverpool
+2021-04-22,sadiomane_liverpool,5.0,22.0,Sadio Mane,Liverpool
+2021-04-22,trentalexanderarnold_liverpool,5.0,23.0,Trent Alexander-Arnold,Liverpool
+2021-04-22,vladimircoufal_westham,5.0,24.0,Vladimir Coufal,West Ham
+2021-04-22,bertrandtraore_astonvilla,4.0,25.0,Bertrand Traore,Aston Villa
+2021-04-22,riyadmahrez_manchestercity,4.0,26.0,Riyad Mahrez,Manchester City
+2021-04-22,saidbenrahma_westham,4.0,27.0,Said Benrahma,West Ham
+2021-04-22,eberechieze_crystalpalace,3.0,28.0,Eberechi Eze,Crystal Palace
+2021-04-26,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-04-26,brunofernandes_manchesterutd,11.0,2.0,Bruno Fernandes,Manchester Utd
+2021-04-26,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-04-26,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-04-26,sonheungmin_tottenham,9.0,5.0,Son Heung-min,Tottenham
+2021-04-26,jamievardy_leicestercity,8.0,6.0,Jamie Vardy,Leicester City
+2021-04-26,marcusrashford_manchesterutd,8.0,7.0,Marcus Rashford,Manchester Utd
+2021-04-26,aaroncresswell_westham,7.0,8.0,Aaron Cresswell,West Ham
+2021-04-26,patrickbamford_leedsunited,7.0,9.0,Patrick Bamford,Leeds United
+2021-04-26,bernardosilva_manchestercity,6.0,10.0,Bernardo Silva,Manchester City
+2021-04-26,jackharrison_leedsunited,6.0,11.0,Jack Harrison,Leeds United
+2021-04-26,jameswardprowse_southampton,6.0,12.0,James Ward-Prowse,Southampton
+2021-04-26,lucasdigne_everton,6.0,13.0,Lucas Digne,Everton
+2021-04-26,pascalgross_brighton,6.0,14.0,Pascal Gross,Brighton
+2021-04-26,pedroneto_wolves,6.0,15.0,Pedro Neto,Wolves
+2021-04-26,raheemsterling_manchestercity,6.0,16.0,Raheem Sterling,Manchester City
+2021-04-26,raphinha_leedsunited,6.0,17.0,Raphinha,Leeds United
+2021-04-26,timowerner_chelsea,6.0,18.0,Timo Werner,Chelsea
+2021-04-26,andrewrobertson_liverpool,5.0,19.0,Andrew Robertson,Liverpool
+2021-04-26,matheuspereira_westbrom,5.0,20.0,Matheus Pereira,West Brom
+2021-04-26,robertofirmino_liverpool,5.0,21.0,Roberto Firmino,Liverpool
+2021-04-26,sadiomane_liverpool,5.0,22.0,Sadio Mane,Liverpool
+2021-04-26,trentalexanderarnold_liverpool,5.0,23.0,Trent Alexander-Arnold,Liverpool
+2021-04-26,vladimircoufal_westham,5.0,24.0,Vladimir Coufal,West Ham
+2021-04-26,bertrandtraore_astonvilla,4.0,25.0,Bertrand Traore,Aston Villa
+2021-04-26,eberechieze_crystalpalace,4.0,26.0,Eberechi Eze,Crystal Palace
+2021-04-26,riyadmahrez_manchestercity,4.0,27.0,Riyad Mahrez,Manchester City
+2021-04-26,saidbenrahma_westham,4.0,28.0,Said Benrahma,West Ham
+2021-05-01,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-05-01,brunofernandes_manchesterutd,11.0,2.0,Bruno Fernandes,Manchester Utd
+2021-05-01,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-05-01,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-05-01,sonheungmin_tottenham,9.0,5.0,Son Heung-min,Tottenham
+2021-05-01,jamievardy_leicestercity,8.0,6.0,Jamie Vardy,Leicester City
+2021-05-01,marcusrashford_manchesterutd,8.0,7.0,Marcus Rashford,Manchester Utd
+2021-05-01,aaroncresswell_westham,7.0,8.0,Aaron Cresswell,West Ham
+2021-05-01,lucasdigne_everton,7.0,9.0,Lucas Digne,Everton
+2021-05-01,patrickbamford_leedsunited,7.0,10.0,Patrick Bamford,Leeds United
+2021-05-01,timowerner_chelsea,7.0,11.0,Timo Werner,Chelsea
+2021-05-01,bernardosilva_manchestercity,6.0,12.0,Bernardo Silva,Manchester City
+2021-05-01,jackharrison_leedsunited,6.0,13.0,Jack Harrison,Leeds United
+2021-05-01,jameswardprowse_southampton,6.0,14.0,James Ward-Prowse,Southampton
+2021-05-01,pascalgross_brighton,6.0,15.0,Pascal Gross,Brighton
+2021-05-01,pedroneto_wolves,6.0,16.0,Pedro Neto,Wolves
+2021-05-01,raheemsterling_manchestercity,6.0,17.0,Raheem Sterling,Manchester City
+2021-05-01,raphinha_leedsunited,6.0,18.0,Raphinha,Leeds United
+2021-05-01,andrewrobertson_liverpool,5.0,19.0,Andrew Robertson,Liverpool
+2021-05-01,bertrandtraore_astonvilla,5.0,20.0,Bertrand Traore,Aston Villa
+2021-05-01,matheuspereira_westbrom,5.0,21.0,Matheus Pereira,West Brom
+2021-05-01,robertofirmino_liverpool,5.0,22.0,Roberto Firmino,Liverpool
+2021-05-01,sadiomane_liverpool,5.0,23.0,Sadio Mane,Liverpool
+2021-05-01,trentalexanderarnold_liverpool,5.0,24.0,Trent Alexander-Arnold,Liverpool
+2021-05-01,vladimircoufal_westham,5.0,25.0,Vladimir Coufal,West Ham
+2021-05-01,eberechieze_crystalpalace,4.0,26.0,Eberechi Eze,Crystal Palace
+2021-05-01,riyadmahrez_manchestercity,4.0,27.0,Riyad Mahrez,Manchester City
+2021-05-01,saidbenrahma_westham,4.0,28.0,Said Benrahma,West Ham
+2021-05-02,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-05-02,brunofernandes_manchesterutd,11.0,2.0,Bruno Fernandes,Manchester Utd
+2021-05-02,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-05-02,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-05-02,sonheungmin_tottenham,10.0,5.0,Son Heung-min,Tottenham
+2021-05-02,jamievardy_leicestercity,8.0,6.0,Jamie Vardy,Leicester City
+2021-05-02,marcusrashford_manchesterutd,8.0,7.0,Marcus Rashford,Manchester Utd
+2021-05-02,aaroncresswell_westham,7.0,8.0,Aaron Cresswell,West Ham
+2021-05-02,lucasdigne_everton,7.0,9.0,Lucas Digne,Everton
+2021-05-02,patrickbamford_leedsunited,7.0,10.0,Patrick Bamford,Leeds United
+2021-05-02,timowerner_chelsea,7.0,11.0,Timo Werner,Chelsea
+2021-05-02,bernardosilva_manchestercity,6.0,12.0,Bernardo Silva,Manchester City
+2021-05-02,jackharrison_leedsunited,6.0,13.0,Jack Harrison,Leeds United
+2021-05-02,jameswardprowse_southampton,6.0,14.0,James Ward-Prowse,Southampton
+2021-05-02,pascalgross_brighton,6.0,15.0,Pascal Gross,Brighton
+2021-05-02,pedroneto_wolves,6.0,16.0,Pedro Neto,Wolves
+2021-05-02,raheemsterling_manchestercity,6.0,17.0,Raheem Sterling,Manchester City
+2021-05-02,raphinha_leedsunited,6.0,18.0,Raphinha,Leeds United
+2021-05-02,andrewrobertson_liverpool,5.0,19.0,Andrew Robertson,Liverpool
+2021-05-02,bertrandtraore_astonvilla,5.0,20.0,Bertrand Traore,Aston Villa
+2021-05-02,matheuspereira_westbrom,5.0,21.0,Matheus Pereira,West Brom
+2021-05-02,robertofirmino_liverpool,5.0,22.0,Roberto Firmino,Liverpool
+2021-05-02,sadiomane_liverpool,5.0,23.0,Sadio Mane,Liverpool
+2021-05-02,trentalexanderarnold_liverpool,5.0,24.0,Trent Alexander-Arnold,Liverpool
+2021-05-02,vladimircoufal_westham,5.0,25.0,Vladimir Coufal,West Ham
+2021-05-02,eberechieze_crystalpalace,4.0,26.0,Eberechi Eze,Crystal Palace
+2021-05-02,riyadmahrez_manchestercity,4.0,27.0,Riyad Mahrez,Manchester City
+2021-05-02,saidbenrahma_westham,4.0,28.0,Said Benrahma,West Ham
+2021-05-03,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-05-03,brunofernandes_manchesterutd,11.0,2.0,Bruno Fernandes,Manchester Utd
+2021-05-03,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-05-03,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-05-03,sonheungmin_tottenham,10.0,5.0,Son Heung-min,Tottenham
+2021-05-03,jamievardy_leicestercity,8.0,6.0,Jamie Vardy,Leicester City
+2021-05-03,marcusrashford_manchesterutd,8.0,7.0,Marcus Rashford,Manchester Utd
+2021-05-03,aaroncresswell_westham,7.0,8.0,Aaron Cresswell,West Ham
+2021-05-03,lucasdigne_everton,7.0,9.0,Lucas Digne,Everton
+2021-05-03,patrickbamford_leedsunited,7.0,10.0,Patrick Bamford,Leeds United
+2021-05-03,timowerner_chelsea,7.0,11.0,Timo Werner,Chelsea
+2021-05-03,bernardosilva_manchestercity,6.0,12.0,Bernardo Silva,Manchester City
+2021-05-03,jackharrison_leedsunited,6.0,13.0,Jack Harrison,Leeds United
+2021-05-03,jameswardprowse_southampton,6.0,14.0,James Ward-Prowse,Southampton
+2021-05-03,pascalgross_brighton,6.0,15.0,Pascal Gross,Brighton
+2021-05-03,pedroneto_wolves,6.0,16.0,Pedro Neto,Wolves
+2021-05-03,raheemsterling_manchestercity,6.0,17.0,Raheem Sterling,Manchester City
+2021-05-03,raphinha_leedsunited,6.0,18.0,Raphinha,Leeds United
+2021-05-03,vladimircoufal_westham,6.0,19.0,Vladimir Coufal,West Ham
+2021-05-03,andrewrobertson_liverpool,5.0,20.0,Andrew Robertson,Liverpool
+2021-05-03,bertrandtraore_astonvilla,5.0,21.0,Bertrand Traore,Aston Villa
+2021-05-03,matheuspereira_westbrom,5.0,22.0,Matheus Pereira,West Brom
+2021-05-03,robertofirmino_liverpool,5.0,23.0,Roberto Firmino,Liverpool
+2021-05-03,sadiomane_liverpool,5.0,24.0,Sadio Mane,Liverpool
+2021-05-03,saidbenrahma_westham,5.0,25.0,Said Benrahma,West Ham
+2021-05-03,trentalexanderarnold_liverpool,5.0,26.0,Trent Alexander-Arnold,Liverpool
+2021-05-03,eberechieze_crystalpalace,4.0,27.0,Eberechi Eze,Crystal Palace
+2021-05-03,riyadmahrez_manchestercity,4.0,28.0,Riyad Mahrez,Manchester City
+2021-05-07,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-05-07,brunofernandes_manchesterutd,11.0,2.0,Bruno Fernandes,Manchester Utd
+2021-05-07,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-05-07,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-05-07,sonheungmin_tottenham,10.0,5.0,Son Heung-min,Tottenham
+2021-05-07,jamievardy_leicestercity,9.0,6.0,Jamie Vardy,Leicester City
+2021-05-07,marcusrashford_manchesterutd,8.0,7.0,Marcus Rashford,Manchester Utd
+2021-05-07,aaroncresswell_westham,7.0,8.0,Aaron Cresswell,West Ham
+2021-05-07,lucasdigne_everton,7.0,9.0,Lucas Digne,Everton
+2021-05-07,patrickbamford_leedsunited,7.0,10.0,Patrick Bamford,Leeds United
+2021-05-07,timowerner_chelsea,7.0,11.0,Timo Werner,Chelsea
+2021-05-07,bernardosilva_manchestercity,6.0,12.0,Bernardo Silva,Manchester City
+2021-05-07,jackharrison_leedsunited,6.0,13.0,Jack Harrison,Leeds United
+2021-05-07,jameswardprowse_southampton,6.0,14.0,James Ward-Prowse,Southampton
+2021-05-07,pascalgross_brighton,6.0,15.0,Pascal Gross,Brighton
+2021-05-07,pedroneto_wolves,6.0,16.0,Pedro Neto,Wolves
+2021-05-07,raheemsterling_manchestercity,6.0,17.0,Raheem Sterling,Manchester City
+2021-05-07,raphinha_leedsunited,6.0,18.0,Raphinha,Leeds United
+2021-05-07,vladimircoufal_westham,6.0,19.0,Vladimir Coufal,West Ham
+2021-05-07,andrewrobertson_liverpool,5.0,20.0,Andrew Robertson,Liverpool
+2021-05-07,bertrandtraore_astonvilla,5.0,21.0,Bertrand Traore,Aston Villa
+2021-05-07,matheuspereira_westbrom,5.0,22.0,Matheus Pereira,West Brom
+2021-05-07,robertofirmino_liverpool,5.0,23.0,Roberto Firmino,Liverpool
+2021-05-07,sadiomane_liverpool,5.0,24.0,Sadio Mane,Liverpool
+2021-05-07,saidbenrahma_westham,5.0,25.0,Said Benrahma,West Ham
+2021-05-07,trentalexanderarnold_liverpool,5.0,26.0,Trent Alexander-Arnold,Liverpool
+2021-05-07,eberechieze_crystalpalace,4.0,27.0,Eberechi Eze,Crystal Palace
+2021-05-07,riyadmahrez_manchestercity,4.0,28.0,Riyad Mahrez,Manchester City
+2021-05-08,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-05-08,brunofernandes_manchesterutd,11.0,2.0,Bruno Fernandes,Manchester Utd
+2021-05-08,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-05-08,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-05-08,sonheungmin_tottenham,10.0,5.0,Son Heung-min,Tottenham
+2021-05-08,jamievardy_leicestercity,9.0,6.0,Jamie Vardy,Leicester City
+2021-05-08,marcusrashford_manchesterutd,8.0,7.0,Marcus Rashford,Manchester Utd
+2021-05-08,timowerner_chelsea,8.0,8.0,Timo Werner,Chelsea
+2021-05-08,aaroncresswell_westham,7.0,9.0,Aaron Cresswell,West Ham
+2021-05-08,lucasdigne_everton,7.0,10.0,Lucas Digne,Everton
+2021-05-08,patrickbamford_leedsunited,7.0,11.0,Patrick Bamford,Leeds United
+2021-05-08,raphinha_leedsunited,7.0,12.0,Raphinha,Leeds United
+2021-05-08,bernardosilva_manchestercity,6.0,13.0,Bernardo Silva,Manchester City
+2021-05-08,jackharrison_leedsunited,6.0,14.0,Jack Harrison,Leeds United
+2021-05-08,jameswardprowse_southampton,6.0,15.0,James Ward-Prowse,Southampton
+2021-05-08,pascalgross_brighton,6.0,16.0,Pascal Gross,Brighton
+2021-05-08,pedroneto_wolves,6.0,17.0,Pedro Neto,Wolves
+2021-05-08,raheemsterling_manchestercity,6.0,18.0,Raheem Sterling,Manchester City
+2021-05-08,robertofirmino_liverpool,6.0,19.0,Roberto Firmino,Liverpool
+2021-05-08,vladimircoufal_westham,6.0,20.0,Vladimir Coufal,West Ham
+2021-05-08,andrewrobertson_liverpool,5.0,21.0,Andrew Robertson,Liverpool
+2021-05-08,bertrandtraore_astonvilla,5.0,22.0,Bertrand Traore,Aston Villa
+2021-05-08,eberechieze_crystalpalace,5.0,23.0,Eberechi Eze,Crystal Palace
+2021-05-08,matheuspereira_westbrom,5.0,24.0,Matheus Pereira,West Brom
+2021-05-08,sadiomane_liverpool,5.0,25.0,Sadio Mane,Liverpool
+2021-05-08,saidbenrahma_westham,5.0,26.0,Said Benrahma,West Ham
+2021-05-08,trentalexanderarnold_liverpool,5.0,27.0,Trent Alexander-Arnold,Liverpool
+2021-05-08,riyadmahrez_manchestercity,4.0,28.0,Riyad Mahrez,Manchester City
+2021-05-09,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-05-09,brunofernandes_manchesterutd,11.0,2.0,Bruno Fernandes,Manchester Utd
+2021-05-09,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-05-09,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-05-09,sonheungmin_tottenham,10.0,5.0,Son Heung-min,Tottenham
+2021-05-09,jamievardy_leicestercity,9.0,6.0,Jamie Vardy,Leicester City
+2021-05-09,marcusrashford_manchesterutd,9.0,7.0,Marcus Rashford,Manchester Utd
+2021-05-09,timowerner_chelsea,8.0,8.0,Timo Werner,Chelsea
+2021-05-09,aaroncresswell_westham,7.0,9.0,Aaron Cresswell,West Ham
+2021-05-09,lucasdigne_everton,7.0,10.0,Lucas Digne,Everton
+2021-05-09,pascalgross_brighton,7.0,11.0,Pascal Gross,Brighton
+2021-05-09,patrickbamford_leedsunited,7.0,12.0,Patrick Bamford,Leeds United
+2021-05-09,raphinha_leedsunited,7.0,13.0,Raphinha,Leeds United
+2021-05-09,bernardosilva_manchestercity,6.0,14.0,Bernardo Silva,Manchester City
+2021-05-09,jackharrison_leedsunited,6.0,15.0,Jack Harrison,Leeds United
+2021-05-09,jameswardprowse_southampton,6.0,16.0,James Ward-Prowse,Southampton
+2021-05-09,pedroneto_wolves,6.0,17.0,Pedro Neto,Wolves
+2021-05-09,raheemsterling_manchestercity,6.0,18.0,Raheem Sterling,Manchester City
+2021-05-09,robertofirmino_liverpool,6.0,19.0,Roberto Firmino,Liverpool
+2021-05-09,vladimircoufal_westham,6.0,20.0,Vladimir Coufal,West Ham
+2021-05-09,andrewrobertson_liverpool,5.0,21.0,Andrew Robertson,Liverpool
+2021-05-09,bertrandtraore_astonvilla,5.0,22.0,Bertrand Traore,Aston Villa
+2021-05-09,eberechieze_crystalpalace,5.0,23.0,Eberechi Eze,Crystal Palace
+2021-05-09,matheuspereira_westbrom,5.0,24.0,Matheus Pereira,West Brom
+2021-05-09,sadiomane_liverpool,5.0,25.0,Sadio Mane,Liverpool
+2021-05-09,saidbenrahma_westham,5.0,26.0,Said Benrahma,West Ham
+2021-05-09,trentalexanderarnold_liverpool,5.0,27.0,Trent Alexander-Arnold,Liverpool
+2021-05-09,riyadmahrez_manchestercity,4.0,28.0,Riyad Mahrez,Manchester City
+2021-05-13,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-05-13,brunofernandes_manchesterutd,11.0,2.0,Bruno Fernandes,Manchester Utd
+2021-05-13,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-05-13,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-05-13,sonheungmin_tottenham,10.0,5.0,Son Heung-min,Tottenham
+2021-05-13,jamievardy_leicestercity,9.0,6.0,Jamie Vardy,Leicester City
+2021-05-13,marcusrashford_manchesterutd,9.0,7.0,Marcus Rashford,Manchester Utd
+2021-05-13,timowerner_chelsea,8.0,8.0,Timo Werner,Chelsea
+2021-05-13,aaroncresswell_westham,7.0,9.0,Aaron Cresswell,West Ham
+2021-05-13,lucasdigne_everton,7.0,10.0,Lucas Digne,Everton
+2021-05-13,pascalgross_brighton,7.0,11.0,Pascal Gross,Brighton
+2021-05-13,patrickbamford_leedsunited,7.0,12.0,Patrick Bamford,Leeds United
+2021-05-13,raphinha_leedsunited,7.0,13.0,Raphinha,Leeds United
+2021-05-13,bernardosilva_manchestercity,6.0,14.0,Bernardo Silva,Manchester City
+2021-05-13,jackharrison_leedsunited,6.0,15.0,Jack Harrison,Leeds United
+2021-05-13,jameswardprowse_southampton,6.0,16.0,James Ward-Prowse,Southampton
+2021-05-13,pedroneto_wolves,6.0,17.0,Pedro Neto,Wolves
+2021-05-13,raheemsterling_manchestercity,6.0,18.0,Raheem Sterling,Manchester City
+2021-05-13,robertofirmino_liverpool,6.0,19.0,Roberto Firmino,Liverpool
+2021-05-13,trentalexanderarnold_liverpool,6.0,20.0,Trent Alexander-Arnold,Liverpool
+2021-05-13,vladimircoufal_westham,6.0,21.0,Vladimir Coufal,West Ham
+2021-05-13,andrewrobertson_liverpool,5.0,22.0,Andrew Robertson,Liverpool
+2021-05-13,bertrandtraore_astonvilla,5.0,23.0,Bertrand Traore,Aston Villa
+2021-05-13,eberechieze_crystalpalace,5.0,24.0,Eberechi Eze,Crystal Palace
+2021-05-13,matheuspereira_westbrom,5.0,25.0,Matheus Pereira,West Brom
+2021-05-13,sadiomane_liverpool,5.0,26.0,Sadio Mane,Liverpool
+2021-05-13,saidbenrahma_westham,5.0,27.0,Said Benrahma,West Ham
+2021-05-13,riyadmahrez_manchestercity,4.0,28.0,Riyad Mahrez,Manchester City
+2021-05-15,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-05-15,brunofernandes_manchesterutd,11.0,2.0,Bruno Fernandes,Manchester Utd
+2021-05-15,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-05-15,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-05-15,sonheungmin_tottenham,10.0,5.0,Son Heung-min,Tottenham
+2021-05-15,jamievardy_leicestercity,9.0,6.0,Jamie Vardy,Leicester City
+2021-05-15,marcusrashford_manchesterutd,9.0,7.0,Marcus Rashford,Manchester Utd
+2021-05-15,jackharrison_leedsunited,8.0,8.0,Jack Harrison,Leeds United
+2021-05-15,raphinha_leedsunited,8.0,9.0,Raphinha,Leeds United
+2021-05-15,timowerner_chelsea,8.0,10.0,Timo Werner,Chelsea
+2021-05-15,aaroncresswell_westham,7.0,11.0,Aaron Cresswell,West Ham
+2021-05-15,jameswardprowse_southampton,7.0,12.0,James Ward-Prowse,Southampton
+2021-05-15,lucasdigne_everton,7.0,13.0,Lucas Digne,Everton
+2021-05-15,pascalgross_brighton,7.0,14.0,Pascal Gross,Brighton
+2021-05-15,patrickbamford_leedsunited,7.0,15.0,Patrick Bamford,Leeds United
+2021-05-15,bernardosilva_manchestercity,6.0,16.0,Bernardo Silva,Manchester City
+2021-05-15,pedroneto_wolves,6.0,17.0,Pedro Neto,Wolves
+2021-05-15,raheemsterling_manchestercity,6.0,18.0,Raheem Sterling,Manchester City
+2021-05-15,robertofirmino_liverpool,6.0,19.0,Roberto Firmino,Liverpool
+2021-05-15,trentalexanderarnold_liverpool,6.0,20.0,Trent Alexander-Arnold,Liverpool
+2021-05-15,vladimircoufal_westham,6.0,21.0,Vladimir Coufal,West Ham
+2021-05-15,andrewrobertson_liverpool,5.0,22.0,Andrew Robertson,Liverpool
+2021-05-15,bertrandtraore_astonvilla,5.0,23.0,Bertrand Traore,Aston Villa
+2021-05-15,eberechieze_crystalpalace,5.0,24.0,Eberechi Eze,Crystal Palace
+2021-05-15,matheuspereira_westbrom,5.0,25.0,Matheus Pereira,West Brom
+2021-05-15,sadiomane_liverpool,5.0,26.0,Sadio Mane,Liverpool
+2021-05-15,saidbenrahma_westham,5.0,27.0,Said Benrahma,West Ham
+2021-05-15,riyadmahrez_manchestercity,4.0,28.0,Riyad Mahrez,Manchester City
+2021-05-16,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-05-16,brunofernandes_manchesterutd,11.0,2.0,Bruno Fernandes,Manchester Utd
+2021-05-16,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-05-16,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-05-16,sonheungmin_tottenham,10.0,5.0,Son Heung-min,Tottenham
+2021-05-16,jamievardy_leicestercity,9.0,6.0,Jamie Vardy,Leicester City
+2021-05-16,marcusrashford_manchesterutd,9.0,7.0,Marcus Rashford,Manchester Utd
+2021-05-16,jackharrison_leedsunited,8.0,8.0,Jack Harrison,Leeds United
+2021-05-16,raphinha_leedsunited,8.0,9.0,Raphinha,Leeds United
+2021-05-16,timowerner_chelsea,8.0,10.0,Timo Werner,Chelsea
+2021-05-16,aaroncresswell_westham,7.0,11.0,Aaron Cresswell,West Ham
+2021-05-16,jameswardprowse_southampton,7.0,12.0,James Ward-Prowse,Southampton
+2021-05-16,lucasdigne_everton,7.0,13.0,Lucas Digne,Everton
+2021-05-16,pascalgross_brighton,7.0,14.0,Pascal Gross,Brighton
+2021-05-16,patrickbamford_leedsunited,7.0,15.0,Patrick Bamford,Leeds United
+2021-05-16,trentalexanderarnold_liverpool,7.0,16.0,Trent Alexander-Arnold,Liverpool
+2021-05-16,bernardosilva_manchestercity,6.0,17.0,Bernardo Silva,Manchester City
+2021-05-16,eberechieze_crystalpalace,6.0,18.0,Eberechi Eze,Crystal Palace
+2021-05-16,matheuspereira_westbrom,6.0,19.0,Matheus Pereira,West Brom
+2021-05-16,pedroneto_wolves,6.0,20.0,Pedro Neto,Wolves
+2021-05-16,raheemsterling_manchestercity,6.0,21.0,Raheem Sterling,Manchester City
+2021-05-16,robertofirmino_liverpool,6.0,22.0,Roberto Firmino,Liverpool
+2021-05-16,sadiomane_liverpool,6.0,23.0,Sadio Mane,Liverpool
+2021-05-16,vladimircoufal_westham,6.0,24.0,Vladimir Coufal,West Ham
+2021-05-16,andrewrobertson_liverpool,5.0,25.0,Andrew Robertson,Liverpool
+2021-05-16,bertrandtraore_astonvilla,5.0,26.0,Bertrand Traore,Aston Villa
+2021-05-16,saidbenrahma_westham,5.0,27.0,Said Benrahma,West Ham
+2021-05-16,riyadmahrez_manchestercity,4.0,28.0,Riyad Mahrez,Manchester City
+2021-05-18,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-05-18,brunofernandes_manchesterutd,12.0,2.0,Bruno Fernandes,Manchester Utd
+2021-05-18,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-05-18,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-05-18,sonheungmin_tottenham,10.0,5.0,Son Heung-min,Tottenham
+2021-05-18,jamievardy_leicestercity,9.0,6.0,Jamie Vardy,Leicester City
+2021-05-18,marcusrashford_manchesterutd,9.0,7.0,Marcus Rashford,Manchester Utd
+2021-05-18,jackharrison_leedsunited,8.0,8.0,Jack Harrison,Leeds United
+2021-05-18,pascalgross_brighton,8.0,9.0,Pascal Gross,Brighton
+2021-05-18,raphinha_leedsunited,8.0,10.0,Raphinha,Leeds United
+2021-05-18,timowerner_chelsea,8.0,11.0,Timo Werner,Chelsea
+2021-05-18,aaroncresswell_westham,7.0,12.0,Aaron Cresswell,West Ham
+2021-05-18,jameswardprowse_southampton,7.0,13.0,James Ward-Prowse,Southampton
+2021-05-18,lucasdigne_everton,7.0,14.0,Lucas Digne,Everton
+2021-05-18,patrickbamford_leedsunited,7.0,15.0,Patrick Bamford,Leeds United
+2021-05-18,trentalexanderarnold_liverpool,7.0,16.0,Trent Alexander-Arnold,Liverpool
+2021-05-18,bernardosilva_manchestercity,6.0,17.0,Bernardo Silva,Manchester City
+2021-05-18,eberechieze_crystalpalace,6.0,18.0,Eberechi Eze,Crystal Palace
+2021-05-18,matheuspereira_westbrom,6.0,19.0,Matheus Pereira,West Brom
+2021-05-18,pedroneto_wolves,6.0,20.0,Pedro Neto,Wolves
+2021-05-18,raheemsterling_manchestercity,6.0,21.0,Raheem Sterling,Manchester City
+2021-05-18,robertofirmino_liverpool,6.0,22.0,Roberto Firmino,Liverpool
+2021-05-18,sadiomane_liverpool,6.0,23.0,Sadio Mane,Liverpool
+2021-05-18,vladimircoufal_westham,6.0,24.0,Vladimir Coufal,West Ham
+2021-05-18,andrewrobertson_liverpool,5.0,25.0,Andrew Robertson,Liverpool
+2021-05-18,bertrandtraore_astonvilla,5.0,26.0,Bertrand Traore,Aston Villa
+2021-05-18,riyadmahrez_manchestercity,5.0,27.0,Riyad Mahrez,Manchester City
+2021-05-18,saidbenrahma_westham,5.0,28.0,Said Benrahma,West Ham
+2021-05-19,harrykane_tottenham,13.0,1.0,Harry Kane,Tottenham
+2021-05-19,brunofernandes_manchesterutd,12.0,2.0,Bruno Fernandes,Manchester Utd
+2021-05-19,kevindebruyne_manchestercity,11.0,3.0,Kevin De Bruyne,Manchester City
+2021-05-19,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-05-19,sonheungmin_tottenham,10.0,5.0,Son Heung-min,Tottenham
+2021-05-19,jamievardy_leicestercity,9.0,6.0,Jamie Vardy,Leicester City
+2021-05-19,marcusrashford_manchesterutd,9.0,7.0,Marcus Rashford,Manchester Utd
+2021-05-19,aaroncresswell_westham,8.0,8.0,Aaron Cresswell,West Ham
+2021-05-19,jackharrison_leedsunited,8.0,9.0,Jack Harrison,Leeds United
+2021-05-19,pascalgross_brighton,8.0,10.0,Pascal Gross,Brighton
+2021-05-19,raphinha_leedsunited,8.0,11.0,Raphinha,Leeds United
+2021-05-19,timowerner_chelsea,8.0,12.0,Timo Werner,Chelsea
+2021-05-19,andrewrobertson_liverpool,7.0,13.0,Andrew Robertson,Liverpool
+2021-05-19,jameswardprowse_southampton,7.0,14.0,James Ward-Prowse,Southampton
+2021-05-19,lucasdigne_everton,7.0,15.0,Lucas Digne,Everton
+2021-05-19,patrickbamford_leedsunited,7.0,16.0,Patrick Bamford,Leeds United
+2021-05-19,sadiomane_liverpool,7.0,17.0,Sadio Mane,Liverpool
+2021-05-19,trentalexanderarnold_liverpool,7.0,18.0,Trent Alexander-Arnold,Liverpool
+2021-05-19,bernardosilva_manchestercity,6.0,19.0,Bernardo Silva,Manchester City
+2021-05-19,bertrandtraore_astonvilla,6.0,20.0,Bertrand Traore,Aston Villa
+2021-05-19,eberechieze_crystalpalace,6.0,21.0,Eberechi Eze,Crystal Palace
+2021-05-19,matheuspereira_westbrom,6.0,22.0,Matheus Pereira,West Brom
+2021-05-19,pedroneto_wolves,6.0,23.0,Pedro Neto,Wolves
+2021-05-19,raheemsterling_manchestercity,6.0,24.0,Raheem Sterling,Manchester City
+2021-05-19,robertofirmino_liverpool,6.0,25.0,Roberto Firmino,Liverpool
+2021-05-19,saidbenrahma_westham,6.0,26.0,Said Benrahma,West Ham
+2021-05-19,vladimircoufal_westham,6.0,27.0,Vladimir Coufal,West Ham
+2021-05-19,riyadmahrez_manchestercity,5.0,28.0,Riyad Mahrez,Manchester City
+2021-05-23,harrykane_tottenham,14.0,1.0,Harry Kane,Tottenham
+2021-05-23,brunofernandes_manchesterutd,12.0,2.0,Bruno Fernandes,Manchester Utd
+2021-05-23,kevindebruyne_manchestercity,12.0,3.0,Kevin De Bruyne,Manchester City
+2021-05-23,jackgrealish_astonvilla,10.0,4.0,Jack Grealish,Aston Villa
+2021-05-23,sonheungmin_tottenham,10.0,5.0,Son Heung-min,Tottenham
+2021-05-23,jamievardy_leicestercity,9.0,6.0,Jamie Vardy,Leicester City
+2021-05-23,marcusrashford_manchesterutd,9.0,7.0,Marcus Rashford,Manchester Utd
+2021-05-23,raphinha_leedsunited,9.0,8.0,Raphinha,Leeds United
+2021-05-23,aaroncresswell_westham,8.0,9.0,Aaron Cresswell,West Ham
+2021-05-23,jackharrison_leedsunited,8.0,10.0,Jack Harrison,Leeds United
+2021-05-23,pascalgross_brighton,8.0,11.0,Pascal Gross,Brighton
+2021-05-23,timowerner_chelsea,8.0,12.0,Timo Werner,Chelsea
+2021-05-23,andrewrobertson_liverpool,7.0,13.0,Andrew Robertson,Liverpool
+2021-05-23,jameswardprowse_southampton,7.0,14.0,James Ward-Prowse,Southampton
+2021-05-23,lucasdigne_everton,7.0,15.0,Lucas Digne,Everton
+2021-05-23,patrickbamford_leedsunited,7.0,16.0,Patrick Bamford,Leeds United
+2021-05-23,raheemsterling_manchestercity,7.0,17.0,Raheem Sterling,Manchester City
+2021-05-23,robertofirmino_liverpool,7.0,18.0,Roberto Firmino,Liverpool
+2021-05-23,sadiomane_liverpool,7.0,19.0,Sadio Mane,Liverpool
+2021-05-23,trentalexanderarnold_liverpool,7.0,20.0,Trent Alexander-Arnold,Liverpool
+2021-05-23,vladimircoufal_westham,7.0,21.0,Vladimir Coufal,West Ham
+2021-05-23,bernardosilva_manchestercity,6.0,22.0,Bernardo Silva,Manchester City
+2021-05-23,bertrandtraore_astonvilla,6.0,23.0,Bertrand Traore,Aston Villa
+2021-05-23,eberechieze_crystalpalace,6.0,24.0,Eberechi Eze,Crystal Palace
+2021-05-23,matheuspereira_westbrom,6.0,25.0,Matheus Pereira,West Brom
+2021-05-23,pedroneto_wolves,6.0,26.0,Pedro Neto,Wolves
+2021-05-23,riyadmahrez_manchestercity,6.0,27.0,Riyad Mahrez,Manchester City
+2021-05-23,saidbenrahma_westham,6.0,28.0,Said Benrahma,West Ham

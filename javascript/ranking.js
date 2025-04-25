@@ -424,13 +424,13 @@ export function makeRanking(latest_season) {
                     }
 
                     let resultText;
-                    if (thisElem.__data__.HomeTeam == thisElem.__data__.team){
+                    if (thisElem.__data__.HomeTeam != thisElem.__data__.team){
                         resultText = thisElem.__data__['HomeTeam'] + " " + thisElem.__data__['FTHG']
-                        + " - <span>"
-                        + thisElem.__data__['FTAG'] + " " + thisElem.__data__['AwayTeam'] + "</span>"
+                        + " - <b>"
+                        + thisElem.__data__['FTAG'] + " " + thisElem.__data__['AwayTeam'] + "</b>"
                     } else {
-                        resultText = "<span>" + thisElem.__data__['HomeTeam'] + " " + thisElem.__data__['FTHG']
-                        + "</span> - "
+                        resultText = "<b>" + thisElem.__data__['HomeTeam'] + " " + thisElem.__data__['FTHG']
+                        + "</b> - "
                         + thisElem.__data__['FTAG'] + " " + thisElem.__data__['AwayTeam']
                     };
 

@@ -1,0 +1,195 @@
+date,team,player,value,player_team,cum_sum
+2022-08-06,Tottenham,Dejan Kulusevski,1,dejankulusevski_tottenham,1.0
+2022-08-06,Leeds United,Jack Harrison,1,jackharrison_leedsunited,1.0
+2022-08-07,Leicester City,James Maddison,1,jamesmaddison_leicestercity,1.0
+2022-08-07,Manchester City,Kevin De Bruyne,1,kevindebruyne_manchestercity,1.0
+2022-08-13,Manchester City,Erling Haaland,1,erlinghaaland_manchestercity,1.0
+2022-08-13,Arsenal,Granit Xhaka,1,granitxhaka_arsenal,1.0
+2022-08-13,Leeds United,Jack Harrison,1,jackharrison_leedsunited,2.0
+2022-08-13,Manchester City,Kevin De Bruyne,1,kevindebruyne_manchestercity,2.0
+2022-08-14,Tottenham,Ivan Perisic,1,ivanperisic_tottenham,1.0
+2022-08-20,Arsenal,Granit Xhaka,1,granitxhaka_arsenal,2.0
+2022-08-20,Tottenham,Ivan Perisic,1,ivanperisic_tottenham,2.0
+2022-08-21,Leeds United,Jack Harrison,1,jackharrison_leedsunited,3.0
+2022-08-21,Manchester City,Kevin De Bruyne,1,kevindebruyne_manchestercity,3.0
+2022-08-21,Brighton,Pascal Gross,1,pascalgross_brighton,1.0
+2022-08-27,Liverpool,Andrew Robertson,1,andrewrobertson_liverpool,1.0
+2022-08-27,Arsenal,Bukayo Saka,1,bukayosaka_arsenal,1.0
+2022-08-28,Tottenham,Dejan Kulusevski,1,dejankulusevski_tottenham,2.0
+2022-08-30,Everton,Alex Iwobi,1,alexiwobi_everton,1.0
+2022-08-31,Arsenal,Bukayo Saka,1,bukayosaka_arsenal,2.0
+2022-08-31,Liverpool,Mohamed Salah,2,mohamedsalah_liverpool,2.0
+2022-09-03,Bournemouth,Dominic Solanke,1,dominicsolanke_bournemouth,1.0
+2022-09-03,Aston Villa,Jacob Ramsey,1,jacobramsey_astonvilla,1.0
+2022-09-03,Manchester City,Kevin De Bruyne,1,kevindebruyne_manchestercity,4.0
+2022-09-03,Nott'ham Forest,Morgan Gibbs-White,1,morgangibbswhite_notthamforest,1.0
+2022-09-04,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,1.0
+2022-09-04,Manchester Utd,Christian Eriksen,1,christianeriksen_manchesterutd,1.0
+2022-09-04,Brighton,Pascal Gross,1,pascalgross_brighton,2.0
+2022-09-17,Tottenham,Dejan Kulusevski,1,dejankulusevski_tottenham,3.0
+2022-09-17,Tottenham,Ivan Perisic,1,ivanperisic_tottenham,3.0
+2022-09-17,Manchester City,Kevin De Bruyne,2,kevindebruyne_manchestercity,6.0
+2022-09-18,Everton,Alex Iwobi,1,alexiwobi_everton,2.0
+2022-09-18,Arsenal,Bukayo Saka,2,bukayosaka_arsenal,4.0
+2022-09-18,Arsenal,Granit Xhaka,1,granitxhaka_arsenal,3.0
+2022-10-01,Everton,Alex Iwobi,1,alexiwobi_everton,3.0
+2022-10-01,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,3.0
+2022-10-01,Brighton,Solly March,1,sollymarch_brighton,1.0
+2022-10-02,Manchester Utd,Christian Eriksen,1,christianeriksen_manchesterutd,2.0
+2022-10-02,Manchester City,Erling Haaland,2,erlinghaaland_manchestercity,3.0
+2022-10-02,Manchester City,Kevin De Bruyne,2,kevindebruyne_manchestercity,8.0
+2022-10-03,Leicester City,James Maddison,1,jamesmaddison_leicestercity,2.0
+2022-10-08,Bournemouth,Dominic Solanke,1,dominicsolanke_bournemouth,2.0
+2022-10-08,Manchester City,Kevin De Bruyne,1,kevindebruyne_manchestercity,9.0
+2022-10-08,Newcastle Utd,Kieran Trippier,1,kierantrippier_newcastleutd,1.0
+2022-10-09,Arsenal,Martin Odegaard,1,martinodegaard_arsenal,1.0
+2022-10-09,Crystal Palace,Michael Olise,1,michaelolise_crystalpalace,1.0
+2022-10-10,Nott'ham Forest,Morgan Gibbs-White,1,morgangibbswhite_notthamforest,2.0
+2022-10-15,Bournemouth,Dominic Solanke,1,dominicsolanke_bournemouth,3.0
+2022-10-16,Arsenal,Martin Odegaard,1,martinodegaard_arsenal,2.0
+2022-10-18,Crystal Palace,Michael Olise,1,michaelolise_crystalpalace,2.0
+2022-10-22,Everton,Alex Iwobi,2,alexiwobi_everton,5.0
+2022-10-22,Brighton,Solly March,1,sollymarch_brighton,2.0
+2022-10-29,Liverpool,Andrew Robertson,1,andrewrobertson_liverpool,2.0
+2022-10-29,Brentford,Bryan Mbeumo,1,bryanmbeumo_brentford,1.0
+2022-10-29,Tottenham,Ivan Perisic,1,ivanperisic_tottenham,4.0
+2022-10-29,Newcastle Utd,Kieran Trippier,1,kierantrippier_newcastleutd,2.0
+2022-10-30,Arsenal,Bukayo Saka,1,bukayosaka_arsenal,5.0
+2022-10-30,Manchester Utd,Christian Eriksen,1,christianeriksen_manchesterutd,3.0
+2022-11-05,Leicester City,James Maddison,2,jamesmaddison_leicestercity,4.0
+2022-11-06,Arsenal,Bukayo Saka,1,bukayosaka_arsenal,6.0
+2022-11-06,Tottenham,Dejan Kulusevski,1,dejankulusevski_tottenham,4.0
+2022-11-06,Aston Villa,Jacob Ramsey,1,jacobramsey_astonvilla,2.0
+2022-11-06,Newcastle Utd,Kieran Trippier,1,kierantrippier_newcastleutd,3.0
+2022-11-12,Liverpool,Andrew Robertson,2,andrewrobertson_liverpool,4.0
+2022-11-12,Tottenham,Dejan Kulusevski,1,dejankulusevski_tottenham,5.0
+2022-11-13,Manchester Utd,Christian Eriksen,1,christianeriksen_manchesterutd,4.0
+2022-12-26,Liverpool,Andrew Robertson,1,andrewrobertson_liverpool,5.0
+2022-12-26,Arsenal,Granit Xhaka,1,granitxhaka_arsenal,4.0
+2022-12-26,Newcastle Utd,Kieran Trippier,1,kierantrippier_newcastleutd,4.0
+2022-12-26,Arsenal,Martin Odegaard,2,martinodegaard_arsenal,4.0
+2022-12-26,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,4.0
+2022-12-26,Brighton,Solly March,1,sollymarch_brighton,3.0
+2022-12-27,Manchester Utd,Christian Eriksen,1,christianeriksen_manchesterutd,5.0
+2022-12-28,Manchester City,Jack Grealish,2,jackgrealish_manchestercity,2.0
+2022-12-31,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,2.0
+2022-12-31,Arsenal,Martin Odegaard,1,martinodegaard_arsenal,5.0
+2022-12-31,Crystal Palace,Michael Olise,2,michaelolise_crystalpalace,4.0
+2022-12-31,Brighton,Pascal Gross,1,pascalgross_brighton,3.0
+2022-12-31,Manchester City,Riyad Mahrez,1,riyadmahrez_manchestercity,1.0
+2023-01-02,Liverpool,Trent Alexander-Arnold,1,trentalexanderarnold_liverpool,1.0
+2023-01-03,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,3.0
+2023-01-03,Manchester Utd,Christian Eriksen,1,christianeriksen_manchesterutd,6.0
+2023-01-04,Tottenham,Ivan Perisic,1,ivanperisic_tottenham,5.0
+2023-01-04,Leeds United,Jack Harrison,1,jackharrison_leedsunited,4.0
+2023-01-05,Manchester City,Jack Grealish,1,jackgrealish_manchestercity,3.0
+2023-01-14,Manchester City,Kevin De Bruyne,1,kevindebruyne_manchestercity,10.0
+2023-01-14,Nott'ham Forest,Morgan Gibbs-White,2,morgangibbswhite_notthamforest,4.0
+2023-01-14,Brighton,Solly March,1,sollymarch_brighton,4.0
+2023-01-15,Arsenal,Bukayo Saka,1,bukayosaka_arsenal,7.0
+2023-01-18,Manchester Utd,Christian Eriksen,1,christianeriksen_manchesterutd,7.0
+2023-01-19,Manchester City,Riyad Mahrez,1,riyadmahrez_manchestercity,2.0
+2023-01-22,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,4.0
+2023-01-22,Arsenal,Granit Xhaka,1,granitxhaka_arsenal,5.0
+2023-01-22,Manchester City,Kevin De Bruyne,1,kevindebruyne_manchestercity,11.0
+2023-01-22,Manchester City,Riyad Mahrez,1,riyadmahrez_manchestercity,3.0
+2023-02-04,Brentford,Bryan Mbeumo,1,bryanmbeumo_brentford,2.0
+2023-02-11,Arsenal,Bukayo Saka,1,bukayosaka_arsenal,8.0
+2023-02-11,Leicester City,James Maddison,1,jamesmaddison_leicestercity,5.0
+2023-02-12,Manchester City,Erling Haaland,1,erlinghaaland_manchestercity,4.0
+2023-02-12,Manchester City,Riyad Mahrez,1,riyadmahrez_manchestercity,4.0
+2023-02-15,Manchester City,Kevin De Bruyne,1,kevindebruyne_manchestercity,12.0
+2023-02-18,Everton,Alex Iwobi,1,alexiwobi_everton,6.0
+2023-02-18,Brentford,Bryan Mbeumo,1,bryanmbeumo_brentford,3.0
+2023-02-18,Bournemouth,Dominic Solanke,1,dominicsolanke_bournemouth,4.0
+2023-02-18,Manchester City,Jack Grealish,1,jackgrealish_manchestercity,4.0
+2023-02-18,Arsenal,Martin Odegaard,1,martinodegaard_arsenal,6.0
+2023-02-18,Crystal Palace,Michael Olise,1,michaelolise_crystalpalace,5.0
+2023-02-18,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,5.0
+2023-02-18,Nott'ham Forest,Morgan Gibbs-White,1,morgangibbswhite_notthamforest,5.0
+2023-02-18,Liverpool,Trent Alexander-Arnold,1,trentalexanderarnold_liverpool,2.0
+2023-02-19,Manchester Utd,Bruno Fernandes,2,brunofernandes_manchesterutd,6.0
+2023-02-25,Leeds United,Jack Harrison,1,jackharrison_leedsunited,5.0
+2023-02-25,Arsenal,Leandro Trossard,1,leandrotrossard_arsenal,1.0
+2023-03-01,Arsenal,Bukayo Saka,1,bukayosaka_arsenal,9.0
+2023-03-01,Arsenal,Leandro Trossard,1,leandrotrossard_arsenal,2.0
+2023-03-04,Manchester City,Erling Haaland,1,erlinghaaland_manchestercity,5.0
+2023-03-04,Brighton,Pascal Gross,1,pascalgross_brighton,4.0
+2023-03-05,Liverpool,Andrew Robertson,1,andrewrobertson_liverpool,6.0
+2023-03-05,Liverpool,Mohamed Salah,2,mohamedsalah_liverpool,7.0
+2023-03-11,Leeds United,Jack Harrison,1,jackharrison_leedsunited,6.0
+2023-03-12,Newcastle Utd,Kieran Trippier,1,kierantrippier_newcastleutd,5.0
+2023-03-12,Arsenal,Leandro Trossard,3,leandrotrossard_arsenal,5.0
+2023-03-18,Tottenham,Dejan Kulusevski,1,dejankulusevski_tottenham,6.0
+2023-03-18,Leicester City,James Maddison,1,jamesmaddison_leicestercity,6.0
+2023-03-19,Arsenal,Bukayo Saka,1,bukayosaka_arsenal,10.0
+2023-03-19,Arsenal,Leandro Trossard,1,leandrotrossard_arsenal,6.0
+2023-04-01,Brentford,Bryan Mbeumo,2,bryanmbeumo_brentford,5.0
+2023-04-01,Manchester City,Jack Grealish,1,jackgrealish_manchestercity,5.0
+2023-04-01,Aston Villa,Jacob Ramsey,1,jacobramsey_astonvilla,3.0
+2023-04-01,Manchester City,Kevin De Bruyne,1,kevindebruyne_manchestercity,13.0
+2023-04-01,Arsenal,Leandro Trossard,1,leandrotrossard_arsenal,7.0
+2023-04-01,Arsenal,Martin Odegaard,1,martinodegaard_arsenal,7.0
+2023-04-01,Manchester City,Riyad Mahrez,1,riyadmahrez_manchestercity,5.0
+2023-04-01,Brighton,Solly March,1,sollymarch_brighton,5.0
+2023-04-02,Newcastle Utd,Kieran Trippier,1,kierantrippier_newcastleutd,6.0
+2023-04-04,Brighton,Pascal Gross,1,pascalgross_brighton,5.0
+2023-04-08,Tottenham,Ivan Perisic,1,ivanperisic_tottenham,6.0
+2023-04-08,Manchester City,Jack Grealish,1,jackgrealish_manchestercity,6.0
+2023-04-08,Aston Villa,Jacob Ramsey,1,jacobramsey_astonvilla,4.0
+2023-04-08,Manchester City,Kevin De Bruyne,1,kevindebruyne_manchestercity,14.0
+2023-04-08,Brighton,Solly March,1,sollymarch_brighton,6.0
+2023-04-09,Crystal Palace,Michael Olise,3,michaelolise_crystalpalace,8.0
+2023-04-09,Liverpool,Trent Alexander-Arnold,1,trentalexanderarnold_liverpool,3.0
+2023-04-15,Bournemouth,Dominic Solanke,2,dominicsolanke_bournemouth,6.0
+2023-04-15,Tottenham,Ivan Perisic,1,ivanperisic_tottenham,7.0
+2023-04-15,Aston Villa,Jacob Ramsey,1,jacobramsey_astonvilla,5.0
+2023-04-15,Manchester City,Kevin De Bruyne,1,kevindebruyne_manchestercity,15.0
+2023-04-15,Brighton,Pascal Gross,1,pascalgross_brighton,6.0
+2023-04-15,Brighton,Solly March,1,sollymarch_brighton,7.0
+2023-04-17,Liverpool,Trent Alexander-Arnold,2,trentalexanderarnold_liverpool,5.0
+2023-04-21,Arsenal,Bukayo Saka,1,bukayosaka_arsenal,11.0
+2023-04-22,Liverpool,Andrew Robertson,1,andrewrobertson_liverpool,7.0
+2023-04-22,Brentford,Bryan Mbeumo,1,bryanmbeumo_brentford,6.0
+2023-04-22,Nott'ham Forest,Morgan Gibbs-White,1,morgangibbswhite_notthamforest,6.0
+2023-04-22,Liverpool,Trent Alexander-Arnold,1,trentalexanderarnold_liverpool,6.0
+2023-04-25,Leeds United,Jack Harrison,1,jackharrison_leedsunited,7.0
+2023-04-25,Leicester City,James Maddison,1,jamesmaddison_leicestercity,7.0
+2023-04-26,Liverpool,Andrew Robertson,1,andrewrobertson_liverpool,8.0
+2023-04-26,Manchester City,Erling Haaland,2,erlinghaaland_manchestercity,7.0
+2023-04-26,Manchester City,Kevin De Bruyne,1,kevindebruyne_manchestercity,16.0
+2023-04-26,Arsenal,Leandro Trossard,1,leandrotrossard_arsenal,8.0
+2023-04-26,Liverpool,Trent Alexander-Arnold,1,trentalexanderarnold_liverpool,7.0
+2023-04-27,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,7.0
+2023-04-27,Bournemouth,Dominic Solanke,1,dominicsolanke_bournemouth,7.0
+2023-04-29,Crystal Palace,Michael Olise,1,michaelolise_crystalpalace,9.0
+2023-04-30,Tottenham,Ivan Perisic,1,ivanperisic_tottenham,8.0
+2023-04-30,Manchester City,Riyad Mahrez,1,riyadmahrez_manchestercity,6.0
+2023-04-30,Liverpool,Trent Alexander-Arnold,1,trentalexanderarnold_liverpool,8.0
+2023-05-01,Leicester City,James Maddison,1,jamesmaddison_leicestercity,8.0
+2023-05-02,Arsenal,Granit Xhaka,2,granitxhaka_arsenal,7.0
+2023-05-03,Manchester City,Jack Grealish,1,jackgrealish_manchestercity,7.0
+2023-05-03,Manchester City,Riyad Mahrez,1,riyadmahrez_manchestercity,7.0
+2023-05-06,Manchester City,Riyad Mahrez,2,riyadmahrez_manchestercity,9.0
+2023-05-08,Everton,Alex Iwobi,1,alexiwobi_everton,7.0
+2023-05-08,Leicester City,James Maddison,1,jamesmaddison_leicestercity,9.0
+2023-05-08,Nott'ham Forest,Morgan Gibbs-White,1,morgangibbswhite_notthamforest,7.0
+2023-05-13,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,8.0
+2023-05-13,Crystal Palace,Michael Olise,1,michaelolise_crystalpalace,10.0
+2023-05-14,Brighton,Pascal Gross,1,pascalgross_brighton,7.0
+2023-05-14,Manchester City,Riyad Mahrez,1,riyadmahrez_manchestercity,10.0
+2023-05-15,Liverpool,Mohamed Salah,3,mohamedsalah_liverpool,10.0
+2023-05-18,Newcastle Utd,Kieran Trippier,1,kierantrippier_newcastleutd,7.0
+2023-05-20,Brentford,Bryan Mbeumo,1,bryanmbeumo_brentford,7.0
+2023-05-20,Tottenham,Dejan Kulusevski,1,dejankulusevski_tottenham,7.0
+2023-05-20,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,11.0
+2023-05-24,Manchester City,Erling Haaland,1,erlinghaaland_manchestercity,8.0
+2023-05-25,Manchester Utd,Christian Eriksen,1,christianeriksen_manchesterutd,8.0
+2023-05-28,Brentford,Bryan Mbeumo,1,bryanmbeumo_brentford,8.0
+2023-05-28,Aston Villa,Jacob Ramsey,2,jacobramsey_astonvilla,7.0
+2023-05-28,Arsenal,Leandro Trossard,2,leandrotrossard_arsenal,10.0
+2023-05-28,Crystal Palace,Michael Olise,1,michaelolise_crystalpalace,11.0
+2023-05-28,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,12.0
+2023-05-28,Nott'ham Forest,Morgan Gibbs-White,1,morgangibbswhite_notthamforest,8.0
+2023-05-28,Brighton,Pascal Gross,1,pascalgross_brighton,8.0
+2023-05-28,Liverpool,Trent Alexander-Arnold,1,trentalexanderarnold_liverpool,9.0
