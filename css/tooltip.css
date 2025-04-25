@@ -12,17 +12,17 @@
     -webkit-box-shadow: 4px 4px 7px rgba(0, 0, 0, 0.4);
     -moz-box-shadow: 4px 4px 7px rgba(0, 0, 0, 0.4);
     box-shadow: 4px 4px 7px rgba(0, 0, 0, 0.4);
+    pointer-events: none;
 }
 
 .tooltip.hidden {
     display: none;
-    pointer-events: none;
+    /* pointer-events: none; */
 }
 
 .tooltip p{
     margin: 0;
     font-family: Verdana, sans-serif;
-    font-size: 16px;
     color: white;
     line-height: 17px;
     padding: 1px 15px 1px 15px;
@@ -33,18 +33,28 @@
     height:1px;
     margin-bottom: 1px;
     border-width:0;
+    background-color:gray;
+    color:gray;
 }
 
-#tooltip_f1 .ttp_1{
-    font-weight: bold;
+.tooltip .ttp_big {
+    font-size: 16px;
+    line-height: 18px;
 }
 
-#tooltip_f1 .ttp_1 span{
-    font-weight: normal;
+.tooltip .ttp_small {
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.tooltip span{
+    font-size: 12px;
+    color: LightGray;
 }
 
 #tooltip_f1 .ttp_2 span{
     font-size: 14px;
+    color: white;
 }
 
 #tooltip_f1 hr {
@@ -52,29 +62,10 @@
   color:#eaecee;
 }
 
-#tooltip_f2 .ttp_header {
-    font-size: 16px;
-    line-height: 18px;
-}
-
-#tooltip_f2 .ttp_body {
-    font-size: 14px;
-    line-height: 16px;
-}
-
-#tooltip_f2 span{
-    font-size: 12px;
-    color: LightGray;
-}
-
-#tooltip_f2 hr {
-    background-color:gray;
-    color:gray;
-}
 
 @media only screen and (min-width: 1500px) {
 
-    .tooltip p{
+    .tooltip .ttp_big{
         font-size: 18px;
         line-height: 20px;
     }
@@ -87,10 +78,22 @@
 @media only screen and (max-width: 620px) {
 
     .tooltip p{
-        font-size: 13px;
-        line-height: 13px;
         padding: 1px 3px 1px 3px;
         letter-spacing: normal;
+    }
+
+    .tooltip .ttp_big {
+        font-size: 13px;
+        line-height: 13px;
+    }
+    
+    .tooltip .ttp_small {
+        font-size: 12px;
+        line-height: 12px;
+    }
+
+    .tooltip span{
+        font-size: 9px;
     }
   
     #tooltip_f1 .ttp_2 span{

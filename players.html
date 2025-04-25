@@ -16,10 +16,17 @@
 
   <script type="text/javascript" src="https://d3js.org/d3.v7.min.js"></script>
   <script type="text/javascript" src="javascript/menu.js"></script>
+  <script type="text/javascript" src="javascript/dropdown.js"></script>
+  <script type="text/javascript" src="javascript/get_last_date.js"></script>
 
   <link rel="stylesheet" type="text/css" href="css/menu.css">
   <link rel="stylesheet" type="text/css" href="css/common.css">
+  <link rel="stylesheet" type="text/css" href="css/tooltip.css">
+  <link rel="stylesheet" type="text/css" href="css/dropdown.css">
+  <link rel="stylesheet" type="text/css" href="css/players.css">
 
+  <!-- Need this to add caret arrow icon on dropdown -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
 
@@ -32,7 +39,59 @@
     <li><a class="menu_li" id="menu_history" href="history.html">History</a></li>
   </ul>
 
-  <div class="coming_soon">Coming soon..</div>
+  <div id="tooltip_f3" class="tooltip hidden">
+    <p id="ttp_1" class="ttp_big" style="text-align:center;"></p>
+    <p id="ttp_2" class="ttp_small" style="text-align:center;"></p>
+    <hr>
+    <p id="ttp_3" class="ttp_small"  style="text-align:center;"></p>
+  </div>
+
+  <div class="fg_container" id="f3_container">
+    <div id="dropdown_date_container" class="flex_container">
+      <div id="dropdown_container" class="flex_container">
+          <div id="dropdown_season_container" class="flex_container">
+              <div class="dropdown_title" id="dropdown_season_title">Season:</div>
+              <div class="dropdown notouch" id="dropdown_season">
+                  <button onclick="showDrop('dropdown_content_season')" class="dropbtn" id="dropbtn_season">
+                    <span class="left">2024-2025</span>
+                    <i class="fa fa-caret-down right"></i>
+                  </button>
+                  <ul id="dropdown_content_season" class="dropdown_content">
+                    <li class="dropdown_content_li" id="dropdown_2024_2025">2024-2025</li>
+                    <li class="dropdown_content_li" id="dropdown_2023_2024">2023-2024</li>
+                    <li class="dropdown_content_li" id="dropdown_2022_2023">2022-2023</li>
+                    <li class="dropdown_content_li" id="dropdown_2021_2022">2021-2022</li>
+                    <li class="dropdown_content_li" id="dropdown_2020_2021">2020-2021</li>
+                  </ul>
+              </div>
+          </div>
+          <div id="dropdown_stats_container" class="flex_container">
+            <div class="dropdown_title" id="dropdown_stats_title">Stats:</div>
+            <div class="dropdown notouch" id="dropdown_stats">
+              <button onclick="showDrop('dropdown_content_stats')" class="dropbtn" id="dropbtn_stats">
+                  <span class="left">Goals</span>
+                  <i class="fa fa-caret-down right"></i>
+              </button>
+              <ul id="dropdown_content_stats" class="dropdown_content">
+                <li class="dropdown_content_li" id="dropdown_goals">Goals</li>
+                <li class="dropdown_content_li" id="dropdown_assists">Assists</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div id="updated_date" class="updated_date"></div>
+    </div>
+    
+    <div class="f3" id="players_container"></div>
+  </div>
+
+  <script type="module">
+    import { drawPlayers } from './javascript/players.js';
+
+    // getLastDate();
+    drawPlayers();
+    AddDropdownClickEvent();
+  </script>
 
 </body>
 </html>

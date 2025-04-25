@@ -1,0 +1,349 @@
+date,team,player,value,player_team,cum_sum,pk
+2020-09-12,Arsenal,Alexandre Lacazette,1,alexandrelacazette_arsenal,1.0,0.0
+2020-09-12,Newcastle Utd,Callum Wilson,1,callumwilson_newcastleutd,1.0,0.0
+2020-09-12,Liverpool,Mohamed Salah,3,mohamedsalah_liverpool,3.0,2.0
+2020-09-12,Leeds United,Patrick Bamford,1,patrickbamford_leedsunited,1.0,0.0
+2020-09-12,Arsenal,Pierre-Emerick Aubameyang,1,pierreemerickaubameyang_arsenal,1.0,0.0
+2020-09-12,Crystal Palace,Wilfried Zaha,1,wilfriedzaha_crystalpalace,1.0,0.0
+2020-09-13,Everton,Dominic Calvert-Lewin,1,dominiccalvertlewin_everton,1.0,0.0
+2020-09-13,Leicester City,Jamie Vardy,2,jamievardy_leicestercity,2.0,2.0
+2020-09-19,Arsenal,Alexandre Lacazette,1,alexandrelacazette_arsenal,2.0,0.0
+2020-09-19,Everton,Dominic Calvert-Lewin,3,dominiccalvertlewin_everton,4.0,0.0
+2020-09-19,West Brom,Matheus Pereira,1,matheuspereira_westbrom,1.0,0.0
+2020-09-19,West Ham,Michail Antonio,1,michailantonio_westham,1.0,0.0
+2020-09-19,Leeds United,Patrick Bamford,1,patrickbamford_leedsunited,2.0,0.0
+2020-09-19,Crystal Palace,Wilfried Zaha,2,wilfriedzaha_crystalpalace,3.0,1.0
+2020-09-20,Burnley,Chris Wood,1,chriswood_burnley,1.0,0.0
+2020-09-20,Southampton,Danny Ings,2,dannyings_southampton,2.0,1.0
+2020-09-20,Tottenham,Harry Kane,1,harrykane_tottenham,1.0,0.0
+2020-09-20,Leicester City,Harvey Barnes,1,harveybarnes_leicestercity,1.0,0.0
+2020-09-20,Liverpool,Sadio Mane,2,sadiomane_liverpool,2.0,0.0
+2020-09-20,Tottenham,Son Heung-min,4,sonheungmin_tottenham,4.0,0.0
+2020-09-21,Manchester City,Gabriel Jesus,1,gabrieljesus_manchestercity,1.0,0.0
+2020-09-21,Manchester City,Phil Foden,1,philfoden_manchestercity,1.0,0.0
+2020-09-26,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,1.0,1.0
+2020-09-26,Southampton,Danny Ings,1,dannyings_southampton,3.0,1.0
+2020-09-26,Everton,Dominic Calvert-Lewin,1,dominiccalvertlewin_everton,5.0,0.0
+2020-09-26,Manchester Utd,Marcus Rashford,1,marcusrashford_manchesterutd,1.0,0.0
+2020-09-27,Newcastle Utd,Callum Wilson,1,callumwilson_newcastleutd,2.0,1.0
+2020-09-27,Leicester City,Jamie Vardy,3,jamievardy_leicestercity,5.0,4.0
+2020-09-27,Leeds United,Patrick Bamford,1,patrickbamford_leedsunited,3.0,0.0
+2020-09-27,Manchester City,Riyad Mahrez,1,riyadmahrez_manchestercity,1.0,0.0
+2020-09-28,Arsenal,Alexandre Lacazette,1,alexandrelacazette_arsenal,3.0,0.0
+2020-09-28,Liverpool,Diogo Jota,1,diogojota_liverpool,1.0,0.0
+2020-09-28,Liverpool,Sadio Mane,1,sadiomane_liverpool,3.0,0.0
+2020-10-03,Newcastle Utd,Callum Wilson,2,callumwilson_newcastleutd,4.0,2.0
+2020-10-03,Everton,Dominic Calvert-Lewin,1,dominiccalvertlewin_everton,6.0,0.0
+2020-10-03,Manchester City,Raheem Sterling,1,raheemsterling_manchestercity,1.0,0.0
+2020-10-04,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,2.0,2.0
+2020-10-04,Tottenham,Harry Kane,2,harrykane_tottenham,3.0,1.0
+2020-10-04,West Ham,Michail Antonio,1,michailantonio_westham,2.0,0.0
+2020-10-04,Liverpool,Mohamed Salah,2,mohamedsalah_liverpool,5.0,2.0
+2020-10-04,Arsenal,Nicolas Pepe,1,nicolaspepe_arsenal,1.0,0.0
+2020-10-04,Aston Villa,Ollie Watkins,3,olliewatkins_astonvilla,3.0,0.0
+2020-10-04,Tottenham,Son Heung-min,2,sonheungmin_tottenham,6.0,0.0
+2020-10-17,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,3.0,2.0
+2020-10-17,Southampton,Che Adams,1,cheadams_southampton,1.0,0.0
+2020-10-17,Southampton,Danny Ings,1,dannyings_southampton,4.0,1.0
+2020-10-17,Everton,Dominic Calvert-Lewin,1,dominiccalvertlewin_everton,7.0,0.0
+2020-10-17,Manchester Utd,Marcus Rashford,1,marcusrashford_manchesterutd,2.0,0.0
+2020-10-17,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,6.0,2.0
+2020-10-17,Manchester City,Raheem Sterling,1,raheemsterling_manchestercity,2.0,0.0
+2020-10-17,Liverpool,Sadio Mane,1,sadiomane_liverpool,4.0,0.0
+2020-10-18,Tottenham,Harry Kane,2,harrykane_tottenham,5.0,1.0
+2020-10-18,Tottenham,Son Heung-min,1,sonheungmin_tottenham,7.0,0.0
+2020-10-18,Crystal Palace,Wilfried Zaha,1,wilfriedzaha_crystalpalace,4.0,2.0
+2020-10-23,Leeds United,Patrick Bamford,3,patrickbamford_leedsunited,6.0,0.0
+2020-10-24,Liverpool,Diogo Jota,1,diogojota_liverpool,2.0,0.0
+2020-10-24,West Ham,Michail Antonio,1,michailantonio_westham,3.0,0.0
+2020-10-24,Manchester City,Phil Foden,1,philfoden_manchestercity,2.0,0.0
+2020-10-24,Liverpool,Roberto Firmino,1,robertofirmino_liverpool,1.0,0.0
+2020-10-24,Crystal Palace,Wilfried Zaha,1,wilfriedzaha_crystalpalace,5.0,2.0
+2020-10-25,Southampton,Che Adams,1,cheadams_southampton,2.0,0.0
+2020-10-25,Leicester City,Jamie Vardy,1,jamievardy_leicestercity,6.0,4.0
+2020-10-26,Tottenham,Son Heung-min,1,sonheungmin_tottenham,8.0,0.0
+2020-10-31,Liverpool,Diogo Jota,1,diogojota_liverpool,3.0,0.0
+2020-10-31,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,7.0,3.0
+2020-11-01,Newcastle Utd,Callum Wilson,2,callumwilson_newcastleutd,6.0,3.0
+2020-11-01,Southampton,Danny Ings,1,dannyings_southampton,5.0,1.0
+2020-11-01,Everton,Dominic Calvert-Lewin,1,dominiccalvertlewin_everton,8.0,0.0
+2020-11-01,Tottenham,Gareth Bale,1,garethbale_tottenham,1.0,0.0
+2020-11-01,Tottenham,Harry Kane,1,harrykane_tottenham,6.0,2.0
+2020-11-01,Aston Villa,Ollie Watkins,1,olliewatkins_astonvilla,4.0,1.0
+2020-11-01,Arsenal,Pierre-Emerick Aubameyang,1,pierreemerickaubameyang_arsenal,2.0,1.0
+2020-11-02,Leicester City,Harvey Barnes,1,harveybarnes_leicestercity,2.0,0.0
+2020-11-02,Leicester City,Jamie Vardy,1,jamievardy_leicestercity,7.0,4.0
+2020-11-06,Southampton,Che Adams,1,cheadams_southampton,3.0,0.0
+2020-11-07,Manchester Utd,Bruno Fernandes,2,brunofernandes_manchesterutd,5.0,2.0
+2020-11-07,Manchester Utd,Edinson Cavani,1,edinsoncavani_manchesterutd,1.0,0.0
+2020-11-07,Leeds United,Patrick Bamford,1,patrickbamford_leedsunited,7.0,0.0
+2020-11-07,West Ham,Tomas Soucek,1,tomassoucek_westham,1.0,0.0
+2020-11-08,Manchester City,Gabriel Jesus,1,gabrieljesus_manchestercity,2.0,0.0
+2020-11-08,Tottenham,Harry Kane,1,harrykane_tottenham,7.0,2.0
+2020-11-08,Leicester City,Jamie Vardy,1,jamievardy_leicestercity,8.0,5.0
+2020-11-08,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,8.0,4.0
+2020-11-08,Aston Villa,Ollie Watkins,2,olliewatkins_astonvilla,6.0,1.0
+2020-11-21,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,6.0,3.0
+2020-11-21,Tottenham,Son Heung-min,1,sonheungmin_tottenham,9.0,0.0
+2020-11-22,Liverpool,Diogo Jota,1,diogojota_liverpool,4.0,0.0
+2020-11-22,Everton,Dominic Calvert-Lewin,2,dominiccalvertlewin_everton,10.0,0.0
+2020-11-22,Liverpool,Roberto Firmino,1,robertofirmino_liverpool,2.0,0.0
+2020-11-23,Burnley,Chris Wood,1,chriswood_burnley,2.0,0.0
+2020-11-27,Newcastle Utd,Callum Wilson,1,callumwilson_newcastleutd,7.0,3.0
+2020-11-28,Liverpool,Diogo Jota,1,diogojota_liverpool,5.0,0.0
+2020-11-28,Manchester City,Riyad Mahrez,3,riyadmahrez_manchestercity,4.0,0.0
+2020-11-29,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,7.0,3.0
+2020-11-29,Manchester Utd,Edinson Cavani,2,edinsoncavani_manchesterutd,3.0,0.0
+2020-11-30,Leicester City,Harvey Barnes,1,harveybarnes_leicestercity,3.0,0.0
+2020-12-05,Everton,Dominic Calvert-Lewin,1,dominiccalvertlewin_everton,11.0,0.0
+2020-12-05,Manchester Utd,Marcus Rashford,1,marcusrashford_manchesterutd,3.0,0.0
+2020-12-05,Leeds United,Patrick Bamford,1,patrickbamford_leedsunited,8.0,0.0
+2020-12-05,Manchester City,Raheem Sterling,1,raheemsterling_manchestercity,3.0,0.0
+2020-12-05,West Ham,Tomas Soucek,1,tomassoucek_westham,2.0,0.0
+2020-12-06,Crystal Palace,Christian Benteke,2,christianbenteke_crystalpalace,2.0,0.0
+2020-12-06,Tottenham,Harry Kane,1,harrykane_tottenham,8.0,2.0
+2020-12-06,Leicester City,Jamie Vardy,1,jamievardy_leicestercity,9.0,5.0
+2020-12-06,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,9.0,4.0
+2020-12-06,Tottenham,Son Heung-min,1,sonheungmin_tottenham,10.0,0.0
+2020-12-06,Crystal Palace,Wilfried Zaha,2,wilfriedzaha_crystalpalace,7.0,2.0
+2020-12-07,Southampton,Danny Ings,1,dannyings_southampton,6.0,2.0
+2020-12-11,West Ham,Tomas Soucek,1,tomassoucek_westham,3.0,0.0
+2020-12-12,Aston Villa,Anwar El Ghazi,1,anwarelghazi_astonvilla,1.0,1.0
+2020-12-13,Southampton,Che Adams,1,cheadams_southampton,4.0,0.0
+2020-12-13,Tottenham,Harry Kane,1,harrykane_tottenham,9.0,2.0
+2020-12-13,Leicester City,Jamie Vardy,1,jamievardy_leicestercity,10.0,5.0
+2020-12-13,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,10.0,5.0
+2020-12-15,Manchester City,Ilkay Gundogan,1,ilkaygundogan_manchestercity,1.0,0.0
+2020-12-16,Crystal Palace,Christian Benteke,1,christianbenteke_crystalpalace,3.0,0.0
+2020-12-16,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,11.0,5.0
+2020-12-16,Leeds United,Patrick Bamford,1,patrickbamford_leedsunited,9.0,0.0
+2020-12-16,Arsenal,Pierre-Emerick Aubameyang,1,pierreemerickaubameyang_arsenal,3.0,1.0
+2020-12-16,Liverpool,Roberto Firmino,1,robertofirmino_liverpool,3.0,0.0
+2020-12-16,Tottenham,Son Heung-min,1,sonheungmin_tottenham,11.0,0.0
+2020-12-17,Manchester Utd,Marcus Rashford,2,marcusrashford_manchesterutd,5.0,0.0
+2020-12-19,Newcastle Utd,Callum Wilson,1,callumwilson_newcastleutd,8.0,4.0
+2020-12-19,Liverpool,Mohamed Salah,2,mohamedsalah_liverpool,13.0,5.0
+2020-12-19,Arsenal,Nicolas Pepe,1,nicolaspepe_arsenal,2.0,1.0
+2020-12-19,Manchester City,Raheem Sterling,1,raheemsterling_manchestercity,4.0,0.0
+2020-12-19,Liverpool,Roberto Firmino,2,robertofirmino_liverpool,5.0,0.0
+2020-12-19,Liverpool,Sadio Mane,1,sadiomane_liverpool,5.0,0.0
+2020-12-20,Aston Villa,Anwar El Ghazi,2,anwarelghazi_astonvilla,3.0,2.0
+2020-12-20,Manchester Utd,Bruno Fernandes,2,brunofernandes_manchesterutd,9.0,4.0
+2020-12-20,Leicester City,Jamie Vardy,1,jamievardy_leicestercity,11.0,6.0
+2020-12-21,Burnley,Chris Wood,1,chriswood_burnley,3.0,0.0
+2020-12-26,Arsenal,Alexandre Lacazette,1,alexandrelacazette_arsenal,4.0,1.0
+2020-12-26,Aston Villa,Anwar El Ghazi,1,anwarelghazi_astonvilla,4.0,2.0
+2020-12-26,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,10.0,4.0
+2020-12-26,Leicester City,Harvey Barnes,1,harveybarnes_leicestercity,4.0,0.0
+2020-12-26,Manchester City,Ilkay Gundogan,1,ilkaygundogan_manchestercity,2.0,0.0
+2020-12-26,Manchester Utd,Marcus Rashford,1,marcusrashford_manchesterutd,6.0,0.0
+2020-12-27,Leeds United,Patrick Bamford,1,patrickbamford_leedsunited,10.0,1.0
+2020-12-27,Liverpool,Sadio Mane,1,sadiomane_liverpool,6.0,0.0
+2020-12-27,West Ham,Tomas Soucek,1,tomassoucek_westham,4.0,0.0
+2020-12-28,Aston Villa,Anwar El Ghazi,1,anwarelghazi_astonvilla,5.0,2.0
+2020-12-28,Leicester City,Harvey Barnes,1,harveybarnes_leicestercity,5.0,0.0
+2020-12-28,Crystal Palace,Wilfried Zaha,1,wilfriedzaha_crystalpalace,8.0,2.0
+2020-12-29,Arsenal,Alexandre Lacazette,1,alexandrelacazette_arsenal,5.0,1.0
+2020-12-29,Manchester Utd,Marcus Rashford,1,marcusrashford_manchesterutd,7.0,0.0
+2021-01-01,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,11.0,5.0
+2021-01-01,West Ham,Tomas Soucek,1,tomassoucek_westham,5.0,0.0
+2021-01-02,Arsenal,Alexandre Lacazette,2,alexandrelacazette_arsenal,7.0,1.0
+2021-01-02,Tottenham,Harry Kane,1,harrykane_tottenham,10.0,3.0
+2021-01-02,Tottenham,Son Heung-min,1,sonheungmin_tottenham,12.0,0.0
+2021-01-03,Manchester City,Ilkay Gundogan,1,ilkaygundogan_manchestercity,3.0,0.0
+2021-01-03,Manchester City,Phil Foden,1,philfoden_manchestercity,3.0,0.0
+2021-01-04,Southampton,Danny Ings,1,dannyings_southampton,7.0,2.0
+2021-01-13,Tottenham,Harry Kane,1,harrykane_tottenham,11.0,3.0
+2021-01-13,Manchester City,Phil Foden,1,philfoden_manchestercity,4.0,0.0
+2021-01-16,Leicester City,Harvey Barnes,1,harveybarnes_leicestercity,6.0,0.0
+2021-01-16,West Brom,Matheus Pereira,2,matheuspereira_westbrom,3.0,2.0
+2021-01-16,West Ham,Michail Antonio,1,michailantonio_westham,4.0,0.0
+2021-01-17,Tottenham,Harry Kane,1,harrykane_tottenham,12.0,3.0
+2021-01-17,Manchester City,Ilkay Gundogan,1,ilkaygundogan_manchestercity,4.0,0.0
+2021-01-17,Manchester City,Raheem Sterling,1,raheemsterling_manchestercity,5.0,0.0
+2021-01-18,Arsenal,Pierre-Emerick Aubameyang,2,pierreemerickaubameyang_arsenal,5.0,1.0
+2021-01-19,West Brom,Matheus Pereira,1,matheuspereira_westbrom,4.0,2.0
+2021-01-19,West Ham,Michail Antonio,1,michailantonio_westham,5.0,0.0
+2021-01-20,Manchester Utd,Edinson Cavani,1,edinsoncavani_manchesterutd,4.0,0.0
+2021-01-20,Manchester City,Ilkay Gundogan,1,ilkaygundogan_manchestercity,5.0,1.0
+2021-01-23,Aston Villa,Ollie Watkins,1,olliewatkins_astonvilla,7.0,1.0
+2021-01-26,Arsenal,Alexandre Lacazette,1,alexandrelacazette_arsenal,8.0,1.0
+2021-01-26,Manchester City,Ilkay Gundogan,2,ilkaygundogan_manchestercity,7.0,1.0
+2021-01-26,Arsenal,Nicolas Pepe,1,nicolaspepe_arsenal,3.0,1.0
+2021-01-26,Manchester City,Raheem Sterling,1,raheemsterling_manchestercity,6.0,0.0
+2021-01-26,Manchester City,Riyad Mahrez,1,riyadmahrez_manchestercity,5.0,0.0
+2021-01-26,West Ham,Tomas Soucek,2,tomassoucek_westham,7.0,0.0
+2021-01-26,Crystal Palace,Wilfried Zaha,1,wilfriedzaha_crystalpalace,9.0,2.0
+2021-01-27,Burnley,Chris Wood,1,chriswood_burnley,4.0,0.0
+2021-01-27,Aston Villa,Ollie Watkins,1,olliewatkins_astonvilla,8.0,1.0
+2021-01-28,Liverpool,Roberto Firmino,1,robertofirmino_liverpool,6.0,0.0
+2021-01-28,Liverpool,Sadio Mane,1,sadiomane_liverpool,7.0,0.0
+2021-01-30,Newcastle Utd,Callum Wilson,2,callumwilson_newcastleutd,10.0,4.0
+2021-01-30,Manchester City,Gabriel Jesus,1,gabrieljesus_manchestercity,3.0,0.0
+2021-01-30,West Brom,Matheus Pereira,1,matheuspereira_westbrom,5.0,2.0
+2021-01-31,Leicester City,Harvey Barnes,1,harveybarnes_leicestercity,7.0,0.0
+2021-01-31,Liverpool,Mohamed Salah,2,mohamedsalah_liverpool,15.0,5.0
+2021-01-31,Leeds United,Patrick Bamford,1,patrickbamford_leedsunited,11.0,1.0
+2021-02-02,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,12.0,6.0
+2021-02-02,Manchester Utd,Edinson Cavani,1,edinsoncavani_manchesterutd,5.0,0.0
+2021-02-02,Manchester Utd,Marcus Rashford,1,marcusrashford_manchesterutd,8.0,0.0
+2021-02-02,Arsenal,Nicolas Pepe,1,nicolaspepe_arsenal,4.0,1.0
+2021-02-03,Everton,Dominic Calvert-Lewin,1,dominiccalvertlewin_everton,12.0,0.0
+2021-02-03,Manchester City,Gabriel Jesus,1,gabrieljesus_manchestercity,4.0,0.0
+2021-02-03,West Ham,Jesse Lingard,2,jesselingard_westham,2.0,0.0
+2021-02-03,Leicester City,Kelechi Iheanacho,1,kelechiiheanacho_leicestercity,1.0,0.0
+2021-02-03,Aston Villa,Ollie Watkins,1,olliewatkins_astonvilla,9.0,1.0
+2021-02-03,Manchester City,Raheem Sterling,1,raheemsterling_manchestercity,7.0,0.0
+2021-02-03,West Ham,Tomas Soucek,1,tomassoucek_westham,8.0,0.0
+2021-02-06,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,13.0,6.0
+2021-02-06,Everton,Dominic Calvert-Lewin,1,dominiccalvertlewin_everton,13.0,0.0
+2021-02-06,Manchester Utd,Edinson Cavani,1,edinsoncavani_manchesterutd,6.0,0.0
+2021-02-06,Aston Villa,Ollie Watkins,1,olliewatkins_astonvilla,10.0,1.0
+2021-02-07,Tottenham,Harry Kane,1,harrykane_tottenham,13.0,3.0
+2021-02-07,Manchester City,Ilkay Gundogan,2,ilkaygundogan_manchestercity,9.0,1.0
+2021-02-07,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,16.0,6.0
+2021-02-07,Manchester City,Phil Foden,1,philfoden_manchestercity,5.0,0.0
+2021-02-07,Manchester City,Raheem Sterling,1,raheemsterling_manchestercity,8.0,0.0
+2021-02-07,Tottenham,Son Heung-min,1,sonheungmin_tottenham,13.0,0.0
+2021-02-08,Leeds United,Patrick Bamford,1,patrickbamford_leedsunited,12.0,1.0
+2021-02-13,Leicester City,Harvey Barnes,1,harveybarnes_leicestercity,8.0,0.0
+2021-02-13,Manchester City,Ilkay Gundogan,2,ilkaygundogan_manchestercity,11.0,1.0
+2021-02-13,Leicester City,Jamie Vardy,1,jamievardy_leicestercity,12.0,6.0
+2021-02-13,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,17.0,6.0
+2021-02-14,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,14.0,6.0
+2021-02-14,Southampton,Danny Ings,1,dannyings_southampton,8.0,2.0
+2021-02-14,Arsenal,Pierre-Emerick Aubameyang,3,pierreemerickaubameyang_arsenal,8.0,2.0
+2021-02-17,Manchester City,Phil Foden,1,philfoden_manchestercity,6.0,0.0
+2021-02-17,Manchester City,Riyad Mahrez,1,riyadmahrez_manchestercity,6.0,0.0
+2021-02-21,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,15.0,7.0
+2021-02-21,Leicester City,Harvey Barnes,1,harveybarnes_leicestercity,9.0,0.0
+2021-02-21,West Ham,Jesse Lingard,1,jesselingard_westham,3.0,0.0
+2021-02-21,Manchester Utd,Marcus Rashford,1,marcusrashford_manchesterutd,9.0,0.0
+2021-02-21,West Ham,Michail Antonio,1,michailantonio_westham,6.0,0.0
+2021-02-21,Manchester City,Raheem Sterling,1,raheemsterling_manchestercity,9.0,0.0
+2021-02-22,Crystal Palace,Christian Benteke,1,christianbenteke_crystalpalace,4.0,0.0
+2021-02-23,Leeds United,Patrick Bamford,1,patrickbamford_leedsunited,13.0,1.0
+2021-02-27,Aston Villa,Anwar El Ghazi,1,anwarelghazi_astonvilla,6.0,2.0
+2021-02-27,West Ham,Michail Antonio,1,michailantonio_westham,7.0,0.0
+2021-02-28,Arsenal,Alexandre Lacazette,1,alexandrelacazette_arsenal,9.0,2.0
+2021-02-28,Tottenham,Gareth Bale,2,garethbale_tottenham,3.0,0.0
+2021-02-28,Tottenham,Harry Kane,1,harrykane_tottenham,14.0,3.0
+2021-02-28,Arsenal,Nicolas Pepe,1,nicolaspepe_arsenal,5.0,1.0
+2021-03-02,Manchester City,Gabriel Jesus,2,gabrieljesus_manchestercity,6.0,0.0
+2021-03-02,Manchester City,Riyad Mahrez,1,riyadmahrez_manchestercity,7.0,0.0
+2021-03-03,Leicester City,Kelechi Iheanacho,1,kelechiiheanacho_leicestercity,2.0,0.0
+2021-03-06,Southampton,Che Adams,1,cheadams_southampton,5.0,0.0
+2021-03-06,Burnley,Chris Wood,1,chriswood_burnley,5.0,0.0
+2021-03-06,Leicester City,Kelechi Iheanacho,1,kelechiiheanacho_leicestercity,3.0,0.0
+2021-03-06,Arsenal,Pierre-Emerick Aubameyang,1,pierreemerickaubameyang_arsenal,9.0,2.0
+2021-03-07,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,16.0,8.0
+2021-03-07,Crystal Palace,Christian Benteke,1,christianbenteke_crystalpalace,5.0,0.0
+2021-03-07,Tottenham,Gareth Bale,2,garethbale_tottenham,5.0,0.0
+2021-03-07,Tottenham,Harry Kane,2,harrykane_tottenham,16.0,3.0
+2021-03-08,West Ham,Jesse Lingard,1,jesselingard_westham,4.0,0.0
+2021-03-10,Southampton,Che Adams,1,cheadams_southampton,6.0,0.0
+2021-03-10,Manchester City,Ilkay Gundogan,1,ilkaygundogan_manchestercity,12.0,1.0
+2021-03-10,Manchester City,Riyad Mahrez,2,riyadmahrez_manchestercity,9.0,0.0
+2021-03-13,Burnley,Chris Wood,1,chriswood_burnley,6.0,0.0
+2021-03-13,Everton,Dominic Calvert-Lewin,1,dominiccalvertlewin_everton,14.0,0.0
+2021-03-13,Manchester City,Gabriel Jesus,1,gabrieljesus_manchestercity,7.0,0.0
+2021-03-14,Arsenal,Alexandre Lacazette,1,alexandrelacazette_arsenal,10.0,3.0
+2021-03-14,Southampton,Che Adams,1,cheadams_southampton,7.0,0.0
+2021-03-14,Leicester City,Kelechi Iheanacho,3,kelechiiheanacho_leicestercity,6.0,0.0
+2021-03-15,Liverpool,Diogo Jota,1,diogojota_liverpool,6.0,0.0
+2021-03-19,Leeds United,Patrick Bamford,1,patrickbamford_leedsunited,14.0,1.0
+2021-03-21,Arsenal,Alexandre Lacazette,1,alexandrelacazette_arsenal,11.0,3.0
+2021-03-21,Tottenham,Harry Kane,1,harrykane_tottenham,17.0,4.0
+2021-03-21,West Ham,Jesse Lingard,1,jesselingard_westham,5.0,0.0
+2021-03-21,West Ham,Tomas Soucek,1,tomassoucek_westham,9.0,0.0
+2021-04-03,Liverpool,Diogo Jota,2,diogojota_liverpool,8.0,0.0
+2021-04-03,Manchester City,Gabriel Jesus,1,gabrieljesus_manchestercity,8.0,0.0
+2021-04-03,West Brom,Matheus Pereira,2,matheuspereira_westbrom,7.0,2.0
+2021-04-03,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,18.0,6.0
+2021-04-04,Burnley,Chris Wood,1,chriswood_burnley,7.0,1.0
+2021-04-04,Southampton,Danny Ings,1,dannyings_southampton,9.0,2.0
+2021-04-04,Tottenham,Harry Kane,2,harrykane_tottenham,19.0,4.0
+2021-04-04,Manchester Utd,Marcus Rashford,1,marcusrashford_manchesterutd,10.0,0.0
+2021-04-04,Aston Villa,Ollie Watkins,1,olliewatkins_astonvilla,11.0,1.0
+2021-04-05,West Ham,Jesse Lingard,1,jesselingard_westham,6.0,0.0
+2021-04-10,Crystal Palace,Christian Benteke,1,christianbenteke_crystalpalace,6.0,0.0
+2021-04-10,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,19.0,6.0
+2021-04-10,Aston Villa,Ollie Watkins,1,olliewatkins_astonvilla,12.0,1.0
+2021-04-11,Arsenal,Alexandre Lacazette,2,alexandrelacazette_arsenal,13.0,3.0
+2021-04-11,Manchester Utd,Edinson Cavani,1,edinsoncavani_manchesterutd,7.0,0.0
+2021-04-11,West Ham,Jesse Lingard,2,jesselingard_westham,8.0,0.0
+2021-04-11,Leicester City,Kelechi Iheanacho,2,kelechiiheanacho_leicestercity,8.0,0.0
+2021-04-11,Tottenham,Son Heung-min,1,sonheungmin_tottenham,14.0,0.0
+2021-04-12,West Brom,Matheus Pereira,1,matheuspereira_westbrom,8.0,3.0
+2021-04-16,Tottenham,Harry Kane,2,harrykane_tottenham,21.0,4.0
+2021-04-17,West Ham,Jesse Lingard,1,jesselingard_westham,9.0,1.0
+2021-04-18,Manchester Utd,Edinson Cavani,1,edinsoncavani_manchesterutd,8.0,0.0
+2021-04-19,Liverpool,Sadio Mane,1,sadiomane_liverpool,8.0,0.0
+2021-04-21,Southampton,Danny Ings,1,dannyings_southampton,10.0,2.0
+2021-04-21,Tottenham,Gareth Bale,1,garethbale_tottenham,6.0,0.0
+2021-04-21,Manchester City,Phil Foden,1,philfoden_manchestercity,7.0,0.0
+2021-04-21,Tottenham,Son Heung-min,1,sonheungmin_tottenham,15.0,1.0
+2021-04-22,Leicester City,Jamie Vardy,1,jamievardy_leicestercity,13.0,6.0
+2021-04-22,Leicester City,Kelechi Iheanacho,1,kelechiiheanacho_leicestercity,9.0,0.0
+2021-04-24,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,20.0,6.0
+2021-04-25,Aston Villa,Anwar El Ghazi,1,anwarelghazi_astonvilla,7.0,3.0
+2021-04-25,Burnley,Chris Wood,3,chriswood_burnley,10.0,1.0
+2021-04-25,West Brom,Matheus Pereira,1,matheuspereira_westbrom,9.0,4.0
+2021-04-26,Leicester City,Kelechi Iheanacho,1,kelechiiheanacho_leicestercity,10.0,0.0
+2021-04-26,Crystal Palace,Wilfried Zaha,1,wilfriedzaha_crystalpalace,10.0,2.0
+2021-05-01,Aston Villa,Anwar El Ghazi,1,anwarelghazi_astonvilla,8.0,3.0
+2021-05-01,Everton,Dominic Calvert-Lewin,1,dominiccalvertlewin_everton,15.0,0.0
+2021-05-01,Aston Villa,Ollie Watkins,1,olliewatkins_astonvilla,13.0,1.0
+2021-05-02,Tottenham,Gareth Bale,3,garethbale_tottenham,9.0,0.0
+2021-05-02,Arsenal,Pierre-Emerick Aubameyang,1,pierreemerickaubameyang_arsenal,10.0,2.0
+2021-05-02,Tottenham,Son Heung-min,1,sonheungmin_tottenham,16.0,1.0
+2021-05-03,Burnley,Chris Wood,1,chriswood_burnley,11.0,2.0
+2021-05-03,West Ham,Michail Antonio,2,michailantonio_westham,9.0,0.0
+2021-05-07,Newcastle Utd,Callum Wilson,2,callumwilson_newcastleutd,12.0,4.0
+2021-05-07,Leicester City,Kelechi Iheanacho,1,kelechiiheanacho_leicestercity,11.0,0.0
+2021-05-08,Crystal Palace,Christian Benteke,1,christianbenteke_crystalpalace,7.0,0.0
+2021-05-08,Leeds United,Patrick Bamford,1,patrickbamford_leedsunited,15.0,1.0
+2021-05-08,Manchester City,Raheem Sterling,1,raheemsterling_manchestercity,10.0,0.0
+2021-05-08,Liverpool,Sadio Mane,1,sadiomane_liverpool,9.0,0.0
+2021-05-08,Tottenham,Son Heung-min,1,sonheungmin_tottenham,17.0,1.0
+2021-05-09,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,17.0,9.0
+2021-05-09,Everton,Dominic Calvert-Lewin,1,dominiccalvertlewin_everton,16.0,0.0
+2021-05-09,Manchester Utd,Edinson Cavani,1,edinsoncavani_manchesterutd,9.0,0.0
+2021-05-09,West Brom,Matheus Pereira,1,matheuspereira_westbrom,10.0,4.0
+2021-05-09,Arsenal,Nicolas Pepe,1,nicolaspepe_arsenal,6.0,1.0
+2021-05-10,Burnley,Chris Wood,1,chriswood_burnley,12.0,2.0
+2021-05-11,Southampton,Che Adams,1,cheadams_southampton,8.0,0.0
+2021-05-11,Crystal Palace,Christian Benteke,1,christianbenteke_crystalpalace,8.0,0.0
+2021-05-11,Southampton,Danny Ings,2,dannyings_southampton,12.0,2.0
+2021-05-13,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,18.0,9.0
+2021-05-13,Liverpool,Diogo Jota,1,diogojota_liverpool,9.0,0.0
+2021-05-13,Manchester Utd,Marcus Rashford,1,marcusrashford_manchesterutd,11.0,0.0
+2021-05-13,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,21.0,6.0
+2021-05-13,Liverpool,Roberto Firmino,2,robertofirmino_liverpool,8.0,0.0
+2021-05-15,Southampton,Che Adams,1,cheadams_southampton,9.0,0.0
+2021-05-16,Aston Villa,Anwar El Ghazi,1,anwarelghazi_astonvilla,9.0,3.0
+2021-05-16,Crystal Palace,Christian Benteke,1,christianbenteke_crystalpalace,9.0,0.0
+2021-05-16,Tottenham,Harry Kane,1,harrykane_tottenham,22.0,4.0
+2021-05-16,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,22.0,6.0
+2021-05-16,Crystal Palace,Wilfried Zaha,1,wilfriedzaha_crystalpalace,11.0,2.0
+2021-05-18,Manchester Utd,Edinson Cavani,1,edinsoncavani_manchesterutd,10.0,0.0
+2021-05-18,Manchester City,Ilkay Gundogan,1,ilkaygundogan_manchestercity,13.0,1.0
+2021-05-18,Leicester City,Kelechi Iheanacho,1,kelechiiheanacho_leicestercity,12.0,0.0
+2021-05-18,Leeds United,Patrick Bamford,1,patrickbamford_leedsunited,16.0,1.0
+2021-05-18,Manchester City,Phil Foden,1,philfoden_manchestercity,8.0,0.0
+2021-05-19,Crystal Palace,Christian Benteke,1,christianbenteke_crystalpalace,10.0,0.0
+2021-05-19,West Brom,Matheus Pereira,1,matheuspereira_westbrom,11.0,4.0
+2021-05-19,West Ham,Michail Antonio,1,michailantonio_westham,10.0,0.0
+2021-05-19,Arsenal,Nicolas Pepe,2,nicolaspepe_arsenal,8.0,1.0
+2021-05-19,Aston Villa,Ollie Watkins,1,olliewatkins_astonvilla,14.0,1.0
+2021-05-19,Liverpool,Roberto Firmino,1,robertofirmino_liverpool,9.0,0.0
+2021-05-19,West Ham,Tomas Soucek,1,tomassoucek_westham,10.0,0.0
+2021-05-23,Aston Villa,Anwar El Ghazi,1,anwarelghazi_astonvilla,10.0,4.0
+2021-05-23,Manchester City,Gabriel Jesus,1,gabrieljesus_manchestercity,9.0,0.0
+2021-05-23,Tottenham,Gareth Bale,2,garethbale_tottenham,11.0,0.0
+2021-05-23,Tottenham,Harry Kane,1,harrykane_tottenham,23.0,4.0
+2021-05-23,Leicester City,Jamie Vardy,2,jamievardy_leicestercity,15.0,8.0
+2021-05-23,Arsenal,Nicolas Pepe,2,nicolaspepe_arsenal,10.0,1.0
+2021-05-23,Leeds United,Patrick Bamford,1,patrickbamford_leedsunited,17.0,2.0
+2021-05-23,Manchester City,Phil Foden,1,philfoden_manchestercity,9.0,0.0
+2021-05-23,Liverpool,Sadio Mane,2,sadiomane_liverpool,11.0,0.0
