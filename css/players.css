@@ -156,6 +156,6 @@
     }
   }
 
-.player_text, .group_player_text {
--webkit-tap-highlight-color: transparent;
+.player_text, .group_player_text, .player_count_text {
+    -webkit-tap-highlight-color: transparent;
 }
