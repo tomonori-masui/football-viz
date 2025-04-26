@@ -155,3 +155,7 @@
         stroke-width: 5px;
     }
   }
+
+  .player_count_text {
+    -webkit-tap-highlight-color: transparent;
+  }
