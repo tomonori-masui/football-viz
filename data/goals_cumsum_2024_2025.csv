@@ -8,29 +8,26 @@ date,player_team,value,pk,rank,player,team
 2024-08-17,alexanderisak_newcastleutd,0.0,0.0,7.0,Alexander Isak,Newcastle Utd
 2024-08-17,alexiwobi_fulham,0.0,0.0,8.0,Alex Iwobi,Fulham
 2024-08-17,brennanjohnson_tottenham,0.0,0.0,9.0,Brennan Johnson,Tottenham
-2024-08-17,brunofernandes_manchesterutd,0.0,0.0,10.0,Bruno Fernandes,Manchester Utd
-2024-08-17,bryanmbeumo_brentford,0.0,0.0,11.0,Bryan Mbeumo,Brentford
-2024-08-17,codygakpo_liverpool,0.0,0.0,12.0,Cody Gakpo,Liverpool
-2024-08-17,colepalmer_chelsea,0.0,0.0,13.0,Cole Palmer,Chelsea
-2024-08-17,erlinghaaland_manchestercity,0.0,0.0,14.0,Erling Haaland,Manchester City
-2024-08-17,evanilson_bournemouth,0.0,0.0,15.0,Evanilson,Bournemouth
-2024-08-17,harveybarnes_newcastleutd,0.0,0.0,16.0,Harvey Barnes,Newcastle Utd
-2024-08-17,jacobmurphy_newcastleutd,0.0,0.0,17.0,Jacob Murphy,Newcastle Utd
-2024-08-17,jamesmaddison_tottenham,0.0,0.0,18.0,James Maddison,Tottenham
-2024-08-17,jarrodbowen_westham,0.0,0.0,19.0,Jarrod Bowen,West Ham
-2024-08-17,jeanphilippemateta_crystalpalace,0.0,0.0,20.0,Jean-Philippe Mateta,Crystal Palace
-2024-08-17,joaopedro_brighton,0.0,0.0,21.0,Joao Pedro,Brighton
-2024-08-17,jorgenstrandlarsen_wolves,0.0,0.0,22.0,Jorgen Strand Larsen,Wolves
-2024-08-17,justinkluivert_bournemouth,0.0,0.0,23.0,Justin Kluivert,Bournemouth
-2024-08-17,liamdelap_ipswichtown,0.0,0.0,24.0,Liam Delap,Ipswich Town
-2024-08-17,luisdiaz_liverpool,0.0,0.0,25.0,Luis Diaz,Liverpool
-2024-08-17,matheuscunha_wolves,0.0,0.0,26.0,Matheus Cunha,Wolves
-2024-08-17,morganrogers_astonvilla,0.0,0.0,27.0,Morgan Rogers,Aston Villa
-2024-08-17,nicolasjackson_chelsea,0.0,0.0,28.0,Nicolas Jackson,Chelsea
-2024-08-17,olliewatkins_astonvilla,0.0,0.0,29.0,Ollie Watkins,Aston Villa
-2024-08-17,rauljimenez_fulham,0.0,0.0,30.0,Raul Jimenez,Fulham
-2024-08-17,rodrigomuniz_fulham,0.0,0.0,31.0,Rodrigo Muniz,Fulham
-2024-08-17,yoanewissa_brentford,0.0,0.0,32.0,Yoane Wissa,Brentford
+2024-08-17,bryanmbeumo_brentford,0.0,0.0,10.0,Bryan Mbeumo,Brentford
+2024-08-17,codygakpo_liverpool,0.0,0.0,11.0,Cody Gakpo,Liverpool
+2024-08-17,colepalmer_chelsea,0.0,0.0,12.0,Cole Palmer,Chelsea
+2024-08-17,erlinghaaland_manchestercity,0.0,0.0,13.0,Erling Haaland,Manchester City
+2024-08-17,evanilson_bournemouth,0.0,0.0,14.0,Evanilson,Bournemouth
+2024-08-17,harveybarnes_newcastleutd,0.0,0.0,15.0,Harvey Barnes,Newcastle Utd
+2024-08-17,jamesmaddison_tottenham,0.0,0.0,16.0,James Maddison,Tottenham
+2024-08-17,jarrodbowen_westham,0.0,0.0,17.0,Jarrod Bowen,West Ham
+2024-08-17,jeanphilippemateta_crystalpalace,0.0,0.0,18.0,Jean-Philippe Mateta,Crystal Palace
+2024-08-17,joaopedro_brighton,0.0,0.0,19.0,Joao Pedro,Brighton
+2024-08-17,jorgenstrandlarsen_wolves,0.0,0.0,20.0,Jorgen Strand Larsen,Wolves
+2024-08-17,justinkluivert_bournemouth,0.0,0.0,21.0,Justin Kluivert,Bournemouth
+2024-08-17,kevinschade_brentford,0.0,0.0,22.0,Kevin Schade,Brentford
+2024-08-17,liamdelap_ipswichtown,0.0,0.0,23.0,Liam Delap,Ipswich Town
+2024-08-17,luisdiaz_liverpool,0.0,0.0,24.0,Luis Diaz,Liverpool
+2024-08-17,matheuscunha_wolves,0.0,0.0,25.0,Matheus Cunha,Wolves
+2024-08-17,nicolasjackson_chelsea,0.0,0.0,26.0,Nicolas Jackson,Chelsea
+2024-08-17,olliewatkins_astonvilla,0.0,0.0,27.0,Ollie Watkins,Aston Villa
+2024-08-17,rauljimenez_fulham,0.0,0.0,28.0,Raul Jimenez,Fulham
+2024-08-17,yoanewissa_brentford,0.0,0.0,29.0,Yoane Wissa,Brentford
 2024-08-18,antoinesemenyo_bournemouth,1.0,0.0,1.0,Antoine Semenyo,Bournemouth
 2024-08-18,bryanmbeumo_brentford,1.0,0.0,2.0,Bryan Mbeumo,Brentford
 2024-08-18,chriswood_notthamforest,1.0,0.0,3.0,Chris Wood,Nott'ham Forest
@@ -43,26 +40,23 @@ date,player_team,value,pk,rank,player,team
 2024-08-18,alexanderisak_newcastleutd,0.0,0.0,10.0,Alexander Isak,Newcastle Utd
 2024-08-18,alexiwobi_fulham,0.0,0.0,11.0,Alex Iwobi,Fulham
 2024-08-18,brennanjohnson_tottenham,0.0,0.0,12.0,Brennan Johnson,Tottenham
-2024-08-18,brunofernandes_manchesterutd,0.0,0.0,13.0,Bruno Fernandes,Manchester Utd
-2024-08-18,codygakpo_liverpool,0.0,0.0,14.0,Cody Gakpo,Liverpool
-2024-08-18,colepalmer_chelsea,0.0,0.0,15.0,Cole Palmer,Chelsea
-2024-08-18,evanilson_bournemouth,0.0,0.0,16.0,Evanilson,Bournemouth
-2024-08-18,harveybarnes_newcastleutd,0.0,0.0,17.0,Harvey Barnes,Newcastle Utd
-2024-08-18,jacobmurphy_newcastleutd,0.0,0.0,18.0,Jacob Murphy,Newcastle Utd
-2024-08-18,jamesmaddison_tottenham,0.0,0.0,19.0,James Maddison,Tottenham
-2024-08-18,jarrodbowen_westham,0.0,0.0,20.0,Jarrod Bowen,West Ham
-2024-08-18,jeanphilippemateta_crystalpalace,0.0,0.0,21.0,Jean-Philippe Mateta,Crystal Palace
-2024-08-18,joaopedro_brighton,0.0,0.0,22.0,Joao Pedro,Brighton
-2024-08-18,jorgenstrandlarsen_wolves,0.0,0.0,23.0,Jorgen Strand Larsen,Wolves
-2024-08-18,justinkluivert_bournemouth,0.0,0.0,24.0,Justin Kluivert,Bournemouth
-2024-08-18,liamdelap_ipswichtown,0.0,0.0,25.0,Liam Delap,Ipswich Town
-2024-08-18,luisdiaz_liverpool,0.0,0.0,26.0,Luis Diaz,Liverpool
-2024-08-18,matheuscunha_wolves,0.0,0.0,27.0,Matheus Cunha,Wolves
-2024-08-18,morganrogers_astonvilla,0.0,0.0,28.0,Morgan Rogers,Aston Villa
-2024-08-18,nicolasjackson_chelsea,0.0,0.0,29.0,Nicolas Jackson,Chelsea
-2024-08-18,olliewatkins_astonvilla,0.0,0.0,30.0,Ollie Watkins,Aston Villa
-2024-08-18,rauljimenez_fulham,0.0,0.0,31.0,Raul Jimenez,Fulham
-2024-08-18,rodrigomuniz_fulham,0.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-08-18,codygakpo_liverpool,0.0,0.0,13.0,Cody Gakpo,Liverpool
+2024-08-18,colepalmer_chelsea,0.0,0.0,14.0,Cole Palmer,Chelsea
+2024-08-18,evanilson_bournemouth,0.0,0.0,15.0,Evanilson,Bournemouth
+2024-08-18,harveybarnes_newcastleutd,0.0,0.0,16.0,Harvey Barnes,Newcastle Utd
+2024-08-18,jamesmaddison_tottenham,0.0,0.0,17.0,James Maddison,Tottenham
+2024-08-18,jarrodbowen_westham,0.0,0.0,18.0,Jarrod Bowen,West Ham
+2024-08-18,jeanphilippemateta_crystalpalace,0.0,0.0,19.0,Jean-Philippe Mateta,Crystal Palace
+2024-08-18,joaopedro_brighton,0.0,0.0,20.0,Joao Pedro,Brighton
+2024-08-18,jorgenstrandlarsen_wolves,0.0,0.0,21.0,Jorgen Strand Larsen,Wolves
+2024-08-18,justinkluivert_bournemouth,0.0,0.0,22.0,Justin Kluivert,Bournemouth
+2024-08-18,kevinschade_brentford,0.0,0.0,23.0,Kevin Schade,Brentford
+2024-08-18,liamdelap_ipswichtown,0.0,0.0,24.0,Liam Delap,Ipswich Town
+2024-08-18,luisdiaz_liverpool,0.0,0.0,25.0,Luis Diaz,Liverpool
+2024-08-18,matheuscunha_wolves,0.0,0.0,26.0,Matheus Cunha,Wolves
+2024-08-18,nicolasjackson_chelsea,0.0,0.0,27.0,Nicolas Jackson,Chelsea
+2024-08-18,olliewatkins_astonvilla,0.0,0.0,28.0,Ollie Watkins,Aston Villa
+2024-08-18,rauljimenez_fulham,0.0,0.0,29.0,Raul Jimenez,Fulham
 2024-08-24,erlinghaaland_manchestercity,4.0,1.0,1.0,Erling Haaland,Manchester City
 2024-08-24,dannywelbeck_brighton,2.0,0.0,2.0,Danny Welbeck,Brighton
 2024-08-24,alexiwobi_fulham,1.0,0.0,3.0,Alex Iwobi,Fulham
@@ -77,24 +71,21 @@ date,player_team,value,pk,rank,player,team
 2024-08-24,yoanewissa_brentford,1.0,0.0,12.0,Yoane Wissa,Brentford
 2024-08-24,alexanderisak_newcastleutd,0.0,0.0,13.0,Alexander Isak,Newcastle Utd
 2024-08-24,brennanjohnson_tottenham,0.0,0.0,14.0,Brennan Johnson,Tottenham
-2024-08-24,brunofernandes_manchesterutd,0.0,0.0,15.0,Bruno Fernandes,Manchester Utd
-2024-08-24,codygakpo_liverpool,0.0,0.0,16.0,Cody Gakpo,Liverpool
-2024-08-24,colepalmer_chelsea,0.0,0.0,17.0,Cole Palmer,Chelsea
-2024-08-24,evanilson_bournemouth,0.0,0.0,18.0,Evanilson,Bournemouth
-2024-08-24,harveybarnes_newcastleutd,0.0,0.0,19.0,Harvey Barnes,Newcastle Utd
-2024-08-24,jacobmurphy_newcastleutd,0.0,0.0,20.0,Jacob Murphy,Newcastle Utd
-2024-08-24,jamesmaddison_tottenham,0.0,0.0,21.0,James Maddison,Tottenham
-2024-08-24,jeanphilippemateta_crystalpalace,0.0,0.0,22.0,Jean-Philippe Mateta,Crystal Palace
-2024-08-24,jorgenstrandlarsen_wolves,0.0,0.0,23.0,Jorgen Strand Larsen,Wolves
-2024-08-24,justinkluivert_bournemouth,0.0,0.0,24.0,Justin Kluivert,Bournemouth
-2024-08-24,liamdelap_ipswichtown,0.0,0.0,25.0,Liam Delap,Ipswich Town
-2024-08-24,luisdiaz_liverpool,0.0,0.0,26.0,Luis Diaz,Liverpool
-2024-08-24,matheuscunha_wolves,0.0,0.0,27.0,Matheus Cunha,Wolves
-2024-08-24,morganrogers_astonvilla,0.0,0.0,28.0,Morgan Rogers,Aston Villa
-2024-08-24,nicolasjackson_chelsea,0.0,0.0,29.0,Nicolas Jackson,Chelsea
-2024-08-24,olliewatkins_astonvilla,0.0,0.0,30.0,Ollie Watkins,Aston Villa
-2024-08-24,rauljimenez_fulham,0.0,0.0,31.0,Raul Jimenez,Fulham
-2024-08-24,rodrigomuniz_fulham,0.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-08-24,codygakpo_liverpool,0.0,0.0,15.0,Cody Gakpo,Liverpool
+2024-08-24,colepalmer_chelsea,0.0,0.0,16.0,Cole Palmer,Chelsea
+2024-08-24,evanilson_bournemouth,0.0,0.0,17.0,Evanilson,Bournemouth
+2024-08-24,harveybarnes_newcastleutd,0.0,0.0,18.0,Harvey Barnes,Newcastle Utd
+2024-08-24,jamesmaddison_tottenham,0.0,0.0,19.0,James Maddison,Tottenham
+2024-08-24,jeanphilippemateta_crystalpalace,0.0,0.0,20.0,Jean-Philippe Mateta,Crystal Palace
+2024-08-24,jorgenstrandlarsen_wolves,0.0,0.0,21.0,Jorgen Strand Larsen,Wolves
+2024-08-24,justinkluivert_bournemouth,0.0,0.0,22.0,Justin Kluivert,Bournemouth
+2024-08-24,kevinschade_brentford,0.0,0.0,23.0,Kevin Schade,Brentford
+2024-08-24,liamdelap_ipswichtown,0.0,0.0,24.0,Liam Delap,Ipswich Town
+2024-08-24,luisdiaz_liverpool,0.0,0.0,25.0,Luis Diaz,Liverpool
+2024-08-24,matheuscunha_wolves,0.0,0.0,26.0,Matheus Cunha,Wolves
+2024-08-24,nicolasjackson_chelsea,0.0,0.0,27.0,Nicolas Jackson,Chelsea
+2024-08-24,olliewatkins_astonvilla,0.0,0.0,28.0,Ollie Watkins,Aston Villa
+2024-08-24,rauljimenez_fulham,0.0,0.0,29.0,Raul Jimenez,Fulham
 2024-08-25,erlinghaaland_manchestercity,4.0,1.0,1.0,Erling Haaland,Manchester City
 2024-08-25,dannywelbeck_brighton,2.0,0.0,2.0,Danny Welbeck,Brighton
 2024-08-25,mohamedsalah_liverpool,2.0,0.0,3.0,Mohamed Salah,Liverpool
@@ -114,19 +105,16 @@ date,player_team,value,pk,rank,player,team
 2024-08-25,yoanewissa_brentford,1.0,0.0,17.0,Yoane Wissa,Brentford
 2024-08-25,alexanderisak_newcastleutd,0.0,0.0,18.0,Alexander Isak,Newcastle Utd
 2024-08-25,brennanjohnson_tottenham,0.0,0.0,19.0,Brennan Johnson,Tottenham
-2024-08-25,brunofernandes_manchesterutd,0.0,0.0,20.0,Bruno Fernandes,Manchester Utd
-2024-08-25,codygakpo_liverpool,0.0,0.0,21.0,Cody Gakpo,Liverpool
-2024-08-25,evanilson_bournemouth,0.0,0.0,22.0,Evanilson,Bournemouth
-2024-08-25,harveybarnes_newcastleutd,0.0,0.0,23.0,Harvey Barnes,Newcastle Utd
-2024-08-25,jacobmurphy_newcastleutd,0.0,0.0,24.0,Jacob Murphy,Newcastle Utd
-2024-08-25,jamesmaddison_tottenham,0.0,0.0,25.0,James Maddison,Tottenham
-2024-08-25,jeanphilippemateta_crystalpalace,0.0,0.0,26.0,Jean-Philippe Mateta,Crystal Palace
-2024-08-25,justinkluivert_bournemouth,0.0,0.0,27.0,Justin Kluivert,Bournemouth
-2024-08-25,liamdelap_ipswichtown,0.0,0.0,28.0,Liam Delap,Ipswich Town
-2024-08-25,morganrogers_astonvilla,0.0,0.0,29.0,Morgan Rogers,Aston Villa
-2024-08-25,olliewatkins_astonvilla,0.0,0.0,30.0,Ollie Watkins,Aston Villa
-2024-08-25,rauljimenez_fulham,0.0,0.0,31.0,Raul Jimenez,Fulham
-2024-08-25,rodrigomuniz_fulham,0.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-08-25,codygakpo_liverpool,0.0,0.0,20.0,Cody Gakpo,Liverpool
+2024-08-25,evanilson_bournemouth,0.0,0.0,21.0,Evanilson,Bournemouth
+2024-08-25,harveybarnes_newcastleutd,0.0,0.0,22.0,Harvey Barnes,Newcastle Utd
+2024-08-25,jamesmaddison_tottenham,0.0,0.0,23.0,James Maddison,Tottenham
+2024-08-25,jeanphilippemateta_crystalpalace,0.0,0.0,24.0,Jean-Philippe Mateta,Crystal Palace
+2024-08-25,justinkluivert_bournemouth,0.0,0.0,25.0,Justin Kluivert,Bournemouth
+2024-08-25,kevinschade_brentford,0.0,0.0,26.0,Kevin Schade,Brentford
+2024-08-25,liamdelap_ipswichtown,0.0,0.0,27.0,Liam Delap,Ipswich Town
+2024-08-25,olliewatkins_astonvilla,0.0,0.0,28.0,Ollie Watkins,Aston Villa
+2024-08-25,rauljimenez_fulham,0.0,0.0,29.0,Raul Jimenez,Fulham
 2024-08-31,erlinghaaland_manchestercity,7.0,1.0,1.0,Erling Haaland,Manchester City
 2024-08-31,bryanmbeumo_brentford,3.0,0.0,2.0,Bryan Mbeumo,Brentford
 2024-08-31,antoinesemenyo_bournemouth,2.0,0.0,3.0,Antoine Semenyo,Bournemouth
@@ -147,18 +135,15 @@ date,player_team,value,pk,rank,player,team
 2024-08-31,nicolasjackson_chelsea,1.0,0.0,18.0,Nicolas Jackson,Chelsea
 2024-08-31,alexanderisak_newcastleutd,0.0,0.0,19.0,Alexander Isak,Newcastle Utd
 2024-08-31,brennanjohnson_tottenham,0.0,0.0,20.0,Brennan Johnson,Tottenham
-2024-08-31,brunofernandes_manchesterutd,0.0,0.0,21.0,Bruno Fernandes,Manchester Utd
-2024-08-31,codygakpo_liverpool,0.0,0.0,22.0,Cody Gakpo,Liverpool
-2024-08-31,evanilson_bournemouth,0.0,0.0,23.0,Evanilson,Bournemouth
-2024-08-31,harveybarnes_newcastleutd,0.0,0.0,24.0,Harvey Barnes,Newcastle Utd
-2024-08-31,jacobmurphy_newcastleutd,0.0,0.0,25.0,Jacob Murphy,Newcastle Utd
-2024-08-31,jamesmaddison_tottenham,0.0,0.0,26.0,James Maddison,Tottenham
-2024-08-31,jeanphilippemateta_crystalpalace,0.0,0.0,27.0,Jean-Philippe Mateta,Crystal Palace
-2024-08-31,justinkluivert_bournemouth,0.0,0.0,28.0,Justin Kluivert,Bournemouth
-2024-08-31,morganrogers_astonvilla,0.0,0.0,29.0,Morgan Rogers,Aston Villa
-2024-08-31,olliewatkins_astonvilla,0.0,0.0,30.0,Ollie Watkins,Aston Villa
-2024-08-31,rauljimenez_fulham,0.0,0.0,31.0,Raul Jimenez,Fulham
-2024-08-31,rodrigomuniz_fulham,0.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-08-31,codygakpo_liverpool,0.0,0.0,21.0,Cody Gakpo,Liverpool
+2024-08-31,evanilson_bournemouth,0.0,0.0,22.0,Evanilson,Bournemouth
+2024-08-31,harveybarnes_newcastleutd,0.0,0.0,23.0,Harvey Barnes,Newcastle Utd
+2024-08-31,jamesmaddison_tottenham,0.0,0.0,24.0,James Maddison,Tottenham
+2024-08-31,jeanphilippemateta_crystalpalace,0.0,0.0,25.0,Jean-Philippe Mateta,Crystal Palace
+2024-08-31,justinkluivert_bournemouth,0.0,0.0,26.0,Justin Kluivert,Bournemouth
+2024-08-31,kevinschade_brentford,0.0,0.0,27.0,Kevin Schade,Brentford
+2024-08-31,olliewatkins_astonvilla,0.0,0.0,28.0,Ollie Watkins,Aston Villa
+2024-08-31,rauljimenez_fulham,0.0,0.0,29.0,Raul Jimenez,Fulham
 2024-09-01,erlinghaaland_manchestercity,7.0,1.0,1.0,Erling Haaland,Manchester City
 2024-09-01,bryanmbeumo_brentford,3.0,0.0,2.0,Bryan Mbeumo,Brentford
 2024-09-01,luisdiaz_liverpool,3.0,0.0,3.0,Luis Diaz,Liverpool
@@ -180,17 +165,14 @@ date,player_team,value,pk,rank,player,team
 2024-09-01,liamdelap_ipswichtown,1.0,0.0,19.0,Liam Delap,Ipswich Town
 2024-09-01,matheuscunha_wolves,1.0,0.0,20.0,Matheus Cunha,Wolves
 2024-09-01,brennanjohnson_tottenham,0.0,0.0,21.0,Brennan Johnson,Tottenham
-2024-09-01,brunofernandes_manchesterutd,0.0,0.0,22.0,Bruno Fernandes,Manchester Utd
-2024-09-01,codygakpo_liverpool,0.0,0.0,23.0,Cody Gakpo,Liverpool
-2024-09-01,evanilson_bournemouth,0.0,0.0,24.0,Evanilson,Bournemouth
-2024-09-01,jacobmurphy_newcastleutd,0.0,0.0,25.0,Jacob Murphy,Newcastle Utd
-2024-09-01,jamesmaddison_tottenham,0.0,0.0,26.0,James Maddison,Tottenham
-2024-09-01,jeanphilippemateta_crystalpalace,0.0,0.0,27.0,Jean-Philippe Mateta,Crystal Palace
-2024-09-01,justinkluivert_bournemouth,0.0,0.0,28.0,Justin Kluivert,Bournemouth
-2024-09-01,morganrogers_astonvilla,0.0,0.0,29.0,Morgan Rogers,Aston Villa
-2024-09-01,olliewatkins_astonvilla,0.0,0.0,30.0,Ollie Watkins,Aston Villa
-2024-09-01,rauljimenez_fulham,0.0,0.0,31.0,Raul Jimenez,Fulham
-2024-09-01,rodrigomuniz_fulham,0.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-09-01,codygakpo_liverpool,0.0,0.0,22.0,Cody Gakpo,Liverpool
+2024-09-01,evanilson_bournemouth,0.0,0.0,23.0,Evanilson,Bournemouth
+2024-09-01,jamesmaddison_tottenham,0.0,0.0,24.0,James Maddison,Tottenham
+2024-09-01,jeanphilippemateta_crystalpalace,0.0,0.0,25.0,Jean-Philippe Mateta,Crystal Palace
+2024-09-01,justinkluivert_bournemouth,0.0,0.0,26.0,Justin Kluivert,Bournemouth
+2024-09-01,kevinschade_brentford,0.0,0.0,27.0,Kevin Schade,Brentford
+2024-09-01,olliewatkins_astonvilla,0.0,0.0,28.0,Ollie Watkins,Aston Villa
+2024-09-01,rauljimenez_fulham,0.0,0.0,29.0,Raul Jimenez,Fulham
 2024-09-14,erlinghaaland_manchestercity,9.0,1.0,1.0,Erling Haaland,Manchester City
 2024-09-14,bryanmbeumo_brentford,3.0,0.0,2.0,Bryan Mbeumo,Brentford
 2024-09-14,luisdiaz_liverpool,3.0,0.0,3.0,Luis Diaz,Liverpool
@@ -215,14 +197,11 @@ date,player_team,value,pk,rank,player,team
 2024-09-14,matheuscunha_wolves,1.0,0.0,22.0,Matheus Cunha,Wolves
 2024-09-14,rauljimenez_fulham,1.0,0.0,23.0,Raul Jimenez,Fulham
 2024-09-14,brennanjohnson_tottenham,0.0,0.0,24.0,Brennan Johnson,Tottenham
-2024-09-14,brunofernandes_manchesterutd,0.0,0.0,25.0,Bruno Fernandes,Manchester Utd
-2024-09-14,codygakpo_liverpool,0.0,0.0,26.0,Cody Gakpo,Liverpool
-2024-09-14,evanilson_bournemouth,0.0,0.0,27.0,Evanilson,Bournemouth
-2024-09-14,jacobmurphy_newcastleutd,0.0,0.0,28.0,Jacob Murphy,Newcastle Utd
-2024-09-14,jamesmaddison_tottenham,0.0,0.0,29.0,James Maddison,Tottenham
-2024-09-14,justinkluivert_bournemouth,0.0,0.0,30.0,Justin Kluivert,Bournemouth
-2024-09-14,morganrogers_astonvilla,0.0,0.0,31.0,Morgan Rogers,Aston Villa
-2024-09-14,rodrigomuniz_fulham,0.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-09-14,codygakpo_liverpool,0.0,0.0,25.0,Cody Gakpo,Liverpool
+2024-09-14,evanilson_bournemouth,0.0,0.0,26.0,Evanilson,Bournemouth
+2024-09-14,jamesmaddison_tottenham,0.0,0.0,27.0,James Maddison,Tottenham
+2024-09-14,justinkluivert_bournemouth,0.0,0.0,28.0,Justin Kluivert,Bournemouth
+2024-09-14,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-09-15,erlinghaaland_manchestercity,9.0,1.0,1.0,Erling Haaland,Manchester City
 2024-09-15,bryanmbeumo_brentford,3.0,0.0,2.0,Bryan Mbeumo,Brentford
 2024-09-15,luisdiaz_liverpool,3.0,0.0,3.0,Luis Diaz,Liverpool
@@ -247,14 +226,11 @@ date,player_team,value,pk,rank,player,team
 2024-09-15,matheuscunha_wolves,1.0,0.0,22.0,Matheus Cunha,Wolves
 2024-09-15,rauljimenez_fulham,1.0,0.0,23.0,Raul Jimenez,Fulham
 2024-09-15,brennanjohnson_tottenham,0.0,0.0,24.0,Brennan Johnson,Tottenham
-2024-09-15,brunofernandes_manchesterutd,0.0,0.0,25.0,Bruno Fernandes,Manchester Utd
-2024-09-15,codygakpo_liverpool,0.0,0.0,26.0,Cody Gakpo,Liverpool
-2024-09-15,evanilson_bournemouth,0.0,0.0,27.0,Evanilson,Bournemouth
-2024-09-15,jacobmurphy_newcastleutd,0.0,0.0,28.0,Jacob Murphy,Newcastle Utd
-2024-09-15,jamesmaddison_tottenham,0.0,0.0,29.0,James Maddison,Tottenham
-2024-09-15,justinkluivert_bournemouth,0.0,0.0,30.0,Justin Kluivert,Bournemouth
-2024-09-15,morganrogers_astonvilla,0.0,0.0,31.0,Morgan Rogers,Aston Villa
-2024-09-15,rodrigomuniz_fulham,0.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-09-15,codygakpo_liverpool,0.0,0.0,25.0,Cody Gakpo,Liverpool
+2024-09-15,evanilson_bournemouth,0.0,0.0,26.0,Evanilson,Bournemouth
+2024-09-15,jamesmaddison_tottenham,0.0,0.0,27.0,James Maddison,Tottenham
+2024-09-15,justinkluivert_bournemouth,0.0,0.0,28.0,Justin Kluivert,Bournemouth
+2024-09-15,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-09-21,erlinghaaland_manchestercity,9.0,1.0,1.0,Erling Haaland,Manchester City
 2024-09-21,luisdiaz_liverpool,5.0,0.0,2.0,Luis Diaz,Liverpool
 2024-09-21,bryanmbeumo_brentford,4.0,0.0,3.0,Bryan Mbeumo,Brentford
@@ -280,13 +256,10 @@ date,player_team,value,pk,rank,player,team
 2024-09-21,jorgenstrandlarsen_wolves,1.0,0.0,23.0,Jorgen Strand Larsen,Wolves
 2024-09-21,kaorumitoma_brighton,1.0,0.0,24.0,Kaoru Mitoma,Brighton
 2024-09-21,liamdelap_ipswichtown,1.0,0.0,25.0,Liam Delap,Ipswich Town
-2024-09-21,brunofernandes_manchesterutd,0.0,0.0,26.0,Bruno Fernandes,Manchester Utd
-2024-09-21,codygakpo_liverpool,0.0,0.0,27.0,Cody Gakpo,Liverpool
-2024-09-21,evanilson_bournemouth,0.0,0.0,28.0,Evanilson,Bournemouth
-2024-09-21,jacobmurphy_newcastleutd,0.0,0.0,29.0,Jacob Murphy,Newcastle Utd
-2024-09-21,justinkluivert_bournemouth,0.0,0.0,30.0,Justin Kluivert,Bournemouth
-2024-09-21,morganrogers_astonvilla,0.0,0.0,31.0,Morgan Rogers,Aston Villa
-2024-09-21,rodrigomuniz_fulham,0.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-09-21,codygakpo_liverpool,0.0,0.0,26.0,Cody Gakpo,Liverpool
+2024-09-21,evanilson_bournemouth,0.0,0.0,27.0,Evanilson,Bournemouth
+2024-09-21,justinkluivert_bournemouth,0.0,0.0,28.0,Justin Kluivert,Bournemouth
+2024-09-21,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-09-22,erlinghaaland_manchestercity,10.0,1.0,1.0,Erling Haaland,Manchester City
 2024-09-22,luisdiaz_liverpool,5.0,0.0,2.0,Luis Diaz,Liverpool
 2024-09-22,bryanmbeumo_brentford,4.0,0.0,3.0,Bryan Mbeumo,Brentford
@@ -312,13 +285,10 @@ date,player_team,value,pk,rank,player,team
 2024-09-22,jorgenstrandlarsen_wolves,1.0,0.0,23.0,Jorgen Strand Larsen,Wolves
 2024-09-22,kaorumitoma_brighton,1.0,0.0,24.0,Kaoru Mitoma,Brighton
 2024-09-22,liamdelap_ipswichtown,1.0,0.0,25.0,Liam Delap,Ipswich Town
-2024-09-22,brunofernandes_manchesterutd,0.0,0.0,26.0,Bruno Fernandes,Manchester Utd
-2024-09-22,codygakpo_liverpool,0.0,0.0,27.0,Cody Gakpo,Liverpool
-2024-09-22,evanilson_bournemouth,0.0,0.0,28.0,Evanilson,Bournemouth
-2024-09-22,jacobmurphy_newcastleutd,0.0,0.0,29.0,Jacob Murphy,Newcastle Utd
-2024-09-22,justinkluivert_bournemouth,0.0,0.0,30.0,Justin Kluivert,Bournemouth
-2024-09-22,morganrogers_astonvilla,0.0,0.0,31.0,Morgan Rogers,Aston Villa
-2024-09-22,rodrigomuniz_fulham,0.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-09-22,codygakpo_liverpool,0.0,0.0,26.0,Cody Gakpo,Liverpool
+2024-09-22,evanilson_bournemouth,0.0,0.0,27.0,Evanilson,Bournemouth
+2024-09-22,justinkluivert_bournemouth,0.0,0.0,28.0,Justin Kluivert,Bournemouth
+2024-09-22,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-09-28,erlinghaaland_manchestercity,10.0,1.0,1.0,Erling Haaland,Manchester City
 2024-09-28,colepalmer_chelsea,6.0,1.0,2.0,Cole Palmer,Chelsea
 2024-09-28,bryanmbeumo_brentford,5.0,0.0,3.0,Bryan Mbeumo,Brentford
@@ -344,13 +314,10 @@ date,player_team,value,pk,rank,player,team
 2024-09-28,jorgenstrandlarsen_wolves,1.0,0.0,23.0,Jorgen Strand Larsen,Wolves
 2024-09-28,kaorumitoma_brighton,1.0,0.0,24.0,Kaoru Mitoma,Brighton
 2024-09-28,liamdelap_ipswichtown,1.0,0.0,25.0,Liam Delap,Ipswich Town
-2024-09-28,brunofernandes_manchesterutd,0.0,0.0,26.0,Bruno Fernandes,Manchester Utd
-2024-09-28,codygakpo_liverpool,0.0,0.0,27.0,Cody Gakpo,Liverpool
-2024-09-28,evanilson_bournemouth,0.0,0.0,28.0,Evanilson,Bournemouth
-2024-09-28,jacobmurphy_newcastleutd,0.0,0.0,29.0,Jacob Murphy,Newcastle Utd
-2024-09-28,justinkluivert_bournemouth,0.0,0.0,30.0,Justin Kluivert,Bournemouth
-2024-09-28,morganrogers_astonvilla,0.0,0.0,31.0,Morgan Rogers,Aston Villa
-2024-09-28,rodrigomuniz_fulham,0.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-09-28,codygakpo_liverpool,0.0,0.0,26.0,Cody Gakpo,Liverpool
+2024-09-28,evanilson_bournemouth,0.0,0.0,27.0,Evanilson,Bournemouth
+2024-09-28,justinkluivert_bournemouth,0.0,0.0,28.0,Justin Kluivert,Bournemouth
+2024-09-28,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-09-29,erlinghaaland_manchestercity,10.0,1.0,1.0,Erling Haaland,Manchester City
 2024-09-29,colepalmer_chelsea,6.0,1.0,2.0,Cole Palmer,Chelsea
 2024-09-29,bryanmbeumo_brentford,5.0,0.0,3.0,Bryan Mbeumo,Brentford
@@ -376,13 +343,10 @@ date,player_team,value,pk,rank,player,team
 2024-09-29,jarrodbowen_westham,1.0,0.0,23.0,Jarrod Bowen,West Ham
 2024-09-29,jorgenstrandlarsen_wolves,1.0,0.0,24.0,Jorgen Strand Larsen,Wolves
 2024-09-29,kaorumitoma_brighton,1.0,0.0,25.0,Kaoru Mitoma,Brighton
-2024-09-29,morganrogers_astonvilla,1.0,0.0,26.0,Morgan Rogers,Aston Villa
-2024-09-29,brunofernandes_manchesterutd,0.0,0.0,27.0,Bruno Fernandes,Manchester Utd
-2024-09-29,codygakpo_liverpool,0.0,0.0,28.0,Cody Gakpo,Liverpool
-2024-09-29,evanilson_bournemouth,0.0,0.0,29.0,Evanilson,Bournemouth
-2024-09-29,jacobmurphy_newcastleutd,0.0,0.0,30.0,Jacob Murphy,Newcastle Utd
-2024-09-29,justinkluivert_bournemouth,0.0,0.0,31.0,Justin Kluivert,Bournemouth
-2024-09-29,rodrigomuniz_fulham,0.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-09-29,codygakpo_liverpool,0.0,0.0,26.0,Cody Gakpo,Liverpool
+2024-09-29,evanilson_bournemouth,0.0,0.0,27.0,Evanilson,Bournemouth
+2024-09-29,justinkluivert_bournemouth,0.0,0.0,28.0,Justin Kluivert,Bournemouth
+2024-09-29,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-09-30,erlinghaaland_manchestercity,10.0,1.0,1.0,Erling Haaland,Manchester City
 2024-09-30,colepalmer_chelsea,6.0,1.0,2.0,Cole Palmer,Chelsea
 2024-09-30,bryanmbeumo_brentford,5.0,0.0,3.0,Bryan Mbeumo,Brentford
@@ -409,12 +373,9 @@ date,player_team,value,pk,rank,player,team
 2024-09-30,jarrodbowen_westham,1.0,0.0,24.0,Jarrod Bowen,West Ham
 2024-09-30,jorgenstrandlarsen_wolves,1.0,0.0,25.0,Jorgen Strand Larsen,Wolves
 2024-09-30,kaorumitoma_brighton,1.0,0.0,26.0,Kaoru Mitoma,Brighton
-2024-09-30,morganrogers_astonvilla,1.0,0.0,27.0,Morgan Rogers,Aston Villa
-2024-09-30,brunofernandes_manchesterutd,0.0,0.0,28.0,Bruno Fernandes,Manchester Utd
-2024-09-30,codygakpo_liverpool,0.0,0.0,29.0,Cody Gakpo,Liverpool
-2024-09-30,jacobmurphy_newcastleutd,0.0,0.0,30.0,Jacob Murphy,Newcastle Utd
-2024-09-30,justinkluivert_bournemouth,0.0,0.0,31.0,Justin Kluivert,Bournemouth
-2024-09-30,rodrigomuniz_fulham,0.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-09-30,codygakpo_liverpool,0.0,0.0,27.0,Cody Gakpo,Liverpool
+2024-09-30,justinkluivert_bournemouth,0.0,0.0,28.0,Justin Kluivert,Bournemouth
+2024-09-30,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-10-05,erlinghaaland_manchestercity,10.0,1.0,1.0,Erling Haaland,Manchester City
 2024-10-05,bryanmbeumo_brentford,6.0,1.0,2.0,Bryan Mbeumo,Brentford
 2024-10-05,colepalmer_chelsea,6.0,1.0,3.0,Cole Palmer,Chelsea
@@ -441,12 +402,9 @@ date,player_team,value,pk,rank,player,team
 2024-10-05,evanilson_bournemouth,1.0,0.0,24.0,Evanilson,Bournemouth
 2024-10-05,jamesmaddison_tottenham,1.0,0.0,25.0,James Maddison,Tottenham
 2024-10-05,kaorumitoma_brighton,1.0,0.0,26.0,Kaoru Mitoma,Brighton
-2024-10-05,morganrogers_astonvilla,1.0,0.0,27.0,Morgan Rogers,Aston Villa
-2024-10-05,rodrigomuniz_fulham,1.0,0.0,28.0,Rodrigo Muniz,Fulham
-2024-10-05,brunofernandes_manchesterutd,0.0,0.0,29.0,Bruno Fernandes,Manchester Utd
-2024-10-05,codygakpo_liverpool,0.0,0.0,30.0,Cody Gakpo,Liverpool
-2024-10-05,jacobmurphy_newcastleutd,0.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2024-10-05,justinkluivert_bournemouth,0.0,0.0,32.0,Justin Kluivert,Bournemouth
+2024-10-05,codygakpo_liverpool,0.0,0.0,27.0,Cody Gakpo,Liverpool
+2024-10-05,justinkluivert_bournemouth,0.0,0.0,28.0,Justin Kluivert,Bournemouth
+2024-10-05,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-10-06,erlinghaaland_manchestercity,10.0,1.0,1.0,Erling Haaland,Manchester City
 2024-10-06,bryanmbeumo_brentford,6.0,1.0,2.0,Bryan Mbeumo,Brentford
 2024-10-06,colepalmer_chelsea,6.0,1.0,3.0,Cole Palmer,Chelsea
@@ -473,12 +431,9 @@ date,player_team,value,pk,rank,player,team
 2024-10-06,alexiwobi_fulham,1.0,0.0,24.0,Alex Iwobi,Fulham
 2024-10-06,evanilson_bournemouth,1.0,0.0,25.0,Evanilson,Bournemouth
 2024-10-06,kaorumitoma_brighton,1.0,0.0,26.0,Kaoru Mitoma,Brighton
-2024-10-06,morganrogers_astonvilla,1.0,0.0,27.0,Morgan Rogers,Aston Villa
-2024-10-06,rodrigomuniz_fulham,1.0,0.0,28.0,Rodrigo Muniz,Fulham
-2024-10-06,brunofernandes_manchesterutd,0.0,0.0,29.0,Bruno Fernandes,Manchester Utd
-2024-10-06,codygakpo_liverpool,0.0,0.0,30.0,Cody Gakpo,Liverpool
-2024-10-06,jacobmurphy_newcastleutd,0.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2024-10-06,justinkluivert_bournemouth,0.0,0.0,32.0,Justin Kluivert,Bournemouth
+2024-10-06,codygakpo_liverpool,0.0,0.0,27.0,Cody Gakpo,Liverpool
+2024-10-06,justinkluivert_bournemouth,0.0,0.0,28.0,Justin Kluivert,Bournemouth
+2024-10-06,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-10-19,erlinghaaland_manchestercity,10.0,1.0,1.0,Erling Haaland,Manchester City
 2024-10-19,bryanmbeumo_brentford,6.0,1.0,2.0,Bryan Mbeumo,Brentford
 2024-10-19,colepalmer_chelsea,6.0,1.0,3.0,Cole Palmer,Chelsea
@@ -501,16 +456,13 @@ date,player_team,value,pk,rank,player,team
 2024-10-19,jeanphilippemateta_crystalpalace,2.0,1.0,20.0,Jean-Philippe Mateta,Crystal Palace
 2024-10-19,joaopedro_brighton,2.0,0.0,21.0,Joao Pedro,Brighton
 2024-10-19,jorgenstrandlarsen_wolves,2.0,0.0,22.0,Jorgen Strand Larsen,Wolves
-2024-10-19,morganrogers_astonvilla,2.0,0.0,23.0,Morgan Rogers,Aston Villa
-2024-10-19,alexanderisak_newcastleutd,1.0,0.0,24.0,Alexander Isak,Newcastle Utd
-2024-10-19,alexiwobi_fulham,1.0,0.0,25.0,Alex Iwobi,Fulham
-2024-10-19,evanilson_bournemouth,1.0,0.0,26.0,Evanilson,Bournemouth
-2024-10-19,justinkluivert_bournemouth,1.0,1.0,27.0,Justin Kluivert,Bournemouth
-2024-10-19,kaorumitoma_brighton,1.0,0.0,28.0,Kaoru Mitoma,Brighton
-2024-10-19,rodrigomuniz_fulham,1.0,0.0,29.0,Rodrigo Muniz,Fulham
-2024-10-19,brunofernandes_manchesterutd,0.0,0.0,30.0,Bruno Fernandes,Manchester Utd
-2024-10-19,codygakpo_liverpool,0.0,0.0,31.0,Cody Gakpo,Liverpool
-2024-10-19,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-10-19,alexanderisak_newcastleutd,1.0,0.0,23.0,Alexander Isak,Newcastle Utd
+2024-10-19,alexiwobi_fulham,1.0,0.0,24.0,Alex Iwobi,Fulham
+2024-10-19,evanilson_bournemouth,1.0,0.0,25.0,Evanilson,Bournemouth
+2024-10-19,justinkluivert_bournemouth,1.0,1.0,26.0,Justin Kluivert,Bournemouth
+2024-10-19,kaorumitoma_brighton,1.0,0.0,27.0,Kaoru Mitoma,Brighton
+2024-10-19,codygakpo_liverpool,0.0,0.0,28.0,Cody Gakpo,Liverpool
+2024-10-19,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-10-20,erlinghaaland_manchestercity,10.0,1.0,1.0,Erling Haaland,Manchester City
 2024-10-20,bryanmbeumo_brentford,6.0,1.0,2.0,Bryan Mbeumo,Brentford
 2024-10-20,colepalmer_chelsea,6.0,1.0,3.0,Cole Palmer,Chelsea
@@ -533,16 +485,13 @@ date,player_team,value,pk,rank,player,team
 2024-10-20,jarrodbowen_westham,2.0,0.0,20.0,Jarrod Bowen,West Ham
 2024-10-20,jeanphilippemateta_crystalpalace,2.0,1.0,21.0,Jean-Philippe Mateta,Crystal Palace
 2024-10-20,joaopedro_brighton,2.0,0.0,22.0,Joao Pedro,Brighton
-2024-10-20,morganrogers_astonvilla,2.0,0.0,23.0,Morgan Rogers,Aston Villa
-2024-10-20,alexanderisak_newcastleutd,1.0,0.0,24.0,Alexander Isak,Newcastle Utd
-2024-10-20,alexiwobi_fulham,1.0,0.0,25.0,Alex Iwobi,Fulham
-2024-10-20,evanilson_bournemouth,1.0,0.0,26.0,Evanilson,Bournemouth
-2024-10-20,justinkluivert_bournemouth,1.0,1.0,27.0,Justin Kluivert,Bournemouth
-2024-10-20,kaorumitoma_brighton,1.0,0.0,28.0,Kaoru Mitoma,Brighton
-2024-10-20,rodrigomuniz_fulham,1.0,0.0,29.0,Rodrigo Muniz,Fulham
-2024-10-20,brunofernandes_manchesterutd,0.0,0.0,30.0,Bruno Fernandes,Manchester Utd
-2024-10-20,codygakpo_liverpool,0.0,0.0,31.0,Cody Gakpo,Liverpool
-2024-10-20,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-10-20,alexanderisak_newcastleutd,1.0,0.0,23.0,Alexander Isak,Newcastle Utd
+2024-10-20,alexiwobi_fulham,1.0,0.0,24.0,Alex Iwobi,Fulham
+2024-10-20,evanilson_bournemouth,1.0,0.0,25.0,Evanilson,Bournemouth
+2024-10-20,justinkluivert_bournemouth,1.0,1.0,26.0,Justin Kluivert,Bournemouth
+2024-10-20,kaorumitoma_brighton,1.0,0.0,27.0,Kaoru Mitoma,Brighton
+2024-10-20,codygakpo_liverpool,0.0,0.0,28.0,Cody Gakpo,Liverpool
+2024-10-20,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-10-21,erlinghaaland_manchestercity,10.0,1.0,1.0,Erling Haaland,Manchester City
 2024-10-21,bryanmbeumo_brentford,6.0,1.0,2.0,Bryan Mbeumo,Brentford
 2024-10-21,colepalmer_chelsea,6.0,1.0,3.0,Cole Palmer,Chelsea
@@ -565,16 +514,13 @@ date,player_team,value,pk,rank,player,team
 2024-10-21,jarrodbowen_westham,2.0,0.0,20.0,Jarrod Bowen,West Ham
 2024-10-21,jeanphilippemateta_crystalpalace,2.0,1.0,21.0,Jean-Philippe Mateta,Crystal Palace
 2024-10-21,joaopedro_brighton,2.0,0.0,22.0,Joao Pedro,Brighton
-2024-10-21,morganrogers_astonvilla,2.0,0.0,23.0,Morgan Rogers,Aston Villa
-2024-10-21,alexanderisak_newcastleutd,1.0,0.0,24.0,Alexander Isak,Newcastle Utd
-2024-10-21,alexiwobi_fulham,1.0,0.0,25.0,Alex Iwobi,Fulham
-2024-10-21,evanilson_bournemouth,1.0,0.0,26.0,Evanilson,Bournemouth
-2024-10-21,justinkluivert_bournemouth,1.0,1.0,27.0,Justin Kluivert,Bournemouth
-2024-10-21,kaorumitoma_brighton,1.0,0.0,28.0,Kaoru Mitoma,Brighton
-2024-10-21,rodrigomuniz_fulham,1.0,0.0,29.0,Rodrigo Muniz,Fulham
-2024-10-21,brunofernandes_manchesterutd,0.0,0.0,30.0,Bruno Fernandes,Manchester Utd
-2024-10-21,codygakpo_liverpool,0.0,0.0,31.0,Cody Gakpo,Liverpool
-2024-10-21,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-10-21,alexanderisak_newcastleutd,1.0,0.0,23.0,Alexander Isak,Newcastle Utd
+2024-10-21,alexiwobi_fulham,1.0,0.0,24.0,Alex Iwobi,Fulham
+2024-10-21,evanilson_bournemouth,1.0,0.0,25.0,Evanilson,Bournemouth
+2024-10-21,justinkluivert_bournemouth,1.0,1.0,26.0,Justin Kluivert,Bournemouth
+2024-10-21,kaorumitoma_brighton,1.0,0.0,27.0,Kaoru Mitoma,Brighton
+2024-10-21,codygakpo_liverpool,0.0,0.0,28.0,Cody Gakpo,Liverpool
+2024-10-21,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-10-25,erlinghaaland_manchestercity,10.0,1.0,1.0,Erling Haaland,Manchester City
 2024-10-25,chriswood_notthamforest,7.0,1.0,2.0,Chris Wood,Nott'ham Forest
 2024-10-25,bryanmbeumo_brentford,6.0,1.0,3.0,Bryan Mbeumo,Brentford
@@ -597,16 +543,13 @@ date,player_team,value,pk,rank,player,team
 2024-10-25,jarrodbowen_westham,2.0,0.0,20.0,Jarrod Bowen,West Ham
 2024-10-25,jeanphilippemateta_crystalpalace,2.0,1.0,21.0,Jean-Philippe Mateta,Crystal Palace
 2024-10-25,joaopedro_brighton,2.0,0.0,22.0,Joao Pedro,Brighton
-2024-10-25,morganrogers_astonvilla,2.0,0.0,23.0,Morgan Rogers,Aston Villa
-2024-10-25,alexanderisak_newcastleutd,1.0,0.0,24.0,Alexander Isak,Newcastle Utd
-2024-10-25,alexiwobi_fulham,1.0,0.0,25.0,Alex Iwobi,Fulham
-2024-10-25,evanilson_bournemouth,1.0,0.0,26.0,Evanilson,Bournemouth
-2024-10-25,justinkluivert_bournemouth,1.0,1.0,27.0,Justin Kluivert,Bournemouth
-2024-10-25,kaorumitoma_brighton,1.0,0.0,28.0,Kaoru Mitoma,Brighton
-2024-10-25,rodrigomuniz_fulham,1.0,0.0,29.0,Rodrigo Muniz,Fulham
-2024-10-25,brunofernandes_manchesterutd,0.0,0.0,30.0,Bruno Fernandes,Manchester Utd
-2024-10-25,codygakpo_liverpool,0.0,0.0,31.0,Cody Gakpo,Liverpool
-2024-10-25,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-10-25,alexanderisak_newcastleutd,1.0,0.0,23.0,Alexander Isak,Newcastle Utd
+2024-10-25,alexiwobi_fulham,1.0,0.0,24.0,Alex Iwobi,Fulham
+2024-10-25,evanilson_bournemouth,1.0,0.0,25.0,Evanilson,Bournemouth
+2024-10-25,justinkluivert_bournemouth,1.0,1.0,26.0,Justin Kluivert,Bournemouth
+2024-10-25,kaorumitoma_brighton,1.0,0.0,27.0,Kaoru Mitoma,Brighton
+2024-10-25,codygakpo_liverpool,0.0,0.0,28.0,Cody Gakpo,Liverpool
+2024-10-25,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-10-26,erlinghaaland_manchestercity,11.0,1.0,1.0,Erling Haaland,Manchester City
 2024-10-26,bryanmbeumo_brentford,8.0,2.0,2.0,Bryan Mbeumo,Brentford
 2024-10-26,chriswood_notthamforest,7.0,1.0,3.0,Chris Wood,Nott'ham Forest
@@ -631,14 +574,11 @@ date,player_team,value,pk,rank,player,team
 2024-10-26,jarrodbowen_westham,2.0,0.0,22.0,Jarrod Bowen,West Ham
 2024-10-26,jeanphilippemateta_crystalpalace,2.0,1.0,23.0,Jean-Philippe Mateta,Crystal Palace
 2024-10-26,joaopedro_brighton,2.0,0.0,24.0,Joao Pedro,Brighton
-2024-10-26,morganrogers_astonvilla,2.0,0.0,25.0,Morgan Rogers,Aston Villa
-2024-10-26,alexanderisak_newcastleutd,1.0,0.0,26.0,Alexander Isak,Newcastle Utd
-2024-10-26,justinkluivert_bournemouth,1.0,1.0,27.0,Justin Kluivert,Bournemouth
-2024-10-26,kaorumitoma_brighton,1.0,0.0,28.0,Kaoru Mitoma,Brighton
-2024-10-26,rodrigomuniz_fulham,1.0,0.0,29.0,Rodrigo Muniz,Fulham
-2024-10-26,brunofernandes_manchesterutd,0.0,0.0,30.0,Bruno Fernandes,Manchester Utd
-2024-10-26,codygakpo_liverpool,0.0,0.0,31.0,Cody Gakpo,Liverpool
-2024-10-26,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-10-26,alexanderisak_newcastleutd,1.0,0.0,25.0,Alexander Isak,Newcastle Utd
+2024-10-26,justinkluivert_bournemouth,1.0,1.0,26.0,Justin Kluivert,Bournemouth
+2024-10-26,kaorumitoma_brighton,1.0,0.0,27.0,Kaoru Mitoma,Brighton
+2024-10-26,codygakpo_liverpool,0.0,0.0,28.0,Cody Gakpo,Liverpool
+2024-10-26,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-10-27,erlinghaaland_manchestercity,11.0,1.0,1.0,Erling Haaland,Manchester City
 2024-10-27,bryanmbeumo_brentford,8.0,2.0,2.0,Bryan Mbeumo,Brentford
 2024-10-27,chriswood_notthamforest,7.0,1.0,3.0,Chris Wood,Nott'ham Forest
@@ -664,13 +604,10 @@ date,player_team,value,pk,rank,player,team
 2024-10-27,evanilson_bournemouth,2.0,0.0,23.0,Evanilson,Bournemouth
 2024-10-27,jamesmaddison_tottenham,2.0,0.0,24.0,James Maddison,Tottenham
 2024-10-27,joaopedro_brighton,2.0,0.0,25.0,Joao Pedro,Brighton
-2024-10-27,morganrogers_astonvilla,2.0,0.0,26.0,Morgan Rogers,Aston Villa
-2024-10-27,justinkluivert_bournemouth,1.0,1.0,27.0,Justin Kluivert,Bournemouth
-2024-10-27,kaorumitoma_brighton,1.0,0.0,28.0,Kaoru Mitoma,Brighton
-2024-10-27,rodrigomuniz_fulham,1.0,0.0,29.0,Rodrigo Muniz,Fulham
-2024-10-27,brunofernandes_manchesterutd,0.0,0.0,30.0,Bruno Fernandes,Manchester Utd
-2024-10-27,codygakpo_liverpool,0.0,0.0,31.0,Cody Gakpo,Liverpool
-2024-10-27,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-10-27,justinkluivert_bournemouth,1.0,1.0,26.0,Justin Kluivert,Bournemouth
+2024-10-27,kaorumitoma_brighton,1.0,0.0,27.0,Kaoru Mitoma,Brighton
+2024-10-27,codygakpo_liverpool,0.0,0.0,28.0,Cody Gakpo,Liverpool
+2024-10-27,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-11-02,erlinghaaland_manchestercity,11.0,1.0,1.0,Erling Haaland,Manchester City
 2024-11-02,bryanmbeumo_brentford,8.0,2.0,2.0,Bryan Mbeumo,Brentford
 2024-11-02,chriswood_notthamforest,8.0,1.0,3.0,Chris Wood,Nott'ham Forest
@@ -696,13 +633,10 @@ date,player_team,value,pk,rank,player,team
 2024-11-02,alexiwobi_fulham,2.0,0.0,23.0,Alex Iwobi,Fulham
 2024-11-02,jamesmaddison_tottenham,2.0,0.0,24.0,James Maddison,Tottenham
 2024-11-02,joaopedro_brighton,2.0,0.0,25.0,Joao Pedro,Brighton
-2024-11-02,morganrogers_astonvilla,2.0,0.0,26.0,Morgan Rogers,Aston Villa
-2024-11-02,codygakpo_liverpool,1.0,0.0,27.0,Cody Gakpo,Liverpool
-2024-11-02,justinkluivert_bournemouth,1.0,1.0,28.0,Justin Kluivert,Bournemouth
-2024-11-02,kaorumitoma_brighton,1.0,0.0,29.0,Kaoru Mitoma,Brighton
-2024-11-02,rodrigomuniz_fulham,1.0,0.0,30.0,Rodrigo Muniz,Fulham
-2024-11-02,brunofernandes_manchesterutd,0.0,0.0,31.0,Bruno Fernandes,Manchester Utd
-2024-11-02,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-11-02,codygakpo_liverpool,1.0,0.0,26.0,Cody Gakpo,Liverpool
+2024-11-02,justinkluivert_bournemouth,1.0,1.0,27.0,Justin Kluivert,Bournemouth
+2024-11-02,kaorumitoma_brighton,1.0,0.0,28.0,Kaoru Mitoma,Brighton
+2024-11-02,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-11-03,erlinghaaland_manchestercity,11.0,1.0,1.0,Erling Haaland,Manchester City
 2024-11-03,bryanmbeumo_brentford,8.0,2.0,2.0,Bryan Mbeumo,Brentford
 2024-11-03,chriswood_notthamforest,8.0,1.0,3.0,Chris Wood,Nott'ham Forest
@@ -726,15 +660,12 @@ date,player_team,value,pk,rank,player,team
 2024-11-03,jamesmaddison_tottenham,3.0,0.0,21.0,James Maddison,Tottenham
 2024-11-03,jarrodbowen_westham,3.0,1.0,22.0,Jarrod Bowen,West Ham
 2024-11-03,jeanphilippemateta_crystalpalace,3.0,1.0,23.0,Jean-Philippe Mateta,Crystal Palace
-2024-11-03,morganrogers_astonvilla,3.0,0.0,24.0,Morgan Rogers,Aston Villa
-2024-11-03,alexiwobi_fulham,2.0,0.0,25.0,Alex Iwobi,Fulham
-2024-11-03,joaopedro_brighton,2.0,0.0,26.0,Joao Pedro,Brighton
-2024-11-03,brunofernandes_manchesterutd,1.0,1.0,27.0,Bruno Fernandes,Manchester Utd
-2024-11-03,codygakpo_liverpool,1.0,0.0,28.0,Cody Gakpo,Liverpool
-2024-11-03,justinkluivert_bournemouth,1.0,1.0,29.0,Justin Kluivert,Bournemouth
-2024-11-03,kaorumitoma_brighton,1.0,0.0,30.0,Kaoru Mitoma,Brighton
-2024-11-03,rodrigomuniz_fulham,1.0,0.0,31.0,Rodrigo Muniz,Fulham
-2024-11-03,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-11-03,alexiwobi_fulham,2.0,0.0,24.0,Alex Iwobi,Fulham
+2024-11-03,joaopedro_brighton,2.0,0.0,25.0,Joao Pedro,Brighton
+2024-11-03,codygakpo_liverpool,1.0,0.0,26.0,Cody Gakpo,Liverpool
+2024-11-03,justinkluivert_bournemouth,1.0,1.0,27.0,Justin Kluivert,Bournemouth
+2024-11-03,kaorumitoma_brighton,1.0,0.0,28.0,Kaoru Mitoma,Brighton
+2024-11-03,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-11-09,erlinghaaland_manchestercity,12.0,1.0,1.0,Erling Haaland,Manchester City
 2024-11-09,bryanmbeumo_brentford,8.0,2.0,2.0,Bryan Mbeumo,Brentford
 2024-11-09,chriswood_notthamforest,8.0,1.0,3.0,Chris Wood,Nott'ham Forest
@@ -759,14 +690,11 @@ date,player_team,value,pk,rank,player,team
 2024-11-09,jarrodbowen_westham,3.0,1.0,22.0,Jarrod Bowen,West Ham
 2024-11-09,jeanphilippemateta_crystalpalace,3.0,1.0,23.0,Jean-Philippe Mateta,Crystal Palace
 2024-11-09,joaopedro_brighton,3.0,0.0,24.0,Joao Pedro,Brighton
-2024-11-09,morganrogers_astonvilla,3.0,0.0,25.0,Morgan Rogers,Aston Villa
-2024-11-09,alexiwobi_fulham,2.0,0.0,26.0,Alex Iwobi,Fulham
-2024-11-09,justinkluivert_bournemouth,2.0,1.0,27.0,Justin Kluivert,Bournemouth
-2024-11-09,brunofernandes_manchesterutd,1.0,1.0,28.0,Bruno Fernandes,Manchester Utd
-2024-11-09,codygakpo_liverpool,1.0,0.0,29.0,Cody Gakpo,Liverpool
-2024-11-09,kaorumitoma_brighton,1.0,0.0,30.0,Kaoru Mitoma,Brighton
-2024-11-09,rodrigomuniz_fulham,1.0,0.0,31.0,Rodrigo Muniz,Fulham
-2024-11-09,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-11-09,alexiwobi_fulham,2.0,0.0,25.0,Alex Iwobi,Fulham
+2024-11-09,justinkluivert_bournemouth,2.0,1.0,26.0,Justin Kluivert,Bournemouth
+2024-11-09,codygakpo_liverpool,1.0,0.0,27.0,Cody Gakpo,Liverpool
+2024-11-09,kaorumitoma_brighton,1.0,0.0,28.0,Kaoru Mitoma,Brighton
+2024-11-09,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-11-10,erlinghaaland_manchestercity,12.0,1.0,1.0,Erling Haaland,Manchester City
 2024-11-10,bryanmbeumo_brentford,8.0,2.0,2.0,Bryan Mbeumo,Brentford
 2024-11-10,chriswood_notthamforest,8.0,1.0,3.0,Chris Wood,Nott'ham Forest
@@ -791,14 +719,11 @@ date,player_team,value,pk,rank,player,team
 2024-11-10,jarrodbowen_westham,3.0,1.0,22.0,Jarrod Bowen,West Ham
 2024-11-10,jeanphilippemateta_crystalpalace,3.0,1.0,23.0,Jean-Philippe Mateta,Crystal Palace
 2024-11-10,joaopedro_brighton,3.0,0.0,24.0,Joao Pedro,Brighton
-2024-11-10,morganrogers_astonvilla,3.0,0.0,25.0,Morgan Rogers,Aston Villa
-2024-11-10,alexiwobi_fulham,2.0,0.0,26.0,Alex Iwobi,Fulham
-2024-11-10,brunofernandes_manchesterutd,2.0,1.0,27.0,Bruno Fernandes,Manchester Utd
-2024-11-10,justinkluivert_bournemouth,2.0,1.0,28.0,Justin Kluivert,Bournemouth
-2024-11-10,codygakpo_liverpool,1.0,0.0,29.0,Cody Gakpo,Liverpool
-2024-11-10,kaorumitoma_brighton,1.0,0.0,30.0,Kaoru Mitoma,Brighton
-2024-11-10,rodrigomuniz_fulham,1.0,0.0,31.0,Rodrigo Muniz,Fulham
-2024-11-10,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-11-10,alexiwobi_fulham,2.0,0.0,25.0,Alex Iwobi,Fulham
+2024-11-10,justinkluivert_bournemouth,2.0,1.0,26.0,Justin Kluivert,Bournemouth
+2024-11-10,codygakpo_liverpool,1.0,0.0,27.0,Cody Gakpo,Liverpool
+2024-11-10,kaorumitoma_brighton,1.0,0.0,28.0,Kaoru Mitoma,Brighton
+2024-11-10,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-11-23,erlinghaaland_manchestercity,12.0,1.0,1.0,Erling Haaland,Manchester City
 2024-11-23,bryanmbeumo_brentford,8.0,2.0,2.0,Bryan Mbeumo,Brentford
 2024-11-23,chriswood_notthamforest,8.0,1.0,3.0,Chris Wood,Nott'ham Forest
@@ -824,13 +749,10 @@ date,player_team,value,pk,rank,player,team
 2024-11-23,alexiwobi_fulham,3.0,0.0,23.0,Alex Iwobi,Fulham
 2024-11-23,jarrodbowen_westham,3.0,1.0,24.0,Jarrod Bowen,West Ham
 2024-11-23,jeanphilippemateta_crystalpalace,3.0,1.0,25.0,Jean-Philippe Mateta,Crystal Palace
-2024-11-23,morganrogers_astonvilla,3.0,0.0,26.0,Morgan Rogers,Aston Villa
-2024-11-23,brunofernandes_manchesterutd,2.0,1.0,27.0,Bruno Fernandes,Manchester Utd
-2024-11-23,justinkluivert_bournemouth,2.0,1.0,28.0,Justin Kluivert,Bournemouth
-2024-11-23,kaorumitoma_brighton,2.0,0.0,29.0,Kaoru Mitoma,Brighton
-2024-11-23,codygakpo_liverpool,1.0,0.0,30.0,Cody Gakpo,Liverpool
-2024-11-23,rodrigomuniz_fulham,1.0,0.0,31.0,Rodrigo Muniz,Fulham
-2024-11-23,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-11-23,justinkluivert_bournemouth,2.0,1.0,26.0,Justin Kluivert,Bournemouth
+2024-11-23,kaorumitoma_brighton,2.0,0.0,27.0,Kaoru Mitoma,Brighton
+2024-11-23,codygakpo_liverpool,1.0,0.0,28.0,Cody Gakpo,Liverpool
+2024-11-23,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-11-24,erlinghaaland_manchestercity,12.0,1.0,1.0,Erling Haaland,Manchester City
 2024-11-24,mohamedsalah_liverpool,10.0,3.0,2.0,Mohamed Salah,Liverpool
 2024-11-24,bryanmbeumo_brentford,8.0,2.0,3.0,Bryan Mbeumo,Brentford
@@ -856,13 +778,10 @@ date,player_team,value,pk,rank,player,team
 2024-11-24,alexiwobi_fulham,3.0,0.0,23.0,Alex Iwobi,Fulham
 2024-11-24,jarrodbowen_westham,3.0,1.0,24.0,Jarrod Bowen,West Ham
 2024-11-24,jeanphilippemateta_crystalpalace,3.0,1.0,25.0,Jean-Philippe Mateta,Crystal Palace
-2024-11-24,morganrogers_astonvilla,3.0,0.0,26.0,Morgan Rogers,Aston Villa
-2024-11-24,brunofernandes_manchesterutd,2.0,1.0,27.0,Bruno Fernandes,Manchester Utd
-2024-11-24,justinkluivert_bournemouth,2.0,1.0,28.0,Justin Kluivert,Bournemouth
-2024-11-24,kaorumitoma_brighton,2.0,0.0,29.0,Kaoru Mitoma,Brighton
-2024-11-24,codygakpo_liverpool,1.0,0.0,30.0,Cody Gakpo,Liverpool
-2024-11-24,rodrigomuniz_fulham,1.0,0.0,31.0,Rodrigo Muniz,Fulham
-2024-11-24,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-11-24,justinkluivert_bournemouth,2.0,1.0,26.0,Justin Kluivert,Bournemouth
+2024-11-24,kaorumitoma_brighton,2.0,0.0,27.0,Kaoru Mitoma,Brighton
+2024-11-24,codygakpo_liverpool,1.0,0.0,28.0,Cody Gakpo,Liverpool
+2024-11-24,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-11-29,erlinghaaland_manchestercity,12.0,1.0,1.0,Erling Haaland,Manchester City
 2024-11-29,mohamedsalah_liverpool,10.0,3.0,2.0,Mohamed Salah,Liverpool
 2024-11-29,bryanmbeumo_brentford,8.0,2.0,3.0,Bryan Mbeumo,Brentford
@@ -889,12 +808,9 @@ date,player_team,value,pk,rank,player,team
 2024-11-29,jarrodbowen_westham,3.0,1.0,24.0,Jarrod Bowen,West Ham
 2024-11-29,jeanphilippemateta_crystalpalace,3.0,1.0,25.0,Jean-Philippe Mateta,Crystal Palace
 2024-11-29,kaorumitoma_brighton,3.0,0.0,26.0,Kaoru Mitoma,Brighton
-2024-11-29,morganrogers_astonvilla,3.0,0.0,27.0,Morgan Rogers,Aston Villa
-2024-11-29,brunofernandes_manchesterutd,2.0,1.0,28.0,Bruno Fernandes,Manchester Utd
-2024-11-29,justinkluivert_bournemouth,2.0,1.0,29.0,Justin Kluivert,Bournemouth
-2024-11-29,codygakpo_liverpool,1.0,0.0,30.0,Cody Gakpo,Liverpool
-2024-11-29,rodrigomuniz_fulham,1.0,0.0,31.0,Rodrigo Muniz,Fulham
-2024-11-29,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-11-29,justinkluivert_bournemouth,2.0,1.0,27.0,Justin Kluivert,Bournemouth
+2024-11-29,codygakpo_liverpool,1.0,0.0,28.0,Cody Gakpo,Liverpool
+2024-11-29,kevinschade_brentford,0.0,0.0,29.0,Kevin Schade,Brentford
 2024-11-30,erlinghaaland_manchestercity,12.0,1.0,1.0,Erling Haaland,Manchester City
 2024-11-30,mohamedsalah_liverpool,10.0,3.0,2.0,Mohamed Salah,Liverpool
 2024-11-30,chriswood_notthamforest,9.0,2.0,3.0,Chris Wood,Nott'ham Forest
@@ -922,11 +838,8 @@ date,player_team,value,pk,rank,player,team
 2024-11-30,jarrodbowen_westham,3.0,1.0,25.0,Jarrod Bowen,West Ham
 2024-11-30,jeanphilippemateta_crystalpalace,3.0,1.0,26.0,Jean-Philippe Mateta,Crystal Palace
 2024-11-30,kaorumitoma_brighton,3.0,0.0,27.0,Kaoru Mitoma,Brighton
-2024-11-30,morganrogers_astonvilla,3.0,0.0,28.0,Morgan Rogers,Aston Villa
-2024-11-30,brunofernandes_manchesterutd,2.0,1.0,29.0,Bruno Fernandes,Manchester Utd
-2024-11-30,codygakpo_liverpool,1.0,0.0,30.0,Cody Gakpo,Liverpool
-2024-11-30,rodrigomuniz_fulham,1.0,0.0,31.0,Rodrigo Muniz,Fulham
-2024-11-30,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-11-30,kevinschade_brentford,3.0,0.0,28.0,Kevin Schade,Brentford
+2024-11-30,codygakpo_liverpool,1.0,0.0,29.0,Cody Gakpo,Liverpool
 2024-12-01,erlinghaaland_manchestercity,12.0,1.0,1.0,Erling Haaland,Manchester City
 2024-12-01,mohamedsalah_liverpool,11.0,4.0,2.0,Mohamed Salah,Liverpool
 2024-12-01,chriswood_notthamforest,9.0,2.0,3.0,Chris Wood,Nott'ham Forest
@@ -954,11 +867,8 @@ date,player_team,value,pk,rank,player,team
 2024-12-01,jarrodbowen_westham,3.0,1.0,25.0,Jarrod Bowen,West Ham
 2024-12-01,jeanphilippemateta_crystalpalace,3.0,1.0,26.0,Jean-Philippe Mateta,Crystal Palace
 2024-12-01,kaorumitoma_brighton,3.0,0.0,27.0,Kaoru Mitoma,Brighton
-2024-12-01,morganrogers_astonvilla,3.0,0.0,28.0,Morgan Rogers,Aston Villa
-2024-12-01,brunofernandes_manchesterutd,2.0,1.0,29.0,Bruno Fernandes,Manchester Utd
-2024-12-01,codygakpo_liverpool,2.0,0.0,30.0,Cody Gakpo,Liverpool
-2024-12-01,rodrigomuniz_fulham,1.0,0.0,31.0,Rodrigo Muniz,Fulham
-2024-12-01,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-12-01,kevinschade_brentford,3.0,0.0,28.0,Kevin Schade,Brentford
+2024-12-01,codygakpo_liverpool,2.0,0.0,29.0,Cody Gakpo,Liverpool
 2024-12-03,erlinghaaland_manchestercity,12.0,1.0,1.0,Erling Haaland,Manchester City
 2024-12-03,mohamedsalah_liverpool,11.0,4.0,2.0,Mohamed Salah,Liverpool
 2024-12-03,chriswood_notthamforest,9.0,2.0,3.0,Chris Wood,Nott'ham Forest
@@ -986,11 +896,8 @@ date,player_team,value,pk,rank,player,team
 2024-12-03,alexiwobi_fulham,3.0,0.0,25.0,Alex Iwobi,Fulham
 2024-12-03,jarrodbowen_westham,3.0,1.0,26.0,Jarrod Bowen,West Ham
 2024-12-03,kaorumitoma_brighton,3.0,0.0,27.0,Kaoru Mitoma,Brighton
-2024-12-03,morganrogers_astonvilla,3.0,0.0,28.0,Morgan Rogers,Aston Villa
-2024-12-03,brunofernandes_manchesterutd,2.0,1.0,29.0,Bruno Fernandes,Manchester Utd
-2024-12-03,codygakpo_liverpool,2.0,0.0,30.0,Cody Gakpo,Liverpool
-2024-12-03,rodrigomuniz_fulham,1.0,0.0,31.0,Rodrigo Muniz,Fulham
-2024-12-03,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-12-03,kevinschade_brentford,3.0,0.0,28.0,Kevin Schade,Brentford
+2024-12-03,codygakpo_liverpool,2.0,0.0,29.0,Cody Gakpo,Liverpool
 2024-12-04,mohamedsalah_liverpool,13.0,4.0,1.0,Mohamed Salah,Liverpool
 2024-12-04,erlinghaaland_manchestercity,12.0,1.0,2.0,Erling Haaland,Manchester City
 2024-12-04,chriswood_notthamforest,9.0,2.0,3.0,Chris Wood,Nott'ham Forest
@@ -1014,15 +921,12 @@ date,player_team,value,pk,rank,player,team
 2024-12-04,harveybarnes_newcastleutd,4.0,0.0,21.0,Harvey Barnes,Newcastle Utd
 2024-12-04,jeanphilippemateta_crystalpalace,4.0,1.0,22.0,Jean-Philippe Mateta,Crystal Palace
 2024-12-04,joaopedro_brighton,4.0,0.0,23.0,Joao Pedro,Brighton
-2024-12-04,morganrogers_astonvilla,4.0,0.0,24.0,Morgan Rogers,Aston Villa
-2024-12-04,rauljimenez_fulham,4.0,1.0,25.0,Raul Jimenez,Fulham
-2024-12-04,alexiwobi_fulham,3.0,0.0,26.0,Alex Iwobi,Fulham
-2024-12-04,jarrodbowen_westham,3.0,1.0,27.0,Jarrod Bowen,West Ham
-2024-12-04,kaorumitoma_brighton,3.0,0.0,28.0,Kaoru Mitoma,Brighton
-2024-12-04,brunofernandes_manchesterutd,2.0,1.0,29.0,Bruno Fernandes,Manchester Utd
-2024-12-04,codygakpo_liverpool,2.0,0.0,30.0,Cody Gakpo,Liverpool
-2024-12-04,rodrigomuniz_fulham,1.0,0.0,31.0,Rodrigo Muniz,Fulham
-2024-12-04,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-12-04,rauljimenez_fulham,4.0,1.0,24.0,Raul Jimenez,Fulham
+2024-12-04,alexiwobi_fulham,3.0,0.0,25.0,Alex Iwobi,Fulham
+2024-12-04,jarrodbowen_westham,3.0,1.0,26.0,Jarrod Bowen,West Ham
+2024-12-04,kaorumitoma_brighton,3.0,0.0,27.0,Kaoru Mitoma,Brighton
+2024-12-04,kevinschade_brentford,3.0,0.0,28.0,Kevin Schade,Brentford
+2024-12-04,codygakpo_liverpool,2.0,0.0,29.0,Cody Gakpo,Liverpool
 2024-12-05,mohamedsalah_liverpool,13.0,4.0,1.0,Mohamed Salah,Liverpool
 2024-12-05,erlinghaaland_manchestercity,12.0,1.0,2.0,Erling Haaland,Manchester City
 2024-12-05,chriswood_notthamforest,9.0,2.0,3.0,Chris Wood,Nott'ham Forest
@@ -1047,14 +951,11 @@ date,player_team,value,pk,rank,player,team
 2024-12-05,harveybarnes_newcastleutd,4.0,0.0,22.0,Harvey Barnes,Newcastle Utd
 2024-12-05,jeanphilippemateta_crystalpalace,4.0,1.0,23.0,Jean-Philippe Mateta,Crystal Palace
 2024-12-05,joaopedro_brighton,4.0,0.0,24.0,Joao Pedro,Brighton
-2024-12-05,morganrogers_astonvilla,4.0,0.0,25.0,Morgan Rogers,Aston Villa
-2024-12-05,rauljimenez_fulham,4.0,1.0,26.0,Raul Jimenez,Fulham
-2024-12-05,jarrodbowen_westham,3.0,1.0,27.0,Jarrod Bowen,West Ham
-2024-12-05,kaorumitoma_brighton,3.0,0.0,28.0,Kaoru Mitoma,Brighton
-2024-12-05,brunofernandes_manchesterutd,2.0,1.0,29.0,Bruno Fernandes,Manchester Utd
-2024-12-05,codygakpo_liverpool,2.0,0.0,30.0,Cody Gakpo,Liverpool
-2024-12-05,rodrigomuniz_fulham,1.0,0.0,31.0,Rodrigo Muniz,Fulham
-2024-12-05,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-12-05,rauljimenez_fulham,4.0,1.0,25.0,Raul Jimenez,Fulham
+2024-12-05,jarrodbowen_westham,3.0,1.0,26.0,Jarrod Bowen,West Ham
+2024-12-05,kaorumitoma_brighton,3.0,0.0,27.0,Kaoru Mitoma,Brighton
+2024-12-05,kevinschade_brentford,3.0,0.0,28.0,Kevin Schade,Brentford
+2024-12-05,codygakpo_liverpool,2.0,0.0,29.0,Cody Gakpo,Liverpool
 2024-12-07,erlinghaaland_manchestercity,13.0,1.0,1.0,Erling Haaland,Manchester City
 2024-12-07,mohamedsalah_liverpool,13.0,4.0,2.0,Mohamed Salah,Liverpool
 2024-12-07,chriswood_notthamforest,10.0,2.0,3.0,Chris Wood,Nott'ham Forest
@@ -1079,14 +980,11 @@ date,player_team,value,pk,rank,player,team
 2024-12-07,evanilson_bournemouth,4.0,0.0,22.0,Evanilson,Bournemouth
 2024-12-07,jeanphilippemateta_crystalpalace,4.0,1.0,23.0,Jean-Philippe Mateta,Crystal Palace
 2024-12-07,joaopedro_brighton,4.0,0.0,24.0,Joao Pedro,Brighton
-2024-12-07,morganrogers_astonvilla,4.0,0.0,25.0,Morgan Rogers,Aston Villa
+2024-12-07,kevinschade_brentford,4.0,0.0,25.0,Kevin Schade,Brentford
 2024-12-07,rauljimenez_fulham,4.0,1.0,26.0,Raul Jimenez,Fulham
-2024-12-07,brunofernandes_manchesterutd,3.0,1.0,27.0,Bruno Fernandes,Manchester Utd
-2024-12-07,jarrodbowen_westham,3.0,1.0,28.0,Jarrod Bowen,West Ham
-2024-12-07,kaorumitoma_brighton,3.0,0.0,29.0,Kaoru Mitoma,Brighton
-2024-12-07,codygakpo_liverpool,2.0,0.0,30.0,Cody Gakpo,Liverpool
-2024-12-07,rodrigomuniz_fulham,1.0,0.0,31.0,Rodrigo Muniz,Fulham
-2024-12-07,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-12-07,jarrodbowen_westham,3.0,1.0,27.0,Jarrod Bowen,West Ham
+2024-12-07,kaorumitoma_brighton,3.0,0.0,28.0,Kaoru Mitoma,Brighton
+2024-12-07,codygakpo_liverpool,2.0,0.0,29.0,Cody Gakpo,Liverpool
 2024-12-08,erlinghaaland_manchestercity,13.0,1.0,1.0,Erling Haaland,Manchester City
 2024-12-08,mohamedsalah_liverpool,13.0,4.0,2.0,Mohamed Salah,Liverpool
 2024-12-08,colepalmer_chelsea,11.0,3.0,3.0,Cole Palmer,Chelsea
@@ -1112,13 +1010,10 @@ date,player_team,value,pk,rank,player,team
 2024-12-08,evanilson_bournemouth,4.0,0.0,23.0,Evanilson,Bournemouth
 2024-12-08,jeanphilippemateta_crystalpalace,4.0,1.0,24.0,Jean-Philippe Mateta,Crystal Palace
 2024-12-08,joaopedro_brighton,4.0,0.0,25.0,Joao Pedro,Brighton
-2024-12-08,morganrogers_astonvilla,4.0,0.0,26.0,Morgan Rogers,Aston Villa
-2024-12-08,brunofernandes_manchesterutd,3.0,1.0,27.0,Bruno Fernandes,Manchester Utd
-2024-12-08,jarrodbowen_westham,3.0,1.0,28.0,Jarrod Bowen,West Ham
-2024-12-08,kaorumitoma_brighton,3.0,0.0,29.0,Kaoru Mitoma,Brighton
-2024-12-08,codygakpo_liverpool,2.0,0.0,30.0,Cody Gakpo,Liverpool
-2024-12-08,rodrigomuniz_fulham,1.0,0.0,31.0,Rodrigo Muniz,Fulham
-2024-12-08,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-12-08,kevinschade_brentford,4.0,0.0,26.0,Kevin Schade,Brentford
+2024-12-08,jarrodbowen_westham,3.0,1.0,27.0,Jarrod Bowen,West Ham
+2024-12-08,kaorumitoma_brighton,3.0,0.0,28.0,Kaoru Mitoma,Brighton
+2024-12-08,codygakpo_liverpool,2.0,0.0,29.0,Cody Gakpo,Liverpool
 2024-12-09,erlinghaaland_manchestercity,13.0,1.0,1.0,Erling Haaland,Manchester City
 2024-12-09,mohamedsalah_liverpool,13.0,4.0,2.0,Mohamed Salah,Liverpool
 2024-12-09,colepalmer_chelsea,11.0,3.0,3.0,Cole Palmer,Chelsea
@@ -1145,12 +1040,9 @@ date,player_team,value,pk,rank,player,team
 2024-12-09,jarrodbowen_westham,4.0,1.0,24.0,Jarrod Bowen,West Ham
 2024-12-09,jeanphilippemateta_crystalpalace,4.0,1.0,25.0,Jean-Philippe Mateta,Crystal Palace
 2024-12-09,joaopedro_brighton,4.0,0.0,26.0,Joao Pedro,Brighton
-2024-12-09,morganrogers_astonvilla,4.0,0.0,27.0,Morgan Rogers,Aston Villa
-2024-12-09,brunofernandes_manchesterutd,3.0,1.0,28.0,Bruno Fernandes,Manchester Utd
-2024-12-09,kaorumitoma_brighton,3.0,0.0,29.0,Kaoru Mitoma,Brighton
-2024-12-09,codygakpo_liverpool,2.0,0.0,30.0,Cody Gakpo,Liverpool
-2024-12-09,rodrigomuniz_fulham,1.0,0.0,31.0,Rodrigo Muniz,Fulham
-2024-12-09,jacobmurphy_newcastleutd,0.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2024-12-09,kevinschade_brentford,4.0,0.0,27.0,Kevin Schade,Brentford
+2024-12-09,kaorumitoma_brighton,3.0,0.0,28.0,Kaoru Mitoma,Brighton
+2024-12-09,codygakpo_liverpool,2.0,0.0,29.0,Cody Gakpo,Liverpool
 2024-12-14,erlinghaaland_manchestercity,13.0,1.0,1.0,Erling Haaland,Manchester City
 2024-12-14,mohamedsalah_liverpool,13.0,4.0,2.0,Mohamed Salah,Liverpool
 2024-12-14,colepalmer_chelsea,11.0,3.0,3.0,Cole Palmer,Chelsea
@@ -1177,12 +1069,9 @@ date,player_team,value,pk,rank,player,team
 2024-12-14,jarrodbowen_westham,4.0,1.0,24.0,Jarrod Bowen,West Ham
 2024-12-14,jeanphilippemateta_crystalpalace,4.0,1.0,25.0,Jean-Philippe Mateta,Crystal Palace
 2024-12-14,joaopedro_brighton,4.0,0.0,26.0,Joao Pedro,Brighton
-2024-12-14,morganrogers_astonvilla,4.0,0.0,27.0,Morgan Rogers,Aston Villa
-2024-12-14,brunofernandes_manchesterutd,3.0,1.0,28.0,Bruno Fernandes,Manchester Utd
-2024-12-14,codygakpo_liverpool,3.0,0.0,29.0,Cody Gakpo,Liverpool
-2024-12-14,kaorumitoma_brighton,3.0,0.0,30.0,Kaoru Mitoma,Brighton
-2024-12-14,jacobmurphy_newcastleutd,2.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2024-12-14,rodrigomuniz_fulham,2.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-12-14,kevinschade_brentford,4.0,0.0,27.0,Kevin Schade,Brentford
+2024-12-14,codygakpo_liverpool,3.0,0.0,28.0,Cody Gakpo,Liverpool
+2024-12-14,kaorumitoma_brighton,3.0,0.0,29.0,Kaoru Mitoma,Brighton
 2024-12-15,erlinghaaland_manchestercity,13.0,1.0,1.0,Erling Haaland,Manchester City
 2024-12-15,mohamedsalah_liverpool,13.0,4.0,2.0,Mohamed Salah,Liverpool
 2024-12-15,colepalmer_chelsea,11.0,3.0,3.0,Cole Palmer,Chelsea
@@ -1205,16 +1094,13 @@ date,player_team,value,pk,rank,player,team
 2024-12-15,luisdiaz_liverpool,5.0,0.0,20.0,Luis Diaz,Liverpool
 2024-12-15,rauljimenez_fulham,5.0,1.0,21.0,Raul Jimenez,Fulham
 2024-12-15,antoinesemenyo_bournemouth,4.0,0.0,22.0,Antoine Semenyo,Bournemouth
-2024-12-15,brunofernandes_manchesterutd,4.0,2.0,23.0,Bruno Fernandes,Manchester Utd
-2024-12-15,evanilson_bournemouth,4.0,0.0,24.0,Evanilson,Bournemouth
-2024-12-15,jarrodbowen_westham,4.0,1.0,25.0,Jarrod Bowen,West Ham
-2024-12-15,jeanphilippemateta_crystalpalace,4.0,1.0,26.0,Jean-Philippe Mateta,Crystal Palace
-2024-12-15,joaopedro_brighton,4.0,0.0,27.0,Joao Pedro,Brighton
-2024-12-15,morganrogers_astonvilla,4.0,0.0,28.0,Morgan Rogers,Aston Villa
-2024-12-15,codygakpo_liverpool,3.0,0.0,29.0,Cody Gakpo,Liverpool
-2024-12-15,kaorumitoma_brighton,3.0,0.0,30.0,Kaoru Mitoma,Brighton
-2024-12-15,jacobmurphy_newcastleutd,2.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2024-12-15,rodrigomuniz_fulham,2.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-12-15,evanilson_bournemouth,4.0,0.0,23.0,Evanilson,Bournemouth
+2024-12-15,jarrodbowen_westham,4.0,1.0,24.0,Jarrod Bowen,West Ham
+2024-12-15,jeanphilippemateta_crystalpalace,4.0,1.0,25.0,Jean-Philippe Mateta,Crystal Palace
+2024-12-15,joaopedro_brighton,4.0,0.0,26.0,Joao Pedro,Brighton
+2024-12-15,kevinschade_brentford,4.0,0.0,27.0,Kevin Schade,Brentford
+2024-12-15,codygakpo_liverpool,3.0,0.0,28.0,Cody Gakpo,Liverpool
+2024-12-15,kaorumitoma_brighton,3.0,0.0,29.0,Kaoru Mitoma,Brighton
 2024-12-21,erlinghaaland_manchestercity,13.0,1.0,1.0,Erling Haaland,Manchester City
 2024-12-21,mohamedsalah_liverpool,13.0,4.0,2.0,Mohamed Salah,Liverpool
 2024-12-21,colepalmer_chelsea,11.0,3.0,3.0,Cole Palmer,Chelsea
@@ -1235,18 +1121,15 @@ date,player_team,value,pk,rank,player,team
 2024-12-21,harveybarnes_newcastleutd,5.0,0.0,18.0,Harvey Barnes,Newcastle Utd
 2024-12-21,justinkluivert_bournemouth,5.0,4.0,19.0,Justin Kluivert,Bournemouth
 2024-12-21,luisdiaz_liverpool,5.0,0.0,20.0,Luis Diaz,Liverpool
-2024-12-21,morganrogers_astonvilla,5.0,0.0,21.0,Morgan Rogers,Aston Villa
-2024-12-21,rauljimenez_fulham,5.0,1.0,22.0,Raul Jimenez,Fulham
-2024-12-21,antoinesemenyo_bournemouth,4.0,0.0,23.0,Antoine Semenyo,Bournemouth
-2024-12-21,brunofernandes_manchesterutd,4.0,2.0,24.0,Bruno Fernandes,Manchester Utd
-2024-12-21,evanilson_bournemouth,4.0,0.0,25.0,Evanilson,Bournemouth
-2024-12-21,jarrodbowen_westham,4.0,1.0,26.0,Jarrod Bowen,West Ham
-2024-12-21,jeanphilippemateta_crystalpalace,4.0,1.0,27.0,Jean-Philippe Mateta,Crystal Palace
-2024-12-21,joaopedro_brighton,4.0,0.0,28.0,Joao Pedro,Brighton
-2024-12-21,codygakpo_liverpool,3.0,0.0,29.0,Cody Gakpo,Liverpool
-2024-12-21,jacobmurphy_newcastleutd,3.0,0.0,30.0,Jacob Murphy,Newcastle Utd
-2024-12-21,kaorumitoma_brighton,3.0,0.0,31.0,Kaoru Mitoma,Brighton
-2024-12-21,rodrigomuniz_fulham,2.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-12-21,rauljimenez_fulham,5.0,1.0,21.0,Raul Jimenez,Fulham
+2024-12-21,antoinesemenyo_bournemouth,4.0,0.0,22.0,Antoine Semenyo,Bournemouth
+2024-12-21,evanilson_bournemouth,4.0,0.0,23.0,Evanilson,Bournemouth
+2024-12-21,jarrodbowen_westham,4.0,1.0,24.0,Jarrod Bowen,West Ham
+2024-12-21,jeanphilippemateta_crystalpalace,4.0,1.0,25.0,Jean-Philippe Mateta,Crystal Palace
+2024-12-21,joaopedro_brighton,4.0,0.0,26.0,Joao Pedro,Brighton
+2024-12-21,kevinschade_brentford,4.0,0.0,27.0,Kevin Schade,Brentford
+2024-12-21,codygakpo_liverpool,3.0,0.0,28.0,Cody Gakpo,Liverpool
+2024-12-21,kaorumitoma_brighton,3.0,0.0,29.0,Kaoru Mitoma,Brighton
 2024-12-22,mohamedsalah_liverpool,15.0,4.0,1.0,Mohamed Salah,Liverpool
 2024-12-22,erlinghaaland_manchestercity,13.0,1.0,2.0,Erling Haaland,Manchester City
 2024-12-22,colepalmer_chelsea,11.0,3.0,3.0,Cole Palmer,Chelsea
@@ -1268,17 +1151,14 @@ date,player_team,value,pk,rank,player,team
 2024-12-22,alexiwobi_fulham,5.0,0.0,19.0,Alex Iwobi,Fulham
 2024-12-22,antoinesemenyo_bournemouth,5.0,0.0,20.0,Antoine Semenyo,Bournemouth
 2024-12-22,harveybarnes_newcastleutd,5.0,0.0,21.0,Harvey Barnes,Newcastle Utd
-2024-12-22,morganrogers_astonvilla,5.0,0.0,22.0,Morgan Rogers,Aston Villa
-2024-12-22,rauljimenez_fulham,5.0,1.0,23.0,Raul Jimenez,Fulham
-2024-12-22,brunofernandes_manchesterutd,4.0,2.0,24.0,Bruno Fernandes,Manchester Utd
-2024-12-22,evanilson_bournemouth,4.0,0.0,25.0,Evanilson,Bournemouth
-2024-12-22,jarrodbowen_westham,4.0,1.0,26.0,Jarrod Bowen,West Ham
-2024-12-22,jeanphilippemateta_crystalpalace,4.0,1.0,27.0,Jean-Philippe Mateta,Crystal Palace
-2024-12-22,joaopedro_brighton,4.0,0.0,28.0,Joao Pedro,Brighton
-2024-12-22,codygakpo_liverpool,3.0,0.0,29.0,Cody Gakpo,Liverpool
-2024-12-22,jacobmurphy_newcastleutd,3.0,0.0,30.0,Jacob Murphy,Newcastle Utd
-2024-12-22,kaorumitoma_brighton,3.0,0.0,31.0,Kaoru Mitoma,Brighton
-2024-12-22,rodrigomuniz_fulham,2.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-12-22,rauljimenez_fulham,5.0,1.0,22.0,Raul Jimenez,Fulham
+2024-12-22,evanilson_bournemouth,4.0,0.0,23.0,Evanilson,Bournemouth
+2024-12-22,jarrodbowen_westham,4.0,1.0,24.0,Jarrod Bowen,West Ham
+2024-12-22,jeanphilippemateta_crystalpalace,4.0,1.0,25.0,Jean-Philippe Mateta,Crystal Palace
+2024-12-22,joaopedro_brighton,4.0,0.0,26.0,Joao Pedro,Brighton
+2024-12-22,kevinschade_brentford,4.0,0.0,27.0,Kevin Schade,Brentford
+2024-12-22,codygakpo_liverpool,3.0,0.0,28.0,Cody Gakpo,Liverpool
+2024-12-22,kaorumitoma_brighton,3.0,0.0,29.0,Kaoru Mitoma,Brighton
 2024-12-26,mohamedsalah_liverpool,16.0,4.0,1.0,Mohamed Salah,Liverpool
 2024-12-26,erlinghaaland_manchestercity,13.0,1.0,2.0,Erling Haaland,Manchester City
 2024-12-26,colepalmer_chelsea,12.0,3.0,3.0,Cole Palmer,Chelsea
@@ -1301,16 +1181,13 @@ date,player_team,value,pk,rank,player,team
 2024-12-26,antoinesemenyo_bournemouth,5.0,0.0,20.0,Antoine Semenyo,Bournemouth
 2024-12-26,harveybarnes_newcastleutd,5.0,0.0,21.0,Harvey Barnes,Newcastle Utd
 2024-12-26,jarrodbowen_westham,5.0,1.0,22.0,Jarrod Bowen,West Ham
-2024-12-26,morganrogers_astonvilla,5.0,0.0,23.0,Morgan Rogers,Aston Villa
-2024-12-26,rauljimenez_fulham,5.0,1.0,24.0,Raul Jimenez,Fulham
-2024-12-26,brunofernandes_manchesterutd,4.0,2.0,25.0,Bruno Fernandes,Manchester Utd
-2024-12-26,codygakpo_liverpool,4.0,0.0,26.0,Cody Gakpo,Liverpool
-2024-12-26,evanilson_bournemouth,4.0,0.0,27.0,Evanilson,Bournemouth
-2024-12-26,jeanphilippemateta_crystalpalace,4.0,1.0,28.0,Jean-Philippe Mateta,Crystal Palace
-2024-12-26,joaopedro_brighton,4.0,0.0,29.0,Joao Pedro,Brighton
-2024-12-26,jacobmurphy_newcastleutd,3.0,0.0,30.0,Jacob Murphy,Newcastle Utd
-2024-12-26,kaorumitoma_brighton,3.0,0.0,31.0,Kaoru Mitoma,Brighton
-2024-12-26,rodrigomuniz_fulham,3.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-12-26,rauljimenez_fulham,5.0,1.0,23.0,Raul Jimenez,Fulham
+2024-12-26,codygakpo_liverpool,4.0,0.0,24.0,Cody Gakpo,Liverpool
+2024-12-26,evanilson_bournemouth,4.0,0.0,25.0,Evanilson,Bournemouth
+2024-12-26,jeanphilippemateta_crystalpalace,4.0,1.0,26.0,Jean-Philippe Mateta,Crystal Palace
+2024-12-26,joaopedro_brighton,4.0,0.0,27.0,Joao Pedro,Brighton
+2024-12-26,kevinschade_brentford,4.0,0.0,28.0,Kevin Schade,Brentford
+2024-12-26,kaorumitoma_brighton,3.0,0.0,29.0,Kaoru Mitoma,Brighton
 2024-12-27,mohamedsalah_liverpool,16.0,4.0,1.0,Mohamed Salah,Liverpool
 2024-12-27,erlinghaaland_manchestercity,13.0,1.0,2.0,Erling Haaland,Manchester City
 2024-12-27,colepalmer_chelsea,12.0,3.0,3.0,Cole Palmer,Chelsea
@@ -1333,16 +1210,13 @@ date,player_team,value,pk,rank,player,team
 2024-12-27,antoinesemenyo_bournemouth,5.0,0.0,20.0,Antoine Semenyo,Bournemouth
 2024-12-27,harveybarnes_newcastleutd,5.0,0.0,21.0,Harvey Barnes,Newcastle Utd
 2024-12-27,jarrodbowen_westham,5.0,1.0,22.0,Jarrod Bowen,West Ham
-2024-12-27,morganrogers_astonvilla,5.0,0.0,23.0,Morgan Rogers,Aston Villa
-2024-12-27,rauljimenez_fulham,5.0,1.0,24.0,Raul Jimenez,Fulham
-2024-12-27,brunofernandes_manchesterutd,4.0,2.0,25.0,Bruno Fernandes,Manchester Utd
-2024-12-27,codygakpo_liverpool,4.0,0.0,26.0,Cody Gakpo,Liverpool
-2024-12-27,evanilson_bournemouth,4.0,0.0,27.0,Evanilson,Bournemouth
-2024-12-27,jeanphilippemateta_crystalpalace,4.0,1.0,28.0,Jean-Philippe Mateta,Crystal Palace
-2024-12-27,joaopedro_brighton,4.0,0.0,29.0,Joao Pedro,Brighton
-2024-12-27,jacobmurphy_newcastleutd,3.0,0.0,30.0,Jacob Murphy,Newcastle Utd
-2024-12-27,kaorumitoma_brighton,3.0,0.0,31.0,Kaoru Mitoma,Brighton
-2024-12-27,rodrigomuniz_fulham,3.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-12-27,rauljimenez_fulham,5.0,1.0,23.0,Raul Jimenez,Fulham
+2024-12-27,codygakpo_liverpool,4.0,0.0,24.0,Cody Gakpo,Liverpool
+2024-12-27,evanilson_bournemouth,4.0,0.0,25.0,Evanilson,Bournemouth
+2024-12-27,jeanphilippemateta_crystalpalace,4.0,1.0,26.0,Jean-Philippe Mateta,Crystal Palace
+2024-12-27,joaopedro_brighton,4.0,0.0,27.0,Joao Pedro,Brighton
+2024-12-27,kevinschade_brentford,4.0,0.0,28.0,Kevin Schade,Brentford
+2024-12-27,kaorumitoma_brighton,3.0,0.0,29.0,Kaoru Mitoma,Brighton
 2024-12-29,mohamedsalah_liverpool,17.0,4.0,1.0,Mohamed Salah,Liverpool
 2024-12-29,erlinghaaland_manchestercity,14.0,1.0,2.0,Erling Haaland,Manchester City
 2024-12-29,colepalmer_chelsea,12.0,3.0,3.0,Cole Palmer,Chelsea
@@ -1368,13 +1242,10 @@ date,player_team,value,pk,rank,player,team
 2024-12-29,evanilson_bournemouth,5.0,0.0,23.0,Evanilson,Bournemouth
 2024-12-29,harveybarnes_newcastleutd,5.0,0.0,24.0,Harvey Barnes,Newcastle Utd
 2024-12-29,jarrodbowen_westham,5.0,1.0,25.0,Jarrod Bowen,West Ham
-2024-12-29,morganrogers_astonvilla,5.0,0.0,26.0,Morgan Rogers,Aston Villa
-2024-12-29,brunofernandes_manchesterutd,4.0,2.0,27.0,Bruno Fernandes,Manchester Utd
-2024-12-29,jeanphilippemateta_crystalpalace,4.0,1.0,28.0,Jean-Philippe Mateta,Crystal Palace
-2024-12-29,joaopedro_brighton,4.0,0.0,29.0,Joao Pedro,Brighton
-2024-12-29,jacobmurphy_newcastleutd,3.0,0.0,30.0,Jacob Murphy,Newcastle Utd
-2024-12-29,kaorumitoma_brighton,3.0,0.0,31.0,Kaoru Mitoma,Brighton
-2024-12-29,rodrigomuniz_fulham,3.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-12-29,jeanphilippemateta_crystalpalace,4.0,1.0,26.0,Jean-Philippe Mateta,Crystal Palace
+2024-12-29,joaopedro_brighton,4.0,0.0,27.0,Joao Pedro,Brighton
+2024-12-29,kevinschade_brentford,4.0,0.0,28.0,Kevin Schade,Brentford
+2024-12-29,kaorumitoma_brighton,3.0,0.0,29.0,Kaoru Mitoma,Brighton
 2024-12-30,mohamedsalah_liverpool,17.0,4.0,1.0,Mohamed Salah,Liverpool
 2024-12-30,erlinghaaland_manchestercity,14.0,1.0,2.0,Erling Haaland,Manchester City
 2024-12-30,alexanderisak_newcastleutd,12.0,0.0,3.0,Alexander Isak,Newcastle Utd
@@ -1393,20 +1264,17 @@ date,player_team,value,pk,rank,player,team
 2024-12-30,liamdelap_ipswichtown,7.0,1.0,16.0,Liam Delap,Ipswich Town
 2024-12-30,dannywelbeck_brighton,6.0,0.0,17.0,Danny Welbeck,Brighton
 2024-12-30,justinkluivert_bournemouth,6.0,5.0,18.0,Justin Kluivert,Bournemouth
-2024-12-30,morganrogers_astonvilla,6.0,0.0,19.0,Morgan Rogers,Aston Villa
-2024-12-30,rauljimenez_fulham,6.0,1.0,20.0,Raul Jimenez,Fulham
-2024-12-30,alexiwobi_fulham,5.0,0.0,21.0,Alex Iwobi,Fulham
-2024-12-30,antoinesemenyo_bournemouth,5.0,0.0,22.0,Antoine Semenyo,Bournemouth
-2024-12-30,codygakpo_liverpool,5.0,0.0,23.0,Cody Gakpo,Liverpool
-2024-12-30,evanilson_bournemouth,5.0,0.0,24.0,Evanilson,Bournemouth
-2024-12-30,harveybarnes_newcastleutd,5.0,0.0,25.0,Harvey Barnes,Newcastle Utd
-2024-12-30,jarrodbowen_westham,5.0,1.0,26.0,Jarrod Bowen,West Ham
-2024-12-30,brunofernandes_manchesterutd,4.0,2.0,27.0,Bruno Fernandes,Manchester Utd
-2024-12-30,jeanphilippemateta_crystalpalace,4.0,1.0,28.0,Jean-Philippe Mateta,Crystal Palace
-2024-12-30,joaopedro_brighton,4.0,0.0,29.0,Joao Pedro,Brighton
-2024-12-30,jacobmurphy_newcastleutd,3.0,0.0,30.0,Jacob Murphy,Newcastle Utd
-2024-12-30,kaorumitoma_brighton,3.0,0.0,31.0,Kaoru Mitoma,Brighton
-2024-12-30,rodrigomuniz_fulham,3.0,0.0,32.0,Rodrigo Muniz,Fulham
+2024-12-30,rauljimenez_fulham,6.0,1.0,19.0,Raul Jimenez,Fulham
+2024-12-30,alexiwobi_fulham,5.0,0.0,20.0,Alex Iwobi,Fulham
+2024-12-30,antoinesemenyo_bournemouth,5.0,0.0,21.0,Antoine Semenyo,Bournemouth
+2024-12-30,codygakpo_liverpool,5.0,0.0,22.0,Cody Gakpo,Liverpool
+2024-12-30,evanilson_bournemouth,5.0,0.0,23.0,Evanilson,Bournemouth
+2024-12-30,harveybarnes_newcastleutd,5.0,0.0,24.0,Harvey Barnes,Newcastle Utd
+2024-12-30,jarrodbowen_westham,5.0,1.0,25.0,Jarrod Bowen,West Ham
+2024-12-30,jeanphilippemateta_crystalpalace,4.0,1.0,26.0,Jean-Philippe Mateta,Crystal Palace
+2024-12-30,joaopedro_brighton,4.0,0.0,27.0,Joao Pedro,Brighton
+2024-12-30,kevinschade_brentford,4.0,0.0,28.0,Kevin Schade,Brentford
+2024-12-30,kaorumitoma_brighton,3.0,0.0,29.0,Kaoru Mitoma,Brighton
 2025-01-01,mohamedsalah_liverpool,17.0,4.0,1.0,Mohamed Salah,Liverpool
 2025-01-01,erlinghaaland_manchestercity,14.0,1.0,2.0,Erling Haaland,Manchester City
 2025-01-01,alexanderisak_newcastleutd,12.0,0.0,3.0,Alexander Isak,Newcastle Utd
@@ -1425,20 +1293,17 @@ date,player_team,value,pk,rank,player,team
 2025-01-01,liamdelap_ipswichtown,7.0,1.0,16.0,Liam Delap,Ipswich Town
 2025-01-01,dannywelbeck_brighton,6.0,0.0,17.0,Danny Welbeck,Brighton
 2025-01-01,justinkluivert_bournemouth,6.0,5.0,18.0,Justin Kluivert,Bournemouth
-2025-01-01,morganrogers_astonvilla,6.0,0.0,19.0,Morgan Rogers,Aston Villa
-2025-01-01,rauljimenez_fulham,6.0,1.0,20.0,Raul Jimenez,Fulham
-2025-01-01,alexiwobi_fulham,5.0,0.0,21.0,Alex Iwobi,Fulham
-2025-01-01,antoinesemenyo_bournemouth,5.0,0.0,22.0,Antoine Semenyo,Bournemouth
-2025-01-01,codygakpo_liverpool,5.0,0.0,23.0,Cody Gakpo,Liverpool
-2025-01-01,evanilson_bournemouth,5.0,0.0,24.0,Evanilson,Bournemouth
-2025-01-01,harveybarnes_newcastleutd,5.0,0.0,25.0,Harvey Barnes,Newcastle Utd
-2025-01-01,jarrodbowen_westham,5.0,1.0,26.0,Jarrod Bowen,West Ham
-2025-01-01,brunofernandes_manchesterutd,4.0,2.0,27.0,Bruno Fernandes,Manchester Utd
-2025-01-01,jeanphilippemateta_crystalpalace,4.0,1.0,28.0,Jean-Philippe Mateta,Crystal Palace
-2025-01-01,joaopedro_brighton,4.0,0.0,29.0,Joao Pedro,Brighton
-2025-01-01,jacobmurphy_newcastleutd,3.0,0.0,30.0,Jacob Murphy,Newcastle Utd
-2025-01-01,kaorumitoma_brighton,3.0,0.0,31.0,Kaoru Mitoma,Brighton
-2025-01-01,rodrigomuniz_fulham,3.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-01-01,rauljimenez_fulham,6.0,1.0,19.0,Raul Jimenez,Fulham
+2025-01-01,alexiwobi_fulham,5.0,0.0,20.0,Alex Iwobi,Fulham
+2025-01-01,antoinesemenyo_bournemouth,5.0,0.0,21.0,Antoine Semenyo,Bournemouth
+2025-01-01,codygakpo_liverpool,5.0,0.0,22.0,Cody Gakpo,Liverpool
+2025-01-01,evanilson_bournemouth,5.0,0.0,23.0,Evanilson,Bournemouth
+2025-01-01,harveybarnes_newcastleutd,5.0,0.0,24.0,Harvey Barnes,Newcastle Utd
+2025-01-01,jarrodbowen_westham,5.0,1.0,25.0,Jarrod Bowen,West Ham
+2025-01-01,jeanphilippemateta_crystalpalace,4.0,1.0,26.0,Jean-Philippe Mateta,Crystal Palace
+2025-01-01,joaopedro_brighton,4.0,0.0,27.0,Joao Pedro,Brighton
+2025-01-01,kevinschade_brentford,4.0,0.0,28.0,Kevin Schade,Brentford
+2025-01-01,kaorumitoma_brighton,3.0,0.0,29.0,Kaoru Mitoma,Brighton
 2025-01-04,mohamedsalah_liverpool,17.0,4.0,1.0,Mohamed Salah,Liverpool
 2025-01-04,erlinghaaland_manchestercity,16.0,1.0,2.0,Erling Haaland,Manchester City
 2025-01-04,alexanderisak_newcastleutd,13.0,0.0,3.0,Alexander Isak,Newcastle Utd
@@ -1457,20 +1322,17 @@ date,player_team,value,pk,rank,player,team
 2025-01-04,liamdelap_ipswichtown,7.0,1.0,16.0,Liam Delap,Ipswich Town
 2025-01-04,dannywelbeck_brighton,6.0,0.0,17.0,Danny Welbeck,Brighton
 2025-01-04,justinkluivert_bournemouth,6.0,5.0,18.0,Justin Kluivert,Bournemouth
-2025-01-04,morganrogers_astonvilla,6.0,0.0,19.0,Morgan Rogers,Aston Villa
-2025-01-04,rauljimenez_fulham,6.0,1.0,20.0,Raul Jimenez,Fulham
-2025-01-04,alexiwobi_fulham,5.0,0.0,21.0,Alex Iwobi,Fulham
-2025-01-04,antoinesemenyo_bournemouth,5.0,0.0,22.0,Antoine Semenyo,Bournemouth
-2025-01-04,codygakpo_liverpool,5.0,0.0,23.0,Cody Gakpo,Liverpool
-2025-01-04,evanilson_bournemouth,5.0,0.0,24.0,Evanilson,Bournemouth
-2025-01-04,harveybarnes_newcastleutd,5.0,0.0,25.0,Harvey Barnes,Newcastle Utd
-2025-01-04,jarrodbowen_westham,5.0,1.0,26.0,Jarrod Bowen,West Ham
-2025-01-04,jeanphilippemateta_crystalpalace,5.0,1.0,27.0,Jean-Philippe Mateta,Crystal Palace
-2025-01-04,joaopedro_brighton,5.0,1.0,28.0,Joao Pedro,Brighton
-2025-01-04,brunofernandes_manchesterutd,4.0,2.0,29.0,Bruno Fernandes,Manchester Utd
-2025-01-04,jacobmurphy_newcastleutd,3.0,0.0,30.0,Jacob Murphy,Newcastle Utd
-2025-01-04,kaorumitoma_brighton,3.0,0.0,31.0,Kaoru Mitoma,Brighton
-2025-01-04,rodrigomuniz_fulham,3.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-01-04,rauljimenez_fulham,6.0,1.0,19.0,Raul Jimenez,Fulham
+2025-01-04,alexiwobi_fulham,5.0,0.0,20.0,Alex Iwobi,Fulham
+2025-01-04,antoinesemenyo_bournemouth,5.0,0.0,21.0,Antoine Semenyo,Bournemouth
+2025-01-04,codygakpo_liverpool,5.0,0.0,22.0,Cody Gakpo,Liverpool
+2025-01-04,evanilson_bournemouth,5.0,0.0,23.0,Evanilson,Bournemouth
+2025-01-04,harveybarnes_newcastleutd,5.0,0.0,24.0,Harvey Barnes,Newcastle Utd
+2025-01-04,jarrodbowen_westham,5.0,1.0,25.0,Jarrod Bowen,West Ham
+2025-01-04,jeanphilippemateta_crystalpalace,5.0,1.0,26.0,Jean-Philippe Mateta,Crystal Palace
+2025-01-04,joaopedro_brighton,5.0,1.0,27.0,Joao Pedro,Brighton
+2025-01-04,kevinschade_brentford,5.0,0.0,28.0,Kevin Schade,Brentford
+2025-01-04,kaorumitoma_brighton,3.0,0.0,29.0,Kaoru Mitoma,Brighton
 2025-01-05,mohamedsalah_liverpool,18.0,5.0,1.0,Mohamed Salah,Liverpool
 2025-01-05,erlinghaaland_manchestercity,16.0,1.0,2.0,Erling Haaland,Manchester City
 2025-01-05,alexanderisak_newcastleutd,13.0,0.0,3.0,Alexander Isak,Newcastle Utd
@@ -1491,18 +1353,15 @@ date,player_team,value,pk,rank,player,team
 2025-01-05,codygakpo_liverpool,6.0,0.0,18.0,Cody Gakpo,Liverpool
 2025-01-05,dannywelbeck_brighton,6.0,0.0,19.0,Danny Welbeck,Brighton
 2025-01-05,justinkluivert_bournemouth,6.0,5.0,20.0,Justin Kluivert,Bournemouth
-2025-01-05,morganrogers_astonvilla,6.0,0.0,21.0,Morgan Rogers,Aston Villa
-2025-01-05,alexiwobi_fulham,5.0,0.0,22.0,Alex Iwobi,Fulham
-2025-01-05,antoinesemenyo_bournemouth,5.0,0.0,23.0,Antoine Semenyo,Bournemouth
-2025-01-05,evanilson_bournemouth,5.0,0.0,24.0,Evanilson,Bournemouth
-2025-01-05,harveybarnes_newcastleutd,5.0,0.0,25.0,Harvey Barnes,Newcastle Utd
-2025-01-05,jarrodbowen_westham,5.0,1.0,26.0,Jarrod Bowen,West Ham
-2025-01-05,jeanphilippemateta_crystalpalace,5.0,1.0,27.0,Jean-Philippe Mateta,Crystal Palace
-2025-01-05,joaopedro_brighton,5.0,1.0,28.0,Joao Pedro,Brighton
-2025-01-05,brunofernandes_manchesterutd,4.0,2.0,29.0,Bruno Fernandes,Manchester Utd
-2025-01-05,jacobmurphy_newcastleutd,3.0,0.0,30.0,Jacob Murphy,Newcastle Utd
-2025-01-05,kaorumitoma_brighton,3.0,0.0,31.0,Kaoru Mitoma,Brighton
-2025-01-05,rodrigomuniz_fulham,3.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-01-05,alexiwobi_fulham,5.0,0.0,21.0,Alex Iwobi,Fulham
+2025-01-05,antoinesemenyo_bournemouth,5.0,0.0,22.0,Antoine Semenyo,Bournemouth
+2025-01-05,evanilson_bournemouth,5.0,0.0,23.0,Evanilson,Bournemouth
+2025-01-05,harveybarnes_newcastleutd,5.0,0.0,24.0,Harvey Barnes,Newcastle Utd
+2025-01-05,jarrodbowen_westham,5.0,1.0,25.0,Jarrod Bowen,West Ham
+2025-01-05,jeanphilippemateta_crystalpalace,5.0,1.0,26.0,Jean-Philippe Mateta,Crystal Palace
+2025-01-05,joaopedro_brighton,5.0,1.0,27.0,Joao Pedro,Brighton
+2025-01-05,kevinschade_brentford,5.0,0.0,28.0,Kevin Schade,Brentford
+2025-01-05,kaorumitoma_brighton,3.0,0.0,29.0,Kaoru Mitoma,Brighton
 2025-01-06,mohamedsalah_liverpool,18.0,5.0,1.0,Mohamed Salah,Liverpool
 2025-01-06,erlinghaaland_manchestercity,16.0,1.0,2.0,Erling Haaland,Manchester City
 2025-01-06,alexanderisak_newcastleutd,13.0,0.0,3.0,Alexander Isak,Newcastle Utd
@@ -1523,18 +1382,15 @@ date,player_team,value,pk,rank,player,team
 2025-01-06,codygakpo_liverpool,6.0,0.0,18.0,Cody Gakpo,Liverpool
 2025-01-06,dannywelbeck_brighton,6.0,0.0,19.0,Danny Welbeck,Brighton
 2025-01-06,justinkluivert_bournemouth,6.0,5.0,20.0,Justin Kluivert,Bournemouth
-2025-01-06,morganrogers_astonvilla,6.0,0.0,21.0,Morgan Rogers,Aston Villa
-2025-01-06,alexiwobi_fulham,5.0,0.0,22.0,Alex Iwobi,Fulham
-2025-01-06,antoinesemenyo_bournemouth,5.0,0.0,23.0,Antoine Semenyo,Bournemouth
-2025-01-06,evanilson_bournemouth,5.0,0.0,24.0,Evanilson,Bournemouth
-2025-01-06,harveybarnes_newcastleutd,5.0,0.0,25.0,Harvey Barnes,Newcastle Utd
-2025-01-06,jarrodbowen_westham,5.0,1.0,26.0,Jarrod Bowen,West Ham
-2025-01-06,jeanphilippemateta_crystalpalace,5.0,1.0,27.0,Jean-Philippe Mateta,Crystal Palace
-2025-01-06,joaopedro_brighton,5.0,1.0,28.0,Joao Pedro,Brighton
-2025-01-06,brunofernandes_manchesterutd,4.0,2.0,29.0,Bruno Fernandes,Manchester Utd
-2025-01-06,jacobmurphy_newcastleutd,3.0,0.0,30.0,Jacob Murphy,Newcastle Utd
-2025-01-06,kaorumitoma_brighton,3.0,0.0,31.0,Kaoru Mitoma,Brighton
-2025-01-06,rodrigomuniz_fulham,3.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-01-06,alexiwobi_fulham,5.0,0.0,21.0,Alex Iwobi,Fulham
+2025-01-06,antoinesemenyo_bournemouth,5.0,0.0,22.0,Antoine Semenyo,Bournemouth
+2025-01-06,evanilson_bournemouth,5.0,0.0,23.0,Evanilson,Bournemouth
+2025-01-06,harveybarnes_newcastleutd,5.0,0.0,24.0,Harvey Barnes,Newcastle Utd
+2025-01-06,jarrodbowen_westham,5.0,1.0,25.0,Jarrod Bowen,West Ham
+2025-01-06,jeanphilippemateta_crystalpalace,5.0,1.0,26.0,Jean-Philippe Mateta,Crystal Palace
+2025-01-06,joaopedro_brighton,5.0,1.0,27.0,Joao Pedro,Brighton
+2025-01-06,kevinschade_brentford,5.0,0.0,28.0,Kevin Schade,Brentford
+2025-01-06,kaorumitoma_brighton,3.0,0.0,29.0,Kaoru Mitoma,Brighton
 2025-01-14,mohamedsalah_liverpool,18.0,5.0,1.0,Mohamed Salah,Liverpool
 2025-01-14,erlinghaaland_manchestercity,16.0,1.0,2.0,Erling Haaland,Manchester City
 2025-01-14,colepalmer_chelsea,14.0,3.0,3.0,Cole Palmer,Chelsea
@@ -1557,16 +1413,13 @@ date,player_team,value,pk,rank,player,team
 2025-01-14,antoinesemenyo_bournemouth,6.0,0.0,20.0,Antoine Semenyo,Bournemouth
 2025-01-14,codygakpo_liverpool,6.0,0.0,21.0,Cody Gakpo,Liverpool
 2025-01-14,dannywelbeck_brighton,6.0,0.0,22.0,Danny Welbeck,Brighton
-2025-01-14,morganrogers_astonvilla,6.0,0.0,23.0,Morgan Rogers,Aston Villa
-2025-01-14,evanilson_bournemouth,5.0,0.0,24.0,Evanilson,Bournemouth
-2025-01-14,harveybarnes_newcastleutd,5.0,0.0,25.0,Harvey Barnes,Newcastle Utd
-2025-01-14,jarrodbowen_westham,5.0,1.0,26.0,Jarrod Bowen,West Ham
-2025-01-14,jeanphilippemateta_crystalpalace,5.0,1.0,27.0,Jean-Philippe Mateta,Crystal Palace
-2025-01-14,joaopedro_brighton,5.0,1.0,28.0,Joao Pedro,Brighton
-2025-01-14,brunofernandes_manchesterutd,4.0,2.0,29.0,Bruno Fernandes,Manchester Utd
-2025-01-14,jacobmurphy_newcastleutd,3.0,0.0,30.0,Jacob Murphy,Newcastle Utd
-2025-01-14,kaorumitoma_brighton,3.0,0.0,31.0,Kaoru Mitoma,Brighton
-2025-01-14,rodrigomuniz_fulham,3.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-01-14,evanilson_bournemouth,5.0,0.0,23.0,Evanilson,Bournemouth
+2025-01-14,harveybarnes_newcastleutd,5.0,0.0,24.0,Harvey Barnes,Newcastle Utd
+2025-01-14,jarrodbowen_westham,5.0,1.0,25.0,Jarrod Bowen,West Ham
+2025-01-14,jeanphilippemateta_crystalpalace,5.0,1.0,26.0,Jean-Philippe Mateta,Crystal Palace
+2025-01-14,joaopedro_brighton,5.0,1.0,27.0,Joao Pedro,Brighton
+2025-01-14,kevinschade_brentford,5.0,0.0,28.0,Kevin Schade,Brentford
+2025-01-14,kaorumitoma_brighton,3.0,0.0,29.0,Kaoru Mitoma,Brighton
 2025-01-15,mohamedsalah_liverpool,18.0,5.0,1.0,Mohamed Salah,Liverpool
 2025-01-15,erlinghaaland_manchestercity,16.0,1.0,2.0,Erling Haaland,Manchester City
 2025-01-15,alexanderisak_newcastleutd,15.0,0.0,3.0,Alexander Isak,Newcastle Utd
@@ -1590,15 +1443,12 @@ date,player_team,value,pk,rank,player,team
 2025-01-15,codygakpo_liverpool,6.0,0.0,21.0,Cody Gakpo,Liverpool
 2025-01-15,dannywelbeck_brighton,6.0,0.0,22.0,Danny Welbeck,Brighton
 2025-01-15,jeanphilippemateta_crystalpalace,6.0,1.0,23.0,Jean-Philippe Mateta,Crystal Palace
-2025-01-15,morganrogers_astonvilla,6.0,0.0,24.0,Morgan Rogers,Aston Villa
-2025-01-15,evanilson_bournemouth,5.0,0.0,25.0,Evanilson,Bournemouth
-2025-01-15,harveybarnes_newcastleutd,5.0,0.0,26.0,Harvey Barnes,Newcastle Utd
-2025-01-15,jarrodbowen_westham,5.0,1.0,27.0,Jarrod Bowen,West Ham
-2025-01-15,joaopedro_brighton,5.0,1.0,28.0,Joao Pedro,Brighton
-2025-01-15,brunofernandes_manchesterutd,4.0,2.0,29.0,Bruno Fernandes,Manchester Utd
-2025-01-15,jacobmurphy_newcastleutd,3.0,0.0,30.0,Jacob Murphy,Newcastle Utd
-2025-01-15,kaorumitoma_brighton,3.0,0.0,31.0,Kaoru Mitoma,Brighton
-2025-01-15,rodrigomuniz_fulham,3.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-01-15,evanilson_bournemouth,5.0,0.0,24.0,Evanilson,Bournemouth
+2025-01-15,harveybarnes_newcastleutd,5.0,0.0,25.0,Harvey Barnes,Newcastle Utd
+2025-01-15,jarrodbowen_westham,5.0,1.0,26.0,Jarrod Bowen,West Ham
+2025-01-15,joaopedro_brighton,5.0,1.0,27.0,Joao Pedro,Brighton
+2025-01-15,kevinschade_brentford,5.0,0.0,28.0,Kevin Schade,Brentford
+2025-01-15,kaorumitoma_brighton,3.0,0.0,29.0,Kaoru Mitoma,Brighton
 2025-01-16,mohamedsalah_liverpool,18.0,5.0,1.0,Mohamed Salah,Liverpool
 2025-01-16,erlinghaaland_manchestercity,16.0,1.0,2.0,Erling Haaland,Manchester City
 2025-01-16,alexanderisak_newcastleutd,15.0,0.0,3.0,Alexander Isak,Newcastle Utd
@@ -1622,15 +1472,12 @@ date,player_team,value,pk,rank,player,team
 2025-01-16,codygakpo_liverpool,6.0,0.0,21.0,Cody Gakpo,Liverpool
 2025-01-16,dannywelbeck_brighton,6.0,0.0,22.0,Danny Welbeck,Brighton
 2025-01-16,jeanphilippemateta_crystalpalace,6.0,1.0,23.0,Jean-Philippe Mateta,Crystal Palace
-2025-01-16,morganrogers_astonvilla,6.0,0.0,24.0,Morgan Rogers,Aston Villa
-2025-01-16,evanilson_bournemouth,5.0,0.0,25.0,Evanilson,Bournemouth
-2025-01-16,harveybarnes_newcastleutd,5.0,0.0,26.0,Harvey Barnes,Newcastle Utd
-2025-01-16,jarrodbowen_westham,5.0,1.0,27.0,Jarrod Bowen,West Ham
-2025-01-16,joaopedro_brighton,5.0,1.0,28.0,Joao Pedro,Brighton
-2025-01-16,brunofernandes_manchesterutd,4.0,2.0,29.0,Bruno Fernandes,Manchester Utd
-2025-01-16,kaorumitoma_brighton,4.0,0.0,30.0,Kaoru Mitoma,Brighton
-2025-01-16,jacobmurphy_newcastleutd,3.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-01-16,rodrigomuniz_fulham,3.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-01-16,evanilson_bournemouth,5.0,0.0,24.0,Evanilson,Bournemouth
+2025-01-16,harveybarnes_newcastleutd,5.0,0.0,25.0,Harvey Barnes,Newcastle Utd
+2025-01-16,jarrodbowen_westham,5.0,1.0,26.0,Jarrod Bowen,West Ham
+2025-01-16,joaopedro_brighton,5.0,1.0,27.0,Joao Pedro,Brighton
+2025-01-16,kevinschade_brentford,5.0,0.0,28.0,Kevin Schade,Brentford
+2025-01-16,kaorumitoma_brighton,4.0,0.0,29.0,Kaoru Mitoma,Brighton
 2025-01-18,mohamedsalah_liverpool,18.0,5.0,1.0,Mohamed Salah,Liverpool
 2025-01-18,erlinghaaland_manchestercity,16.0,1.0,2.0,Erling Haaland,Manchester City
 2025-01-18,alexanderisak_newcastleutd,15.0,0.0,3.0,Alexander Isak,Newcastle Utd
@@ -1654,15 +1501,12 @@ date,player_team,value,pk,rank,player,team
 2025-01-18,antoinesemenyo_bournemouth,6.0,0.0,21.0,Antoine Semenyo,Bournemouth
 2025-01-18,codygakpo_liverpool,6.0,0.0,22.0,Cody Gakpo,Liverpool
 2025-01-18,dannywelbeck_brighton,6.0,0.0,23.0,Danny Welbeck,Brighton
-2025-01-18,morganrogers_astonvilla,6.0,0.0,24.0,Morgan Rogers,Aston Villa
-2025-01-18,evanilson_bournemouth,5.0,0.0,25.0,Evanilson,Bournemouth
-2025-01-18,harveybarnes_newcastleutd,5.0,0.0,26.0,Harvey Barnes,Newcastle Utd
-2025-01-18,jarrodbowen_westham,5.0,1.0,27.0,Jarrod Bowen,West Ham
-2025-01-18,joaopedro_brighton,5.0,1.0,28.0,Joao Pedro,Brighton
-2025-01-18,brunofernandes_manchesterutd,4.0,2.0,29.0,Bruno Fernandes,Manchester Utd
-2025-01-18,kaorumitoma_brighton,4.0,0.0,30.0,Kaoru Mitoma,Brighton
-2025-01-18,jacobmurphy_newcastleutd,3.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-01-18,rodrigomuniz_fulham,3.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-01-18,evanilson_bournemouth,5.0,0.0,24.0,Evanilson,Bournemouth
+2025-01-18,harveybarnes_newcastleutd,5.0,0.0,25.0,Harvey Barnes,Newcastle Utd
+2025-01-18,jarrodbowen_westham,5.0,1.0,26.0,Jarrod Bowen,West Ham
+2025-01-18,joaopedro_brighton,5.0,1.0,27.0,Joao Pedro,Brighton
+2025-01-18,kevinschade_brentford,5.0,0.0,28.0,Kevin Schade,Brentford
+2025-01-18,kaorumitoma_brighton,4.0,0.0,29.0,Kaoru Mitoma,Brighton
 2025-01-19,mohamedsalah_liverpool,18.0,5.0,1.0,Mohamed Salah,Liverpool
 2025-01-19,erlinghaaland_manchestercity,17.0,1.0,2.0,Erling Haaland,Manchester City
 2025-01-19,alexanderisak_newcastleutd,15.0,0.0,3.0,Alexander Isak,Newcastle Utd
@@ -1686,15 +1530,12 @@ date,player_team,value,pk,rank,player,team
 2025-01-19,antoinesemenyo_bournemouth,6.0,0.0,21.0,Antoine Semenyo,Bournemouth
 2025-01-19,codygakpo_liverpool,6.0,0.0,22.0,Cody Gakpo,Liverpool
 2025-01-19,dannywelbeck_brighton,6.0,0.0,23.0,Danny Welbeck,Brighton
-2025-01-19,morganrogers_astonvilla,6.0,0.0,24.0,Morgan Rogers,Aston Villa
-2025-01-19,brunofernandes_manchesterutd,5.0,3.0,25.0,Bruno Fernandes,Manchester Utd
-2025-01-19,evanilson_bournemouth,5.0,0.0,26.0,Evanilson,Bournemouth
-2025-01-19,harveybarnes_newcastleutd,5.0,0.0,27.0,Harvey Barnes,Newcastle Utd
-2025-01-19,jarrodbowen_westham,5.0,1.0,28.0,Jarrod Bowen,West Ham
-2025-01-19,joaopedro_brighton,5.0,1.0,29.0,Joao Pedro,Brighton
-2025-01-19,kaorumitoma_brighton,5.0,0.0,30.0,Kaoru Mitoma,Brighton
-2025-01-19,jacobmurphy_newcastleutd,3.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-01-19,rodrigomuniz_fulham,3.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-01-19,evanilson_bournemouth,5.0,0.0,24.0,Evanilson,Bournemouth
+2025-01-19,harveybarnes_newcastleutd,5.0,0.0,25.0,Harvey Barnes,Newcastle Utd
+2025-01-19,jarrodbowen_westham,5.0,1.0,26.0,Jarrod Bowen,West Ham
+2025-01-19,joaopedro_brighton,5.0,1.0,27.0,Joao Pedro,Brighton
+2025-01-19,kaorumitoma_brighton,5.0,0.0,28.0,Kaoru Mitoma,Brighton
+2025-01-19,kevinschade_brentford,5.0,0.0,29.0,Kevin Schade,Brentford
 2025-01-25,mohamedsalah_liverpool,19.0,5.0,1.0,Mohamed Salah,Liverpool
 2025-01-25,erlinghaaland_manchestercity,18.0,1.0,2.0,Erling Haaland,Manchester City
 2025-01-25,alexanderisak_newcastleutd,17.0,1.0,3.0,Alexander Isak,Newcastle Utd
@@ -1718,15 +1559,12 @@ date,player_team,value,pk,rank,player,team
 2025-01-25,brennanjohnson_tottenham,7.0,0.0,21.0,Brennan Johnson,Tottenham
 2025-01-25,jorgenstrandlarsen_wolves,7.0,0.0,22.0,Jorgen Strand Larsen,Wolves
 2025-01-25,dannywelbeck_brighton,6.0,0.0,23.0,Danny Welbeck,Brighton
-2025-01-25,morganrogers_astonvilla,6.0,0.0,24.0,Morgan Rogers,Aston Villa
-2025-01-25,brunofernandes_manchesterutd,5.0,3.0,25.0,Bruno Fernandes,Manchester Utd
-2025-01-25,evanilson_bournemouth,5.0,0.0,26.0,Evanilson,Bournemouth
-2025-01-25,harveybarnes_newcastleutd,5.0,0.0,27.0,Harvey Barnes,Newcastle Utd
-2025-01-25,jarrodbowen_westham,5.0,1.0,28.0,Jarrod Bowen,West Ham
-2025-01-25,joaopedro_brighton,5.0,1.0,29.0,Joao Pedro,Brighton
-2025-01-25,kaorumitoma_brighton,5.0,0.0,30.0,Kaoru Mitoma,Brighton
-2025-01-25,jacobmurphy_newcastleutd,3.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-01-25,rodrigomuniz_fulham,3.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-01-25,evanilson_bournemouth,5.0,0.0,24.0,Evanilson,Bournemouth
+2025-01-25,harveybarnes_newcastleutd,5.0,0.0,25.0,Harvey Barnes,Newcastle Utd
+2025-01-25,jarrodbowen_westham,5.0,1.0,26.0,Jarrod Bowen,West Ham
+2025-01-25,joaopedro_brighton,5.0,1.0,27.0,Joao Pedro,Brighton
+2025-01-25,kaorumitoma_brighton,5.0,0.0,28.0,Kaoru Mitoma,Brighton
+2025-01-25,kevinschade_brentford,5.0,0.0,29.0,Kevin Schade,Brentford
 2025-01-26,mohamedsalah_liverpool,19.0,5.0,1.0,Mohamed Salah,Liverpool
 2025-01-26,erlinghaaland_manchestercity,18.0,1.0,2.0,Erling Haaland,Manchester City
 2025-01-26,alexanderisak_newcastleutd,17.0,1.0,3.0,Alexander Isak,Newcastle Utd
@@ -1750,15 +1588,12 @@ date,player_team,value,pk,rank,player,team
 2025-01-26,brennanjohnson_tottenham,7.0,0.0,21.0,Brennan Johnson,Tottenham
 2025-01-26,jorgenstrandlarsen_wolves,7.0,0.0,22.0,Jorgen Strand Larsen,Wolves
 2025-01-26,dannywelbeck_brighton,6.0,0.0,23.0,Danny Welbeck,Brighton
-2025-01-26,morganrogers_astonvilla,6.0,0.0,24.0,Morgan Rogers,Aston Villa
-2025-01-26,brunofernandes_manchesterutd,5.0,3.0,25.0,Bruno Fernandes,Manchester Utd
-2025-01-26,evanilson_bournemouth,5.0,0.0,26.0,Evanilson,Bournemouth
-2025-01-26,harveybarnes_newcastleutd,5.0,0.0,27.0,Harvey Barnes,Newcastle Utd
-2025-01-26,jarrodbowen_westham,5.0,1.0,28.0,Jarrod Bowen,West Ham
-2025-01-26,joaopedro_brighton,5.0,1.0,29.0,Joao Pedro,Brighton
-2025-01-26,kaorumitoma_brighton,5.0,0.0,30.0,Kaoru Mitoma,Brighton
-2025-01-26,jacobmurphy_newcastleutd,3.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-01-26,rodrigomuniz_fulham,3.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-01-26,kevinschade_brentford,6.0,0.0,24.0,Kevin Schade,Brentford
+2025-01-26,evanilson_bournemouth,5.0,0.0,25.0,Evanilson,Bournemouth
+2025-01-26,harveybarnes_newcastleutd,5.0,0.0,26.0,Harvey Barnes,Newcastle Utd
+2025-01-26,jarrodbowen_westham,5.0,1.0,27.0,Jarrod Bowen,West Ham
+2025-01-26,joaopedro_brighton,5.0,1.0,28.0,Joao Pedro,Brighton
+2025-01-26,kaorumitoma_brighton,5.0,0.0,29.0,Kaoru Mitoma,Brighton
 2025-02-01,mohamedsalah_liverpool,21.0,6.0,1.0,Mohamed Salah,Liverpool
 2025-02-01,erlinghaaland_manchestercity,18.0,1.0,2.0,Erling Haaland,Manchester City
 2025-02-01,alexanderisak_newcastleutd,17.0,1.0,3.0,Alexander Isak,Newcastle Utd
@@ -1782,15 +1617,12 @@ date,player_team,value,pk,rank,player,team
 2025-02-01,brennanjohnson_tottenham,7.0,0.0,21.0,Brennan Johnson,Tottenham
 2025-02-01,jorgenstrandlarsen_wolves,7.0,0.0,22.0,Jorgen Strand Larsen,Wolves
 2025-02-01,dannywelbeck_brighton,6.0,0.0,23.0,Danny Welbeck,Brighton
-2025-02-01,morganrogers_astonvilla,6.0,0.0,24.0,Morgan Rogers,Aston Villa
-2025-02-01,brunofernandes_manchesterutd,5.0,3.0,25.0,Bruno Fernandes,Manchester Utd
-2025-02-01,evanilson_bournemouth,5.0,0.0,26.0,Evanilson,Bournemouth
-2025-02-01,harveybarnes_newcastleutd,5.0,0.0,27.0,Harvey Barnes,Newcastle Utd
-2025-02-01,jarrodbowen_westham,5.0,1.0,28.0,Jarrod Bowen,West Ham
-2025-02-01,joaopedro_brighton,5.0,1.0,29.0,Joao Pedro,Brighton
-2025-02-01,kaorumitoma_brighton,5.0,0.0,30.0,Kaoru Mitoma,Brighton
-2025-02-01,jacobmurphy_newcastleutd,4.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-02-01,rodrigomuniz_fulham,4.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-02-01,kevinschade_brentford,6.0,0.0,24.0,Kevin Schade,Brentford
+2025-02-01,evanilson_bournemouth,5.0,0.0,25.0,Evanilson,Bournemouth
+2025-02-01,harveybarnes_newcastleutd,5.0,0.0,26.0,Harvey Barnes,Newcastle Utd
+2025-02-01,jarrodbowen_westham,5.0,1.0,27.0,Jarrod Bowen,West Ham
+2025-02-01,joaopedro_brighton,5.0,1.0,28.0,Joao Pedro,Brighton
+2025-02-01,kaorumitoma_brighton,5.0,0.0,29.0,Kaoru Mitoma,Brighton
 2025-02-02,mohamedsalah_liverpool,21.0,6.0,1.0,Mohamed Salah,Liverpool
 2025-02-02,erlinghaaland_manchestercity,19.0,1.0,2.0,Erling Haaland,Manchester City
 2025-02-02,alexanderisak_newcastleutd,17.0,1.0,3.0,Alexander Isak,Newcastle Utd
@@ -1814,15 +1646,12 @@ date,player_team,value,pk,rank,player,team
 2025-02-02,brennanjohnson_tottenham,7.0,0.0,21.0,Brennan Johnson,Tottenham
 2025-02-02,jorgenstrandlarsen_wolves,7.0,0.0,22.0,Jorgen Strand Larsen,Wolves
 2025-02-02,dannywelbeck_brighton,6.0,0.0,23.0,Danny Welbeck,Brighton
-2025-02-02,morganrogers_astonvilla,6.0,0.0,24.0,Morgan Rogers,Aston Villa
-2025-02-02,brunofernandes_manchesterutd,5.0,3.0,25.0,Bruno Fernandes,Manchester Utd
-2025-02-02,evanilson_bournemouth,5.0,0.0,26.0,Evanilson,Bournemouth
-2025-02-02,harveybarnes_newcastleutd,5.0,0.0,27.0,Harvey Barnes,Newcastle Utd
-2025-02-02,jarrodbowen_westham,5.0,1.0,28.0,Jarrod Bowen,West Ham
-2025-02-02,joaopedro_brighton,5.0,1.0,29.0,Joao Pedro,Brighton
-2025-02-02,kaorumitoma_brighton,5.0,0.0,30.0,Kaoru Mitoma,Brighton
-2025-02-02,jacobmurphy_newcastleutd,4.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-02-02,rodrigomuniz_fulham,4.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-02-02,kevinschade_brentford,6.0,0.0,24.0,Kevin Schade,Brentford
+2025-02-02,evanilson_bournemouth,5.0,0.0,25.0,Evanilson,Bournemouth
+2025-02-02,harveybarnes_newcastleutd,5.0,0.0,26.0,Harvey Barnes,Newcastle Utd
+2025-02-02,jarrodbowen_westham,5.0,1.0,27.0,Jarrod Bowen,West Ham
+2025-02-02,joaopedro_brighton,5.0,1.0,28.0,Joao Pedro,Brighton
+2025-02-02,kaorumitoma_brighton,5.0,0.0,29.0,Kaoru Mitoma,Brighton
 2025-02-03,mohamedsalah_liverpool,21.0,6.0,1.0,Mohamed Salah,Liverpool
 2025-02-03,erlinghaaland_manchestercity,19.0,1.0,2.0,Erling Haaland,Manchester City
 2025-02-03,alexanderisak_newcastleutd,17.0,1.0,3.0,Alexander Isak,Newcastle Utd
@@ -1847,14 +1676,11 @@ date,player_team,value,pk,rank,player,team
 2025-02-03,jorgenstrandlarsen_wolves,7.0,0.0,22.0,Jorgen Strand Larsen,Wolves
 2025-02-03,dannywelbeck_brighton,6.0,0.0,23.0,Danny Welbeck,Brighton
 2025-02-03,jarrodbowen_westham,6.0,1.0,24.0,Jarrod Bowen,West Ham
-2025-02-03,morganrogers_astonvilla,6.0,0.0,25.0,Morgan Rogers,Aston Villa
-2025-02-03,brunofernandes_manchesterutd,5.0,3.0,26.0,Bruno Fernandes,Manchester Utd
-2025-02-03,evanilson_bournemouth,5.0,0.0,27.0,Evanilson,Bournemouth
-2025-02-03,harveybarnes_newcastleutd,5.0,0.0,28.0,Harvey Barnes,Newcastle Utd
-2025-02-03,joaopedro_brighton,5.0,1.0,29.0,Joao Pedro,Brighton
-2025-02-03,kaorumitoma_brighton,5.0,0.0,30.0,Kaoru Mitoma,Brighton
-2025-02-03,jacobmurphy_newcastleutd,4.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-02-03,rodrigomuniz_fulham,4.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-02-03,kevinschade_brentford,6.0,0.0,25.0,Kevin Schade,Brentford
+2025-02-03,evanilson_bournemouth,5.0,0.0,26.0,Evanilson,Bournemouth
+2025-02-03,harveybarnes_newcastleutd,5.0,0.0,27.0,Harvey Barnes,Newcastle Utd
+2025-02-03,joaopedro_brighton,5.0,1.0,28.0,Joao Pedro,Brighton
+2025-02-03,kaorumitoma_brighton,5.0,0.0,29.0,Kaoru Mitoma,Brighton
 2025-02-12,mohamedsalah_liverpool,22.0,6.0,1.0,Mohamed Salah,Liverpool
 2025-02-12,erlinghaaland_manchestercity,19.0,1.0,2.0,Erling Haaland,Manchester City
 2025-02-12,alexanderisak_newcastleutd,17.0,1.0,3.0,Alexander Isak,Newcastle Utd
@@ -1879,14 +1705,11 @@ date,player_team,value,pk,rank,player,team
 2025-02-12,jorgenstrandlarsen_wolves,7.0,0.0,22.0,Jorgen Strand Larsen,Wolves
 2025-02-12,dannywelbeck_brighton,6.0,0.0,23.0,Danny Welbeck,Brighton
 2025-02-12,jarrodbowen_westham,6.0,1.0,24.0,Jarrod Bowen,West Ham
-2025-02-12,morganrogers_astonvilla,6.0,0.0,25.0,Morgan Rogers,Aston Villa
-2025-02-12,brunofernandes_manchesterutd,5.0,3.0,26.0,Bruno Fernandes,Manchester Utd
-2025-02-12,evanilson_bournemouth,5.0,0.0,27.0,Evanilson,Bournemouth
-2025-02-12,harveybarnes_newcastleutd,5.0,0.0,28.0,Harvey Barnes,Newcastle Utd
-2025-02-12,joaopedro_brighton,5.0,1.0,29.0,Joao Pedro,Brighton
-2025-02-12,kaorumitoma_brighton,5.0,0.0,30.0,Kaoru Mitoma,Brighton
-2025-02-12,jacobmurphy_newcastleutd,4.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-02-12,rodrigomuniz_fulham,4.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-02-12,kevinschade_brentford,6.0,0.0,25.0,Kevin Schade,Brentford
+2025-02-12,evanilson_bournemouth,5.0,0.0,26.0,Evanilson,Bournemouth
+2025-02-12,harveybarnes_newcastleutd,5.0,0.0,27.0,Harvey Barnes,Newcastle Utd
+2025-02-12,joaopedro_brighton,5.0,1.0,28.0,Joao Pedro,Brighton
+2025-02-12,kaorumitoma_brighton,5.0,0.0,29.0,Kaoru Mitoma,Brighton
 2025-02-14,mohamedsalah_liverpool,22.0,6.0,1.0,Mohamed Salah,Liverpool
 2025-02-14,erlinghaaland_manchestercity,19.0,1.0,2.0,Erling Haaland,Manchester City
 2025-02-14,alexanderisak_newcastleutd,17.0,1.0,3.0,Alexander Isak,Newcastle Utd
@@ -1912,13 +1735,10 @@ date,player_team,value,pk,rank,player,team
 2025-02-14,dannywelbeck_brighton,6.0,0.0,23.0,Danny Welbeck,Brighton
 2025-02-14,jarrodbowen_westham,6.0,1.0,24.0,Jarrod Bowen,West Ham
 2025-02-14,kaorumitoma_brighton,6.0,0.0,25.0,Kaoru Mitoma,Brighton
-2025-02-14,morganrogers_astonvilla,6.0,0.0,26.0,Morgan Rogers,Aston Villa
-2025-02-14,brunofernandes_manchesterutd,5.0,3.0,27.0,Bruno Fernandes,Manchester Utd
-2025-02-14,evanilson_bournemouth,5.0,0.0,28.0,Evanilson,Bournemouth
-2025-02-14,harveybarnes_newcastleutd,5.0,0.0,29.0,Harvey Barnes,Newcastle Utd
-2025-02-14,joaopedro_brighton,5.0,1.0,30.0,Joao Pedro,Brighton
-2025-02-14,jacobmurphy_newcastleutd,4.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-02-14,rodrigomuniz_fulham,4.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-02-14,kevinschade_brentford,6.0,0.0,26.0,Kevin Schade,Brentford
+2025-02-14,evanilson_bournemouth,5.0,0.0,27.0,Evanilson,Bournemouth
+2025-02-14,harveybarnes_newcastleutd,5.0,0.0,28.0,Harvey Barnes,Newcastle Utd
+2025-02-14,joaopedro_brighton,5.0,1.0,29.0,Joao Pedro,Brighton
 2025-02-15,mohamedsalah_liverpool,22.0,6.0,1.0,Mohamed Salah,Liverpool
 2025-02-15,erlinghaaland_manchestercity,19.0,1.0,2.0,Erling Haaland,Manchester City
 2025-02-15,chriswood_notthamforest,18.0,3.0,3.0,Chris Wood,Nott'ham Forest
@@ -1941,16 +1761,13 @@ date,player_team,value,pk,rank,player,team
 2025-02-15,antoinesemenyo_bournemouth,7.0,0.0,20.0,Antoine Semenyo,Bournemouth
 2025-02-15,brennanjohnson_tottenham,7.0,0.0,21.0,Brennan Johnson,Tottenham
 2025-02-15,jorgenstrandlarsen_wolves,7.0,0.0,22.0,Jorgen Strand Larsen,Wolves
-2025-02-15,dannywelbeck_brighton,6.0,0.0,23.0,Danny Welbeck,Brighton
-2025-02-15,jarrodbowen_westham,6.0,1.0,24.0,Jarrod Bowen,West Ham
-2025-02-15,kaorumitoma_brighton,6.0,0.0,25.0,Kaoru Mitoma,Brighton
-2025-02-15,morganrogers_astonvilla,6.0,0.0,26.0,Morgan Rogers,Aston Villa
-2025-02-15,brunofernandes_manchesterutd,5.0,3.0,27.0,Bruno Fernandes,Manchester Utd
-2025-02-15,evanilson_bournemouth,5.0,0.0,28.0,Evanilson,Bournemouth
-2025-02-15,harveybarnes_newcastleutd,5.0,0.0,29.0,Harvey Barnes,Newcastle Utd
-2025-02-15,joaopedro_brighton,5.0,1.0,30.0,Joao Pedro,Brighton
-2025-02-15,jacobmurphy_newcastleutd,4.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-02-15,rodrigomuniz_fulham,4.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-02-15,kevinschade_brentford,7.0,0.0,23.0,Kevin Schade,Brentford
+2025-02-15,dannywelbeck_brighton,6.0,0.0,24.0,Danny Welbeck,Brighton
+2025-02-15,jarrodbowen_westham,6.0,1.0,25.0,Jarrod Bowen,West Ham
+2025-02-15,kaorumitoma_brighton,6.0,0.0,26.0,Kaoru Mitoma,Brighton
+2025-02-15,evanilson_bournemouth,5.0,0.0,27.0,Evanilson,Bournemouth
+2025-02-15,harveybarnes_newcastleutd,5.0,0.0,28.0,Harvey Barnes,Newcastle Utd
+2025-02-15,joaopedro_brighton,5.0,1.0,29.0,Joao Pedro,Brighton
 2025-02-16,mohamedsalah_liverpool,23.0,7.0,1.0,Mohamed Salah,Liverpool
 2025-02-16,erlinghaaland_manchestercity,19.0,1.0,2.0,Erling Haaland,Manchester City
 2025-02-16,chriswood_notthamforest,18.0,3.0,3.0,Chris Wood,Nott'ham Forest
@@ -1973,16 +1790,13 @@ date,player_team,value,pk,rank,player,team
 2025-02-16,antoinesemenyo_bournemouth,7.0,0.0,20.0,Antoine Semenyo,Bournemouth
 2025-02-16,brennanjohnson_tottenham,7.0,0.0,21.0,Brennan Johnson,Tottenham
 2025-02-16,jorgenstrandlarsen_wolves,7.0,0.0,22.0,Jorgen Strand Larsen,Wolves
-2025-02-16,dannywelbeck_brighton,6.0,0.0,23.0,Danny Welbeck,Brighton
-2025-02-16,jarrodbowen_westham,6.0,1.0,24.0,Jarrod Bowen,West Ham
-2025-02-16,kaorumitoma_brighton,6.0,0.0,25.0,Kaoru Mitoma,Brighton
-2025-02-16,morganrogers_astonvilla,6.0,0.0,26.0,Morgan Rogers,Aston Villa
-2025-02-16,brunofernandes_manchesterutd,5.0,3.0,27.0,Bruno Fernandes,Manchester Utd
-2025-02-16,evanilson_bournemouth,5.0,0.0,28.0,Evanilson,Bournemouth
-2025-02-16,harveybarnes_newcastleutd,5.0,0.0,29.0,Harvey Barnes,Newcastle Utd
-2025-02-16,joaopedro_brighton,5.0,1.0,30.0,Joao Pedro,Brighton
-2025-02-16,jacobmurphy_newcastleutd,4.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-02-16,rodrigomuniz_fulham,4.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-02-16,kevinschade_brentford,7.0,0.0,23.0,Kevin Schade,Brentford
+2025-02-16,dannywelbeck_brighton,6.0,0.0,24.0,Danny Welbeck,Brighton
+2025-02-16,jarrodbowen_westham,6.0,1.0,25.0,Jarrod Bowen,West Ham
+2025-02-16,kaorumitoma_brighton,6.0,0.0,26.0,Kaoru Mitoma,Brighton
+2025-02-16,evanilson_bournemouth,5.0,0.0,27.0,Evanilson,Bournemouth
+2025-02-16,harveybarnes_newcastleutd,5.0,0.0,28.0,Harvey Barnes,Newcastle Utd
+2025-02-16,joaopedro_brighton,5.0,1.0,29.0,Joao Pedro,Brighton
 2025-02-19,mohamedsalah_liverpool,24.0,7.0,1.0,Mohamed Salah,Liverpool
 2025-02-19,erlinghaaland_manchestercity,19.0,1.0,2.0,Erling Haaland,Manchester City
 2025-02-19,chriswood_notthamforest,18.0,3.0,3.0,Chris Wood,Nott'ham Forest
@@ -2005,16 +1819,13 @@ date,player_team,value,pk,rank,player,team
 2025-02-19,antoinesemenyo_bournemouth,7.0,0.0,20.0,Antoine Semenyo,Bournemouth
 2025-02-19,brennanjohnson_tottenham,7.0,0.0,21.0,Brennan Johnson,Tottenham
 2025-02-19,jorgenstrandlarsen_wolves,7.0,0.0,22.0,Jorgen Strand Larsen,Wolves
-2025-02-19,dannywelbeck_brighton,6.0,0.0,23.0,Danny Welbeck,Brighton
-2025-02-19,jarrodbowen_westham,6.0,1.0,24.0,Jarrod Bowen,West Ham
-2025-02-19,kaorumitoma_brighton,6.0,0.0,25.0,Kaoru Mitoma,Brighton
-2025-02-19,morganrogers_astonvilla,6.0,0.0,26.0,Morgan Rogers,Aston Villa
-2025-02-19,brunofernandes_manchesterutd,5.0,3.0,27.0,Bruno Fernandes,Manchester Utd
-2025-02-19,evanilson_bournemouth,5.0,0.0,28.0,Evanilson,Bournemouth
-2025-02-19,harveybarnes_newcastleutd,5.0,0.0,29.0,Harvey Barnes,Newcastle Utd
-2025-02-19,joaopedro_brighton,5.0,1.0,30.0,Joao Pedro,Brighton
-2025-02-19,jacobmurphy_newcastleutd,4.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-02-19,rodrigomuniz_fulham,4.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-02-19,kevinschade_brentford,7.0,0.0,23.0,Kevin Schade,Brentford
+2025-02-19,dannywelbeck_brighton,6.0,0.0,24.0,Danny Welbeck,Brighton
+2025-02-19,jarrodbowen_westham,6.0,1.0,25.0,Jarrod Bowen,West Ham
+2025-02-19,kaorumitoma_brighton,6.0,0.0,26.0,Kaoru Mitoma,Brighton
+2025-02-19,evanilson_bournemouth,5.0,0.0,27.0,Evanilson,Bournemouth
+2025-02-19,harveybarnes_newcastleutd,5.0,0.0,28.0,Harvey Barnes,Newcastle Utd
+2025-02-19,joaopedro_brighton,5.0,1.0,29.0,Joao Pedro,Brighton
 2025-02-21,mohamedsalah_liverpool,24.0,7.0,1.0,Mohamed Salah,Liverpool
 2025-02-21,erlinghaaland_manchestercity,19.0,1.0,2.0,Erling Haaland,Manchester City
 2025-02-21,chriswood_notthamforest,18.0,3.0,3.0,Chris Wood,Nott'ham Forest
@@ -2037,16 +1848,13 @@ date,player_team,value,pk,rank,player,team
 2025-02-21,antoinesemenyo_bournemouth,7.0,0.0,20.0,Antoine Semenyo,Bournemouth
 2025-02-21,brennanjohnson_tottenham,7.0,0.0,21.0,Brennan Johnson,Tottenham
 2025-02-21,jorgenstrandlarsen_wolves,7.0,0.0,22.0,Jorgen Strand Larsen,Wolves
-2025-02-21,dannywelbeck_brighton,6.0,0.0,23.0,Danny Welbeck,Brighton
-2025-02-21,jarrodbowen_westham,6.0,1.0,24.0,Jarrod Bowen,West Ham
-2025-02-21,kaorumitoma_brighton,6.0,0.0,25.0,Kaoru Mitoma,Brighton
-2025-02-21,morganrogers_astonvilla,6.0,0.0,26.0,Morgan Rogers,Aston Villa
-2025-02-21,brunofernandes_manchesterutd,5.0,3.0,27.0,Bruno Fernandes,Manchester Utd
-2025-02-21,evanilson_bournemouth,5.0,0.0,28.0,Evanilson,Bournemouth
-2025-02-21,harveybarnes_newcastleutd,5.0,0.0,29.0,Harvey Barnes,Newcastle Utd
-2025-02-21,joaopedro_brighton,5.0,1.0,30.0,Joao Pedro,Brighton
-2025-02-21,jacobmurphy_newcastleutd,4.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-02-21,rodrigomuniz_fulham,4.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-02-21,kevinschade_brentford,7.0,0.0,23.0,Kevin Schade,Brentford
+2025-02-21,dannywelbeck_brighton,6.0,0.0,24.0,Danny Welbeck,Brighton
+2025-02-21,jarrodbowen_westham,6.0,1.0,25.0,Jarrod Bowen,West Ham
+2025-02-21,kaorumitoma_brighton,6.0,0.0,26.0,Kaoru Mitoma,Brighton
+2025-02-21,evanilson_bournemouth,5.0,0.0,27.0,Evanilson,Bournemouth
+2025-02-21,harveybarnes_newcastleutd,5.0,0.0,28.0,Harvey Barnes,Newcastle Utd
+2025-02-21,joaopedro_brighton,5.0,1.0,29.0,Joao Pedro,Brighton
 2025-02-22,mohamedsalah_liverpool,24.0,7.0,1.0,Mohamed Salah,Liverpool
 2025-02-22,erlinghaaland_manchestercity,19.0,1.0,2.0,Erling Haaland,Manchester City
 2025-02-22,chriswood_notthamforest,18.0,3.0,3.0,Chris Wood,Nott'ham Forest
@@ -2071,14 +1879,11 @@ date,player_team,value,pk,rank,player,team
 2025-02-22,jarrodbowen_westham,7.0,1.0,22.0,Jarrod Bowen,West Ham
 2025-02-22,jorgenstrandlarsen_wolves,7.0,0.0,23.0,Jorgen Strand Larsen,Wolves
 2025-02-22,kaorumitoma_brighton,7.0,0.0,24.0,Kaoru Mitoma,Brighton
-2025-02-22,brunofernandes_manchesterutd,6.0,3.0,25.0,Bruno Fernandes,Manchester Utd
+2025-02-22,kevinschade_brentford,7.0,0.0,25.0,Kevin Schade,Brentford
 2025-02-22,dannywelbeck_brighton,6.0,0.0,26.0,Danny Welbeck,Brighton
 2025-02-22,joaopedro_brighton,6.0,1.0,27.0,Joao Pedro,Brighton
-2025-02-22,morganrogers_astonvilla,6.0,0.0,28.0,Morgan Rogers,Aston Villa
-2025-02-22,evanilson_bournemouth,5.0,0.0,29.0,Evanilson,Bournemouth
-2025-02-22,harveybarnes_newcastleutd,5.0,0.0,30.0,Harvey Barnes,Newcastle Utd
-2025-02-22,jacobmurphy_newcastleutd,4.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-02-22,rodrigomuniz_fulham,4.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-02-22,evanilson_bournemouth,5.0,0.0,28.0,Evanilson,Bournemouth
+2025-02-22,harveybarnes_newcastleutd,5.0,0.0,29.0,Harvey Barnes,Newcastle Utd
 2025-02-23,mohamedsalah_liverpool,25.0,7.0,1.0,Mohamed Salah,Liverpool
 2025-02-23,alexanderisak_newcastleutd,19.0,2.0,2.0,Alexander Isak,Newcastle Utd
 2025-02-23,erlinghaaland_manchestercity,19.0,1.0,3.0,Erling Haaland,Manchester City
@@ -2103,14 +1908,11 @@ date,player_team,value,pk,rank,player,team
 2025-02-23,jarrodbowen_westham,7.0,1.0,22.0,Jarrod Bowen,West Ham
 2025-02-23,jorgenstrandlarsen_wolves,7.0,0.0,23.0,Jorgen Strand Larsen,Wolves
 2025-02-23,kaorumitoma_brighton,7.0,0.0,24.0,Kaoru Mitoma,Brighton
-2025-02-23,brunofernandes_manchesterutd,6.0,3.0,25.0,Bruno Fernandes,Manchester Utd
+2025-02-23,kevinschade_brentford,7.0,0.0,25.0,Kevin Schade,Brentford
 2025-02-23,dannywelbeck_brighton,6.0,0.0,26.0,Danny Welbeck,Brighton
 2025-02-23,joaopedro_brighton,6.0,1.0,27.0,Joao Pedro,Brighton
-2025-02-23,morganrogers_astonvilla,6.0,0.0,28.0,Morgan Rogers,Aston Villa
-2025-02-23,evanilson_bournemouth,5.0,0.0,29.0,Evanilson,Bournemouth
-2025-02-23,harveybarnes_newcastleutd,5.0,0.0,30.0,Harvey Barnes,Newcastle Utd
-2025-02-23,jacobmurphy_newcastleutd,5.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-02-23,rodrigomuniz_fulham,4.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-02-23,evanilson_bournemouth,5.0,0.0,28.0,Evanilson,Bournemouth
+2025-02-23,harveybarnes_newcastleutd,5.0,0.0,29.0,Harvey Barnes,Newcastle Utd
 2025-02-25,mohamedsalah_liverpool,25.0,7.0,1.0,Mohamed Salah,Liverpool
 2025-02-25,alexanderisak_newcastleutd,19.0,2.0,2.0,Alexander Isak,Newcastle Utd
 2025-02-25,erlinghaaland_manchestercity,19.0,1.0,3.0,Erling Haaland,Manchester City
@@ -2137,12 +1939,9 @@ date,player_team,value,pk,rank,player,team
 2025-02-25,joaopedro_brighton,7.0,2.0,24.0,Joao Pedro,Brighton
 2025-02-25,jorgenstrandlarsen_wolves,7.0,0.0,25.0,Jorgen Strand Larsen,Wolves
 2025-02-25,kaorumitoma_brighton,7.0,0.0,26.0,Kaoru Mitoma,Brighton
-2025-02-25,morganrogers_astonvilla,7.0,0.0,27.0,Morgan Rogers,Aston Villa
-2025-02-25,brunofernandes_manchesterutd,6.0,3.0,28.0,Bruno Fernandes,Manchester Utd
-2025-02-25,evanilson_bournemouth,5.0,0.0,29.0,Evanilson,Bournemouth
-2025-02-25,harveybarnes_newcastleutd,5.0,0.0,30.0,Harvey Barnes,Newcastle Utd
-2025-02-25,jacobmurphy_newcastleutd,5.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-02-25,rodrigomuniz_fulham,5.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-02-25,kevinschade_brentford,7.0,0.0,27.0,Kevin Schade,Brentford
+2025-02-25,evanilson_bournemouth,5.0,0.0,28.0,Evanilson,Bournemouth
+2025-02-25,harveybarnes_newcastleutd,5.0,0.0,29.0,Harvey Barnes,Newcastle Utd
 2025-02-26,mohamedsalah_liverpool,25.0,7.0,1.0,Mohamed Salah,Liverpool
 2025-02-26,erlinghaaland_manchestercity,20.0,1.0,2.0,Erling Haaland,Manchester City
 2025-02-26,alexanderisak_newcastleutd,19.0,2.0,3.0,Alexander Isak,Newcastle Utd
@@ -2169,12 +1968,9 @@ date,player_team,value,pk,rank,player,team
 2025-02-26,joaopedro_brighton,7.0,2.0,24.0,Joao Pedro,Brighton
 2025-02-26,jorgenstrandlarsen_wolves,7.0,0.0,25.0,Jorgen Strand Larsen,Wolves
 2025-02-26,kaorumitoma_brighton,7.0,0.0,26.0,Kaoru Mitoma,Brighton
-2025-02-26,morganrogers_astonvilla,7.0,0.0,27.0,Morgan Rogers,Aston Villa
-2025-02-26,brunofernandes_manchesterutd,6.0,3.0,28.0,Bruno Fernandes,Manchester Utd
-2025-02-26,evanilson_bournemouth,5.0,0.0,29.0,Evanilson,Bournemouth
-2025-02-26,harveybarnes_newcastleutd,5.0,0.0,30.0,Harvey Barnes,Newcastle Utd
-2025-02-26,jacobmurphy_newcastleutd,5.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-02-26,rodrigomuniz_fulham,5.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-02-26,kevinschade_brentford,7.0,0.0,27.0,Kevin Schade,Brentford
+2025-02-26,evanilson_bournemouth,5.0,0.0,28.0,Evanilson,Bournemouth
+2025-02-26,harveybarnes_newcastleutd,5.0,0.0,29.0,Harvey Barnes,Newcastle Utd
 2025-03-08,mohamedsalah_liverpool,27.0,9.0,1.0,Mohamed Salah,Liverpool
 2025-03-08,erlinghaaland_manchestercity,20.0,1.0,2.0,Erling Haaland,Manchester City
 2025-03-08,alexanderisak_newcastleutd,19.0,2.0,3.0,Alexander Isak,Newcastle Utd
@@ -2201,12 +1997,9 @@ date,player_team,value,pk,rank,player,team
 2025-03-08,jarrodbowen_westham,7.0,1.0,24.0,Jarrod Bowen,West Ham
 2025-03-08,jorgenstrandlarsen_wolves,7.0,0.0,25.0,Jorgen Strand Larsen,Wolves
 2025-03-08,kaorumitoma_brighton,7.0,0.0,26.0,Kaoru Mitoma,Brighton
-2025-03-08,morganrogers_astonvilla,7.0,0.0,27.0,Morgan Rogers,Aston Villa
-2025-03-08,brunofernandes_manchesterutd,6.0,3.0,28.0,Bruno Fernandes,Manchester Utd
-2025-03-08,evanilson_bournemouth,5.0,0.0,29.0,Evanilson,Bournemouth
-2025-03-08,harveybarnes_newcastleutd,5.0,0.0,30.0,Harvey Barnes,Newcastle Utd
-2025-03-08,jacobmurphy_newcastleutd,5.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-03-08,rodrigomuniz_fulham,5.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-03-08,kevinschade_brentford,7.0,0.0,27.0,Kevin Schade,Brentford
+2025-03-08,evanilson_bournemouth,5.0,0.0,28.0,Evanilson,Bournemouth
+2025-03-08,harveybarnes_newcastleutd,5.0,0.0,29.0,Harvey Barnes,Newcastle Utd
 2025-03-09,mohamedsalah_liverpool,27.0,9.0,1.0,Mohamed Salah,Liverpool
 2025-03-09,erlinghaaland_manchestercity,20.0,1.0,2.0,Erling Haaland,Manchester City
 2025-03-09,alexanderisak_newcastleutd,19.0,2.0,3.0,Alexander Isak,Newcastle Utd
@@ -2229,16 +2022,13 @@ date,player_team,value,pk,rank,player,team
 2025-03-09,joaopedro_brighton,8.0,3.0,20.0,Joao Pedro,Brighton
 2025-03-09,alexiwobi_fulham,7.0,0.0,21.0,Alex Iwobi,Fulham
 2025-03-09,antoinesemenyo_bournemouth,7.0,0.0,22.0,Antoine Semenyo,Bournemouth
-2025-03-09,brunofernandes_manchesterutd,7.0,3.0,23.0,Bruno Fernandes,Manchester Utd
-2025-03-09,dannywelbeck_brighton,7.0,0.0,24.0,Danny Welbeck,Brighton
-2025-03-09,jarrodbowen_westham,7.0,1.0,25.0,Jarrod Bowen,West Ham
-2025-03-09,jorgenstrandlarsen_wolves,7.0,0.0,26.0,Jorgen Strand Larsen,Wolves
-2025-03-09,kaorumitoma_brighton,7.0,0.0,27.0,Kaoru Mitoma,Brighton
-2025-03-09,morganrogers_astonvilla,7.0,0.0,28.0,Morgan Rogers,Aston Villa
-2025-03-09,evanilson_bournemouth,6.0,0.0,29.0,Evanilson,Bournemouth
-2025-03-09,harveybarnes_newcastleutd,5.0,0.0,30.0,Harvey Barnes,Newcastle Utd
-2025-03-09,jacobmurphy_newcastleutd,5.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-03-09,rodrigomuniz_fulham,5.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-03-09,dannywelbeck_brighton,7.0,0.0,23.0,Danny Welbeck,Brighton
+2025-03-09,jarrodbowen_westham,7.0,1.0,24.0,Jarrod Bowen,West Ham
+2025-03-09,jorgenstrandlarsen_wolves,7.0,0.0,25.0,Jorgen Strand Larsen,Wolves
+2025-03-09,kaorumitoma_brighton,7.0,0.0,26.0,Kaoru Mitoma,Brighton
+2025-03-09,kevinschade_brentford,7.0,0.0,27.0,Kevin Schade,Brentford
+2025-03-09,evanilson_bournemouth,6.0,0.0,28.0,Evanilson,Bournemouth
+2025-03-09,harveybarnes_newcastleutd,5.0,0.0,29.0,Harvey Barnes,Newcastle Utd
 2025-03-15,mohamedsalah_liverpool,27.0,9.0,1.0,Mohamed Salah,Liverpool
 2025-03-15,erlinghaaland_manchestercity,21.0,2.0,2.0,Erling Haaland,Manchester City
 2025-03-15,alexanderisak_newcastleutd,19.0,2.0,3.0,Alexander Isak,Newcastle Utd
@@ -2262,47 +2052,12 @@ date,player_team,value,pk,rank,player,team
 2025-03-15,joaopedro_brighton,8.0,3.0,21.0,Joao Pedro,Brighton
 2025-03-15,alexiwobi_fulham,7.0,0.0,22.0,Alex Iwobi,Fulham
 2025-03-15,antoinesemenyo_bournemouth,7.0,0.0,23.0,Antoine Semenyo,Bournemouth
-2025-03-15,brunofernandes_manchesterutd,7.0,3.0,24.0,Bruno Fernandes,Manchester Utd
-2025-03-15,dannywelbeck_brighton,7.0,0.0,25.0,Danny Welbeck,Brighton
-2025-03-15,jarrodbowen_westham,7.0,1.0,26.0,Jarrod Bowen,West Ham
-2025-03-15,kaorumitoma_brighton,7.0,0.0,27.0,Kaoru Mitoma,Brighton
-2025-03-15,morganrogers_astonvilla,7.0,0.0,28.0,Morgan Rogers,Aston Villa
-2025-03-15,evanilson_bournemouth,6.0,0.0,29.0,Evanilson,Bournemouth
-2025-03-15,harveybarnes_newcastleutd,5.0,0.0,30.0,Harvey Barnes,Newcastle Utd
-2025-03-15,jacobmurphy_newcastleutd,5.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-03-15,rodrigomuniz_fulham,5.0,0.0,32.0,Rodrigo Muniz,Fulham
-2025-03-16,mohamedsalah_liverpool,27.0,9.0,1.0,Mohamed Salah,Liverpool
-2025-03-16,erlinghaaland_manchestercity,21.0,2.0,2.0,Erling Haaland,Manchester City
-2025-03-16,alexanderisak_newcastleutd,19.0,2.0,3.0,Alexander Isak,Newcastle Utd
-2025-03-16,chriswood_notthamforest,18.0,3.0,4.0,Chris Wood,Nott'ham Forest
-2025-03-16,bryanmbeumo_brentford,15.0,4.0,5.0,Bryan Mbeumo,Brentford
-2025-03-16,colepalmer_chelsea,14.0,3.0,6.0,Cole Palmer,Chelsea
-2025-03-16,yoanewissa_brentford,14.0,0.0,7.0,Yoane Wissa,Brentford
-2025-03-16,matheuscunha_wolves,13.0,0.0,8.0,Matheus Cunha,Wolves
-2025-03-16,olliewatkins_astonvilla,13.0,2.0,9.0,Ollie Watkins,Aston Villa
-2025-03-16,jeanphilippemateta_crystalpalace,12.0,2.0,10.0,Jean-Philippe Mateta,Crystal Palace
-2025-03-16,justinkluivert_bournemouth,12.0,6.0,11.0,Justin Kluivert,Bournemouth
-2025-03-16,liamdelap_ipswichtown,10.0,2.0,12.0,Liam Delap,Ipswich Town
-2025-03-16,rauljimenez_fulham,10.0,3.0,13.0,Raul Jimenez,Fulham
-2025-03-16,brennanjohnson_tottenham,9.0,0.0,14.0,Brennan Johnson,Tottenham
-2025-03-16,jamesmaddison_tottenham,9.0,0.0,15.0,James Maddison,Tottenham
-2025-03-16,jorgenstrandlarsen_wolves,9.0,0.0,16.0,Jorgen Strand Larsen,Wolves
-2025-03-16,kaihavertz_arsenal,9.0,0.0,17.0,Kai Havertz,Arsenal
-2025-03-16,luisdiaz_liverpool,9.0,0.0,18.0,Luis Diaz,Liverpool
-2025-03-16,nicolasjackson_chelsea,9.0,0.0,19.0,Nicolas Jackson,Chelsea
-2025-03-16,brunofernandes_manchesterutd,8.0,3.0,20.0,Bruno Fernandes,Manchester Utd
-2025-03-16,codygakpo_liverpool,8.0,0.0,21.0,Cody Gakpo,Liverpool
-2025-03-16,joaopedro_brighton,8.0,3.0,22.0,Joao Pedro,Brighton
-2025-03-16,alexiwobi_fulham,7.0,0.0,23.0,Alex Iwobi,Fulham
-2025-03-16,antoinesemenyo_bournemouth,7.0,0.0,24.0,Antoine Semenyo,Bournemouth
-2025-03-16,dannywelbeck_brighton,7.0,0.0,25.0,Danny Welbeck,Brighton
-2025-03-16,jarrodbowen_westham,7.0,1.0,26.0,Jarrod Bowen,West Ham
-2025-03-16,kaorumitoma_brighton,7.0,0.0,27.0,Kaoru Mitoma,Brighton
-2025-03-16,morganrogers_astonvilla,7.0,0.0,28.0,Morgan Rogers,Aston Villa
-2025-03-16,evanilson_bournemouth,6.0,0.0,29.0,Evanilson,Bournemouth
-2025-03-16,rodrigomuniz_fulham,6.0,0.0,30.0,Rodrigo Muniz,Fulham
-2025-03-16,harveybarnes_newcastleutd,5.0,0.0,31.0,Harvey Barnes,Newcastle Utd
-2025-03-16,jacobmurphy_newcastleutd,5.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2025-03-15,dannywelbeck_brighton,7.0,0.0,24.0,Danny Welbeck,Brighton
+2025-03-15,jarrodbowen_westham,7.0,1.0,25.0,Jarrod Bowen,West Ham
+2025-03-15,kaorumitoma_brighton,7.0,0.0,26.0,Kaoru Mitoma,Brighton
+2025-03-15,kevinschade_brentford,7.0,0.0,27.0,Kevin Schade,Brentford
+2025-03-15,evanilson_bournemouth,6.0,0.0,28.0,Evanilson,Bournemouth
+2025-03-15,harveybarnes_newcastleutd,5.0,0.0,29.0,Harvey Barnes,Newcastle Utd
 2025-04-01,mohamedsalah_liverpool,27.0,9.0,1.0,Mohamed Salah,Liverpool
 2025-04-01,erlinghaaland_manchestercity,21.0,2.0,2.0,Erling Haaland,Manchester City
 2025-04-01,alexanderisak_newcastleutd,19.0,2.0,3.0,Alexander Isak,Newcastle Utd
@@ -2322,19 +2077,16 @@ date,player_team,value,pk,rank,player,team
 2025-04-01,kaihavertz_arsenal,9.0,0.0,17.0,Kai Havertz,Arsenal
 2025-04-01,luisdiaz_liverpool,9.0,0.0,18.0,Luis Diaz,Liverpool
 2025-04-01,nicolasjackson_chelsea,9.0,0.0,19.0,Nicolas Jackson,Chelsea
-2025-04-01,brunofernandes_manchesterutd,8.0,3.0,20.0,Bruno Fernandes,Manchester Utd
-2025-04-01,codygakpo_liverpool,8.0,0.0,21.0,Cody Gakpo,Liverpool
-2025-04-01,joaopedro_brighton,8.0,3.0,22.0,Joao Pedro,Brighton
-2025-04-01,alexiwobi_fulham,7.0,0.0,23.0,Alex Iwobi,Fulham
-2025-04-01,antoinesemenyo_bournemouth,7.0,0.0,24.0,Antoine Semenyo,Bournemouth
-2025-04-01,dannywelbeck_brighton,7.0,0.0,25.0,Danny Welbeck,Brighton
-2025-04-01,jarrodbowen_westham,7.0,1.0,26.0,Jarrod Bowen,West Ham
-2025-04-01,kaorumitoma_brighton,7.0,0.0,27.0,Kaoru Mitoma,Brighton
-2025-04-01,morganrogers_astonvilla,7.0,0.0,28.0,Morgan Rogers,Aston Villa
-2025-04-01,rodrigomuniz_fulham,7.0,0.0,29.0,Rodrigo Muniz,Fulham
-2025-04-01,evanilson_bournemouth,6.0,0.0,30.0,Evanilson,Bournemouth
-2025-04-01,harveybarnes_newcastleutd,5.0,0.0,31.0,Harvey Barnes,Newcastle Utd
-2025-04-01,jacobmurphy_newcastleutd,5.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2025-04-01,codygakpo_liverpool,8.0,0.0,20.0,Cody Gakpo,Liverpool
+2025-04-01,joaopedro_brighton,8.0,3.0,21.0,Joao Pedro,Brighton
+2025-04-01,alexiwobi_fulham,7.0,0.0,22.0,Alex Iwobi,Fulham
+2025-04-01,antoinesemenyo_bournemouth,7.0,0.0,23.0,Antoine Semenyo,Bournemouth
+2025-04-01,dannywelbeck_brighton,7.0,0.0,24.0,Danny Welbeck,Brighton
+2025-04-01,jarrodbowen_westham,7.0,1.0,25.0,Jarrod Bowen,West Ham
+2025-04-01,kaorumitoma_brighton,7.0,0.0,26.0,Kaoru Mitoma,Brighton
+2025-04-01,kevinschade_brentford,7.0,0.0,27.0,Kevin Schade,Brentford
+2025-04-01,evanilson_bournemouth,6.0,0.0,28.0,Evanilson,Bournemouth
+2025-04-01,harveybarnes_newcastleutd,5.0,0.0,29.0,Harvey Barnes,Newcastle Utd
 2025-04-02,mohamedsalah_liverpool,27.0,9.0,1.0,Mohamed Salah,Liverpool
 2025-04-02,erlinghaaland_manchestercity,21.0,2.0,2.0,Erling Haaland,Manchester City
 2025-04-02,alexanderisak_newcastleutd,20.0,2.0,3.0,Alexander Isak,Newcastle Utd
@@ -2354,19 +2106,16 @@ date,player_team,value,pk,rank,player,team
 2025-04-02,kaihavertz_arsenal,9.0,0.0,17.0,Kai Havertz,Arsenal
 2025-04-02,luisdiaz_liverpool,9.0,0.0,18.0,Luis Diaz,Liverpool
 2025-04-02,nicolasjackson_chelsea,9.0,0.0,19.0,Nicolas Jackson,Chelsea
-2025-04-02,brunofernandes_manchesterutd,8.0,3.0,20.0,Bruno Fernandes,Manchester Utd
-2025-04-02,codygakpo_liverpool,8.0,0.0,21.0,Cody Gakpo,Liverpool
-2025-04-02,joaopedro_brighton,8.0,3.0,22.0,Joao Pedro,Brighton
-2025-04-02,alexiwobi_fulham,7.0,0.0,23.0,Alex Iwobi,Fulham
-2025-04-02,antoinesemenyo_bournemouth,7.0,0.0,24.0,Antoine Semenyo,Bournemouth
-2025-04-02,dannywelbeck_brighton,7.0,0.0,25.0,Danny Welbeck,Brighton
-2025-04-02,evanilson_bournemouth,7.0,0.0,26.0,Evanilson,Bournemouth
-2025-04-02,jarrodbowen_westham,7.0,1.0,27.0,Jarrod Bowen,West Ham
-2025-04-02,kaorumitoma_brighton,7.0,0.0,28.0,Kaoru Mitoma,Brighton
-2025-04-02,morganrogers_astonvilla,7.0,0.0,29.0,Morgan Rogers,Aston Villa
-2025-04-02,rodrigomuniz_fulham,7.0,0.0,30.0,Rodrigo Muniz,Fulham
-2025-04-02,harveybarnes_newcastleutd,5.0,0.0,31.0,Harvey Barnes,Newcastle Utd
-2025-04-02,jacobmurphy_newcastleutd,5.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2025-04-02,codygakpo_liverpool,8.0,0.0,20.0,Cody Gakpo,Liverpool
+2025-04-02,joaopedro_brighton,8.0,3.0,21.0,Joao Pedro,Brighton
+2025-04-02,alexiwobi_fulham,7.0,0.0,22.0,Alex Iwobi,Fulham
+2025-04-02,antoinesemenyo_bournemouth,7.0,0.0,23.0,Antoine Semenyo,Bournemouth
+2025-04-02,dannywelbeck_brighton,7.0,0.0,24.0,Danny Welbeck,Brighton
+2025-04-02,evanilson_bournemouth,7.0,0.0,25.0,Evanilson,Bournemouth
+2025-04-02,jarrodbowen_westham,7.0,1.0,26.0,Jarrod Bowen,West Ham
+2025-04-02,kaorumitoma_brighton,7.0,0.0,27.0,Kaoru Mitoma,Brighton
+2025-04-02,kevinschade_brentford,7.0,0.0,28.0,Kevin Schade,Brentford
+2025-04-02,harveybarnes_newcastleutd,5.0,0.0,29.0,Harvey Barnes,Newcastle Utd
 2025-04-05,mohamedsalah_liverpool,27.0,9.0,1.0,Mohamed Salah,Liverpool
 2025-04-05,erlinghaaland_manchestercity,21.0,2.0,2.0,Erling Haaland,Manchester City
 2025-04-05,alexanderisak_newcastleutd,20.0,2.0,3.0,Alexander Isak,Newcastle Utd
@@ -2387,18 +2136,15 @@ date,player_team,value,pk,rank,player,team
 2025-04-05,kaihavertz_arsenal,9.0,0.0,18.0,Kai Havertz,Arsenal
 2025-04-05,luisdiaz_liverpool,9.0,0.0,19.0,Luis Diaz,Liverpool
 2025-04-05,nicolasjackson_chelsea,9.0,0.0,20.0,Nicolas Jackson,Chelsea
-2025-04-05,brunofernandes_manchesterutd,8.0,3.0,21.0,Bruno Fernandes,Manchester Utd
-2025-04-05,codygakpo_liverpool,8.0,0.0,22.0,Cody Gakpo,Liverpool
-2025-04-05,dannywelbeck_brighton,8.0,0.0,23.0,Danny Welbeck,Brighton
-2025-04-05,jarrodbowen_westham,8.0,1.0,24.0,Jarrod Bowen,West Ham
-2025-04-05,joaopedro_brighton,8.0,3.0,25.0,Joao Pedro,Brighton
-2025-04-05,morganrogers_astonvilla,8.0,0.0,26.0,Morgan Rogers,Aston Villa
-2025-04-05,alexiwobi_fulham,7.0,0.0,27.0,Alex Iwobi,Fulham
-2025-04-05,antoinesemenyo_bournemouth,7.0,0.0,28.0,Antoine Semenyo,Bournemouth
-2025-04-05,kaorumitoma_brighton,7.0,0.0,29.0,Kaoru Mitoma,Brighton
-2025-04-05,rodrigomuniz_fulham,7.0,0.0,30.0,Rodrigo Muniz,Fulham
-2025-04-05,harveybarnes_newcastleutd,5.0,0.0,31.0,Harvey Barnes,Newcastle Utd
-2025-04-05,jacobmurphy_newcastleutd,5.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2025-04-05,codygakpo_liverpool,8.0,0.0,21.0,Cody Gakpo,Liverpool
+2025-04-05,dannywelbeck_brighton,8.0,0.0,22.0,Danny Welbeck,Brighton
+2025-04-05,jarrodbowen_westham,8.0,1.0,23.0,Jarrod Bowen,West Ham
+2025-04-05,joaopedro_brighton,8.0,3.0,24.0,Joao Pedro,Brighton
+2025-04-05,alexiwobi_fulham,7.0,0.0,25.0,Alex Iwobi,Fulham
+2025-04-05,antoinesemenyo_bournemouth,7.0,0.0,26.0,Antoine Semenyo,Bournemouth
+2025-04-05,kaorumitoma_brighton,7.0,0.0,27.0,Kaoru Mitoma,Brighton
+2025-04-05,kevinschade_brentford,7.0,0.0,28.0,Kevin Schade,Brentford
+2025-04-05,harveybarnes_newcastleutd,5.0,0.0,29.0,Harvey Barnes,Newcastle Utd
 2025-04-06,mohamedsalah_liverpool,27.0,9.0,1.0,Mohamed Salah,Liverpool
 2025-04-06,erlinghaaland_manchestercity,21.0,2.0,2.0,Erling Haaland,Manchester City
 2025-04-06,alexanderisak_newcastleutd,20.0,2.0,3.0,Alexander Isak,Newcastle Utd
@@ -2420,17 +2166,14 @@ date,player_team,value,pk,rank,player,team
 2025-04-06,kaihavertz_arsenal,9.0,0.0,19.0,Kai Havertz,Arsenal
 2025-04-06,nicolasjackson_chelsea,9.0,0.0,20.0,Nicolas Jackson,Chelsea
 2025-04-06,alexiwobi_fulham,8.0,0.0,21.0,Alex Iwobi,Fulham
-2025-04-06,brunofernandes_manchesterutd,8.0,3.0,22.0,Bruno Fernandes,Manchester Utd
-2025-04-06,codygakpo_liverpool,8.0,0.0,23.0,Cody Gakpo,Liverpool
-2025-04-06,dannywelbeck_brighton,8.0,0.0,24.0,Danny Welbeck,Brighton
-2025-04-06,jarrodbowen_westham,8.0,1.0,25.0,Jarrod Bowen,West Ham
-2025-04-06,joaopedro_brighton,8.0,3.0,26.0,Joao Pedro,Brighton
-2025-04-06,morganrogers_astonvilla,8.0,0.0,27.0,Morgan Rogers,Aston Villa
-2025-04-06,rodrigomuniz_fulham,8.0,0.0,28.0,Rodrigo Muniz,Fulham
-2025-04-06,antoinesemenyo_bournemouth,7.0,0.0,29.0,Antoine Semenyo,Bournemouth
-2025-04-06,kaorumitoma_brighton,7.0,0.0,30.0,Kaoru Mitoma,Brighton
-2025-04-06,harveybarnes_newcastleutd,5.0,0.0,31.0,Harvey Barnes,Newcastle Utd
-2025-04-06,jacobmurphy_newcastleutd,5.0,0.0,32.0,Jacob Murphy,Newcastle Utd
+2025-04-06,codygakpo_liverpool,8.0,0.0,22.0,Cody Gakpo,Liverpool
+2025-04-06,dannywelbeck_brighton,8.0,0.0,23.0,Danny Welbeck,Brighton
+2025-04-06,jarrodbowen_westham,8.0,1.0,24.0,Jarrod Bowen,West Ham
+2025-04-06,joaopedro_brighton,8.0,3.0,25.0,Joao Pedro,Brighton
+2025-04-06,antoinesemenyo_bournemouth,7.0,0.0,26.0,Antoine Semenyo,Bournemouth
+2025-04-06,kaorumitoma_brighton,7.0,0.0,27.0,Kaoru Mitoma,Brighton
+2025-04-06,kevinschade_brentford,7.0,0.0,28.0,Kevin Schade,Brentford
+2025-04-06,harveybarnes_newcastleutd,5.0,0.0,29.0,Harvey Barnes,Newcastle Utd
 2025-04-07,mohamedsalah_liverpool,27.0,9.0,1.0,Mohamed Salah,Liverpool
 2025-04-07,erlinghaaland_manchestercity,21.0,2.0,2.0,Erling Haaland,Manchester City
 2025-04-07,alexanderisak_newcastleutd,20.0,2.0,3.0,Alexander Isak,Newcastle Utd
@@ -2452,17 +2195,14 @@ date,player_team,value,pk,rank,player,team
 2025-04-07,kaihavertz_arsenal,9.0,0.0,19.0,Kai Havertz,Arsenal
 2025-04-07,nicolasjackson_chelsea,9.0,0.0,20.0,Nicolas Jackson,Chelsea
 2025-04-07,alexiwobi_fulham,8.0,0.0,21.0,Alex Iwobi,Fulham
-2025-04-07,brunofernandes_manchesterutd,8.0,3.0,22.0,Bruno Fernandes,Manchester Utd
-2025-04-07,codygakpo_liverpool,8.0,0.0,23.0,Cody Gakpo,Liverpool
-2025-04-07,dannywelbeck_brighton,8.0,0.0,24.0,Danny Welbeck,Brighton
-2025-04-07,jarrodbowen_westham,8.0,1.0,25.0,Jarrod Bowen,West Ham
-2025-04-07,joaopedro_brighton,8.0,3.0,26.0,Joao Pedro,Brighton
-2025-04-07,morganrogers_astonvilla,8.0,0.0,27.0,Morgan Rogers,Aston Villa
-2025-04-07,rodrigomuniz_fulham,8.0,0.0,28.0,Rodrigo Muniz,Fulham
-2025-04-07,antoinesemenyo_bournemouth,7.0,0.0,29.0,Antoine Semenyo,Bournemouth
-2025-04-07,jacobmurphy_newcastleutd,7.0,0.0,30.0,Jacob Murphy,Newcastle Utd
-2025-04-07,kaorumitoma_brighton,7.0,0.0,31.0,Kaoru Mitoma,Brighton
-2025-04-07,harveybarnes_newcastleutd,6.0,0.0,32.0,Harvey Barnes,Newcastle Utd
+2025-04-07,codygakpo_liverpool,8.0,0.0,22.0,Cody Gakpo,Liverpool
+2025-04-07,dannywelbeck_brighton,8.0,0.0,23.0,Danny Welbeck,Brighton
+2025-04-07,jarrodbowen_westham,8.0,1.0,24.0,Jarrod Bowen,West Ham
+2025-04-07,joaopedro_brighton,8.0,3.0,25.0,Joao Pedro,Brighton
+2025-04-07,antoinesemenyo_bournemouth,7.0,0.0,26.0,Antoine Semenyo,Bournemouth
+2025-04-07,kaorumitoma_brighton,7.0,0.0,27.0,Kaoru Mitoma,Brighton
+2025-04-07,kevinschade_brentford,7.0,0.0,28.0,Kevin Schade,Brentford
+2025-04-07,harveybarnes_newcastleutd,6.0,0.0,29.0,Harvey Barnes,Newcastle Utd
 2025-04-12,mohamedsalah_liverpool,27.0,9.0,1.0,Mohamed Salah,Liverpool
 2025-04-12,erlinghaaland_manchestercity,21.0,2.0,2.0,Erling Haaland,Manchester City
 2025-04-12,alexanderisak_newcastleutd,20.0,2.0,3.0,Alexander Isak,Newcastle Utd
@@ -2485,16 +2225,13 @@ date,player_team,value,pk,rank,player,team
 2025-04-12,kaihavertz_arsenal,9.0,0.0,20.0,Kai Havertz,Arsenal
 2025-04-12,nicolasjackson_chelsea,9.0,0.0,21.0,Nicolas Jackson,Chelsea
 2025-04-12,alexiwobi_fulham,8.0,0.0,22.0,Alex Iwobi,Fulham
-2025-04-12,brunofernandes_manchesterutd,8.0,3.0,23.0,Bruno Fernandes,Manchester Utd
-2025-04-12,codygakpo_liverpool,8.0,0.0,24.0,Cody Gakpo,Liverpool
-2025-04-12,dannywelbeck_brighton,8.0,0.0,25.0,Danny Welbeck,Brighton
-2025-04-12,jarrodbowen_westham,8.0,1.0,26.0,Jarrod Bowen,West Ham
-2025-04-12,morganrogers_astonvilla,8.0,0.0,27.0,Morgan Rogers,Aston Villa
-2025-04-12,rodrigomuniz_fulham,8.0,0.0,28.0,Rodrigo Muniz,Fulham
-2025-04-12,antoinesemenyo_bournemouth,7.0,0.0,29.0,Antoine Semenyo,Bournemouth
-2025-04-12,jacobmurphy_newcastleutd,7.0,0.0,30.0,Jacob Murphy,Newcastle Utd
-2025-04-12,kaorumitoma_brighton,7.0,0.0,31.0,Kaoru Mitoma,Brighton
-2025-04-12,harveybarnes_newcastleutd,6.0,0.0,32.0,Harvey Barnes,Newcastle Utd
+2025-04-12,codygakpo_liverpool,8.0,0.0,23.0,Cody Gakpo,Liverpool
+2025-04-12,dannywelbeck_brighton,8.0,0.0,24.0,Danny Welbeck,Brighton
+2025-04-12,jarrodbowen_westham,8.0,1.0,25.0,Jarrod Bowen,West Ham
+2025-04-12,antoinesemenyo_bournemouth,7.0,0.0,26.0,Antoine Semenyo,Bournemouth
+2025-04-12,kaorumitoma_brighton,7.0,0.0,27.0,Kaoru Mitoma,Brighton
+2025-04-12,kevinschade_brentford,7.0,0.0,28.0,Kevin Schade,Brentford
+2025-04-12,harveybarnes_newcastleutd,6.0,0.0,29.0,Harvey Barnes,Newcastle Utd
 2025-04-13,mohamedsalah_liverpool,27.0,9.0,1.0,Mohamed Salah,Liverpool
 2025-04-13,erlinghaaland_manchestercity,21.0,2.0,2.0,Erling Haaland,Manchester City
 2025-04-13,alexanderisak_newcastleutd,20.0,2.0,3.0,Alexander Isak,Newcastle Utd
@@ -2517,16 +2254,13 @@ date,player_team,value,pk,rank,player,team
 2025-04-13,kaihavertz_arsenal,9.0,0.0,20.0,Kai Havertz,Arsenal
 2025-04-13,nicolasjackson_chelsea,9.0,0.0,21.0,Nicolas Jackson,Chelsea
 2025-04-13,alexiwobi_fulham,8.0,0.0,22.0,Alex Iwobi,Fulham
-2025-04-13,brunofernandes_manchesterutd,8.0,3.0,23.0,Bruno Fernandes,Manchester Utd
-2025-04-13,codygakpo_liverpool,8.0,0.0,24.0,Cody Gakpo,Liverpool
-2025-04-13,dannywelbeck_brighton,8.0,0.0,25.0,Danny Welbeck,Brighton
-2025-04-13,harveybarnes_newcastleutd,8.0,0.0,26.0,Harvey Barnes,Newcastle Utd
-2025-04-13,jarrodbowen_westham,8.0,1.0,27.0,Jarrod Bowen,West Ham
-2025-04-13,morganrogers_astonvilla,8.0,0.0,28.0,Morgan Rogers,Aston Villa
-2025-04-13,rodrigomuniz_fulham,8.0,0.0,29.0,Rodrigo Muniz,Fulham
-2025-04-13,antoinesemenyo_bournemouth,7.0,0.0,30.0,Antoine Semenyo,Bournemouth
-2025-04-13,jacobmurphy_newcastleutd,7.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-04-13,kaorumitoma_brighton,7.0,0.0,32.0,Kaoru Mitoma,Brighton
+2025-04-13,codygakpo_liverpool,8.0,0.0,23.0,Cody Gakpo,Liverpool
+2025-04-13,dannywelbeck_brighton,8.0,0.0,24.0,Danny Welbeck,Brighton
+2025-04-13,harveybarnes_newcastleutd,8.0,0.0,25.0,Harvey Barnes,Newcastle Utd
+2025-04-13,jarrodbowen_westham,8.0,1.0,26.0,Jarrod Bowen,West Ham
+2025-04-13,antoinesemenyo_bournemouth,7.0,0.0,27.0,Antoine Semenyo,Bournemouth
+2025-04-13,kaorumitoma_brighton,7.0,0.0,28.0,Kaoru Mitoma,Brighton
+2025-04-13,kevinschade_brentford,7.0,0.0,29.0,Kevin Schade,Brentford
 2025-04-14,mohamedsalah_liverpool,27.0,9.0,1.0,Mohamed Salah,Liverpool
 2025-04-14,erlinghaaland_manchestercity,21.0,2.0,2.0,Erling Haaland,Manchester City
 2025-04-14,alexanderisak_newcastleutd,20.0,2.0,3.0,Alexander Isak,Newcastle Utd
@@ -2550,15 +2284,12 @@ date,player_team,value,pk,rank,player,team
 2025-04-14,nicolasjackson_chelsea,9.0,0.0,21.0,Nicolas Jackson,Chelsea
 2025-04-14,alexiwobi_fulham,8.0,0.0,22.0,Alex Iwobi,Fulham
 2025-04-14,antoinesemenyo_bournemouth,8.0,0.0,23.0,Antoine Semenyo,Bournemouth
-2025-04-14,brunofernandes_manchesterutd,8.0,3.0,24.0,Bruno Fernandes,Manchester Utd
-2025-04-14,codygakpo_liverpool,8.0,0.0,25.0,Cody Gakpo,Liverpool
-2025-04-14,dannywelbeck_brighton,8.0,0.0,26.0,Danny Welbeck,Brighton
-2025-04-14,harveybarnes_newcastleutd,8.0,0.0,27.0,Harvey Barnes,Newcastle Utd
-2025-04-14,jarrodbowen_westham,8.0,1.0,28.0,Jarrod Bowen,West Ham
-2025-04-14,morganrogers_astonvilla,8.0,0.0,29.0,Morgan Rogers,Aston Villa
-2025-04-14,rodrigomuniz_fulham,8.0,0.0,30.0,Rodrigo Muniz,Fulham
-2025-04-14,jacobmurphy_newcastleutd,7.0,0.0,31.0,Jacob Murphy,Newcastle Utd
-2025-04-14,kaorumitoma_brighton,7.0,0.0,32.0,Kaoru Mitoma,Brighton
+2025-04-14,codygakpo_liverpool,8.0,0.0,24.0,Cody Gakpo,Liverpool
+2025-04-14,dannywelbeck_brighton,8.0,0.0,25.0,Danny Welbeck,Brighton
+2025-04-14,harveybarnes_newcastleutd,8.0,0.0,26.0,Harvey Barnes,Newcastle Utd
+2025-04-14,jarrodbowen_westham,8.0,1.0,27.0,Jarrod Bowen,West Ham
+2025-04-14,kaorumitoma_brighton,7.0,0.0,28.0,Kaoru Mitoma,Brighton
+2025-04-14,kevinschade_brentford,7.0,0.0,29.0,Kevin Schade,Brentford
 2025-04-16,mohamedsalah_liverpool,27.0,9.0,1.0,Mohamed Salah,Liverpool
 2025-04-16,alexanderisak_newcastleutd,21.0,2.0,2.0,Alexander Isak,Newcastle Utd
 2025-04-16,erlinghaaland_manchestercity,21.0,2.0,3.0,Erling Haaland,Manchester City
@@ -2583,14 +2314,11 @@ date,player_team,value,pk,rank,player,team
 2025-04-16,nicolasjackson_chelsea,9.0,0.0,22.0,Nicolas Jackson,Chelsea
 2025-04-16,alexiwobi_fulham,8.0,0.0,23.0,Alex Iwobi,Fulham
 2025-04-16,antoinesemenyo_bournemouth,8.0,0.0,24.0,Antoine Semenyo,Bournemouth
-2025-04-16,brunofernandes_manchesterutd,8.0,3.0,25.0,Bruno Fernandes,Manchester Utd
-2025-04-16,codygakpo_liverpool,8.0,0.0,26.0,Cody Gakpo,Liverpool
-2025-04-16,dannywelbeck_brighton,8.0,0.0,27.0,Danny Welbeck,Brighton
-2025-04-16,jacobmurphy_newcastleutd,8.0,0.0,28.0,Jacob Murphy,Newcastle Utd
-2025-04-16,jarrodbowen_westham,8.0,1.0,29.0,Jarrod Bowen,West Ham
-2025-04-16,morganrogers_astonvilla,8.0,0.0,30.0,Morgan Rogers,Aston Villa
-2025-04-16,rodrigomuniz_fulham,8.0,0.0,31.0,Rodrigo Muniz,Fulham
-2025-04-16,kaorumitoma_brighton,7.0,0.0,32.0,Kaoru Mitoma,Brighton
+2025-04-16,codygakpo_liverpool,8.0,0.0,25.0,Cody Gakpo,Liverpool
+2025-04-16,dannywelbeck_brighton,8.0,0.0,26.0,Danny Welbeck,Brighton
+2025-04-16,jarrodbowen_westham,8.0,1.0,27.0,Jarrod Bowen,West Ham
+2025-04-16,kaorumitoma_brighton,7.0,0.0,28.0,Kaoru Mitoma,Brighton
+2025-04-16,kevinschade_brentford,7.0,0.0,29.0,Kevin Schade,Brentford
 2025-04-19,mohamedsalah_liverpool,27.0,9.0,1.0,Mohamed Salah,Liverpool
 2025-04-19,alexanderisak_newcastleutd,21.0,2.0,2.0,Alexander Isak,Newcastle Utd
 2025-04-19,erlinghaaland_manchestercity,21.0,2.0,3.0,Erling Haaland,Manchester City
@@ -2617,12 +2345,9 @@ date,player_team,value,pk,rank,player,team
 2025-04-19,nicolasjackson_chelsea,9.0,0.0,24.0,Nicolas Jackson,Chelsea
 2025-04-19,alexiwobi_fulham,8.0,0.0,25.0,Alex Iwobi,Fulham
 2025-04-19,antoinesemenyo_bournemouth,8.0,0.0,26.0,Antoine Semenyo,Bournemouth
-2025-04-19,brunofernandes_manchesterutd,8.0,3.0,27.0,Bruno Fernandes,Manchester Utd
-2025-04-19,codygakpo_liverpool,8.0,0.0,28.0,Cody Gakpo,Liverpool
-2025-04-19,jacobmurphy_newcastleutd,8.0,0.0,29.0,Jacob Murphy,Newcastle Utd
-2025-04-19,kaorumitoma_brighton,8.0,0.0,30.0,Kaoru Mitoma,Brighton
-2025-04-19,morganrogers_astonvilla,8.0,0.0,31.0,Morgan Rogers,Aston Villa
-2025-04-19,rodrigomuniz_fulham,8.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-04-19,codygakpo_liverpool,8.0,0.0,27.0,Cody Gakpo,Liverpool
+2025-04-19,kaorumitoma_brighton,8.0,0.0,28.0,Kaoru Mitoma,Brighton
+2025-04-19,kevinschade_brentford,7.0,0.0,29.0,Kevin Schade,Brentford
 2025-04-20,mohamedsalah_liverpool,27.0,9.0,1.0,Mohamed Salah,Liverpool
 2025-04-20,alexanderisak_newcastleutd,21.0,2.0,2.0,Alexander Isak,Newcastle Utd
 2025-04-20,erlinghaaland_manchestercity,21.0,2.0,3.0,Erling Haaland,Manchester City
@@ -2649,9 +2374,209 @@ date,player_team,value,pk,rank,player,team
 2025-04-20,kaihavertz_arsenal,9.0,0.0,24.0,Kai Havertz,Arsenal
 2025-04-20,nicolasjackson_chelsea,9.0,0.0,25.0,Nicolas Jackson,Chelsea
 2025-04-20,antoinesemenyo_bournemouth,8.0,0.0,26.0,Antoine Semenyo,Bournemouth
-2025-04-20,brunofernandes_manchesterutd,8.0,3.0,27.0,Bruno Fernandes,Manchester Utd
-2025-04-20,codygakpo_liverpool,8.0,0.0,28.0,Cody Gakpo,Liverpool
-2025-04-20,jacobmurphy_newcastleutd,8.0,0.0,29.0,Jacob Murphy,Newcastle Utd
-2025-04-20,kaorumitoma_brighton,8.0,0.0,30.0,Kaoru Mitoma,Brighton
-2025-04-20,morganrogers_astonvilla,8.0,0.0,31.0,Morgan Rogers,Aston Villa
-2025-04-20,rodrigomuniz_fulham,8.0,0.0,32.0,Rodrigo Muniz,Fulham
+2025-04-20,codygakpo_liverpool,8.0,0.0,27.0,Cody Gakpo,Liverpool
+2025-04-20,kaorumitoma_brighton,8.0,0.0,28.0,Kaoru Mitoma,Brighton
+2025-04-20,kevinschade_brentford,7.0,0.0,29.0,Kevin Schade,Brentford
+2025-04-21,mohamedsalah_liverpool,27.0,9.0,1.0,Mohamed Salah,Liverpool
+2025-04-21,alexanderisak_newcastleutd,21.0,2.0,2.0,Alexander Isak,Newcastle Utd
+2025-04-21,erlinghaaland_manchestercity,21.0,2.0,3.0,Erling Haaland,Manchester City
+2025-04-21,chriswood_notthamforest,19.0,3.0,4.0,Chris Wood,Nott'ham Forest
+2025-04-21,bryanmbeumo_brentford,18.0,5.0,5.0,Bryan Mbeumo,Brentford
+2025-04-21,yoanewissa_brentford,16.0,0.0,6.0,Yoane Wissa,Brentford
+2025-04-21,olliewatkins_astonvilla,15.0,2.0,7.0,Ollie Watkins,Aston Villa
+2025-04-21,colepalmer_chelsea,14.0,3.0,8.0,Cole Palmer,Chelsea
+2025-04-21,matheuscunha_wolves,14.0,0.0,9.0,Matheus Cunha,Wolves
+2025-04-21,jeanphilippemateta_crystalpalace,13.0,2.0,10.0,Jean-Philippe Mateta,Crystal Palace
+2025-04-21,jorgenstrandlarsen_wolves,12.0,0.0,11.0,Jorgen Strand Larsen,Wolves
+2025-04-21,justinkluivert_bournemouth,12.0,6.0,12.0,Justin Kluivert,Bournemouth
+2025-04-21,liamdelap_ipswichtown,12.0,2.0,13.0,Liam Delap,Ipswich Town
+2025-04-21,brennanjohnson_tottenham,11.0,0.0,14.0,Brennan Johnson,Tottenham
+2025-04-21,luisdiaz_liverpool,11.0,0.0,15.0,Luis Diaz,Liverpool
+2025-04-21,joaopedro_brighton,10.0,5.0,16.0,Joao Pedro,Brighton
+2025-04-21,rauljimenez_fulham,10.0,3.0,17.0,Raul Jimenez,Fulham
+2025-04-21,alexiwobi_fulham,9.0,0.0,18.0,Alex Iwobi,Fulham
+2025-04-21,dannywelbeck_brighton,9.0,0.0,19.0,Danny Welbeck,Brighton
+2025-04-21,evanilson_bournemouth,9.0,0.0,20.0,Evanilson,Bournemouth
+2025-04-21,harveybarnes_newcastleutd,9.0,0.0,21.0,Harvey Barnes,Newcastle Utd
+2025-04-21,jamesmaddison_tottenham,9.0,0.0,22.0,James Maddison,Tottenham
+2025-04-21,jarrodbowen_westham,9.0,1.0,23.0,Jarrod Bowen,West Ham
+2025-04-21,kaihavertz_arsenal,9.0,0.0,24.0,Kai Havertz,Arsenal
+2025-04-21,nicolasjackson_chelsea,9.0,0.0,25.0,Nicolas Jackson,Chelsea
+2025-04-21,antoinesemenyo_bournemouth,8.0,0.0,26.0,Antoine Semenyo,Bournemouth
+2025-04-21,codygakpo_liverpool,8.0,0.0,27.0,Cody Gakpo,Liverpool
+2025-04-21,kaorumitoma_brighton,8.0,0.0,28.0,Kaoru Mitoma,Brighton
+2025-04-21,kevinschade_brentford,7.0,0.0,29.0,Kevin Schade,Brentford
+2025-04-23,mohamedsalah_liverpool,27.0,9.0,1.0,Mohamed Salah,Liverpool
+2025-04-23,alexanderisak_newcastleutd,21.0,2.0,2.0,Alexander Isak,Newcastle Utd
+2025-04-23,erlinghaaland_manchestercity,21.0,2.0,3.0,Erling Haaland,Manchester City
+2025-04-23,chriswood_notthamforest,19.0,3.0,4.0,Chris Wood,Nott'ham Forest
+2025-04-23,bryanmbeumo_brentford,18.0,5.0,5.0,Bryan Mbeumo,Brentford
+2025-04-23,yoanewissa_brentford,16.0,0.0,6.0,Yoane Wissa,Brentford
+2025-04-23,olliewatkins_astonvilla,15.0,2.0,7.0,Ollie Watkins,Aston Villa
+2025-04-23,colepalmer_chelsea,14.0,3.0,8.0,Cole Palmer,Chelsea
+2025-04-23,jeanphilippemateta_crystalpalace,14.0,2.0,9.0,Jean-Philippe Mateta,Crystal Palace
+2025-04-23,matheuscunha_wolves,14.0,0.0,10.0,Matheus Cunha,Wolves
+2025-04-23,jorgenstrandlarsen_wolves,12.0,0.0,11.0,Jorgen Strand Larsen,Wolves
+2025-04-23,justinkluivert_bournemouth,12.0,6.0,12.0,Justin Kluivert,Bournemouth
+2025-04-23,liamdelap_ipswichtown,12.0,2.0,13.0,Liam Delap,Ipswich Town
+2025-04-23,brennanjohnson_tottenham,11.0,0.0,14.0,Brennan Johnson,Tottenham
+2025-04-23,luisdiaz_liverpool,11.0,0.0,15.0,Luis Diaz,Liverpool
+2025-04-23,joaopedro_brighton,10.0,5.0,16.0,Joao Pedro,Brighton
+2025-04-23,rauljimenez_fulham,10.0,3.0,17.0,Raul Jimenez,Fulham
+2025-04-23,alexiwobi_fulham,9.0,0.0,18.0,Alex Iwobi,Fulham
+2025-04-23,dannywelbeck_brighton,9.0,0.0,19.0,Danny Welbeck,Brighton
+2025-04-23,evanilson_bournemouth,9.0,0.0,20.0,Evanilson,Bournemouth
+2025-04-23,harveybarnes_newcastleutd,9.0,0.0,21.0,Harvey Barnes,Newcastle Utd
+2025-04-23,jamesmaddison_tottenham,9.0,0.0,22.0,James Maddison,Tottenham
+2025-04-23,jarrodbowen_westham,9.0,1.0,23.0,Jarrod Bowen,West Ham
+2025-04-23,kaihavertz_arsenal,9.0,0.0,24.0,Kai Havertz,Arsenal
+2025-04-23,nicolasjackson_chelsea,9.0,0.0,25.0,Nicolas Jackson,Chelsea
+2025-04-23,antoinesemenyo_bournemouth,8.0,0.0,26.0,Antoine Semenyo,Bournemouth
+2025-04-23,codygakpo_liverpool,8.0,0.0,27.0,Cody Gakpo,Liverpool
+2025-04-23,kaorumitoma_brighton,8.0,0.0,28.0,Kaoru Mitoma,Brighton
+2025-04-23,kevinschade_brentford,7.0,0.0,29.0,Kevin Schade,Brentford
+2025-04-26,mohamedsalah_liverpool,27.0,9.0,1.0,Mohamed Salah,Liverpool
+2025-04-26,alexanderisak_newcastleutd,22.0,3.0,2.0,Alexander Isak,Newcastle Utd
+2025-04-26,erlinghaaland_manchestercity,21.0,2.0,3.0,Erling Haaland,Manchester City
+2025-04-26,chriswood_notthamforest,19.0,3.0,4.0,Chris Wood,Nott'ham Forest
+2025-04-26,bryanmbeumo_brentford,18.0,5.0,5.0,Bryan Mbeumo,Brentford
+2025-04-26,yoanewissa_brentford,16.0,0.0,6.0,Yoane Wissa,Brentford
+2025-04-26,matheuscunha_wolves,15.0,0.0,7.0,Matheus Cunha,Wolves
+2025-04-26,olliewatkins_astonvilla,15.0,2.0,8.0,Ollie Watkins,Aston Villa
+2025-04-26,colepalmer_chelsea,14.0,3.0,9.0,Cole Palmer,Chelsea
+2025-04-26,jeanphilippemateta_crystalpalace,14.0,2.0,10.0,Jean-Philippe Mateta,Crystal Palace
+2025-04-26,jorgenstrandlarsen_wolves,13.0,0.0,11.0,Jorgen Strand Larsen,Wolves
+2025-04-26,justinkluivert_bournemouth,12.0,6.0,12.0,Justin Kluivert,Bournemouth
+2025-04-26,liamdelap_ipswichtown,12.0,2.0,13.0,Liam Delap,Ipswich Town
+2025-04-26,brennanjohnson_tottenham,11.0,0.0,14.0,Brennan Johnson,Tottenham
+2025-04-26,luisdiaz_liverpool,11.0,0.0,15.0,Luis Diaz,Liverpool
+2025-04-26,joaopedro_brighton,10.0,5.0,16.0,Joao Pedro,Brighton
+2025-04-26,nicolasjackson_chelsea,10.0,0.0,17.0,Nicolas Jackson,Chelsea
+2025-04-26,rauljimenez_fulham,10.0,3.0,18.0,Raul Jimenez,Fulham
+2025-04-26,alexiwobi_fulham,9.0,0.0,19.0,Alex Iwobi,Fulham
+2025-04-26,dannywelbeck_brighton,9.0,0.0,20.0,Danny Welbeck,Brighton
+2025-04-26,evanilson_bournemouth,9.0,0.0,21.0,Evanilson,Bournemouth
+2025-04-26,harveybarnes_newcastleutd,9.0,0.0,22.0,Harvey Barnes,Newcastle Utd
+2025-04-26,jamesmaddison_tottenham,9.0,0.0,23.0,James Maddison,Tottenham
+2025-04-26,jarrodbowen_westham,9.0,1.0,24.0,Jarrod Bowen,West Ham
+2025-04-26,kaihavertz_arsenal,9.0,0.0,25.0,Kai Havertz,Arsenal
+2025-04-26,kaorumitoma_brighton,9.0,0.0,26.0,Kaoru Mitoma,Brighton
+2025-04-26,antoinesemenyo_bournemouth,8.0,0.0,27.0,Antoine Semenyo,Bournemouth
+2025-04-26,codygakpo_liverpool,8.0,0.0,28.0,Cody Gakpo,Liverpool
+2025-04-26,kevinschade_brentford,7.0,0.0,29.0,Kevin Schade,Brentford
+2025-04-27,mohamedsalah_liverpool,28.0,9.0,1.0,Mohamed Salah,Liverpool
+2025-04-27,alexanderisak_newcastleutd,22.0,3.0,2.0,Alexander Isak,Newcastle Utd
+2025-04-27,erlinghaaland_manchestercity,21.0,2.0,3.0,Erling Haaland,Manchester City
+2025-04-27,chriswood_notthamforest,19.0,3.0,4.0,Chris Wood,Nott'ham Forest
+2025-04-27,bryanmbeumo_brentford,18.0,5.0,5.0,Bryan Mbeumo,Brentford
+2025-04-27,yoanewissa_brentford,16.0,0.0,6.0,Yoane Wissa,Brentford
+2025-04-27,matheuscunha_wolves,15.0,0.0,7.0,Matheus Cunha,Wolves
+2025-04-27,olliewatkins_astonvilla,15.0,2.0,8.0,Ollie Watkins,Aston Villa
+2025-04-27,colepalmer_chelsea,14.0,3.0,9.0,Cole Palmer,Chelsea
+2025-04-27,jeanphilippemateta_crystalpalace,14.0,2.0,10.0,Jean-Philippe Mateta,Crystal Palace
+2025-04-27,jorgenstrandlarsen_wolves,13.0,0.0,11.0,Jorgen Strand Larsen,Wolves
+2025-04-27,justinkluivert_bournemouth,12.0,6.0,12.0,Justin Kluivert,Bournemouth
+2025-04-27,liamdelap_ipswichtown,12.0,2.0,13.0,Liam Delap,Ipswich Town
+2025-04-27,luisdiaz_liverpool,12.0,0.0,14.0,Luis Diaz,Liverpool
+2025-04-27,brennanjohnson_tottenham,11.0,0.0,15.0,Brennan Johnson,Tottenham
+2025-04-27,joaopedro_brighton,10.0,5.0,16.0,Joao Pedro,Brighton
+2025-04-27,nicolasjackson_chelsea,10.0,0.0,17.0,Nicolas Jackson,Chelsea
+2025-04-27,rauljimenez_fulham,10.0,3.0,18.0,Raul Jimenez,Fulham
+2025-04-27,alexiwobi_fulham,9.0,0.0,19.0,Alex Iwobi,Fulham
+2025-04-27,antoinesemenyo_bournemouth,9.0,0.0,20.0,Antoine Semenyo,Bournemouth
+2025-04-27,codygakpo_liverpool,9.0,0.0,21.0,Cody Gakpo,Liverpool
+2025-04-27,dannywelbeck_brighton,9.0,0.0,22.0,Danny Welbeck,Brighton
+2025-04-27,evanilson_bournemouth,9.0,0.0,23.0,Evanilson,Bournemouth
+2025-04-27,harveybarnes_newcastleutd,9.0,0.0,24.0,Harvey Barnes,Newcastle Utd
+2025-04-27,jamesmaddison_tottenham,9.0,0.0,25.0,James Maddison,Tottenham
+2025-04-27,jarrodbowen_westham,9.0,1.0,26.0,Jarrod Bowen,West Ham
+2025-04-27,kaihavertz_arsenal,9.0,0.0,27.0,Kai Havertz,Arsenal
+2025-04-27,kaorumitoma_brighton,9.0,0.0,28.0,Kaoru Mitoma,Brighton
+2025-04-27,kevinschade_brentford,7.0,0.0,29.0,Kevin Schade,Brentford
+2025-05-01,mohamedsalah_liverpool,28.0,9.0,1.0,Mohamed Salah,Liverpool
+2025-05-01,alexanderisak_newcastleutd,22.0,3.0,2.0,Alexander Isak,Newcastle Utd
+2025-05-01,erlinghaaland_manchestercity,21.0,2.0,3.0,Erling Haaland,Manchester City
+2025-05-01,chriswood_notthamforest,19.0,3.0,4.0,Chris Wood,Nott'ham Forest
+2025-05-01,bryanmbeumo_brentford,18.0,5.0,5.0,Bryan Mbeumo,Brentford
+2025-05-01,yoanewissa_brentford,17.0,0.0,6.0,Yoane Wissa,Brentford
+2025-05-01,matheuscunha_wolves,15.0,0.0,7.0,Matheus Cunha,Wolves
+2025-05-01,olliewatkins_astonvilla,15.0,2.0,8.0,Ollie Watkins,Aston Villa
+2025-05-01,colepalmer_chelsea,14.0,3.0,9.0,Cole Palmer,Chelsea
+2025-05-01,jeanphilippemateta_crystalpalace,14.0,2.0,10.0,Jean-Philippe Mateta,Crystal Palace
+2025-05-01,jorgenstrandlarsen_wolves,13.0,0.0,11.0,Jorgen Strand Larsen,Wolves
+2025-05-01,justinkluivert_bournemouth,12.0,6.0,12.0,Justin Kluivert,Bournemouth
+2025-05-01,liamdelap_ipswichtown,12.0,2.0,13.0,Liam Delap,Ipswich Town
+2025-05-01,luisdiaz_liverpool,12.0,0.0,14.0,Luis Diaz,Liverpool
+2025-05-01,brennanjohnson_tottenham,11.0,0.0,15.0,Brennan Johnson,Tottenham
+2025-05-01,joaopedro_brighton,10.0,5.0,16.0,Joao Pedro,Brighton
+2025-05-01,nicolasjackson_chelsea,10.0,0.0,17.0,Nicolas Jackson,Chelsea
+2025-05-01,rauljimenez_fulham,10.0,3.0,18.0,Raul Jimenez,Fulham
+2025-05-01,alexiwobi_fulham,9.0,0.0,19.0,Alex Iwobi,Fulham
+2025-05-01,antoinesemenyo_bournemouth,9.0,0.0,20.0,Antoine Semenyo,Bournemouth
+2025-05-01,codygakpo_liverpool,9.0,0.0,21.0,Cody Gakpo,Liverpool
+2025-05-01,dannywelbeck_brighton,9.0,0.0,22.0,Danny Welbeck,Brighton
+2025-05-01,evanilson_bournemouth,9.0,0.0,23.0,Evanilson,Bournemouth
+2025-05-01,harveybarnes_newcastleutd,9.0,0.0,24.0,Harvey Barnes,Newcastle Utd
+2025-05-01,jamesmaddison_tottenham,9.0,0.0,25.0,James Maddison,Tottenham
+2025-05-01,jarrodbowen_westham,9.0,1.0,26.0,Jarrod Bowen,West Ham
+2025-05-01,kaihavertz_arsenal,9.0,0.0,27.0,Kai Havertz,Arsenal
+2025-05-01,kaorumitoma_brighton,9.0,0.0,28.0,Kaoru Mitoma,Brighton
+2025-05-01,kevinschade_brentford,8.0,0.0,29.0,Kevin Schade,Brentford
+2025-05-03,mohamedsalah_liverpool,28.0,9.0,1.0,Mohamed Salah,Liverpool
+2025-05-03,alexanderisak_newcastleutd,22.0,3.0,2.0,Alexander Isak,Newcastle Utd
+2025-05-03,erlinghaaland_manchestercity,21.0,2.0,3.0,Erling Haaland,Manchester City
+2025-05-03,chriswood_notthamforest,19.0,3.0,4.0,Chris Wood,Nott'ham Forest
+2025-05-03,bryanmbeumo_brentford,18.0,5.0,5.0,Bryan Mbeumo,Brentford
+2025-05-03,yoanewissa_brentford,17.0,0.0,6.0,Yoane Wissa,Brentford
+2025-05-03,matheuscunha_wolves,15.0,0.0,7.0,Matheus Cunha,Wolves
+2025-05-03,olliewatkins_astonvilla,15.0,2.0,8.0,Ollie Watkins,Aston Villa
+2025-05-03,colepalmer_chelsea,14.0,3.0,9.0,Cole Palmer,Chelsea
+2025-05-03,jeanphilippemateta_crystalpalace,14.0,2.0,10.0,Jean-Philippe Mateta,Crystal Palace
+2025-05-03,jorgenstrandlarsen_wolves,13.0,0.0,11.0,Jorgen Strand Larsen,Wolves
+2025-05-03,justinkluivert_bournemouth,12.0,6.0,12.0,Justin Kluivert,Bournemouth
+2025-05-03,liamdelap_ipswichtown,12.0,2.0,13.0,Liam Delap,Ipswich Town
+2025-05-03,luisdiaz_liverpool,12.0,0.0,14.0,Luis Diaz,Liverpool
+2025-05-03,brennanjohnson_tottenham,11.0,0.0,15.0,Brennan Johnson,Tottenham
+2025-05-03,evanilson_bournemouth,10.0,0.0,16.0,Evanilson,Bournemouth
+2025-05-03,joaopedro_brighton,10.0,5.0,17.0,Joao Pedro,Brighton
+2025-05-03,nicolasjackson_chelsea,10.0,0.0,18.0,Nicolas Jackson,Chelsea
+2025-05-03,rauljimenez_fulham,10.0,3.0,19.0,Raul Jimenez,Fulham
+2025-05-03,alexiwobi_fulham,9.0,0.0,20.0,Alex Iwobi,Fulham
+2025-05-03,antoinesemenyo_bournemouth,9.0,0.0,21.0,Antoine Semenyo,Bournemouth
+2025-05-03,codygakpo_liverpool,9.0,0.0,22.0,Cody Gakpo,Liverpool
+2025-05-03,dannywelbeck_brighton,9.0,0.0,23.0,Danny Welbeck,Brighton
+2025-05-03,harveybarnes_newcastleutd,9.0,0.0,24.0,Harvey Barnes,Newcastle Utd
+2025-05-03,jamesmaddison_tottenham,9.0,0.0,25.0,James Maddison,Tottenham
+2025-05-03,jarrodbowen_westham,9.0,1.0,26.0,Jarrod Bowen,West Ham
+2025-05-03,kaihavertz_arsenal,9.0,0.0,27.0,Kai Havertz,Arsenal
+2025-05-03,kaorumitoma_brighton,9.0,0.0,28.0,Kaoru Mitoma,Brighton
+2025-05-03,kevinschade_brentford,8.0,0.0,29.0,Kevin Schade,Brentford
+2025-05-04,mohamedsalah_liverpool,28.0,9.0,1.0,Mohamed Salah,Liverpool
+2025-05-04,alexanderisak_newcastleutd,23.0,4.0,2.0,Alexander Isak,Newcastle Utd
+2025-05-04,erlinghaaland_manchestercity,21.0,2.0,3.0,Erling Haaland,Manchester City
+2025-05-04,chriswood_notthamforest,19.0,3.0,4.0,Chris Wood,Nott'ham Forest
+2025-05-04,bryanmbeumo_brentford,18.0,5.0,5.0,Bryan Mbeumo,Brentford
+2025-05-04,yoanewissa_brentford,18.0,0.0,6.0,Yoane Wissa,Brentford
+2025-05-04,colepalmer_chelsea,15.0,4.0,7.0,Cole Palmer,Chelsea
+2025-05-04,matheuscunha_wolves,15.0,0.0,8.0,Matheus Cunha,Wolves
+2025-05-04,olliewatkins_astonvilla,15.0,2.0,9.0,Ollie Watkins,Aston Villa
+2025-05-04,jeanphilippemateta_crystalpalace,14.0,2.0,10.0,Jean-Philippe Mateta,Crystal Palace
+2025-05-04,jorgenstrandlarsen_wolves,13.0,0.0,11.0,Jorgen Strand Larsen,Wolves
+2025-05-04,justinkluivert_bournemouth,12.0,6.0,12.0,Justin Kluivert,Bournemouth
+2025-05-04,liamdelap_ipswichtown,12.0,2.0,13.0,Liam Delap,Ipswich Town
+2025-05-04,luisdiaz_liverpool,12.0,0.0,14.0,Luis Diaz,Liverpool
+2025-05-04,brennanjohnson_tottenham,11.0,0.0,15.0,Brennan Johnson,Tottenham
+2025-05-04,evanilson_bournemouth,10.0,0.0,16.0,Evanilson,Bournemouth
+2025-05-04,jarrodbowen_westham,10.0,1.0,17.0,Jarrod Bowen,West Ham
+2025-05-04,joaopedro_brighton,10.0,5.0,18.0,Joao Pedro,Brighton
+2025-05-04,kevinschade_brentford,10.0,0.0,19.0,Kevin Schade,Brentford
+2025-05-04,nicolasjackson_chelsea,10.0,0.0,20.0,Nicolas Jackson,Chelsea
+2025-05-04,rauljimenez_fulham,10.0,3.0,21.0,Raul Jimenez,Fulham
+2025-05-04,alexiwobi_fulham,9.0,0.0,22.0,Alex Iwobi,Fulham
+2025-05-04,antoinesemenyo_bournemouth,9.0,0.0,23.0,Antoine Semenyo,Bournemouth
+2025-05-04,codygakpo_liverpool,9.0,0.0,24.0,Cody Gakpo,Liverpool
+2025-05-04,dannywelbeck_brighton,9.0,0.0,25.0,Danny Welbeck,Brighton
+2025-05-04,harveybarnes_newcastleutd,9.0,0.0,26.0,Harvey Barnes,Newcastle Utd
+2025-05-04,jamesmaddison_tottenham,9.0,0.0,27.0,James Maddison,Tottenham
+2025-05-04,kaihavertz_arsenal,9.0,0.0,28.0,Kai Havertz,Arsenal
+2025-05-04,kaorumitoma_brighton,9.0,0.0,29.0,Kaoru Mitoma,Brighton
