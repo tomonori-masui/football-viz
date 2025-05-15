@@ -18,6 +18,7 @@ date,team,player,value,player_team,cum_sum
 2024-08-31,Bournemouth,Justin Kluivert,1,justinkluivert_bournemouth,1.0
 2024-08-31,Aston Villa,Ollie Watkins,1,olliewatkins_astonvilla,1.0
 2024-09-01,Chelsea,Cole Palmer,1,colepalmer_chelsea,4.0
+2024-09-01,Liverpool,Dominik Szoboszlai,1,dominikszoboszlai_liverpool,1.0
 2024-09-01,Newcastle Utd,Jacob Murphy,1,jacobmurphy_newcastleutd,1.0
 2024-09-01,Liverpool,Mohamed Salah,2,mohamedsalah_liverpool,3.0
 2024-09-14,Manchester Utd,Amad Diallo,1,amaddiallo_manchesterutd,1.0
@@ -81,6 +82,7 @@ date,team,player,value,player_team,cum_sum
 2024-11-25,West Ham,Jarrod Bowen,1,jarrodbowen_westham,3.0
 2024-11-30,Arsenal,Bukayo Saka,2,bukayosaka_arsenal,10.0
 2024-11-30,Wolves,Jean-Ricner Bellegarde,1,jeanricnerbellegarde_wolves,2.0
+2024-11-30,Arsenal,Leandro Trossard,1,leandrotrossard_arsenal,1.0
 2024-11-30,Brentford,Mikkel Damsgaard,1,mikkeldamsgaard_brentford,4.0
 2024-12-01,Fulham,Alex Iwobi,1,alexiwobi_fulham,3.0
 2024-12-01,Manchester Utd,Amad Diallo,2,amaddiallo_manchesterutd,5.0
@@ -119,12 +121,14 @@ date,team,player,value,player_team,cum_sum
 2024-12-21,Arsenal,Declan Rice,1,declanrice_arsenal,3.0
 2024-12-21,Newcastle Utd,Jacob Murphy,1,jacobmurphy_newcastleutd,5.0
 2024-12-21,Aston Villa,Morgan Rogers,1,morganrogers_astonvilla,3.0
+2024-12-22,Liverpool,Dominik Szoboszlai,1,dominikszoboszlai_liverpool,2.0
 2024-12-22,Liverpool,Mohamed Salah,2,mohamedsalah_liverpool,11.0
 2024-12-22,Liverpool,Trent Alexander-Arnold,1,trentalexanderarnold_liverpool,4.0
 2024-12-26,Newcastle Utd,Jacob Murphy,1,jacobmurphy_newcastleutd,6.0
 2024-12-26,Manchester City,Jeremy Doku,1,jeremydoku_manchestercity,3.0
 2024-12-26,Wolves,Matheus Cunha,1,matheuscunha_wolves,4.0
 2024-12-26,Nott'ham Forest,Morgan Gibbs-White,1,morgangibbswhite_notthamforest,3.0
+2024-12-27,Arsenal,Leandro Trossard,1,leandrotrossard_arsenal,2.0
 2024-12-29,Nott'ham Forest,Anthony Elanga,1,anthonyelanga_notthamforest,3.0
 2024-12-29,Fulham,Antonee Robinson,1,antoneerobinson_fulham,7.0
 2024-12-29,Liverpool,Mohamed Salah,2,mohamedsalah_liverpool,13.0
@@ -154,6 +158,7 @@ date,team,player,value,player_team,cum_sum
 2025-01-15,Aston Villa,Morgan Rogers,1,morganrogers_astonvilla,4.0
 2025-01-18,Crystal Palace,Eberechi Eze,1,eberechieze_crystalpalace,5.0
 2025-01-18,Bournemouth,Justin Kluivert,1,justinkluivert_bournemouth,3.0
+2025-01-18,Arsenal,Leandro Trossard,2,leandrotrossard_arsenal,4.0
 2025-01-18,Liverpool,Trent Alexander-Arnold,1,trentalexanderarnold_liverpool,5.0
 2025-01-19,Manchester City,Jeremy Doku,1,jeremydoku_manchestercity,4.0
 2025-01-19,Manchester City,Kevin De Bruyne,2,kevindebruyne_manchestercity,6.0
@@ -172,6 +177,7 @@ date,team,player,value,player_team,cum_sum
 2025-02-12,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,14.0
 2025-02-15,Fulham,Adama Traore,1,adamatraore_fulham,4.0
 2025-02-15,Bournemouth,Justin Kluivert,1,justinkluivert_bournemouth,5.0
+2025-02-15,Arsenal,Leandro Trossard,1,leandrotrossard_arsenal,5.0
 2025-02-15,Nott'ham Forest,Morgan Gibbs-White,1,morgangibbswhite_notthamforest,5.0
 2025-02-15,Manchester City,Savio,1,savio_manchestercity,7.0
 2025-02-16,Wolves,Jean-Ricner Bellegarde,1,jeanricnerbellegarde_wolves,3.0
@@ -181,6 +187,7 @@ date,team,player,value,player_team,cum_sum
 2025-02-22,Tottenham,James Maddison,1,jamesmaddison_tottenham,5.0
 2025-02-22,Brighton,Joao Pedro,1,joaopedro_brighton,6.0
 2025-02-22,Tottenham,Son Heung-min,2,sonheungmin_tottenham,9.0
+2025-02-23,Liverpool,Dominik Szoboszlai,1,dominikszoboszlai_liverpool,3.0
 2025-02-23,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,16.0
 2025-02-25,Fulham,Adama Traore,1,adamatraore_fulham,5.0
 2025-02-25,Crystal Palace,Eberechi Eze,1,eberechieze_crystalpalace,6.0
@@ -234,6 +241,14 @@ date,team,player,value,player_team,cum_sum
 2025-04-26,West Ham,Jarrod Bowen,2,jarrodbowen_westham,7.0
 2025-04-26,Wolves,Matheus Cunha,2,matheuscunha_wolves,6.0
 2025-04-26,Wolves,Rayan Ait-Nouri,1,rayanaitnouri_wolves,7.0
+2025-04-27,Liverpool,Dominik Szoboszlai,2,dominikszoboszlai_liverpool,5.0
 2025-04-27,Tottenham,James Maddison,1,jamesmaddison_tottenham,7.0
 2025-05-02,Manchester City,Jeremy Doku,1,jeremydoku_manchestercity,6.0
 2025-05-03,Arsenal,Martin Odegaard,1,martinodegaard_arsenal,7.0
+2025-05-10,Brentford,Bryan Mbeumo,1,bryanmbeumo_brentford,7.0
+2025-05-10,Aston Villa,Morgan Rogers,1,morganrogers_astonvilla,9.0
+2025-05-11,Nott'ham Forest,Anthony Elanga,1,anthonyelanga_notthamforest,10.0
+2025-05-11,Liverpool,Dominik Szoboszlai,1,dominikszoboszlai_liverpool,6.0
+2025-05-11,Newcastle Utd,Jacob Murphy,1,jacobmurphy_newcastleutd,12.0
+2025-05-11,Arsenal,Leandro Trossard,1,leandrotrossard_arsenal,6.0
+2025-05-11,Nott'ham Forest,Morgan Gibbs-White,1,morgangibbswhite_notthamforest,8.0

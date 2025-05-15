@@ -13,28 +13,30 @@ date,player_team,value,rank,player,team
 2024-08-17,bryanmbeumo_brentford,0.0,12.0,Bryan Mbeumo,Brentford
 2024-08-17,colepalmer_chelsea,0.0,13.0,Cole Palmer,Chelsea
 2024-08-17,declanrice_arsenal,0.0,14.0,Declan Rice,Arsenal
-2024-08-17,eberechieze_crystalpalace,0.0,15.0,Eberechi Eze,Crystal Palace
-2024-08-17,elliotanderson_notthamforest,0.0,16.0,Elliot Anderson,Nott'ham Forest
-2024-08-17,enzofernandez_chelsea,0.0,17.0,Enzo Fernandez,Chelsea
-2024-08-17,jacobmurphy_newcastleutd,0.0,18.0,Jacob Murphy,Newcastle Utd
-2024-08-17,jamesmaddison_tottenham,0.0,19.0,James Maddison,Tottenham
-2024-08-17,jarrodbowen_westham,0.0,20.0,Jarrod Bowen,West Ham
-2024-08-17,jeanricnerbellegarde_wolves,0.0,21.0,Jean-Ricner Bellegarde,Wolves
-2024-08-17,jeremydoku_manchestercity,0.0,22.0,Jeremy Doku,Manchester City
-2024-08-17,joaopedro_brighton,0.0,23.0,Joao Pedro,Brighton
-2024-08-17,justinkluivert_bournemouth,0.0,24.0,Justin Kluivert,Bournemouth
-2024-08-17,kevindebruyne_manchestercity,0.0,25.0,Kevin De Bruyne,Manchester City
-2024-08-17,martinodegaard_arsenal,0.0,26.0,Martin Odegaard,Arsenal
-2024-08-17,matheuscunha_wolves,0.0,27.0,Matheus Cunha,Wolves
-2024-08-17,mikkeldamsgaard_brentford,0.0,28.0,Mikkel Damsgaard,Brentford
-2024-08-17,morgangibbswhite_notthamforest,0.0,29.0,Morgan Gibbs-White,Nott'ham Forest
-2024-08-17,morganrogers_astonvilla,0.0,30.0,Morgan Rogers,Aston Villa
-2024-08-17,olliewatkins_astonvilla,0.0,31.0,Ollie Watkins,Aston Villa
-2024-08-17,pedroporro_tottenham,0.0,32.0,Pedro Porro,Tottenham
-2024-08-17,rayanaitnouri_wolves,0.0,33.0,Rayan Ait-Nouri,Wolves
-2024-08-17,savio_manchestercity,0.0,34.0,Savio,Manchester City
-2024-08-17,sonheungmin_tottenham,0.0,35.0,Son Heung-min,Tottenham
-2024-08-17,trentalexanderarnold_liverpool,0.0,36.0,Trent Alexander-Arnold,Liverpool
+2024-08-17,dominikszoboszlai_liverpool,0.0,15.0,Dominik Szoboszlai,Liverpool
+2024-08-17,eberechieze_crystalpalace,0.0,16.0,Eberechi Eze,Crystal Palace
+2024-08-17,elliotanderson_notthamforest,0.0,17.0,Elliot Anderson,Nott'ham Forest
+2024-08-17,enzofernandez_chelsea,0.0,18.0,Enzo Fernandez,Chelsea
+2024-08-17,jacobmurphy_newcastleutd,0.0,19.0,Jacob Murphy,Newcastle Utd
+2024-08-17,jamesmaddison_tottenham,0.0,20.0,James Maddison,Tottenham
+2024-08-17,jarrodbowen_westham,0.0,21.0,Jarrod Bowen,West Ham
+2024-08-17,jeanricnerbellegarde_wolves,0.0,22.0,Jean-Ricner Bellegarde,Wolves
+2024-08-17,jeremydoku_manchestercity,0.0,23.0,Jeremy Doku,Manchester City
+2024-08-17,joaopedro_brighton,0.0,24.0,Joao Pedro,Brighton
+2024-08-17,justinkluivert_bournemouth,0.0,25.0,Justin Kluivert,Bournemouth
+2024-08-17,kevindebruyne_manchestercity,0.0,26.0,Kevin De Bruyne,Manchester City
+2024-08-17,leandrotrossard_arsenal,0.0,27.0,Leandro Trossard,Arsenal
+2024-08-17,martinodegaard_arsenal,0.0,28.0,Martin Odegaard,Arsenal
+2024-08-17,matheuscunha_wolves,0.0,29.0,Matheus Cunha,Wolves
+2024-08-17,mikkeldamsgaard_brentford,0.0,30.0,Mikkel Damsgaard,Brentford
+2024-08-17,morgangibbswhite_notthamforest,0.0,31.0,Morgan Gibbs-White,Nott'ham Forest
+2024-08-17,morganrogers_astonvilla,0.0,32.0,Morgan Rogers,Aston Villa
+2024-08-17,olliewatkins_astonvilla,0.0,33.0,Ollie Watkins,Aston Villa
+2024-08-17,pedroporro_tottenham,0.0,34.0,Pedro Porro,Tottenham
+2024-08-17,rayanaitnouri_wolves,0.0,35.0,Rayan Ait-Nouri,Wolves
+2024-08-17,savio_manchestercity,0.0,36.0,Savio,Manchester City
+2024-08-17,sonheungmin_tottenham,0.0,37.0,Son Heung-min,Tottenham
+2024-08-17,trentalexanderarnold_liverpool,0.0,38.0,Trent Alexander-Arnold,Liverpool
 2024-08-19,alexanderisak_newcastleutd,1.0,1.0,Alexander Isak,Newcastle Utd
 2024-08-19,bukayosaka_arsenal,1.0,2.0,Bukayo Saka,Arsenal
 2024-08-19,jamesmaddison_tottenham,1.0,3.0,James Maddison,Tottenham
@@ -50,27 +52,29 @@ date,player_team,value,rank,player,team
 2024-08-19,bryanmbeumo_brentford,0.0,13.0,Bryan Mbeumo,Brentford
 2024-08-19,colepalmer_chelsea,0.0,14.0,Cole Palmer,Chelsea
 2024-08-19,declanrice_arsenal,0.0,15.0,Declan Rice,Arsenal
-2024-08-19,eberechieze_crystalpalace,0.0,16.0,Eberechi Eze,Crystal Palace
-2024-08-19,elliotanderson_notthamforest,0.0,17.0,Elliot Anderson,Nott'ham Forest
-2024-08-19,enzofernandez_chelsea,0.0,18.0,Enzo Fernandez,Chelsea
-2024-08-19,jacobmurphy_newcastleutd,0.0,19.0,Jacob Murphy,Newcastle Utd
-2024-08-19,jarrodbowen_westham,0.0,20.0,Jarrod Bowen,West Ham
-2024-08-19,jeanricnerbellegarde_wolves,0.0,21.0,Jean-Ricner Bellegarde,Wolves
-2024-08-19,jeremydoku_manchestercity,0.0,22.0,Jeremy Doku,Manchester City
-2024-08-19,joaopedro_brighton,0.0,23.0,Joao Pedro,Brighton
-2024-08-19,justinkluivert_bournemouth,0.0,24.0,Justin Kluivert,Bournemouth
-2024-08-19,kevindebruyne_manchestercity,0.0,25.0,Kevin De Bruyne,Manchester City
-2024-08-19,martinodegaard_arsenal,0.0,26.0,Martin Odegaard,Arsenal
-2024-08-19,matheuscunha_wolves,0.0,27.0,Matheus Cunha,Wolves
-2024-08-19,mikkeldamsgaard_brentford,0.0,28.0,Mikkel Damsgaard,Brentford
-2024-08-19,morgangibbswhite_notthamforest,0.0,29.0,Morgan Gibbs-White,Nott'ham Forest
-2024-08-19,morganrogers_astonvilla,0.0,30.0,Morgan Rogers,Aston Villa
-2024-08-19,olliewatkins_astonvilla,0.0,31.0,Ollie Watkins,Aston Villa
-2024-08-19,pedroporro_tottenham,0.0,32.0,Pedro Porro,Tottenham
-2024-08-19,rayanaitnouri_wolves,0.0,33.0,Rayan Ait-Nouri,Wolves
-2024-08-19,savio_manchestercity,0.0,34.0,Savio,Manchester City
-2024-08-19,sonheungmin_tottenham,0.0,35.0,Son Heung-min,Tottenham
-2024-08-19,trentalexanderarnold_liverpool,0.0,36.0,Trent Alexander-Arnold,Liverpool
+2024-08-19,dominikszoboszlai_liverpool,0.0,16.0,Dominik Szoboszlai,Liverpool
+2024-08-19,eberechieze_crystalpalace,0.0,17.0,Eberechi Eze,Crystal Palace
+2024-08-19,elliotanderson_notthamforest,0.0,18.0,Elliot Anderson,Nott'ham Forest
+2024-08-19,enzofernandez_chelsea,0.0,19.0,Enzo Fernandez,Chelsea
+2024-08-19,jacobmurphy_newcastleutd,0.0,20.0,Jacob Murphy,Newcastle Utd
+2024-08-19,jarrodbowen_westham,0.0,21.0,Jarrod Bowen,West Ham
+2024-08-19,jeanricnerbellegarde_wolves,0.0,22.0,Jean-Ricner Bellegarde,Wolves
+2024-08-19,jeremydoku_manchestercity,0.0,23.0,Jeremy Doku,Manchester City
+2024-08-19,joaopedro_brighton,0.0,24.0,Joao Pedro,Brighton
+2024-08-19,justinkluivert_bournemouth,0.0,25.0,Justin Kluivert,Bournemouth
+2024-08-19,kevindebruyne_manchestercity,0.0,26.0,Kevin De Bruyne,Manchester City
+2024-08-19,leandrotrossard_arsenal,0.0,27.0,Leandro Trossard,Arsenal
+2024-08-19,martinodegaard_arsenal,0.0,28.0,Martin Odegaard,Arsenal
+2024-08-19,matheuscunha_wolves,0.0,29.0,Matheus Cunha,Wolves
+2024-08-19,mikkeldamsgaard_brentford,0.0,30.0,Mikkel Damsgaard,Brentford
+2024-08-19,morgangibbswhite_notthamforest,0.0,31.0,Morgan Gibbs-White,Nott'ham Forest
+2024-08-19,morganrogers_astonvilla,0.0,32.0,Morgan Rogers,Aston Villa
+2024-08-19,olliewatkins_astonvilla,0.0,33.0,Ollie Watkins,Aston Villa
+2024-08-19,pedroporro_tottenham,0.0,34.0,Pedro Porro,Tottenham
+2024-08-19,rayanaitnouri_wolves,0.0,35.0,Rayan Ait-Nouri,Wolves
+2024-08-19,savio_manchestercity,0.0,36.0,Savio,Manchester City
+2024-08-19,sonheungmin_tottenham,0.0,37.0,Son Heung-min,Tottenham
+2024-08-19,trentalexanderarnold_liverpool,0.0,38.0,Trent Alexander-Arnold,Liverpool
 2024-08-24,bukayosaka_arsenal,2.0,1.0,Bukayo Saka,Arsenal
 2024-08-24,jamesmaddison_tottenham,2.0,2.0,James Maddison,Tottenham
 2024-08-24,adamatraore_fulham,1.0,3.0,Adama Traore,Fulham
@@ -88,25 +92,27 @@ date,player_team,value,rank,player,team
 2024-08-24,bryanmbeumo_brentford,0.0,15.0,Bryan Mbeumo,Brentford
 2024-08-24,colepalmer_chelsea,0.0,16.0,Cole Palmer,Chelsea
 2024-08-24,declanrice_arsenal,0.0,17.0,Declan Rice,Arsenal
-2024-08-24,eberechieze_crystalpalace,0.0,18.0,Eberechi Eze,Crystal Palace
-2024-08-24,elliotanderson_notthamforest,0.0,19.0,Elliot Anderson,Nott'ham Forest
-2024-08-24,enzofernandez_chelsea,0.0,20.0,Enzo Fernandez,Chelsea
-2024-08-24,jacobmurphy_newcastleutd,0.0,21.0,Jacob Murphy,Newcastle Utd
-2024-08-24,jarrodbowen_westham,0.0,22.0,Jarrod Bowen,West Ham
-2024-08-24,jeanricnerbellegarde_wolves,0.0,23.0,Jean-Ricner Bellegarde,Wolves
-2024-08-24,jeremydoku_manchestercity,0.0,24.0,Jeremy Doku,Manchester City
-2024-08-24,joaopedro_brighton,0.0,25.0,Joao Pedro,Brighton
-2024-08-24,justinkluivert_bournemouth,0.0,26.0,Justin Kluivert,Bournemouth
-2024-08-24,martinodegaard_arsenal,0.0,27.0,Martin Odegaard,Arsenal
-2024-08-24,matheuscunha_wolves,0.0,28.0,Matheus Cunha,Wolves
-2024-08-24,mikkeldamsgaard_brentford,0.0,29.0,Mikkel Damsgaard,Brentford
-2024-08-24,morgangibbswhite_notthamforest,0.0,30.0,Morgan Gibbs-White,Nott'ham Forest
-2024-08-24,morganrogers_astonvilla,0.0,31.0,Morgan Rogers,Aston Villa
-2024-08-24,olliewatkins_astonvilla,0.0,32.0,Ollie Watkins,Aston Villa
-2024-08-24,pedroporro_tottenham,0.0,33.0,Pedro Porro,Tottenham
-2024-08-24,rayanaitnouri_wolves,0.0,34.0,Rayan Ait-Nouri,Wolves
-2024-08-24,sonheungmin_tottenham,0.0,35.0,Son Heung-min,Tottenham
-2024-08-24,trentalexanderarnold_liverpool,0.0,36.0,Trent Alexander-Arnold,Liverpool
+2024-08-24,dominikszoboszlai_liverpool,0.0,18.0,Dominik Szoboszlai,Liverpool
+2024-08-24,eberechieze_crystalpalace,0.0,19.0,Eberechi Eze,Crystal Palace
+2024-08-24,elliotanderson_notthamforest,0.0,20.0,Elliot Anderson,Nott'ham Forest
+2024-08-24,enzofernandez_chelsea,0.0,21.0,Enzo Fernandez,Chelsea
+2024-08-24,jacobmurphy_newcastleutd,0.0,22.0,Jacob Murphy,Newcastle Utd
+2024-08-24,jarrodbowen_westham,0.0,23.0,Jarrod Bowen,West Ham
+2024-08-24,jeanricnerbellegarde_wolves,0.0,24.0,Jean-Ricner Bellegarde,Wolves
+2024-08-24,jeremydoku_manchestercity,0.0,25.0,Jeremy Doku,Manchester City
+2024-08-24,joaopedro_brighton,0.0,26.0,Joao Pedro,Brighton
+2024-08-24,justinkluivert_bournemouth,0.0,27.0,Justin Kluivert,Bournemouth
+2024-08-24,leandrotrossard_arsenal,0.0,28.0,Leandro Trossard,Arsenal
+2024-08-24,martinodegaard_arsenal,0.0,29.0,Martin Odegaard,Arsenal
+2024-08-24,matheuscunha_wolves,0.0,30.0,Matheus Cunha,Wolves
+2024-08-24,mikkeldamsgaard_brentford,0.0,31.0,Mikkel Damsgaard,Brentford
+2024-08-24,morgangibbswhite_notthamforest,0.0,32.0,Morgan Gibbs-White,Nott'ham Forest
+2024-08-24,morganrogers_astonvilla,0.0,33.0,Morgan Rogers,Aston Villa
+2024-08-24,olliewatkins_astonvilla,0.0,34.0,Ollie Watkins,Aston Villa
+2024-08-24,pedroporro_tottenham,0.0,35.0,Pedro Porro,Tottenham
+2024-08-24,rayanaitnouri_wolves,0.0,36.0,Rayan Ait-Nouri,Wolves
+2024-08-24,sonheungmin_tottenham,0.0,37.0,Son Heung-min,Tottenham
+2024-08-24,trentalexanderarnold_liverpool,0.0,38.0,Trent Alexander-Arnold,Liverpool
 2024-08-25,colepalmer_chelsea,3.0,1.0,Cole Palmer,Chelsea
 2024-08-25,bukayosaka_arsenal,2.0,2.0,Bukayo Saka,Arsenal
 2024-08-25,jamesmaddison_tottenham,2.0,3.0,James Maddison,Tottenham
@@ -125,24 +131,26 @@ date,player_team,value,rank,player,team
 2024-08-25,brunoguimaraes_newcastleutd,0.0,16.0,Bruno Guimaraes,Newcastle Utd
 2024-08-25,bryanmbeumo_brentford,0.0,17.0,Bryan Mbeumo,Brentford
 2024-08-25,declanrice_arsenal,0.0,18.0,Declan Rice,Arsenal
-2024-08-25,eberechieze_crystalpalace,0.0,19.0,Eberechi Eze,Crystal Palace
-2024-08-25,elliotanderson_notthamforest,0.0,20.0,Elliot Anderson,Nott'ham Forest
-2024-08-25,enzofernandez_chelsea,0.0,21.0,Enzo Fernandez,Chelsea
-2024-08-25,jacobmurphy_newcastleutd,0.0,22.0,Jacob Murphy,Newcastle Utd
-2024-08-25,jarrodbowen_westham,0.0,23.0,Jarrod Bowen,West Ham
-2024-08-25,jeanricnerbellegarde_wolves,0.0,24.0,Jean-Ricner Bellegarde,Wolves
-2024-08-25,jeremydoku_manchestercity,0.0,25.0,Jeremy Doku,Manchester City
-2024-08-25,joaopedro_brighton,0.0,26.0,Joao Pedro,Brighton
-2024-08-25,justinkluivert_bournemouth,0.0,27.0,Justin Kluivert,Bournemouth
-2024-08-25,martinodegaard_arsenal,0.0,28.0,Martin Odegaard,Arsenal
-2024-08-25,matheuscunha_wolves,0.0,29.0,Matheus Cunha,Wolves
-2024-08-25,mikkeldamsgaard_brentford,0.0,30.0,Mikkel Damsgaard,Brentford
-2024-08-25,morgangibbswhite_notthamforest,0.0,31.0,Morgan Gibbs-White,Nott'ham Forest
-2024-08-25,morganrogers_astonvilla,0.0,32.0,Morgan Rogers,Aston Villa
-2024-08-25,olliewatkins_astonvilla,0.0,33.0,Ollie Watkins,Aston Villa
-2024-08-25,pedroporro_tottenham,0.0,34.0,Pedro Porro,Tottenham
-2024-08-25,sonheungmin_tottenham,0.0,35.0,Son Heung-min,Tottenham
-2024-08-25,trentalexanderarnold_liverpool,0.0,36.0,Trent Alexander-Arnold,Liverpool
+2024-08-25,dominikszoboszlai_liverpool,0.0,19.0,Dominik Szoboszlai,Liverpool
+2024-08-25,eberechieze_crystalpalace,0.0,20.0,Eberechi Eze,Crystal Palace
+2024-08-25,elliotanderson_notthamforest,0.0,21.0,Elliot Anderson,Nott'ham Forest
+2024-08-25,enzofernandez_chelsea,0.0,22.0,Enzo Fernandez,Chelsea
+2024-08-25,jacobmurphy_newcastleutd,0.0,23.0,Jacob Murphy,Newcastle Utd
+2024-08-25,jarrodbowen_westham,0.0,24.0,Jarrod Bowen,West Ham
+2024-08-25,jeanricnerbellegarde_wolves,0.0,25.0,Jean-Ricner Bellegarde,Wolves
+2024-08-25,jeremydoku_manchestercity,0.0,26.0,Jeremy Doku,Manchester City
+2024-08-25,joaopedro_brighton,0.0,27.0,Joao Pedro,Brighton
+2024-08-25,justinkluivert_bournemouth,0.0,28.0,Justin Kluivert,Bournemouth
+2024-08-25,leandrotrossard_arsenal,0.0,29.0,Leandro Trossard,Arsenal
+2024-08-25,martinodegaard_arsenal,0.0,30.0,Martin Odegaard,Arsenal
+2024-08-25,matheuscunha_wolves,0.0,31.0,Matheus Cunha,Wolves
+2024-08-25,mikkeldamsgaard_brentford,0.0,32.0,Mikkel Damsgaard,Brentford
+2024-08-25,morgangibbswhite_notthamforest,0.0,33.0,Morgan Gibbs-White,Nott'ham Forest
+2024-08-25,morganrogers_astonvilla,0.0,34.0,Morgan Rogers,Aston Villa
+2024-08-25,olliewatkins_astonvilla,0.0,35.0,Ollie Watkins,Aston Villa
+2024-08-25,pedroporro_tottenham,0.0,36.0,Pedro Porro,Tottenham
+2024-08-25,sonheungmin_tottenham,0.0,37.0,Son Heung-min,Tottenham
+2024-08-25,trentalexanderarnold_liverpool,0.0,38.0,Trent Alexander-Arnold,Liverpool
 2024-08-31,bukayosaka_arsenal,3.0,1.0,Bukayo Saka,Arsenal
 2024-08-31,colepalmer_chelsea,3.0,2.0,Cole Palmer,Chelsea
 2024-08-31,antoneerobinson_fulham,2.0,3.0,Antonee Robinson,Fulham
@@ -164,21 +172,23 @@ date,player_team,value,rank,player,team
 2024-08-31,brunoguimaraes_newcastleutd,0.0,19.0,Bruno Guimaraes,Newcastle Utd
 2024-08-31,bryanmbeumo_brentford,0.0,20.0,Bryan Mbeumo,Brentford
 2024-08-31,declanrice_arsenal,0.0,21.0,Declan Rice,Arsenal
-2024-08-31,eberechieze_crystalpalace,0.0,22.0,Eberechi Eze,Crystal Palace
-2024-08-31,enzofernandez_chelsea,0.0,23.0,Enzo Fernandez,Chelsea
-2024-08-31,jacobmurphy_newcastleutd,0.0,24.0,Jacob Murphy,Newcastle Utd
-2024-08-31,jarrodbowen_westham,0.0,25.0,Jarrod Bowen,West Ham
-2024-08-31,jeanricnerbellegarde_wolves,0.0,26.0,Jean-Ricner Bellegarde,Wolves
-2024-08-31,jeremydoku_manchestercity,0.0,27.0,Jeremy Doku,Manchester City
-2024-08-31,joaopedro_brighton,0.0,28.0,Joao Pedro,Brighton
-2024-08-31,martinodegaard_arsenal,0.0,29.0,Martin Odegaard,Arsenal
-2024-08-31,matheuscunha_wolves,0.0,30.0,Matheus Cunha,Wolves
-2024-08-31,mikkeldamsgaard_brentford,0.0,31.0,Mikkel Damsgaard,Brentford
-2024-08-31,morgangibbswhite_notthamforest,0.0,32.0,Morgan Gibbs-White,Nott'ham Forest
-2024-08-31,morganrogers_astonvilla,0.0,33.0,Morgan Rogers,Aston Villa
-2024-08-31,pedroporro_tottenham,0.0,34.0,Pedro Porro,Tottenham
-2024-08-31,sonheungmin_tottenham,0.0,35.0,Son Heung-min,Tottenham
-2024-08-31,trentalexanderarnold_liverpool,0.0,36.0,Trent Alexander-Arnold,Liverpool
+2024-08-31,dominikszoboszlai_liverpool,0.0,22.0,Dominik Szoboszlai,Liverpool
+2024-08-31,eberechieze_crystalpalace,0.0,23.0,Eberechi Eze,Crystal Palace
+2024-08-31,enzofernandez_chelsea,0.0,24.0,Enzo Fernandez,Chelsea
+2024-08-31,jacobmurphy_newcastleutd,0.0,25.0,Jacob Murphy,Newcastle Utd
+2024-08-31,jarrodbowen_westham,0.0,26.0,Jarrod Bowen,West Ham
+2024-08-31,jeanricnerbellegarde_wolves,0.0,27.0,Jean-Ricner Bellegarde,Wolves
+2024-08-31,jeremydoku_manchestercity,0.0,28.0,Jeremy Doku,Manchester City
+2024-08-31,joaopedro_brighton,0.0,29.0,Joao Pedro,Brighton
+2024-08-31,leandrotrossard_arsenal,0.0,30.0,Leandro Trossard,Arsenal
+2024-08-31,martinodegaard_arsenal,0.0,31.0,Martin Odegaard,Arsenal
+2024-08-31,matheuscunha_wolves,0.0,32.0,Matheus Cunha,Wolves
+2024-08-31,mikkeldamsgaard_brentford,0.0,33.0,Mikkel Damsgaard,Brentford
+2024-08-31,morgangibbswhite_notthamforest,0.0,34.0,Morgan Gibbs-White,Nott'ham Forest
+2024-08-31,morganrogers_astonvilla,0.0,35.0,Morgan Rogers,Aston Villa
+2024-08-31,pedroporro_tottenham,0.0,36.0,Pedro Porro,Tottenham
+2024-08-31,sonheungmin_tottenham,0.0,37.0,Son Heung-min,Tottenham
+2024-08-31,trentalexanderarnold_liverpool,0.0,38.0,Trent Alexander-Arnold,Liverpool
 2024-09-01,colepalmer_chelsea,4.0,1.0,Cole Palmer,Chelsea
 2024-09-01,bukayosaka_arsenal,3.0,2.0,Bukayo Saka,Arsenal
 2024-09-01,mohamedsalah_liverpool,3.0,3.0,Mohamed Salah,Liverpool
@@ -186,35 +196,37 @@ date,player_team,value,rank,player,team
 2024-09-01,jamesmaddison_tottenham,2.0,5.0,James Maddison,Tottenham
 2024-09-01,adamatraore_fulham,1.0,6.0,Adama Traore,Fulham
 2024-09-01,alexanderisak_newcastleutd,1.0,7.0,Alexander Isak,Newcastle Utd
-2024-09-01,elliotanderson_notthamforest,1.0,8.0,Elliot Anderson,Nott'ham Forest
-2024-09-01,jacobmurphy_newcastleutd,1.0,9.0,Jacob Murphy,Newcastle Utd
-2024-09-01,justinkluivert_bournemouth,1.0,10.0,Justin Kluivert,Bournemouth
-2024-09-01,kevindebruyne_manchestercity,1.0,11.0,Kevin De Bruyne,Manchester City
-2024-09-01,olliewatkins_astonvilla,1.0,12.0,Ollie Watkins,Aston Villa
-2024-09-01,rayanaitnouri_wolves,1.0,13.0,Rayan Ait-Nouri,Wolves
-2024-09-01,savio_manchestercity,1.0,14.0,Savio,Manchester City
-2024-09-01,youritielemans_astonvilla,1.0,15.0,Youri Tielemans,Aston Villa
-2024-09-01,alexiwobi_fulham,0.0,16.0,Alex Iwobi,Fulham
-2024-09-01,amaddiallo_manchesterutd,0.0,17.0,Amad Diallo,Manchester Utd
-2024-09-01,anthonyelanga_notthamforest,0.0,18.0,Anthony Elanga,Nott'ham Forest
-2024-09-01,brunofernandes_manchesterutd,0.0,19.0,Bruno Fernandes,Manchester Utd
-2024-09-01,brunoguimaraes_newcastleutd,0.0,20.0,Bruno Guimaraes,Newcastle Utd
-2024-09-01,bryanmbeumo_brentford,0.0,21.0,Bryan Mbeumo,Brentford
-2024-09-01,declanrice_arsenal,0.0,22.0,Declan Rice,Arsenal
-2024-09-01,eberechieze_crystalpalace,0.0,23.0,Eberechi Eze,Crystal Palace
-2024-09-01,enzofernandez_chelsea,0.0,24.0,Enzo Fernandez,Chelsea
-2024-09-01,jarrodbowen_westham,0.0,25.0,Jarrod Bowen,West Ham
-2024-09-01,jeanricnerbellegarde_wolves,0.0,26.0,Jean-Ricner Bellegarde,Wolves
-2024-09-01,jeremydoku_manchestercity,0.0,27.0,Jeremy Doku,Manchester City
-2024-09-01,joaopedro_brighton,0.0,28.0,Joao Pedro,Brighton
-2024-09-01,martinodegaard_arsenal,0.0,29.0,Martin Odegaard,Arsenal
-2024-09-01,matheuscunha_wolves,0.0,30.0,Matheus Cunha,Wolves
-2024-09-01,mikkeldamsgaard_brentford,0.0,31.0,Mikkel Damsgaard,Brentford
-2024-09-01,morgangibbswhite_notthamforest,0.0,32.0,Morgan Gibbs-White,Nott'ham Forest
-2024-09-01,morganrogers_astonvilla,0.0,33.0,Morgan Rogers,Aston Villa
-2024-09-01,pedroporro_tottenham,0.0,34.0,Pedro Porro,Tottenham
-2024-09-01,sonheungmin_tottenham,0.0,35.0,Son Heung-min,Tottenham
-2024-09-01,trentalexanderarnold_liverpool,0.0,36.0,Trent Alexander-Arnold,Liverpool
+2024-09-01,dominikszoboszlai_liverpool,1.0,8.0,Dominik Szoboszlai,Liverpool
+2024-09-01,elliotanderson_notthamforest,1.0,9.0,Elliot Anderson,Nott'ham Forest
+2024-09-01,jacobmurphy_newcastleutd,1.0,10.0,Jacob Murphy,Newcastle Utd
+2024-09-01,justinkluivert_bournemouth,1.0,11.0,Justin Kluivert,Bournemouth
+2024-09-01,kevindebruyne_manchestercity,1.0,12.0,Kevin De Bruyne,Manchester City
+2024-09-01,olliewatkins_astonvilla,1.0,13.0,Ollie Watkins,Aston Villa
+2024-09-01,rayanaitnouri_wolves,1.0,14.0,Rayan Ait-Nouri,Wolves
+2024-09-01,savio_manchestercity,1.0,15.0,Savio,Manchester City
+2024-09-01,youritielemans_astonvilla,1.0,16.0,Youri Tielemans,Aston Villa
+2024-09-01,alexiwobi_fulham,0.0,17.0,Alex Iwobi,Fulham
+2024-09-01,amaddiallo_manchesterutd,0.0,18.0,Amad Diallo,Manchester Utd
+2024-09-01,anthonyelanga_notthamforest,0.0,19.0,Anthony Elanga,Nott'ham Forest
+2024-09-01,brunofernandes_manchesterutd,0.0,20.0,Bruno Fernandes,Manchester Utd
+2024-09-01,brunoguimaraes_newcastleutd,0.0,21.0,Bruno Guimaraes,Newcastle Utd
+2024-09-01,bryanmbeumo_brentford,0.0,22.0,Bryan Mbeumo,Brentford
+2024-09-01,declanrice_arsenal,0.0,23.0,Declan Rice,Arsenal
+2024-09-01,eberechieze_crystalpalace,0.0,24.0,Eberechi Eze,Crystal Palace
+2024-09-01,enzofernandez_chelsea,0.0,25.0,Enzo Fernandez,Chelsea
+2024-09-01,jarrodbowen_westham,0.0,26.0,Jarrod Bowen,West Ham
+2024-09-01,jeanricnerbellegarde_wolves,0.0,27.0,Jean-Ricner Bellegarde,Wolves
+2024-09-01,jeremydoku_manchestercity,0.0,28.0,Jeremy Doku,Manchester City
+2024-09-01,joaopedro_brighton,0.0,29.0,Joao Pedro,Brighton
+2024-09-01,leandrotrossard_arsenal,0.0,30.0,Leandro Trossard,Arsenal
+2024-09-01,martinodegaard_arsenal,0.0,31.0,Martin Odegaard,Arsenal
+2024-09-01,matheuscunha_wolves,0.0,32.0,Matheus Cunha,Wolves
+2024-09-01,mikkeldamsgaard_brentford,0.0,33.0,Mikkel Damsgaard,Brentford
+2024-09-01,morgangibbswhite_notthamforest,0.0,34.0,Morgan Gibbs-White,Nott'ham Forest
+2024-09-01,morganrogers_astonvilla,0.0,35.0,Morgan Rogers,Aston Villa
+2024-09-01,pedroporro_tottenham,0.0,36.0,Pedro Porro,Tottenham
+2024-09-01,sonheungmin_tottenham,0.0,37.0,Son Heung-min,Tottenham
+2024-09-01,trentalexanderarnold_liverpool,0.0,38.0,Trent Alexander-Arnold,Liverpool
 2024-09-14,colepalmer_chelsea,4.0,1.0,Cole Palmer,Chelsea
 2024-09-14,bukayosaka_arsenal,3.0,2.0,Bukayo Saka,Arsenal
 2024-09-14,mohamedsalah_liverpool,3.0,3.0,Mohamed Salah,Liverpool
@@ -225,32 +237,34 @@ date,player_team,value,rank,player,team
 2024-09-14,amaddiallo_manchesterutd,1.0,8.0,Amad Diallo,Manchester Utd
 2024-09-14,anthonyelanga_notthamforest,1.0,9.0,Anthony Elanga,Nott'ham Forest
 2024-09-14,brunofernandes_manchesterutd,1.0,10.0,Bruno Fernandes,Manchester Utd
-2024-09-14,elliotanderson_notthamforest,1.0,11.0,Elliot Anderson,Nott'ham Forest
-2024-09-14,jacobmurphy_newcastleutd,1.0,12.0,Jacob Murphy,Newcastle Utd
-2024-09-14,jarrodbowen_westham,1.0,13.0,Jarrod Bowen,West Ham
-2024-09-14,justinkluivert_bournemouth,1.0,14.0,Justin Kluivert,Bournemouth
-2024-09-14,kevindebruyne_manchestercity,1.0,15.0,Kevin De Bruyne,Manchester City
-2024-09-14,olliewatkins_astonvilla,1.0,16.0,Ollie Watkins,Aston Villa
-2024-09-14,rayanaitnouri_wolves,1.0,17.0,Rayan Ait-Nouri,Wolves
-2024-09-14,savio_manchestercity,1.0,18.0,Savio,Manchester City
-2024-09-14,youritielemans_astonvilla,1.0,19.0,Youri Tielemans,Aston Villa
-2024-09-14,alexiwobi_fulham,0.0,20.0,Alex Iwobi,Fulham
-2024-09-14,brunoguimaraes_newcastleutd,0.0,21.0,Bruno Guimaraes,Newcastle Utd
-2024-09-14,bryanmbeumo_brentford,0.0,22.0,Bryan Mbeumo,Brentford
-2024-09-14,declanrice_arsenal,0.0,23.0,Declan Rice,Arsenal
-2024-09-14,eberechieze_crystalpalace,0.0,24.0,Eberechi Eze,Crystal Palace
-2024-09-14,enzofernandez_chelsea,0.0,25.0,Enzo Fernandez,Chelsea
-2024-09-14,jeanricnerbellegarde_wolves,0.0,26.0,Jean-Ricner Bellegarde,Wolves
-2024-09-14,jeremydoku_manchestercity,0.0,27.0,Jeremy Doku,Manchester City
-2024-09-14,joaopedro_brighton,0.0,28.0,Joao Pedro,Brighton
-2024-09-14,martinodegaard_arsenal,0.0,29.0,Martin Odegaard,Arsenal
-2024-09-14,matheuscunha_wolves,0.0,30.0,Matheus Cunha,Wolves
-2024-09-14,mikkeldamsgaard_brentford,0.0,31.0,Mikkel Damsgaard,Brentford
-2024-09-14,morgangibbswhite_notthamforest,0.0,32.0,Morgan Gibbs-White,Nott'ham Forest
-2024-09-14,morganrogers_astonvilla,0.0,33.0,Morgan Rogers,Aston Villa
-2024-09-14,pedroporro_tottenham,0.0,34.0,Pedro Porro,Tottenham
-2024-09-14,sonheungmin_tottenham,0.0,35.0,Son Heung-min,Tottenham
-2024-09-14,trentalexanderarnold_liverpool,0.0,36.0,Trent Alexander-Arnold,Liverpool
+2024-09-14,dominikszoboszlai_liverpool,1.0,11.0,Dominik Szoboszlai,Liverpool
+2024-09-14,elliotanderson_notthamforest,1.0,12.0,Elliot Anderson,Nott'ham Forest
+2024-09-14,jacobmurphy_newcastleutd,1.0,13.0,Jacob Murphy,Newcastle Utd
+2024-09-14,jarrodbowen_westham,1.0,14.0,Jarrod Bowen,West Ham
+2024-09-14,justinkluivert_bournemouth,1.0,15.0,Justin Kluivert,Bournemouth
+2024-09-14,kevindebruyne_manchestercity,1.0,16.0,Kevin De Bruyne,Manchester City
+2024-09-14,olliewatkins_astonvilla,1.0,17.0,Ollie Watkins,Aston Villa
+2024-09-14,rayanaitnouri_wolves,1.0,18.0,Rayan Ait-Nouri,Wolves
+2024-09-14,savio_manchestercity,1.0,19.0,Savio,Manchester City
+2024-09-14,youritielemans_astonvilla,1.0,20.0,Youri Tielemans,Aston Villa
+2024-09-14,alexiwobi_fulham,0.0,21.0,Alex Iwobi,Fulham
+2024-09-14,brunoguimaraes_newcastleutd,0.0,22.0,Bruno Guimaraes,Newcastle Utd
+2024-09-14,bryanmbeumo_brentford,0.0,23.0,Bryan Mbeumo,Brentford
+2024-09-14,declanrice_arsenal,0.0,24.0,Declan Rice,Arsenal
+2024-09-14,eberechieze_crystalpalace,0.0,25.0,Eberechi Eze,Crystal Palace
+2024-09-14,enzofernandez_chelsea,0.0,26.0,Enzo Fernandez,Chelsea
+2024-09-14,jeanricnerbellegarde_wolves,0.0,27.0,Jean-Ricner Bellegarde,Wolves
+2024-09-14,jeremydoku_manchestercity,0.0,28.0,Jeremy Doku,Manchester City
+2024-09-14,joaopedro_brighton,0.0,29.0,Joao Pedro,Brighton
+2024-09-14,leandrotrossard_arsenal,0.0,30.0,Leandro Trossard,Arsenal
+2024-09-14,martinodegaard_arsenal,0.0,31.0,Martin Odegaard,Arsenal
+2024-09-14,matheuscunha_wolves,0.0,32.0,Matheus Cunha,Wolves
+2024-09-14,mikkeldamsgaard_brentford,0.0,33.0,Mikkel Damsgaard,Brentford
+2024-09-14,morgangibbswhite_notthamforest,0.0,34.0,Morgan Gibbs-White,Nott'ham Forest
+2024-09-14,morganrogers_astonvilla,0.0,35.0,Morgan Rogers,Aston Villa
+2024-09-14,pedroporro_tottenham,0.0,36.0,Pedro Porro,Tottenham
+2024-09-14,sonheungmin_tottenham,0.0,37.0,Son Heung-min,Tottenham
+2024-09-14,trentalexanderarnold_liverpool,0.0,38.0,Trent Alexander-Arnold,Liverpool
 2024-09-15,bukayosaka_arsenal,4.0,1.0,Bukayo Saka,Arsenal
 2024-09-15,colepalmer_chelsea,4.0,2.0,Cole Palmer,Chelsea
 2024-09-15,mohamedsalah_liverpool,3.0,3.0,Mohamed Salah,Liverpool
@@ -262,31 +276,33 @@ date,player_team,value,rank,player,team
 2024-09-15,anthonyelanga_notthamforest,1.0,9.0,Anthony Elanga,Nott'ham Forest
 2024-09-15,brunofernandes_manchesterutd,1.0,10.0,Bruno Fernandes,Manchester Utd
 2024-09-15,brunoguimaraes_newcastleutd,1.0,11.0,Bruno Guimaraes,Newcastle Utd
-2024-09-15,elliotanderson_notthamforest,1.0,12.0,Elliot Anderson,Nott'ham Forest
-2024-09-15,jacobmurphy_newcastleutd,1.0,13.0,Jacob Murphy,Newcastle Utd
-2024-09-15,jarrodbowen_westham,1.0,14.0,Jarrod Bowen,West Ham
-2024-09-15,justinkluivert_bournemouth,1.0,15.0,Justin Kluivert,Bournemouth
-2024-09-15,kevindebruyne_manchestercity,1.0,16.0,Kevin De Bruyne,Manchester City
-2024-09-15,olliewatkins_astonvilla,1.0,17.0,Ollie Watkins,Aston Villa
-2024-09-15,rayanaitnouri_wolves,1.0,18.0,Rayan Ait-Nouri,Wolves
-2024-09-15,savio_manchestercity,1.0,19.0,Savio,Manchester City
-2024-09-15,youritielemans_astonvilla,1.0,20.0,Youri Tielemans,Aston Villa
-2024-09-15,alexiwobi_fulham,0.0,21.0,Alex Iwobi,Fulham
-2024-09-15,bryanmbeumo_brentford,0.0,22.0,Bryan Mbeumo,Brentford
-2024-09-15,declanrice_arsenal,0.0,23.0,Declan Rice,Arsenal
-2024-09-15,eberechieze_crystalpalace,0.0,24.0,Eberechi Eze,Crystal Palace
-2024-09-15,enzofernandez_chelsea,0.0,25.0,Enzo Fernandez,Chelsea
-2024-09-15,jeanricnerbellegarde_wolves,0.0,26.0,Jean-Ricner Bellegarde,Wolves
-2024-09-15,jeremydoku_manchestercity,0.0,27.0,Jeremy Doku,Manchester City
-2024-09-15,joaopedro_brighton,0.0,28.0,Joao Pedro,Brighton
-2024-09-15,martinodegaard_arsenal,0.0,29.0,Martin Odegaard,Arsenal
-2024-09-15,matheuscunha_wolves,0.0,30.0,Matheus Cunha,Wolves
-2024-09-15,mikkeldamsgaard_brentford,0.0,31.0,Mikkel Damsgaard,Brentford
-2024-09-15,morgangibbswhite_notthamforest,0.0,32.0,Morgan Gibbs-White,Nott'ham Forest
-2024-09-15,morganrogers_astonvilla,0.0,33.0,Morgan Rogers,Aston Villa
-2024-09-15,pedroporro_tottenham,0.0,34.0,Pedro Porro,Tottenham
-2024-09-15,sonheungmin_tottenham,0.0,35.0,Son Heung-min,Tottenham
-2024-09-15,trentalexanderarnold_liverpool,0.0,36.0,Trent Alexander-Arnold,Liverpool
+2024-09-15,dominikszoboszlai_liverpool,1.0,12.0,Dominik Szoboszlai,Liverpool
+2024-09-15,elliotanderson_notthamforest,1.0,13.0,Elliot Anderson,Nott'ham Forest
+2024-09-15,jacobmurphy_newcastleutd,1.0,14.0,Jacob Murphy,Newcastle Utd
+2024-09-15,jarrodbowen_westham,1.0,15.0,Jarrod Bowen,West Ham
+2024-09-15,justinkluivert_bournemouth,1.0,16.0,Justin Kluivert,Bournemouth
+2024-09-15,kevindebruyne_manchestercity,1.0,17.0,Kevin De Bruyne,Manchester City
+2024-09-15,olliewatkins_astonvilla,1.0,18.0,Ollie Watkins,Aston Villa
+2024-09-15,rayanaitnouri_wolves,1.0,19.0,Rayan Ait-Nouri,Wolves
+2024-09-15,savio_manchestercity,1.0,20.0,Savio,Manchester City
+2024-09-15,youritielemans_astonvilla,1.0,21.0,Youri Tielemans,Aston Villa
+2024-09-15,alexiwobi_fulham,0.0,22.0,Alex Iwobi,Fulham
+2024-09-15,bryanmbeumo_brentford,0.0,23.0,Bryan Mbeumo,Brentford
+2024-09-15,declanrice_arsenal,0.0,24.0,Declan Rice,Arsenal
+2024-09-15,eberechieze_crystalpalace,0.0,25.0,Eberechi Eze,Crystal Palace
+2024-09-15,enzofernandez_chelsea,0.0,26.0,Enzo Fernandez,Chelsea
+2024-09-15,jeanricnerbellegarde_wolves,0.0,27.0,Jean-Ricner Bellegarde,Wolves
+2024-09-15,jeremydoku_manchestercity,0.0,28.0,Jeremy Doku,Manchester City
+2024-09-15,joaopedro_brighton,0.0,29.0,Joao Pedro,Brighton
+2024-09-15,leandrotrossard_arsenal,0.0,30.0,Leandro Trossard,Arsenal
+2024-09-15,martinodegaard_arsenal,0.0,31.0,Martin Odegaard,Arsenal
+2024-09-15,matheuscunha_wolves,0.0,32.0,Matheus Cunha,Wolves
+2024-09-15,mikkeldamsgaard_brentford,0.0,33.0,Mikkel Damsgaard,Brentford
+2024-09-15,morgangibbswhite_notthamforest,0.0,34.0,Morgan Gibbs-White,Nott'ham Forest
+2024-09-15,morganrogers_astonvilla,0.0,35.0,Morgan Rogers,Aston Villa
+2024-09-15,pedroporro_tottenham,0.0,36.0,Pedro Porro,Tottenham
+2024-09-15,sonheungmin_tottenham,0.0,37.0,Son Heung-min,Tottenham
+2024-09-15,trentalexanderarnold_liverpool,0.0,38.0,Trent Alexander-Arnold,Liverpool
 2024-09-21,bukayosaka_arsenal,4.0,1.0,Bukayo Saka,Arsenal
 2024-09-21,colepalmer_chelsea,4.0,2.0,Cole Palmer,Chelsea
 2024-09-21,mohamedsalah_liverpool,4.0,3.0,Mohamed Salah,Liverpool
@@ -303,26 +319,28 @@ date,player_team,value,rank,player,team
 2024-09-21,anthonyelanga_notthamforest,1.0,14.0,Anthony Elanga,Nott'ham Forest
 2024-09-21,brunofernandes_manchesterutd,1.0,15.0,Bruno Fernandes,Manchester Utd
 2024-09-21,brunoguimaraes_newcastleutd,1.0,16.0,Bruno Guimaraes,Newcastle Utd
-2024-09-21,elliotanderson_notthamforest,1.0,17.0,Elliot Anderson,Nott'ham Forest
-2024-09-21,jarrodbowen_westham,1.0,18.0,Jarrod Bowen,West Ham
-2024-09-21,justinkluivert_bournemouth,1.0,19.0,Justin Kluivert,Bournemouth
-2024-09-21,kevindebruyne_manchestercity,1.0,20.0,Kevin De Bruyne,Manchester City
-2024-09-21,olliewatkins_astonvilla,1.0,21.0,Ollie Watkins,Aston Villa
-2024-09-21,rayanaitnouri_wolves,1.0,22.0,Rayan Ait-Nouri,Wolves
-2024-09-21,savio_manchestercity,1.0,23.0,Savio,Manchester City
-2024-09-21,trentalexanderarnold_liverpool,1.0,24.0,Trent Alexander-Arnold,Liverpool
-2024-09-21,bryanmbeumo_brentford,0.0,25.0,Bryan Mbeumo,Brentford
-2024-09-21,declanrice_arsenal,0.0,26.0,Declan Rice,Arsenal
-2024-09-21,eberechieze_crystalpalace,0.0,27.0,Eberechi Eze,Crystal Palace
-2024-09-21,enzofernandez_chelsea,0.0,28.0,Enzo Fernandez,Chelsea
-2024-09-21,jeanricnerbellegarde_wolves,0.0,29.0,Jean-Ricner Bellegarde,Wolves
-2024-09-21,jeremydoku_manchestercity,0.0,30.0,Jeremy Doku,Manchester City
-2024-09-21,joaopedro_brighton,0.0,31.0,Joao Pedro,Brighton
-2024-09-21,martinodegaard_arsenal,0.0,32.0,Martin Odegaard,Arsenal
-2024-09-21,matheuscunha_wolves,0.0,33.0,Matheus Cunha,Wolves
-2024-09-21,mikkeldamsgaard_brentford,0.0,34.0,Mikkel Damsgaard,Brentford
-2024-09-21,morgangibbswhite_notthamforest,0.0,35.0,Morgan Gibbs-White,Nott'ham Forest
-2024-09-21,pedroporro_tottenham,0.0,36.0,Pedro Porro,Tottenham
+2024-09-21,dominikszoboszlai_liverpool,1.0,17.0,Dominik Szoboszlai,Liverpool
+2024-09-21,elliotanderson_notthamforest,1.0,18.0,Elliot Anderson,Nott'ham Forest
+2024-09-21,jarrodbowen_westham,1.0,19.0,Jarrod Bowen,West Ham
+2024-09-21,justinkluivert_bournemouth,1.0,20.0,Justin Kluivert,Bournemouth
+2024-09-21,kevindebruyne_manchestercity,1.0,21.0,Kevin De Bruyne,Manchester City
+2024-09-21,olliewatkins_astonvilla,1.0,22.0,Ollie Watkins,Aston Villa
+2024-09-21,rayanaitnouri_wolves,1.0,23.0,Rayan Ait-Nouri,Wolves
+2024-09-21,savio_manchestercity,1.0,24.0,Savio,Manchester City
+2024-09-21,trentalexanderarnold_liverpool,1.0,25.0,Trent Alexander-Arnold,Liverpool
+2024-09-21,bryanmbeumo_brentford,0.0,26.0,Bryan Mbeumo,Brentford
+2024-09-21,declanrice_arsenal,0.0,27.0,Declan Rice,Arsenal
+2024-09-21,eberechieze_crystalpalace,0.0,28.0,Eberechi Eze,Crystal Palace
+2024-09-21,enzofernandez_chelsea,0.0,29.0,Enzo Fernandez,Chelsea
+2024-09-21,jeanricnerbellegarde_wolves,0.0,30.0,Jean-Ricner Bellegarde,Wolves
+2024-09-21,jeremydoku_manchestercity,0.0,31.0,Jeremy Doku,Manchester City
+2024-09-21,joaopedro_brighton,0.0,32.0,Joao Pedro,Brighton
+2024-09-21,leandrotrossard_arsenal,0.0,33.0,Leandro Trossard,Arsenal
+2024-09-21,martinodegaard_arsenal,0.0,34.0,Martin Odegaard,Arsenal
+2024-09-21,matheuscunha_wolves,0.0,35.0,Matheus Cunha,Wolves
+2024-09-21,mikkeldamsgaard_brentford,0.0,36.0,Mikkel Damsgaard,Brentford
+2024-09-21,morgangibbswhite_notthamforest,0.0,37.0,Morgan Gibbs-White,Nott'ham Forest
+2024-09-21,pedroporro_tottenham,0.0,38.0,Pedro Porro,Tottenham
 2024-09-22,bukayosaka_arsenal,5.0,1.0,Bukayo Saka,Arsenal
 2024-09-22,colepalmer_chelsea,4.0,2.0,Cole Palmer,Chelsea
 2024-09-22,mohamedsalah_liverpool,4.0,3.0,Mohamed Salah,Liverpool
@@ -340,25 +358,27 @@ date,player_team,value,rank,player,team
 2024-09-22,anthonyelanga_notthamforest,1.0,15.0,Anthony Elanga,Nott'ham Forest
 2024-09-22,brunofernandes_manchesterutd,1.0,16.0,Bruno Fernandes,Manchester Utd
 2024-09-22,brunoguimaraes_newcastleutd,1.0,17.0,Bruno Guimaraes,Newcastle Utd
-2024-09-22,elliotanderson_notthamforest,1.0,18.0,Elliot Anderson,Nott'ham Forest
-2024-09-22,jarrodbowen_westham,1.0,19.0,Jarrod Bowen,West Ham
-2024-09-22,justinkluivert_bournemouth,1.0,20.0,Justin Kluivert,Bournemouth
-2024-09-22,kevindebruyne_manchestercity,1.0,21.0,Kevin De Bruyne,Manchester City
-2024-09-22,olliewatkins_astonvilla,1.0,22.0,Ollie Watkins,Aston Villa
-2024-09-22,rayanaitnouri_wolves,1.0,23.0,Rayan Ait-Nouri,Wolves
-2024-09-22,trentalexanderarnold_liverpool,1.0,24.0,Trent Alexander-Arnold,Liverpool
-2024-09-22,bryanmbeumo_brentford,0.0,25.0,Bryan Mbeumo,Brentford
-2024-09-22,declanrice_arsenal,0.0,26.0,Declan Rice,Arsenal
-2024-09-22,eberechieze_crystalpalace,0.0,27.0,Eberechi Eze,Crystal Palace
-2024-09-22,enzofernandez_chelsea,0.0,28.0,Enzo Fernandez,Chelsea
-2024-09-22,jeanricnerbellegarde_wolves,0.0,29.0,Jean-Ricner Bellegarde,Wolves
-2024-09-22,jeremydoku_manchestercity,0.0,30.0,Jeremy Doku,Manchester City
-2024-09-22,joaopedro_brighton,0.0,31.0,Joao Pedro,Brighton
-2024-09-22,martinodegaard_arsenal,0.0,32.0,Martin Odegaard,Arsenal
-2024-09-22,matheuscunha_wolves,0.0,33.0,Matheus Cunha,Wolves
-2024-09-22,mikkeldamsgaard_brentford,0.0,34.0,Mikkel Damsgaard,Brentford
-2024-09-22,morgangibbswhite_notthamforest,0.0,35.0,Morgan Gibbs-White,Nott'ham Forest
-2024-09-22,pedroporro_tottenham,0.0,36.0,Pedro Porro,Tottenham
+2024-09-22,dominikszoboszlai_liverpool,1.0,18.0,Dominik Szoboszlai,Liverpool
+2024-09-22,elliotanderson_notthamforest,1.0,19.0,Elliot Anderson,Nott'ham Forest
+2024-09-22,jarrodbowen_westham,1.0,20.0,Jarrod Bowen,West Ham
+2024-09-22,justinkluivert_bournemouth,1.0,21.0,Justin Kluivert,Bournemouth
+2024-09-22,kevindebruyne_manchestercity,1.0,22.0,Kevin De Bruyne,Manchester City
+2024-09-22,olliewatkins_astonvilla,1.0,23.0,Ollie Watkins,Aston Villa
+2024-09-22,rayanaitnouri_wolves,1.0,24.0,Rayan Ait-Nouri,Wolves
+2024-09-22,trentalexanderarnold_liverpool,1.0,25.0,Trent Alexander-Arnold,Liverpool
+2024-09-22,bryanmbeumo_brentford,0.0,26.0,Bryan Mbeumo,Brentford
+2024-09-22,declanrice_arsenal,0.0,27.0,Declan Rice,Arsenal
+2024-09-22,eberechieze_crystalpalace,0.0,28.0,Eberechi Eze,Crystal Palace
+2024-09-22,enzofernandez_chelsea,0.0,29.0,Enzo Fernandez,Chelsea
+2024-09-22,jeanricnerbellegarde_wolves,0.0,30.0,Jean-Ricner Bellegarde,Wolves
+2024-09-22,jeremydoku_manchestercity,0.0,31.0,Jeremy Doku,Manchester City
+2024-09-22,joaopedro_brighton,0.0,32.0,Joao Pedro,Brighton
+2024-09-22,leandrotrossard_arsenal,0.0,33.0,Leandro Trossard,Arsenal
+2024-09-22,martinodegaard_arsenal,0.0,34.0,Martin Odegaard,Arsenal
+2024-09-22,matheuscunha_wolves,0.0,35.0,Matheus Cunha,Wolves
+2024-09-22,mikkeldamsgaard_brentford,0.0,36.0,Mikkel Damsgaard,Brentford
+2024-09-22,morgangibbswhite_notthamforest,0.0,37.0,Morgan Gibbs-White,Nott'ham Forest
+2024-09-22,pedroporro_tottenham,0.0,38.0,Pedro Porro,Tottenham
 2024-09-29,bukayosaka_arsenal,5.0,1.0,Bukayo Saka,Arsenal
 2024-09-29,colepalmer_chelsea,4.0,2.0,Cole Palmer,Chelsea
 2024-09-29,mohamedsalah_liverpool,4.0,3.0,Mohamed Salah,Liverpool
@@ -377,24 +397,26 @@ date,player_team,value,rank,player,team
 2024-09-29,anthonyelanga_notthamforest,1.0,16.0,Anthony Elanga,Nott'ham Forest
 2024-09-29,brunofernandes_manchesterutd,1.0,17.0,Bruno Fernandes,Manchester Utd
 2024-09-29,brunoguimaraes_newcastleutd,1.0,18.0,Bruno Guimaraes,Newcastle Utd
-2024-09-29,elliotanderson_notthamforest,1.0,19.0,Elliot Anderson,Nott'ham Forest
-2024-09-29,jarrodbowen_westham,1.0,20.0,Jarrod Bowen,West Ham
-2024-09-29,justinkluivert_bournemouth,1.0,21.0,Justin Kluivert,Bournemouth
-2024-09-29,kevindebruyne_manchestercity,1.0,22.0,Kevin De Bruyne,Manchester City
-2024-09-29,rayanaitnouri_wolves,1.0,23.0,Rayan Ait-Nouri,Wolves
-2024-09-29,trentalexanderarnold_liverpool,1.0,24.0,Trent Alexander-Arnold,Liverpool
-2024-09-29,bryanmbeumo_brentford,0.0,25.0,Bryan Mbeumo,Brentford
-2024-09-29,declanrice_arsenal,0.0,26.0,Declan Rice,Arsenal
-2024-09-29,eberechieze_crystalpalace,0.0,27.0,Eberechi Eze,Crystal Palace
-2024-09-29,enzofernandez_chelsea,0.0,28.0,Enzo Fernandez,Chelsea
-2024-09-29,jeanricnerbellegarde_wolves,0.0,29.0,Jean-Ricner Bellegarde,Wolves
-2024-09-29,jeremydoku_manchestercity,0.0,30.0,Jeremy Doku,Manchester City
-2024-09-29,joaopedro_brighton,0.0,31.0,Joao Pedro,Brighton
-2024-09-29,martinodegaard_arsenal,0.0,32.0,Martin Odegaard,Arsenal
-2024-09-29,matheuscunha_wolves,0.0,33.0,Matheus Cunha,Wolves
-2024-09-29,mikkeldamsgaard_brentford,0.0,34.0,Mikkel Damsgaard,Brentford
-2024-09-29,morgangibbswhite_notthamforest,0.0,35.0,Morgan Gibbs-White,Nott'ham Forest
-2024-09-29,pedroporro_tottenham,0.0,36.0,Pedro Porro,Tottenham
+2024-09-29,dominikszoboszlai_liverpool,1.0,19.0,Dominik Szoboszlai,Liverpool
+2024-09-29,elliotanderson_notthamforest,1.0,20.0,Elliot Anderson,Nott'ham Forest
+2024-09-29,jarrodbowen_westham,1.0,21.0,Jarrod Bowen,West Ham
+2024-09-29,justinkluivert_bournemouth,1.0,22.0,Justin Kluivert,Bournemouth
+2024-09-29,kevindebruyne_manchestercity,1.0,23.0,Kevin De Bruyne,Manchester City
+2024-09-29,rayanaitnouri_wolves,1.0,24.0,Rayan Ait-Nouri,Wolves
+2024-09-29,trentalexanderarnold_liverpool,1.0,25.0,Trent Alexander-Arnold,Liverpool
+2024-09-29,bryanmbeumo_brentford,0.0,26.0,Bryan Mbeumo,Brentford
+2024-09-29,declanrice_arsenal,0.0,27.0,Declan Rice,Arsenal
+2024-09-29,eberechieze_crystalpalace,0.0,28.0,Eberechi Eze,Crystal Palace
+2024-09-29,enzofernandez_chelsea,0.0,29.0,Enzo Fernandez,Chelsea
+2024-09-29,jeanricnerbellegarde_wolves,0.0,30.0,Jean-Ricner Bellegarde,Wolves
+2024-09-29,jeremydoku_manchestercity,0.0,31.0,Jeremy Doku,Manchester City
+2024-09-29,joaopedro_brighton,0.0,32.0,Joao Pedro,Brighton
+2024-09-29,leandrotrossard_arsenal,0.0,33.0,Leandro Trossard,Arsenal
+2024-09-29,martinodegaard_arsenal,0.0,34.0,Martin Odegaard,Arsenal
+2024-09-29,matheuscunha_wolves,0.0,35.0,Matheus Cunha,Wolves
+2024-09-29,mikkeldamsgaard_brentford,0.0,36.0,Mikkel Damsgaard,Brentford
+2024-09-29,morgangibbswhite_notthamforest,0.0,37.0,Morgan Gibbs-White,Nott'ham Forest
+2024-09-29,pedroporro_tottenham,0.0,38.0,Pedro Porro,Tottenham
 2024-10-05,bukayosaka_arsenal,7.0,1.0,Bukayo Saka,Arsenal
 2024-10-05,colepalmer_chelsea,4.0,2.0,Cole Palmer,Chelsea
 2024-10-05,mohamedsalah_liverpool,4.0,3.0,Mohamed Salah,Liverpool
@@ -416,21 +438,23 @@ date,player_team,value,rank,player,team
 2024-10-05,anthonyelanga_notthamforest,1.0,19.0,Anthony Elanga,Nott'ham Forest
 2024-10-05,brunofernandes_manchesterutd,1.0,20.0,Bruno Fernandes,Manchester Utd
 2024-10-05,brunoguimaraes_newcastleutd,1.0,21.0,Bruno Guimaraes,Newcastle Utd
-2024-10-05,elliotanderson_notthamforest,1.0,22.0,Elliot Anderson,Nott'ham Forest
-2024-10-05,jeanricnerbellegarde_wolves,1.0,23.0,Jean-Ricner Bellegarde,Wolves
-2024-10-05,justinkluivert_bournemouth,1.0,24.0,Justin Kluivert,Bournemouth
-2024-10-05,kevindebruyne_manchestercity,1.0,25.0,Kevin De Bruyne,Manchester City
-2024-10-05,trentalexanderarnold_liverpool,1.0,26.0,Trent Alexander-Arnold,Liverpool
-2024-10-05,bryanmbeumo_brentford,0.0,27.0,Bryan Mbeumo,Brentford
-2024-10-05,declanrice_arsenal,0.0,28.0,Declan Rice,Arsenal
-2024-10-05,eberechieze_crystalpalace,0.0,29.0,Eberechi Eze,Crystal Palace
-2024-10-05,enzofernandez_chelsea,0.0,30.0,Enzo Fernandez,Chelsea
-2024-10-05,jeremydoku_manchestercity,0.0,31.0,Jeremy Doku,Manchester City
-2024-10-05,joaopedro_brighton,0.0,32.0,Joao Pedro,Brighton
-2024-10-05,martinodegaard_arsenal,0.0,33.0,Martin Odegaard,Arsenal
-2024-10-05,matheuscunha_wolves,0.0,34.0,Matheus Cunha,Wolves
-2024-10-05,morgangibbswhite_notthamforest,0.0,35.0,Morgan Gibbs-White,Nott'ham Forest
-2024-10-05,pedroporro_tottenham,0.0,36.0,Pedro Porro,Tottenham
+2024-10-05,dominikszoboszlai_liverpool,1.0,22.0,Dominik Szoboszlai,Liverpool
+2024-10-05,elliotanderson_notthamforest,1.0,23.0,Elliot Anderson,Nott'ham Forest
+2024-10-05,jeanricnerbellegarde_wolves,1.0,24.0,Jean-Ricner Bellegarde,Wolves
+2024-10-05,justinkluivert_bournemouth,1.0,25.0,Justin Kluivert,Bournemouth
+2024-10-05,kevindebruyne_manchestercity,1.0,26.0,Kevin De Bruyne,Manchester City
+2024-10-05,trentalexanderarnold_liverpool,1.0,27.0,Trent Alexander-Arnold,Liverpool
+2024-10-05,bryanmbeumo_brentford,0.0,28.0,Bryan Mbeumo,Brentford
+2024-10-05,declanrice_arsenal,0.0,29.0,Declan Rice,Arsenal
+2024-10-05,eberechieze_crystalpalace,0.0,30.0,Eberechi Eze,Crystal Palace
+2024-10-05,enzofernandez_chelsea,0.0,31.0,Enzo Fernandez,Chelsea
+2024-10-05,jeremydoku_manchestercity,0.0,32.0,Jeremy Doku,Manchester City
+2024-10-05,joaopedro_brighton,0.0,33.0,Joao Pedro,Brighton
+2024-10-05,leandrotrossard_arsenal,0.0,34.0,Leandro Trossard,Arsenal
+2024-10-05,martinodegaard_arsenal,0.0,35.0,Martin Odegaard,Arsenal
+2024-10-05,matheuscunha_wolves,0.0,36.0,Matheus Cunha,Wolves
+2024-10-05,morgangibbswhite_notthamforest,0.0,37.0,Morgan Gibbs-White,Nott'ham Forest
+2024-10-05,pedroporro_tottenham,0.0,38.0,Pedro Porro,Tottenham
 2024-10-06,bukayosaka_arsenal,7.0,1.0,Bukayo Saka,Arsenal
 2024-10-06,colepalmer_chelsea,5.0,2.0,Cole Palmer,Chelsea
 2024-10-06,mohamedsalah_liverpool,4.0,3.0,Mohamed Salah,Liverpool
@@ -452,21 +476,23 @@ date,player_team,value,rank,player,team
 2024-10-06,anthonyelanga_notthamforest,1.0,19.0,Anthony Elanga,Nott'ham Forest
 2024-10-06,brunofernandes_manchesterutd,1.0,20.0,Bruno Fernandes,Manchester Utd
 2024-10-06,brunoguimaraes_newcastleutd,1.0,21.0,Bruno Guimaraes,Newcastle Utd
-2024-10-06,elliotanderson_notthamforest,1.0,22.0,Elliot Anderson,Nott'ham Forest
-2024-10-06,jeanricnerbellegarde_wolves,1.0,23.0,Jean-Ricner Bellegarde,Wolves
-2024-10-06,justinkluivert_bournemouth,1.0,24.0,Justin Kluivert,Bournemouth
-2024-10-06,kevindebruyne_manchestercity,1.0,25.0,Kevin De Bruyne,Manchester City
-2024-10-06,trentalexanderarnold_liverpool,1.0,26.0,Trent Alexander-Arnold,Liverpool
-2024-10-06,bryanmbeumo_brentford,0.0,27.0,Bryan Mbeumo,Brentford
-2024-10-06,declanrice_arsenal,0.0,28.0,Declan Rice,Arsenal
-2024-10-06,eberechieze_crystalpalace,0.0,29.0,Eberechi Eze,Crystal Palace
-2024-10-06,enzofernandez_chelsea,0.0,30.0,Enzo Fernandez,Chelsea
-2024-10-06,jeremydoku_manchestercity,0.0,31.0,Jeremy Doku,Manchester City
-2024-10-06,joaopedro_brighton,0.0,32.0,Joao Pedro,Brighton
-2024-10-06,martinodegaard_arsenal,0.0,33.0,Martin Odegaard,Arsenal
-2024-10-06,matheuscunha_wolves,0.0,34.0,Matheus Cunha,Wolves
-2024-10-06,morgangibbswhite_notthamforest,0.0,35.0,Morgan Gibbs-White,Nott'ham Forest
-2024-10-06,pedroporro_tottenham,0.0,36.0,Pedro Porro,Tottenham
+2024-10-06,dominikszoboszlai_liverpool,1.0,22.0,Dominik Szoboszlai,Liverpool
+2024-10-06,elliotanderson_notthamforest,1.0,23.0,Elliot Anderson,Nott'ham Forest
+2024-10-06,jeanricnerbellegarde_wolves,1.0,24.0,Jean-Ricner Bellegarde,Wolves
+2024-10-06,justinkluivert_bournemouth,1.0,25.0,Justin Kluivert,Bournemouth
+2024-10-06,kevindebruyne_manchestercity,1.0,26.0,Kevin De Bruyne,Manchester City
+2024-10-06,trentalexanderarnold_liverpool,1.0,27.0,Trent Alexander-Arnold,Liverpool
+2024-10-06,bryanmbeumo_brentford,0.0,28.0,Bryan Mbeumo,Brentford
+2024-10-06,declanrice_arsenal,0.0,29.0,Declan Rice,Arsenal
+2024-10-06,eberechieze_crystalpalace,0.0,30.0,Eberechi Eze,Crystal Palace
+2024-10-06,enzofernandez_chelsea,0.0,31.0,Enzo Fernandez,Chelsea
+2024-10-06,jeremydoku_manchestercity,0.0,32.0,Jeremy Doku,Manchester City
+2024-10-06,joaopedro_brighton,0.0,33.0,Joao Pedro,Brighton
+2024-10-06,leandrotrossard_arsenal,0.0,34.0,Leandro Trossard,Arsenal
+2024-10-06,martinodegaard_arsenal,0.0,35.0,Martin Odegaard,Arsenal
+2024-10-06,matheuscunha_wolves,0.0,36.0,Matheus Cunha,Wolves
+2024-10-06,morgangibbswhite_notthamforest,0.0,37.0,Morgan Gibbs-White,Nott'ham Forest
+2024-10-06,pedroporro_tottenham,0.0,38.0,Pedro Porro,Tottenham
 2024-10-19,bukayosaka_arsenal,7.0,1.0,Bukayo Saka,Arsenal
 2024-10-19,colepalmer_chelsea,5.0,2.0,Cole Palmer,Chelsea
 2024-10-19,mohamedsalah_liverpool,4.0,3.0,Mohamed Salah,Liverpool
@@ -489,20 +515,22 @@ date,player_team,value,rank,player,team
 2024-10-19,amaddiallo_manchesterutd,1.0,20.0,Amad Diallo,Manchester Utd
 2024-10-19,anthonyelanga_notthamforest,1.0,21.0,Anthony Elanga,Nott'ham Forest
 2024-10-19,brunoguimaraes_newcastleutd,1.0,22.0,Bruno Guimaraes,Newcastle Utd
-2024-10-19,elliotanderson_notthamforest,1.0,23.0,Elliot Anderson,Nott'ham Forest
-2024-10-19,jeanricnerbellegarde_wolves,1.0,24.0,Jean-Ricner Bellegarde,Wolves
-2024-10-19,kevindebruyne_manchestercity,1.0,25.0,Kevin De Bruyne,Manchester City
-2024-10-19,trentalexanderarnold_liverpool,1.0,26.0,Trent Alexander-Arnold,Liverpool
-2024-10-19,bryanmbeumo_brentford,0.0,27.0,Bryan Mbeumo,Brentford
-2024-10-19,declanrice_arsenal,0.0,28.0,Declan Rice,Arsenal
-2024-10-19,eberechieze_crystalpalace,0.0,29.0,Eberechi Eze,Crystal Palace
-2024-10-19,enzofernandez_chelsea,0.0,30.0,Enzo Fernandez,Chelsea
-2024-10-19,jeremydoku_manchestercity,0.0,31.0,Jeremy Doku,Manchester City
-2024-10-19,joaopedro_brighton,0.0,32.0,Joao Pedro,Brighton
-2024-10-19,martinodegaard_arsenal,0.0,33.0,Martin Odegaard,Arsenal
-2024-10-19,matheuscunha_wolves,0.0,34.0,Matheus Cunha,Wolves
-2024-10-19,morgangibbswhite_notthamforest,0.0,35.0,Morgan Gibbs-White,Nott'ham Forest
-2024-10-19,pedroporro_tottenham,0.0,36.0,Pedro Porro,Tottenham
+2024-10-19,dominikszoboszlai_liverpool,1.0,23.0,Dominik Szoboszlai,Liverpool
+2024-10-19,elliotanderson_notthamforest,1.0,24.0,Elliot Anderson,Nott'ham Forest
+2024-10-19,jeanricnerbellegarde_wolves,1.0,25.0,Jean-Ricner Bellegarde,Wolves
+2024-10-19,kevindebruyne_manchestercity,1.0,26.0,Kevin De Bruyne,Manchester City
+2024-10-19,trentalexanderarnold_liverpool,1.0,27.0,Trent Alexander-Arnold,Liverpool
+2024-10-19,bryanmbeumo_brentford,0.0,28.0,Bryan Mbeumo,Brentford
+2024-10-19,declanrice_arsenal,0.0,29.0,Declan Rice,Arsenal
+2024-10-19,eberechieze_crystalpalace,0.0,30.0,Eberechi Eze,Crystal Palace
+2024-10-19,enzofernandez_chelsea,0.0,31.0,Enzo Fernandez,Chelsea
+2024-10-19,jeremydoku_manchestercity,0.0,32.0,Jeremy Doku,Manchester City
+2024-10-19,joaopedro_brighton,0.0,33.0,Joao Pedro,Brighton
+2024-10-19,leandrotrossard_arsenal,0.0,34.0,Leandro Trossard,Arsenal
+2024-10-19,martinodegaard_arsenal,0.0,35.0,Martin Odegaard,Arsenal
+2024-10-19,matheuscunha_wolves,0.0,36.0,Matheus Cunha,Wolves
+2024-10-19,morgangibbswhite_notthamforest,0.0,37.0,Morgan Gibbs-White,Nott'ham Forest
+2024-10-19,pedroporro_tottenham,0.0,38.0,Pedro Porro,Tottenham
 2024-10-20,bukayosaka_arsenal,7.0,1.0,Bukayo Saka,Arsenal
 2024-10-20,colepalmer_chelsea,5.0,2.0,Cole Palmer,Chelsea
 2024-10-20,mohamedsalah_liverpool,5.0,3.0,Mohamed Salah,Liverpool
@@ -525,20 +553,22 @@ date,player_team,value,rank,player,team
 2024-10-20,amaddiallo_manchesterutd,1.0,20.0,Amad Diallo,Manchester Utd
 2024-10-20,anthonyelanga_notthamforest,1.0,21.0,Anthony Elanga,Nott'ham Forest
 2024-10-20,brunoguimaraes_newcastleutd,1.0,22.0,Bruno Guimaraes,Newcastle Utd
-2024-10-20,elliotanderson_notthamforest,1.0,23.0,Elliot Anderson,Nott'ham Forest
-2024-10-20,jeanricnerbellegarde_wolves,1.0,24.0,Jean-Ricner Bellegarde,Wolves
-2024-10-20,jeremydoku_manchestercity,1.0,25.0,Jeremy Doku,Manchester City
-2024-10-20,kevindebruyne_manchestercity,1.0,26.0,Kevin De Bruyne,Manchester City
-2024-10-20,trentalexanderarnold_liverpool,1.0,27.0,Trent Alexander-Arnold,Liverpool
-2024-10-20,bryanmbeumo_brentford,0.0,28.0,Bryan Mbeumo,Brentford
-2024-10-20,declanrice_arsenal,0.0,29.0,Declan Rice,Arsenal
-2024-10-20,eberechieze_crystalpalace,0.0,30.0,Eberechi Eze,Crystal Palace
-2024-10-20,enzofernandez_chelsea,0.0,31.0,Enzo Fernandez,Chelsea
-2024-10-20,joaopedro_brighton,0.0,32.0,Joao Pedro,Brighton
-2024-10-20,martinodegaard_arsenal,0.0,33.0,Martin Odegaard,Arsenal
-2024-10-20,matheuscunha_wolves,0.0,34.0,Matheus Cunha,Wolves
-2024-10-20,morgangibbswhite_notthamforest,0.0,35.0,Morgan Gibbs-White,Nott'ham Forest
-2024-10-20,pedroporro_tottenham,0.0,36.0,Pedro Porro,Tottenham
+2024-10-20,dominikszoboszlai_liverpool,1.0,23.0,Dominik Szoboszlai,Liverpool
+2024-10-20,elliotanderson_notthamforest,1.0,24.0,Elliot Anderson,Nott'ham Forest
+2024-10-20,jeanricnerbellegarde_wolves,1.0,25.0,Jean-Ricner Bellegarde,Wolves
+2024-10-20,jeremydoku_manchestercity,1.0,26.0,Jeremy Doku,Manchester City
+2024-10-20,kevindebruyne_manchestercity,1.0,27.0,Kevin De Bruyne,Manchester City
+2024-10-20,trentalexanderarnold_liverpool,1.0,28.0,Trent Alexander-Arnold,Liverpool
+2024-10-20,bryanmbeumo_brentford,0.0,29.0,Bryan Mbeumo,Brentford
+2024-10-20,declanrice_arsenal,0.0,30.0,Declan Rice,Arsenal
+2024-10-20,eberechieze_crystalpalace,0.0,31.0,Eberechi Eze,Crystal Palace
+2024-10-20,enzofernandez_chelsea,0.0,32.0,Enzo Fernandez,Chelsea
+2024-10-20,joaopedro_brighton,0.0,33.0,Joao Pedro,Brighton
+2024-10-20,leandrotrossard_arsenal,0.0,34.0,Leandro Trossard,Arsenal
+2024-10-20,martinodegaard_arsenal,0.0,35.0,Martin Odegaard,Arsenal
+2024-10-20,matheuscunha_wolves,0.0,36.0,Matheus Cunha,Wolves
+2024-10-20,morgangibbswhite_notthamforest,0.0,37.0,Morgan Gibbs-White,Nott'ham Forest
+2024-10-20,pedroporro_tottenham,0.0,38.0,Pedro Porro,Tottenham
 2024-10-25,bukayosaka_arsenal,7.0,1.0,Bukayo Saka,Arsenal
 2024-10-25,colepalmer_chelsea,5.0,2.0,Cole Palmer,Chelsea
 2024-10-25,mohamedsalah_liverpool,5.0,3.0,Mohamed Salah,Liverpool
@@ -562,19 +592,21 @@ date,player_team,value,rank,player,team
 2024-10-25,amaddiallo_manchesterutd,1.0,21.0,Amad Diallo,Manchester Utd
 2024-10-25,anthonyelanga_notthamforest,1.0,22.0,Anthony Elanga,Nott'ham Forest
 2024-10-25,brunoguimaraes_newcastleutd,1.0,23.0,Bruno Guimaraes,Newcastle Utd
-2024-10-25,jeanricnerbellegarde_wolves,1.0,24.0,Jean-Ricner Bellegarde,Wolves
-2024-10-25,jeremydoku_manchestercity,1.0,25.0,Jeremy Doku,Manchester City
-2024-10-25,kevindebruyne_manchestercity,1.0,26.0,Kevin De Bruyne,Manchester City
-2024-10-25,trentalexanderarnold_liverpool,1.0,27.0,Trent Alexander-Arnold,Liverpool
-2024-10-25,bryanmbeumo_brentford,0.0,28.0,Bryan Mbeumo,Brentford
-2024-10-25,declanrice_arsenal,0.0,29.0,Declan Rice,Arsenal
-2024-10-25,eberechieze_crystalpalace,0.0,30.0,Eberechi Eze,Crystal Palace
-2024-10-25,enzofernandez_chelsea,0.0,31.0,Enzo Fernandez,Chelsea
-2024-10-25,joaopedro_brighton,0.0,32.0,Joao Pedro,Brighton
-2024-10-25,martinodegaard_arsenal,0.0,33.0,Martin Odegaard,Arsenal
-2024-10-25,matheuscunha_wolves,0.0,34.0,Matheus Cunha,Wolves
-2024-10-25,morgangibbswhite_notthamforest,0.0,35.0,Morgan Gibbs-White,Nott'ham Forest
-2024-10-25,pedroporro_tottenham,0.0,36.0,Pedro Porro,Tottenham
+2024-10-25,dominikszoboszlai_liverpool,1.0,24.0,Dominik Szoboszlai,Liverpool
+2024-10-25,jeanricnerbellegarde_wolves,1.0,25.0,Jean-Ricner Bellegarde,Wolves
+2024-10-25,jeremydoku_manchestercity,1.0,26.0,Jeremy Doku,Manchester City
+2024-10-25,kevindebruyne_manchestercity,1.0,27.0,Kevin De Bruyne,Manchester City
+2024-10-25,trentalexanderarnold_liverpool,1.0,28.0,Trent Alexander-Arnold,Liverpool
+2024-10-25,bryanmbeumo_brentford,0.0,29.0,Bryan Mbeumo,Brentford
+2024-10-25,declanrice_arsenal,0.0,30.0,Declan Rice,Arsenal
+2024-10-25,eberechieze_crystalpalace,0.0,31.0,Eberechi Eze,Crystal Palace
+2024-10-25,enzofernandez_chelsea,0.0,32.0,Enzo Fernandez,Chelsea
+2024-10-25,joaopedro_brighton,0.0,33.0,Joao Pedro,Brighton
+2024-10-25,leandrotrossard_arsenal,0.0,34.0,Leandro Trossard,Arsenal
+2024-10-25,martinodegaard_arsenal,0.0,35.0,Martin Odegaard,Arsenal
+2024-10-25,matheuscunha_wolves,0.0,36.0,Matheus Cunha,Wolves
+2024-10-25,morgangibbswhite_notthamforest,0.0,37.0,Morgan Gibbs-White,Nott'ham Forest
+2024-10-25,pedroporro_tottenham,0.0,38.0,Pedro Porro,Tottenham
 2024-10-27,bukayosaka_arsenal,7.0,1.0,Bukayo Saka,Arsenal
 2024-10-27,colepalmer_chelsea,5.0,2.0,Cole Palmer,Chelsea
 2024-10-27,mohamedsalah_liverpool,5.0,3.0,Mohamed Salah,Liverpool
@@ -599,18 +631,20 @@ date,player_team,value,rank,player,team
 2024-10-27,anthonyelanga_notthamforest,1.0,22.0,Anthony Elanga,Nott'ham Forest
 2024-10-27,brunoguimaraes_newcastleutd,1.0,23.0,Bruno Guimaraes,Newcastle Utd
 2024-10-27,declanrice_arsenal,1.0,24.0,Declan Rice,Arsenal
-2024-10-27,eberechieze_crystalpalace,1.0,25.0,Eberechi Eze,Crystal Palace
-2024-10-27,jeanricnerbellegarde_wolves,1.0,26.0,Jean-Ricner Bellegarde,Wolves
-2024-10-27,jeremydoku_manchestercity,1.0,27.0,Jeremy Doku,Manchester City
-2024-10-27,kevindebruyne_manchestercity,1.0,28.0,Kevin De Bruyne,Manchester City
-2024-10-27,trentalexanderarnold_liverpool,1.0,29.0,Trent Alexander-Arnold,Liverpool
-2024-10-27,bryanmbeumo_brentford,0.0,30.0,Bryan Mbeumo,Brentford
-2024-10-27,enzofernandez_chelsea,0.0,31.0,Enzo Fernandez,Chelsea
-2024-10-27,joaopedro_brighton,0.0,32.0,Joao Pedro,Brighton
-2024-10-27,martinodegaard_arsenal,0.0,33.0,Martin Odegaard,Arsenal
-2024-10-27,matheuscunha_wolves,0.0,34.0,Matheus Cunha,Wolves
-2024-10-27,morgangibbswhite_notthamforest,0.0,35.0,Morgan Gibbs-White,Nott'ham Forest
-2024-10-27,pedroporro_tottenham,0.0,36.0,Pedro Porro,Tottenham
+2024-10-27,dominikszoboszlai_liverpool,1.0,25.0,Dominik Szoboszlai,Liverpool
+2024-10-27,eberechieze_crystalpalace,1.0,26.0,Eberechi Eze,Crystal Palace
+2024-10-27,jeanricnerbellegarde_wolves,1.0,27.0,Jean-Ricner Bellegarde,Wolves
+2024-10-27,jeremydoku_manchestercity,1.0,28.0,Jeremy Doku,Manchester City
+2024-10-27,kevindebruyne_manchestercity,1.0,29.0,Kevin De Bruyne,Manchester City
+2024-10-27,trentalexanderarnold_liverpool,1.0,30.0,Trent Alexander-Arnold,Liverpool
+2024-10-27,bryanmbeumo_brentford,0.0,31.0,Bryan Mbeumo,Brentford
+2024-10-27,enzofernandez_chelsea,0.0,32.0,Enzo Fernandez,Chelsea
+2024-10-27,joaopedro_brighton,0.0,33.0,Joao Pedro,Brighton
+2024-10-27,leandrotrossard_arsenal,0.0,34.0,Leandro Trossard,Arsenal
+2024-10-27,martinodegaard_arsenal,0.0,35.0,Martin Odegaard,Arsenal
+2024-10-27,matheuscunha_wolves,0.0,36.0,Matheus Cunha,Wolves
+2024-10-27,morgangibbswhite_notthamforest,0.0,37.0,Morgan Gibbs-White,Nott'ham Forest
+2024-10-27,pedroporro_tottenham,0.0,38.0,Pedro Porro,Tottenham
 2024-11-02,bukayosaka_arsenal,7.0,1.0,Bukayo Saka,Arsenal
 2024-11-02,colepalmer_chelsea,5.0,2.0,Cole Palmer,Chelsea
 2024-11-02,mohamedsalah_liverpool,5.0,3.0,Mohamed Salah,Liverpool
@@ -635,18 +669,20 @@ date,player_team,value,rank,player,team
 2024-11-02,anthonyelanga_notthamforest,1.0,22.0,Anthony Elanga,Nott'ham Forest
 2024-11-02,brunoguimaraes_newcastleutd,1.0,23.0,Bruno Guimaraes,Newcastle Utd
 2024-11-02,declanrice_arsenal,1.0,24.0,Declan Rice,Arsenal
-2024-11-02,eberechieze_crystalpalace,1.0,25.0,Eberechi Eze,Crystal Palace
-2024-11-02,jeanricnerbellegarde_wolves,1.0,26.0,Jean-Ricner Bellegarde,Wolves
-2024-11-02,jeremydoku_manchestercity,1.0,27.0,Jeremy Doku,Manchester City
-2024-11-02,kevindebruyne_manchestercity,1.0,28.0,Kevin De Bruyne,Manchester City
-2024-11-02,matheuscunha_wolves,1.0,29.0,Matheus Cunha,Wolves
-2024-11-02,trentalexanderarnold_liverpool,1.0,30.0,Trent Alexander-Arnold,Liverpool
-2024-11-02,bryanmbeumo_brentford,0.0,31.0,Bryan Mbeumo,Brentford
-2024-11-02,enzofernandez_chelsea,0.0,32.0,Enzo Fernandez,Chelsea
-2024-11-02,joaopedro_brighton,0.0,33.0,Joao Pedro,Brighton
-2024-11-02,martinodegaard_arsenal,0.0,34.0,Martin Odegaard,Arsenal
-2024-11-02,morgangibbswhite_notthamforest,0.0,35.0,Morgan Gibbs-White,Nott'ham Forest
-2024-11-02,pedroporro_tottenham,0.0,36.0,Pedro Porro,Tottenham
+2024-11-02,dominikszoboszlai_liverpool,1.0,25.0,Dominik Szoboszlai,Liverpool
+2024-11-02,eberechieze_crystalpalace,1.0,26.0,Eberechi Eze,Crystal Palace
+2024-11-02,jeanricnerbellegarde_wolves,1.0,27.0,Jean-Ricner Bellegarde,Wolves
+2024-11-02,jeremydoku_manchestercity,1.0,28.0,Jeremy Doku,Manchester City
+2024-11-02,kevindebruyne_manchestercity,1.0,29.0,Kevin De Bruyne,Manchester City
+2024-11-02,matheuscunha_wolves,1.0,30.0,Matheus Cunha,Wolves
+2024-11-02,trentalexanderarnold_liverpool,1.0,31.0,Trent Alexander-Arnold,Liverpool
+2024-11-02,bryanmbeumo_brentford,0.0,32.0,Bryan Mbeumo,Brentford
+2024-11-02,enzofernandez_chelsea,0.0,33.0,Enzo Fernandez,Chelsea
+2024-11-02,joaopedro_brighton,0.0,34.0,Joao Pedro,Brighton
+2024-11-02,leandrotrossard_arsenal,0.0,35.0,Leandro Trossard,Arsenal
+2024-11-02,martinodegaard_arsenal,0.0,36.0,Martin Odegaard,Arsenal
+2024-11-02,morgangibbswhite_notthamforest,0.0,37.0,Morgan Gibbs-White,Nott'ham Forest
+2024-11-02,pedroporro_tottenham,0.0,38.0,Pedro Porro,Tottenham
 2024-11-03,bukayosaka_arsenal,7.0,1.0,Bukayo Saka,Arsenal
 2024-11-03,colepalmer_chelsea,5.0,2.0,Cole Palmer,Chelsea
 2024-11-03,mohamedsalah_liverpool,5.0,3.0,Mohamed Salah,Liverpool
@@ -671,18 +707,20 @@ date,player_team,value,rank,player,team
 2024-11-03,anthonyelanga_notthamforest,1.0,22.0,Anthony Elanga,Nott'ham Forest
 2024-11-03,brunoguimaraes_newcastleutd,1.0,23.0,Bruno Guimaraes,Newcastle Utd
 2024-11-03,declanrice_arsenal,1.0,24.0,Declan Rice,Arsenal
-2024-11-03,eberechieze_crystalpalace,1.0,25.0,Eberechi Eze,Crystal Palace
-2024-11-03,jeanricnerbellegarde_wolves,1.0,26.0,Jean-Ricner Bellegarde,Wolves
-2024-11-03,jeremydoku_manchestercity,1.0,27.0,Jeremy Doku,Manchester City
-2024-11-03,kevindebruyne_manchestercity,1.0,28.0,Kevin De Bruyne,Manchester City
-2024-11-03,matheuscunha_wolves,1.0,29.0,Matheus Cunha,Wolves
-2024-11-03,trentalexanderarnold_liverpool,1.0,30.0,Trent Alexander-Arnold,Liverpool
-2024-11-03,bryanmbeumo_brentford,0.0,31.0,Bryan Mbeumo,Brentford
-2024-11-03,enzofernandez_chelsea,0.0,32.0,Enzo Fernandez,Chelsea
-2024-11-03,joaopedro_brighton,0.0,33.0,Joao Pedro,Brighton
-2024-11-03,martinodegaard_arsenal,0.0,34.0,Martin Odegaard,Arsenal
-2024-11-03,morgangibbswhite_notthamforest,0.0,35.0,Morgan Gibbs-White,Nott'ham Forest
-2024-11-03,pedroporro_tottenham,0.0,36.0,Pedro Porro,Tottenham
+2024-11-03,dominikszoboszlai_liverpool,1.0,25.0,Dominik Szoboszlai,Liverpool
+2024-11-03,eberechieze_crystalpalace,1.0,26.0,Eberechi Eze,Crystal Palace
+2024-11-03,jeanricnerbellegarde_wolves,1.0,27.0,Jean-Ricner Bellegarde,Wolves
+2024-11-03,jeremydoku_manchestercity,1.0,28.0,Jeremy Doku,Manchester City
+2024-11-03,kevindebruyne_manchestercity,1.0,29.0,Kevin De Bruyne,Manchester City
+2024-11-03,matheuscunha_wolves,1.0,30.0,Matheus Cunha,Wolves
+2024-11-03,trentalexanderarnold_liverpool,1.0,31.0,Trent Alexander-Arnold,Liverpool
+2024-11-03,bryanmbeumo_brentford,0.0,32.0,Bryan Mbeumo,Brentford
+2024-11-03,enzofernandez_chelsea,0.0,33.0,Enzo Fernandez,Chelsea
+2024-11-03,joaopedro_brighton,0.0,34.0,Joao Pedro,Brighton
+2024-11-03,leandrotrossard_arsenal,0.0,35.0,Leandro Trossard,Arsenal
+2024-11-03,martinodegaard_arsenal,0.0,36.0,Martin Odegaard,Arsenal
+2024-11-03,morgangibbswhite_notthamforest,0.0,37.0,Morgan Gibbs-White,Nott'ham Forest
+2024-11-03,pedroporro_tottenham,0.0,38.0,Pedro Porro,Tottenham
 2024-11-04,bukayosaka_arsenal,7.0,1.0,Bukayo Saka,Arsenal
 2024-11-04,colepalmer_chelsea,5.0,2.0,Cole Palmer,Chelsea
 2024-11-04,mohamedsalah_liverpool,5.0,3.0,Mohamed Salah,Liverpool
@@ -707,18 +745,20 @@ date,player_team,value,rank,player,team
 2024-11-04,anthonyelanga_notthamforest,1.0,22.0,Anthony Elanga,Nott'ham Forest
 2024-11-04,brunoguimaraes_newcastleutd,1.0,23.0,Bruno Guimaraes,Newcastle Utd
 2024-11-04,declanrice_arsenal,1.0,24.0,Declan Rice,Arsenal
-2024-11-04,eberechieze_crystalpalace,1.0,25.0,Eberechi Eze,Crystal Palace
-2024-11-04,jeanricnerbellegarde_wolves,1.0,26.0,Jean-Ricner Bellegarde,Wolves
-2024-11-04,jeremydoku_manchestercity,1.0,27.0,Jeremy Doku,Manchester City
-2024-11-04,kevindebruyne_manchestercity,1.0,28.0,Kevin De Bruyne,Manchester City
-2024-11-04,matheuscunha_wolves,1.0,29.0,Matheus Cunha,Wolves
-2024-11-04,trentalexanderarnold_liverpool,1.0,30.0,Trent Alexander-Arnold,Liverpool
-2024-11-04,bryanmbeumo_brentford,0.0,31.0,Bryan Mbeumo,Brentford
-2024-11-04,enzofernandez_chelsea,0.0,32.0,Enzo Fernandez,Chelsea
-2024-11-04,joaopedro_brighton,0.0,33.0,Joao Pedro,Brighton
-2024-11-04,martinodegaard_arsenal,0.0,34.0,Martin Odegaard,Arsenal
-2024-11-04,morgangibbswhite_notthamforest,0.0,35.0,Morgan Gibbs-White,Nott'ham Forest
-2024-11-04,pedroporro_tottenham,0.0,36.0,Pedro Porro,Tottenham
+2024-11-04,dominikszoboszlai_liverpool,1.0,25.0,Dominik Szoboszlai,Liverpool
+2024-11-04,eberechieze_crystalpalace,1.0,26.0,Eberechi Eze,Crystal Palace
+2024-11-04,jeanricnerbellegarde_wolves,1.0,27.0,Jean-Ricner Bellegarde,Wolves
+2024-11-04,jeremydoku_manchestercity,1.0,28.0,Jeremy Doku,Manchester City
+2024-11-04,kevindebruyne_manchestercity,1.0,29.0,Kevin De Bruyne,Manchester City
+2024-11-04,matheuscunha_wolves,1.0,30.0,Matheus Cunha,Wolves
+2024-11-04,trentalexanderarnold_liverpool,1.0,31.0,Trent Alexander-Arnold,Liverpool
+2024-11-04,bryanmbeumo_brentford,0.0,32.0,Bryan Mbeumo,Brentford
+2024-11-04,enzofernandez_chelsea,0.0,33.0,Enzo Fernandez,Chelsea
+2024-11-04,joaopedro_brighton,0.0,34.0,Joao Pedro,Brighton
+2024-11-04,leandrotrossard_arsenal,0.0,35.0,Leandro Trossard,Arsenal
+2024-11-04,martinodegaard_arsenal,0.0,36.0,Martin Odegaard,Arsenal
+2024-11-04,morgangibbswhite_notthamforest,0.0,37.0,Morgan Gibbs-White,Nott'ham Forest
+2024-11-04,pedroporro_tottenham,0.0,38.0,Pedro Porro,Tottenham
 2024-11-09,bukayosaka_arsenal,7.0,1.0,Bukayo Saka,Arsenal
 2024-11-09,mohamedsalah_liverpool,6.0,2.0,Mohamed Salah,Liverpool
 2024-11-09,colepalmer_chelsea,5.0,3.0,Cole Palmer,Chelsea
@@ -745,16 +785,18 @@ date,player_team,value,rank,player,team
 2024-11-09,brunoguimaraes_newcastleutd,1.0,24.0,Bruno Guimaraes,Newcastle Utd
 2024-11-09,bryanmbeumo_brentford,1.0,25.0,Bryan Mbeumo,Brentford
 2024-11-09,declanrice_arsenal,1.0,26.0,Declan Rice,Arsenal
-2024-11-09,eberechieze_crystalpalace,1.0,27.0,Eberechi Eze,Crystal Palace
-2024-11-09,jeanricnerbellegarde_wolves,1.0,28.0,Jean-Ricner Bellegarde,Wolves
-2024-11-09,jeremydoku_manchestercity,1.0,29.0,Jeremy Doku,Manchester City
-2024-11-09,joaopedro_brighton,1.0,30.0,Joao Pedro,Brighton
-2024-11-09,kevindebruyne_manchestercity,1.0,31.0,Kevin De Bruyne,Manchester City
-2024-11-09,trentalexanderarnold_liverpool,1.0,32.0,Trent Alexander-Arnold,Liverpool
-2024-11-09,enzofernandez_chelsea,0.0,33.0,Enzo Fernandez,Chelsea
-2024-11-09,martinodegaard_arsenal,0.0,34.0,Martin Odegaard,Arsenal
-2024-11-09,morgangibbswhite_notthamforest,0.0,35.0,Morgan Gibbs-White,Nott'ham Forest
-2024-11-09,pedroporro_tottenham,0.0,36.0,Pedro Porro,Tottenham
+2024-11-09,dominikszoboszlai_liverpool,1.0,27.0,Dominik Szoboszlai,Liverpool
+2024-11-09,eberechieze_crystalpalace,1.0,28.0,Eberechi Eze,Crystal Palace
+2024-11-09,jeanricnerbellegarde_wolves,1.0,29.0,Jean-Ricner Bellegarde,Wolves
+2024-11-09,jeremydoku_manchestercity,1.0,30.0,Jeremy Doku,Manchester City
+2024-11-09,joaopedro_brighton,1.0,31.0,Joao Pedro,Brighton
+2024-11-09,kevindebruyne_manchestercity,1.0,32.0,Kevin De Bruyne,Manchester City
+2024-11-09,trentalexanderarnold_liverpool,1.0,33.0,Trent Alexander-Arnold,Liverpool
+2024-11-09,enzofernandez_chelsea,0.0,34.0,Enzo Fernandez,Chelsea
+2024-11-09,leandrotrossard_arsenal,0.0,35.0,Leandro Trossard,Arsenal
+2024-11-09,martinodegaard_arsenal,0.0,36.0,Martin Odegaard,Arsenal
+2024-11-09,morgangibbswhite_notthamforest,0.0,37.0,Morgan Gibbs-White,Nott'ham Forest
+2024-11-09,pedroporro_tottenham,0.0,38.0,Pedro Porro,Tottenham
 2024-11-10,bukayosaka_arsenal,7.0,1.0,Bukayo Saka,Arsenal
 2024-11-10,mohamedsalah_liverpool,6.0,2.0,Mohamed Salah,Liverpool
 2024-11-10,colepalmer_chelsea,5.0,3.0,Cole Palmer,Chelsea
@@ -781,16 +823,18 @@ date,player_team,value,rank,player,team
 2024-11-10,brunoguimaraes_newcastleutd,1.0,24.0,Bruno Guimaraes,Newcastle Utd
 2024-11-10,bryanmbeumo_brentford,1.0,25.0,Bryan Mbeumo,Brentford
 2024-11-10,declanrice_arsenal,1.0,26.0,Declan Rice,Arsenal
-2024-11-10,eberechieze_crystalpalace,1.0,27.0,Eberechi Eze,Crystal Palace
-2024-11-10,enzofernandez_chelsea,1.0,28.0,Enzo Fernandez,Chelsea
-2024-11-10,jeanricnerbellegarde_wolves,1.0,29.0,Jean-Ricner Bellegarde,Wolves
-2024-11-10,jeremydoku_manchestercity,1.0,30.0,Jeremy Doku,Manchester City
-2024-11-10,joaopedro_brighton,1.0,31.0,Joao Pedro,Brighton
-2024-11-10,kevindebruyne_manchestercity,1.0,32.0,Kevin De Bruyne,Manchester City
-2024-11-10,martinodegaard_arsenal,1.0,33.0,Martin Odegaard,Arsenal
-2024-11-10,pedroporro_tottenham,1.0,34.0,Pedro Porro,Tottenham
-2024-11-10,trentalexanderarnold_liverpool,1.0,35.0,Trent Alexander-Arnold,Liverpool
-2024-11-10,morgangibbswhite_notthamforest,0.0,36.0,Morgan Gibbs-White,Nott'ham Forest
+2024-11-10,dominikszoboszlai_liverpool,1.0,27.0,Dominik Szoboszlai,Liverpool
+2024-11-10,eberechieze_crystalpalace,1.0,28.0,Eberechi Eze,Crystal Palace
+2024-11-10,enzofernandez_chelsea,1.0,29.0,Enzo Fernandez,Chelsea
+2024-11-10,jeanricnerbellegarde_wolves,1.0,30.0,Jean-Ricner Bellegarde,Wolves
+2024-11-10,jeremydoku_manchestercity,1.0,31.0,Jeremy Doku,Manchester City
+2024-11-10,joaopedro_brighton,1.0,32.0,Joao Pedro,Brighton
+2024-11-10,kevindebruyne_manchestercity,1.0,33.0,Kevin De Bruyne,Manchester City
+2024-11-10,martinodegaard_arsenal,1.0,34.0,Martin Odegaard,Arsenal
+2024-11-10,pedroporro_tottenham,1.0,35.0,Pedro Porro,Tottenham
+2024-11-10,trentalexanderarnold_liverpool,1.0,36.0,Trent Alexander-Arnold,Liverpool
+2024-11-10,leandrotrossard_arsenal,0.0,37.0,Leandro Trossard,Arsenal
+2024-11-10,morgangibbswhite_notthamforest,0.0,38.0,Morgan Gibbs-White,Nott'ham Forest
 2024-11-23,bukayosaka_arsenal,8.0,1.0,Bukayo Saka,Arsenal
 2024-11-23,mohamedsalah_liverpool,6.0,2.0,Mohamed Salah,Liverpool
 2024-11-23,colepalmer_chelsea,5.0,3.0,Cole Palmer,Chelsea
@@ -820,13 +864,15 @@ date,player_team,value,rank,player,team
 2024-11-23,brunoguimaraes_newcastleutd,1.0,27.0,Bruno Guimaraes,Newcastle Utd
 2024-11-23,bryanmbeumo_brentford,1.0,28.0,Bryan Mbeumo,Brentford
 2024-11-23,declanrice_arsenal,1.0,29.0,Declan Rice,Arsenal
-2024-11-23,eberechieze_crystalpalace,1.0,30.0,Eberechi Eze,Crystal Palace
-2024-11-23,jeanricnerbellegarde_wolves,1.0,31.0,Jean-Ricner Bellegarde,Wolves
-2024-11-23,jeremydoku_manchestercity,1.0,32.0,Jeremy Doku,Manchester City
-2024-11-23,kevindebruyne_manchestercity,1.0,33.0,Kevin De Bruyne,Manchester City
-2024-11-23,pedroporro_tottenham,1.0,34.0,Pedro Porro,Tottenham
-2024-11-23,trentalexanderarnold_liverpool,1.0,35.0,Trent Alexander-Arnold,Liverpool
-2024-11-23,morgangibbswhite_notthamforest,0.0,36.0,Morgan Gibbs-White,Nott'ham Forest
+2024-11-23,dominikszoboszlai_liverpool,1.0,30.0,Dominik Szoboszlai,Liverpool
+2024-11-23,eberechieze_crystalpalace,1.0,31.0,Eberechi Eze,Crystal Palace
+2024-11-23,jeanricnerbellegarde_wolves,1.0,32.0,Jean-Ricner Bellegarde,Wolves
+2024-11-23,jeremydoku_manchestercity,1.0,33.0,Jeremy Doku,Manchester City
+2024-11-23,kevindebruyne_manchestercity,1.0,34.0,Kevin De Bruyne,Manchester City
+2024-11-23,pedroporro_tottenham,1.0,35.0,Pedro Porro,Tottenham
+2024-11-23,trentalexanderarnold_liverpool,1.0,36.0,Trent Alexander-Arnold,Liverpool
+2024-11-23,leandrotrossard_arsenal,0.0,37.0,Leandro Trossard,Arsenal
+2024-11-23,morgangibbswhite_notthamforest,0.0,38.0,Morgan Gibbs-White,Nott'ham Forest
 2024-11-24,bukayosaka_arsenal,8.0,1.0,Bukayo Saka,Arsenal
 2024-11-24,mohamedsalah_liverpool,6.0,2.0,Mohamed Salah,Liverpool
 2024-11-24,colepalmer_chelsea,5.0,3.0,Cole Palmer,Chelsea
@@ -856,13 +902,15 @@ date,player_team,value,rank,player,team
 2024-11-24,brunoguimaraes_newcastleutd,1.0,27.0,Bruno Guimaraes,Newcastle Utd
 2024-11-24,bryanmbeumo_brentford,1.0,28.0,Bryan Mbeumo,Brentford
 2024-11-24,declanrice_arsenal,1.0,29.0,Declan Rice,Arsenal
-2024-11-24,eberechieze_crystalpalace,1.0,30.0,Eberechi Eze,Crystal Palace
-2024-11-24,jeanricnerbellegarde_wolves,1.0,31.0,Jean-Ricner Bellegarde,Wolves
-2024-11-24,jeremydoku_manchestercity,1.0,32.0,Jeremy Doku,Manchester City
-2024-11-24,kevindebruyne_manchestercity,1.0,33.0,Kevin De Bruyne,Manchester City
-2024-11-24,pedroporro_tottenham,1.0,34.0,Pedro Porro,Tottenham
-2024-11-24,trentalexanderarnold_liverpool,1.0,35.0,Trent Alexander-Arnold,Liverpool
-2024-11-24,morgangibbswhite_notthamforest,0.0,36.0,Morgan Gibbs-White,Nott'ham Forest
+2024-11-24,dominikszoboszlai_liverpool,1.0,30.0,Dominik Szoboszlai,Liverpool
+2024-11-24,eberechieze_crystalpalace,1.0,31.0,Eberechi Eze,Crystal Palace
+2024-11-24,jeanricnerbellegarde_wolves,1.0,32.0,Jean-Ricner Bellegarde,Wolves
+2024-11-24,jeremydoku_manchestercity,1.0,33.0,Jeremy Doku,Manchester City
+2024-11-24,kevindebruyne_manchestercity,1.0,34.0,Kevin De Bruyne,Manchester City
+2024-11-24,pedroporro_tottenham,1.0,35.0,Pedro Porro,Tottenham
+2024-11-24,trentalexanderarnold_liverpool,1.0,36.0,Trent Alexander-Arnold,Liverpool
+2024-11-24,leandrotrossard_arsenal,0.0,37.0,Leandro Trossard,Arsenal
+2024-11-24,morgangibbswhite_notthamforest,0.0,38.0,Morgan Gibbs-White,Nott'ham Forest
 2024-11-25,bukayosaka_arsenal,8.0,1.0,Bukayo Saka,Arsenal
 2024-11-25,mohamedsalah_liverpool,6.0,2.0,Mohamed Salah,Liverpool
 2024-11-25,colepalmer_chelsea,5.0,3.0,Cole Palmer,Chelsea
@@ -892,13 +940,15 @@ date,player_team,value,rank,player,team
 2024-11-25,brunoguimaraes_newcastleutd,1.0,27.0,Bruno Guimaraes,Newcastle Utd
 2024-11-25,bryanmbeumo_brentford,1.0,28.0,Bryan Mbeumo,Brentford
 2024-11-25,declanrice_arsenal,1.0,29.0,Declan Rice,Arsenal
-2024-11-25,eberechieze_crystalpalace,1.0,30.0,Eberechi Eze,Crystal Palace
-2024-11-25,jeanricnerbellegarde_wolves,1.0,31.0,Jean-Ricner Bellegarde,Wolves
-2024-11-25,jeremydoku_manchestercity,1.0,32.0,Jeremy Doku,Manchester City
-2024-11-25,kevindebruyne_manchestercity,1.0,33.0,Kevin De Bruyne,Manchester City
-2024-11-25,pedroporro_tottenham,1.0,34.0,Pedro Porro,Tottenham
-2024-11-25,trentalexanderarnold_liverpool,1.0,35.0,Trent Alexander-Arnold,Liverpool
-2024-11-25,morgangibbswhite_notthamforest,0.0,36.0,Morgan Gibbs-White,Nott'ham Forest
+2024-11-25,dominikszoboszlai_liverpool,1.0,30.0,Dominik Szoboszlai,Liverpool
+2024-11-25,eberechieze_crystalpalace,1.0,31.0,Eberechi Eze,Crystal Palace
+2024-11-25,jeanricnerbellegarde_wolves,1.0,32.0,Jean-Ricner Bellegarde,Wolves
+2024-11-25,jeremydoku_manchestercity,1.0,33.0,Jeremy Doku,Manchester City
+2024-11-25,kevindebruyne_manchestercity,1.0,34.0,Kevin De Bruyne,Manchester City
+2024-11-25,pedroporro_tottenham,1.0,35.0,Pedro Porro,Tottenham
+2024-11-25,trentalexanderarnold_liverpool,1.0,36.0,Trent Alexander-Arnold,Liverpool
+2024-11-25,leandrotrossard_arsenal,0.0,37.0,Leandro Trossard,Arsenal
+2024-11-25,morgangibbswhite_notthamforest,0.0,38.0,Morgan Gibbs-White,Nott'ham Forest
 2024-11-30,bukayosaka_arsenal,10.0,1.0,Bukayo Saka,Arsenal
 2024-11-30,mohamedsalah_liverpool,6.0,2.0,Mohamed Salah,Liverpool
 2024-11-30,colepalmer_chelsea,5.0,3.0,Cole Palmer,Chelsea
@@ -929,12 +979,14 @@ date,player_team,value,rank,player,team
 2024-11-30,brunoguimaraes_newcastleutd,1.0,28.0,Bruno Guimaraes,Newcastle Utd
 2024-11-30,bryanmbeumo_brentford,1.0,29.0,Bryan Mbeumo,Brentford
 2024-11-30,declanrice_arsenal,1.0,30.0,Declan Rice,Arsenal
-2024-11-30,eberechieze_crystalpalace,1.0,31.0,Eberechi Eze,Crystal Palace
-2024-11-30,jeremydoku_manchestercity,1.0,32.0,Jeremy Doku,Manchester City
-2024-11-30,kevindebruyne_manchestercity,1.0,33.0,Kevin De Bruyne,Manchester City
-2024-11-30,pedroporro_tottenham,1.0,34.0,Pedro Porro,Tottenham
-2024-11-30,trentalexanderarnold_liverpool,1.0,35.0,Trent Alexander-Arnold,Liverpool
-2024-11-30,morgangibbswhite_notthamforest,0.0,36.0,Morgan Gibbs-White,Nott'ham Forest
+2024-11-30,dominikszoboszlai_liverpool,1.0,31.0,Dominik Szoboszlai,Liverpool
+2024-11-30,eberechieze_crystalpalace,1.0,32.0,Eberechi Eze,Crystal Palace
+2024-11-30,jeremydoku_manchestercity,1.0,33.0,Jeremy Doku,Manchester City
+2024-11-30,kevindebruyne_manchestercity,1.0,34.0,Kevin De Bruyne,Manchester City
+2024-11-30,leandrotrossard_arsenal,1.0,35.0,Leandro Trossard,Arsenal
+2024-11-30,pedroporro_tottenham,1.0,36.0,Pedro Porro,Tottenham
+2024-11-30,trentalexanderarnold_liverpool,1.0,37.0,Trent Alexander-Arnold,Liverpool
+2024-11-30,morgangibbswhite_notthamforest,0.0,38.0,Morgan Gibbs-White,Nott'ham Forest
 2024-12-01,bukayosaka_arsenal,10.0,1.0,Bukayo Saka,Arsenal
 2024-12-01,mohamedsalah_liverpool,7.0,2.0,Mohamed Salah,Liverpool
 2024-12-01,colepalmer_chelsea,6.0,3.0,Cole Palmer,Chelsea
@@ -965,12 +1017,14 @@ date,player_team,value,rank,player,team
 2024-12-01,brunoguimaraes_newcastleutd,1.0,28.0,Bruno Guimaraes,Newcastle Utd
 2024-12-01,bryanmbeumo_brentford,1.0,29.0,Bryan Mbeumo,Brentford
 2024-12-01,declanrice_arsenal,1.0,30.0,Declan Rice,Arsenal
-2024-12-01,eberechieze_crystalpalace,1.0,31.0,Eberechi Eze,Crystal Palace
-2024-12-01,jeremydoku_manchestercity,1.0,32.0,Jeremy Doku,Manchester City
-2024-12-01,kevindebruyne_manchestercity,1.0,33.0,Kevin De Bruyne,Manchester City
-2024-12-01,pedroporro_tottenham,1.0,34.0,Pedro Porro,Tottenham
-2024-12-01,trentalexanderarnold_liverpool,1.0,35.0,Trent Alexander-Arnold,Liverpool
-2024-12-01,morgangibbswhite_notthamforest,0.0,36.0,Morgan Gibbs-White,Nott'ham Forest
+2024-12-01,dominikszoboszlai_liverpool,1.0,31.0,Dominik Szoboszlai,Liverpool
+2024-12-01,eberechieze_crystalpalace,1.0,32.0,Eberechi Eze,Crystal Palace
+2024-12-01,jeremydoku_manchestercity,1.0,33.0,Jeremy Doku,Manchester City
+2024-12-01,kevindebruyne_manchestercity,1.0,34.0,Kevin De Bruyne,Manchester City
+2024-12-01,leandrotrossard_arsenal,1.0,35.0,Leandro Trossard,Arsenal
+2024-12-01,pedroporro_tottenham,1.0,36.0,Pedro Porro,Tottenham
+2024-12-01,trentalexanderarnold_liverpool,1.0,37.0,Trent Alexander-Arnold,Liverpool
+2024-12-01,morgangibbswhite_notthamforest,0.0,38.0,Morgan Gibbs-White,Nott'ham Forest
 2024-12-03,bukayosaka_arsenal,10.0,1.0,Bukayo Saka,Arsenal
 2024-12-03,mohamedsalah_liverpool,7.0,2.0,Mohamed Salah,Liverpool
 2024-12-03,colepalmer_chelsea,6.0,3.0,Cole Palmer,Chelsea
@@ -1002,11 +1056,13 @@ date,player_team,value,rank,player,team
 2024-12-03,brunoguimaraes_newcastleutd,1.0,29.0,Bruno Guimaraes,Newcastle Utd
 2024-12-03,bryanmbeumo_brentford,1.0,30.0,Bryan Mbeumo,Brentford
 2024-12-03,declanrice_arsenal,1.0,31.0,Declan Rice,Arsenal
-2024-12-03,jeremydoku_manchestercity,1.0,32.0,Jeremy Doku,Manchester City
-2024-12-03,kevindebruyne_manchestercity,1.0,33.0,Kevin De Bruyne,Manchester City
-2024-12-03,pedroporro_tottenham,1.0,34.0,Pedro Porro,Tottenham
-2024-12-03,trentalexanderarnold_liverpool,1.0,35.0,Trent Alexander-Arnold,Liverpool
-2024-12-03,morgangibbswhite_notthamforest,0.0,36.0,Morgan Gibbs-White,Nott'ham Forest
+2024-12-03,dominikszoboszlai_liverpool,1.0,32.0,Dominik Szoboszlai,Liverpool
+2024-12-03,jeremydoku_manchestercity,1.0,33.0,Jeremy Doku,Manchester City
+2024-12-03,kevindebruyne_manchestercity,1.0,34.0,Kevin De Bruyne,Manchester City
+2024-12-03,leandrotrossard_arsenal,1.0,35.0,Leandro Trossard,Arsenal
+2024-12-03,pedroporro_tottenham,1.0,36.0,Pedro Porro,Tottenham
+2024-12-03,trentalexanderarnold_liverpool,1.0,37.0,Trent Alexander-Arnold,Liverpool
+2024-12-03,morgangibbswhite_notthamforest,0.0,38.0,Morgan Gibbs-White,Nott'ham Forest
 2024-12-04,bukayosaka_arsenal,10.0,1.0,Bukayo Saka,Arsenal
 2024-12-04,mohamedsalah_liverpool,8.0,2.0,Mohamed Salah,Liverpool
 2024-12-04,colepalmer_chelsea,6.0,3.0,Cole Palmer,Chelsea
@@ -1041,8 +1097,10 @@ date,player_team,value,rank,player,team
 2024-12-04,rayanaitnouri_wolves,2.0,32.0,Rayan Ait-Nouri,Wolves
 2024-12-04,savio_manchestercity,2.0,33.0,Savio,Manchester City
 2024-12-04,bryanmbeumo_brentford,1.0,34.0,Bryan Mbeumo,Brentford
-2024-12-04,pedroporro_tottenham,1.0,35.0,Pedro Porro,Tottenham
-2024-12-04,morgangibbswhite_notthamforest,0.0,36.0,Morgan Gibbs-White,Nott'ham Forest
+2024-12-04,dominikszoboszlai_liverpool,1.0,35.0,Dominik Szoboszlai,Liverpool
+2024-12-04,leandrotrossard_arsenal,1.0,36.0,Leandro Trossard,Arsenal
+2024-12-04,pedroporro_tottenham,1.0,37.0,Pedro Porro,Tottenham
+2024-12-04,morgangibbswhite_notthamforest,0.0,38.0,Morgan Gibbs-White,Nott'ham Forest
 2024-12-05,bukayosaka_arsenal,10.0,1.0,Bukayo Saka,Arsenal
 2024-12-05,mohamedsalah_liverpool,8.0,2.0,Mohamed Salah,Liverpool
 2024-12-05,colepalmer_chelsea,6.0,3.0,Cole Palmer,Chelsea
@@ -1077,8 +1135,10 @@ date,player_team,value,rank,player,team
 2024-12-05,rayanaitnouri_wolves,2.0,32.0,Rayan Ait-Nouri,Wolves
 2024-12-05,savio_manchestercity,2.0,33.0,Savio,Manchester City
 2024-12-05,bryanmbeumo_brentford,1.0,34.0,Bryan Mbeumo,Brentford
-2024-12-05,pedroporro_tottenham,1.0,35.0,Pedro Porro,Tottenham
-2024-12-05,morgangibbswhite_notthamforest,0.0,36.0,Morgan Gibbs-White,Nott'ham Forest
+2024-12-05,dominikszoboszlai_liverpool,1.0,35.0,Dominik Szoboszlai,Liverpool
+2024-12-05,leandrotrossard_arsenal,1.0,36.0,Leandro Trossard,Arsenal
+2024-12-05,pedroporro_tottenham,1.0,37.0,Pedro Porro,Tottenham
+2024-12-05,morgangibbswhite_notthamforest,0.0,38.0,Morgan Gibbs-White,Nott'ham Forest
 2024-12-07,bukayosaka_arsenal,10.0,1.0,Bukayo Saka,Arsenal
 2024-12-07,mohamedsalah_liverpool,8.0,2.0,Mohamed Salah,Liverpool
 2024-12-07,amaddiallo_manchesterutd,6.0,3.0,Amad Diallo,Manchester Utd
@@ -1113,8 +1173,10 @@ date,player_team,value,rank,player,team
 2024-12-07,morganrogers_astonvilla,2.0,32.0,Morgan Rogers,Aston Villa
 2024-12-07,rayanaitnouri_wolves,2.0,33.0,Rayan Ait-Nouri,Wolves
 2024-12-07,savio_manchestercity,2.0,34.0,Savio,Manchester City
-2024-12-07,morgangibbswhite_notthamforest,1.0,35.0,Morgan Gibbs-White,Nott'ham Forest
-2024-12-07,pedroporro_tottenham,1.0,36.0,Pedro Porro,Tottenham
+2024-12-07,dominikszoboszlai_liverpool,1.0,35.0,Dominik Szoboszlai,Liverpool
+2024-12-07,leandrotrossard_arsenal,1.0,36.0,Leandro Trossard,Arsenal
+2024-12-07,morgangibbswhite_notthamforest,1.0,37.0,Morgan Gibbs-White,Nott'ham Forest
+2024-12-07,pedroporro_tottenham,1.0,38.0,Pedro Porro,Tottenham
 2024-12-08,bukayosaka_arsenal,10.0,1.0,Bukayo Saka,Arsenal
 2024-12-08,mohamedsalah_liverpool,8.0,2.0,Mohamed Salah,Liverpool
 2024-12-08,amaddiallo_manchesterutd,6.0,3.0,Amad Diallo,Manchester Utd
@@ -1150,7 +1212,9 @@ date,player_team,value,rank,player,team
 2024-12-08,pedroporro_tottenham,2.0,33.0,Pedro Porro,Tottenham
 2024-12-08,rayanaitnouri_wolves,2.0,34.0,Rayan Ait-Nouri,Wolves
 2024-12-08,savio_manchestercity,2.0,35.0,Savio,Manchester City
-2024-12-08,morgangibbswhite_notthamforest,1.0,36.0,Morgan Gibbs-White,Nott'ham Forest
+2024-12-08,dominikszoboszlai_liverpool,1.0,36.0,Dominik Szoboszlai,Liverpool
+2024-12-08,leandrotrossard_arsenal,1.0,37.0,Leandro Trossard,Arsenal
+2024-12-08,morgangibbswhite_notthamforest,1.0,38.0,Morgan Gibbs-White,Nott'ham Forest
 2024-12-09,bukayosaka_arsenal,10.0,1.0,Bukayo Saka,Arsenal
 2024-12-09,mohamedsalah_liverpool,8.0,2.0,Mohamed Salah,Liverpool
 2024-12-09,amaddiallo_manchesterutd,6.0,3.0,Amad Diallo,Manchester Utd
@@ -1186,7 +1250,9 @@ date,player_team,value,rank,player,team
 2024-12-09,morganrogers_astonvilla,2.0,33.0,Morgan Rogers,Aston Villa
 2024-12-09,pedroporro_tottenham,2.0,34.0,Pedro Porro,Tottenham
 2024-12-09,savio_manchestercity,2.0,35.0,Savio,Manchester City
-2024-12-09,morgangibbswhite_notthamforest,1.0,36.0,Morgan Gibbs-White,Nott'ham Forest
+2024-12-09,dominikszoboszlai_liverpool,1.0,36.0,Dominik Szoboszlai,Liverpool
+2024-12-09,leandrotrossard_arsenal,1.0,37.0,Leandro Trossard,Arsenal
+2024-12-09,morgangibbswhite_notthamforest,1.0,38.0,Morgan Gibbs-White,Nott'ham Forest
 2024-12-14,bukayosaka_arsenal,10.0,1.0,Bukayo Saka,Arsenal
 2024-12-14,mohamedsalah_liverpool,9.0,2.0,Mohamed Salah,Liverpool
 2024-12-14,amaddiallo_manchesterutd,6.0,3.0,Amad Diallo,Manchester Utd
@@ -1223,6 +1289,8 @@ date,player_team,value,rank,player,team
 2024-12-14,morganrogers_astonvilla,2.0,34.0,Morgan Rogers,Aston Villa
 2024-12-14,pedroporro_tottenham,2.0,35.0,Pedro Porro,Tottenham
 2024-12-14,savio_manchestercity,2.0,36.0,Savio,Manchester City
+2024-12-14,dominikszoboszlai_liverpool,1.0,37.0,Dominik Szoboszlai,Liverpool
+2024-12-14,leandrotrossard_arsenal,1.0,38.0,Leandro Trossard,Arsenal
 2024-12-15,bukayosaka_arsenal,10.0,1.0,Bukayo Saka,Arsenal
 2024-12-15,mohamedsalah_liverpool,9.0,2.0,Mohamed Salah,Liverpool
 2024-12-15,amaddiallo_manchesterutd,6.0,3.0,Amad Diallo,Manchester Utd
@@ -1259,6 +1327,8 @@ date,player_team,value,rank,player,team
 2024-12-15,morganrogers_astonvilla,2.0,34.0,Morgan Rogers,Aston Villa
 2024-12-15,pedroporro_tottenham,2.0,35.0,Pedro Porro,Tottenham
 2024-12-15,savio_manchestercity,2.0,36.0,Savio,Manchester City
+2024-12-15,dominikszoboszlai_liverpool,1.0,37.0,Dominik Szoboszlai,Liverpool
+2024-12-15,leandrotrossard_arsenal,1.0,38.0,Leandro Trossard,Arsenal
 2024-12-21,bukayosaka_arsenal,10.0,1.0,Bukayo Saka,Arsenal
 2024-12-21,mohamedsalah_liverpool,9.0,2.0,Mohamed Salah,Liverpool
 2024-12-21,amaddiallo_manchesterutd,6.0,3.0,Amad Diallo,Manchester Utd
@@ -1295,6 +1365,8 @@ date,player_team,value,rank,player,team
 2024-12-21,morgangibbswhite_notthamforest,2.0,34.0,Morgan Gibbs-White,Nott'ham Forest
 2024-12-21,pedroporro_tottenham,2.0,35.0,Pedro Porro,Tottenham
 2024-12-21,savio_manchestercity,2.0,36.0,Savio,Manchester City
+2024-12-21,dominikszoboszlai_liverpool,1.0,37.0,Dominik Szoboszlai,Liverpool
+2024-12-21,leandrotrossard_arsenal,1.0,38.0,Leandro Trossard,Arsenal
 2024-12-22,mohamedsalah_liverpool,11.0,1.0,Mohamed Salah,Liverpool
 2024-12-22,bukayosaka_arsenal,10.0,2.0,Bukayo Saka,Arsenal
 2024-12-22,amaddiallo_manchesterutd,6.0,3.0,Amad Diallo,Manchester Utd
@@ -1322,15 +1394,17 @@ date,player_team,value,rank,player,team
 2024-12-22,rayanaitnouri_wolves,3.0,25.0,Rayan Ait-Nouri,Wolves
 2024-12-22,anthonyelanga_notthamforest,2.0,26.0,Anthony Elanga,Nott'ham Forest
 2024-12-22,bryanmbeumo_brentford,2.0,27.0,Bryan Mbeumo,Brentford
-2024-12-22,eberechieze_crystalpalace,2.0,28.0,Eberechi Eze,Crystal Palace
-2024-12-22,jeanricnerbellegarde_wolves,2.0,29.0,Jean-Ricner Bellegarde,Wolves
-2024-12-22,jeremydoku_manchestercity,2.0,30.0,Jeremy Doku,Manchester City
-2024-12-22,justinkluivert_bournemouth,2.0,31.0,Justin Kluivert,Bournemouth
-2024-12-22,kevindebruyne_manchestercity,2.0,32.0,Kevin De Bruyne,Manchester City
-2024-12-22,martinodegaard_arsenal,2.0,33.0,Martin Odegaard,Arsenal
-2024-12-22,morgangibbswhite_notthamforest,2.0,34.0,Morgan Gibbs-White,Nott'ham Forest
-2024-12-22,pedroporro_tottenham,2.0,35.0,Pedro Porro,Tottenham
-2024-12-22,savio_manchestercity,2.0,36.0,Savio,Manchester City
+2024-12-22,dominikszoboszlai_liverpool,2.0,28.0,Dominik Szoboszlai,Liverpool
+2024-12-22,eberechieze_crystalpalace,2.0,29.0,Eberechi Eze,Crystal Palace
+2024-12-22,jeanricnerbellegarde_wolves,2.0,30.0,Jean-Ricner Bellegarde,Wolves
+2024-12-22,jeremydoku_manchestercity,2.0,31.0,Jeremy Doku,Manchester City
+2024-12-22,justinkluivert_bournemouth,2.0,32.0,Justin Kluivert,Bournemouth
+2024-12-22,kevindebruyne_manchestercity,2.0,33.0,Kevin De Bruyne,Manchester City
+2024-12-22,martinodegaard_arsenal,2.0,34.0,Martin Odegaard,Arsenal
+2024-12-22,morgangibbswhite_notthamforest,2.0,35.0,Morgan Gibbs-White,Nott'ham Forest
+2024-12-22,pedroporro_tottenham,2.0,36.0,Pedro Porro,Tottenham
+2024-12-22,savio_manchestercity,2.0,37.0,Savio,Manchester City
+2024-12-22,leandrotrossard_arsenal,1.0,38.0,Leandro Trossard,Arsenal
 2024-12-26,mohamedsalah_liverpool,11.0,1.0,Mohamed Salah,Liverpool
 2024-12-26,bukayosaka_arsenal,10.0,2.0,Bukayo Saka,Arsenal
 2024-12-26,amaddiallo_manchesterutd,6.0,3.0,Amad Diallo,Manchester Utd
@@ -1360,13 +1434,53 @@ date,player_team,value,rank,player,team
 2024-12-26,rayanaitnouri_wolves,3.0,27.0,Rayan Ait-Nouri,Wolves
 2024-12-26,anthonyelanga_notthamforest,2.0,28.0,Anthony Elanga,Nott'ham Forest
 2024-12-26,bryanmbeumo_brentford,2.0,29.0,Bryan Mbeumo,Brentford
-2024-12-26,eberechieze_crystalpalace,2.0,30.0,Eberechi Eze,Crystal Palace
-2024-12-26,jeanricnerbellegarde_wolves,2.0,31.0,Jean-Ricner Bellegarde,Wolves
-2024-12-26,justinkluivert_bournemouth,2.0,32.0,Justin Kluivert,Bournemouth
-2024-12-26,kevindebruyne_manchestercity,2.0,33.0,Kevin De Bruyne,Manchester City
-2024-12-26,martinodegaard_arsenal,2.0,34.0,Martin Odegaard,Arsenal
-2024-12-26,pedroporro_tottenham,2.0,35.0,Pedro Porro,Tottenham
-2024-12-26,savio_manchestercity,2.0,36.0,Savio,Manchester City
+2024-12-26,dominikszoboszlai_liverpool,2.0,30.0,Dominik Szoboszlai,Liverpool
+2024-12-26,eberechieze_crystalpalace,2.0,31.0,Eberechi Eze,Crystal Palace
+2024-12-26,jeanricnerbellegarde_wolves,2.0,32.0,Jean-Ricner Bellegarde,Wolves
+2024-12-26,justinkluivert_bournemouth,2.0,33.0,Justin Kluivert,Bournemouth
+2024-12-26,kevindebruyne_manchestercity,2.0,34.0,Kevin De Bruyne,Manchester City
+2024-12-26,martinodegaard_arsenal,2.0,35.0,Martin Odegaard,Arsenal
+2024-12-26,pedroporro_tottenham,2.0,36.0,Pedro Porro,Tottenham
+2024-12-26,savio_manchestercity,2.0,37.0,Savio,Manchester City
+2024-12-26,leandrotrossard_arsenal,1.0,38.0,Leandro Trossard,Arsenal
+2024-12-27,mohamedsalah_liverpool,11.0,1.0,Mohamed Salah,Liverpool
+2024-12-27,bukayosaka_arsenal,10.0,2.0,Bukayo Saka,Arsenal
+2024-12-27,amaddiallo_manchesterutd,6.0,3.0,Amad Diallo,Manchester Utd
+2024-12-27,antoneerobinson_fulham,6.0,4.0,Antonee Robinson,Fulham
+2024-12-27,colepalmer_chelsea,6.0,5.0,Cole Palmer,Chelsea
+2024-12-27,jacobmurphy_newcastleutd,6.0,6.0,Jacob Murphy,Newcastle Utd
+2024-12-27,sonheungmin_tottenham,6.0,7.0,Son Heung-min,Tottenham
+2024-12-27,brunofernandes_manchesterutd,5.0,8.0,Bruno Fernandes,Manchester Utd
+2024-12-27,elliotanderson_notthamforest,5.0,9.0,Elliot Anderson,Nott'ham Forest
+2024-12-27,alexanderisak_newcastleutd,4.0,10.0,Alexander Isak,Newcastle Utd
+2024-12-27,brunoguimaraes_newcastleutd,4.0,11.0,Bruno Guimaraes,Newcastle Utd
+2024-12-27,enzofernandez_chelsea,4.0,12.0,Enzo Fernandez,Chelsea
+2024-12-27,jamesmaddison_tottenham,4.0,13.0,James Maddison,Tottenham
+2024-12-27,jarrodbowen_westham,4.0,14.0,Jarrod Bowen,West Ham
+2024-12-27,matheuscunha_wolves,4.0,15.0,Matheus Cunha,Wolves
+2024-12-27,mikkeldamsgaard_brentford,4.0,16.0,Mikkel Damsgaard,Brentford
+2024-12-27,trentalexanderarnold_liverpool,4.0,17.0,Trent Alexander-Arnold,Liverpool
+2024-12-27,youritielemans_astonvilla,4.0,18.0,Youri Tielemans,Aston Villa
+2024-12-27,adamatraore_fulham,3.0,19.0,Adama Traore,Fulham
+2024-12-27,alexiwobi_fulham,3.0,20.0,Alex Iwobi,Fulham
+2024-12-27,declanrice_arsenal,3.0,21.0,Declan Rice,Arsenal
+2024-12-27,jeremydoku_manchestercity,3.0,22.0,Jeremy Doku,Manchester City
+2024-12-27,joaopedro_brighton,3.0,23.0,Joao Pedro,Brighton
+2024-12-27,morgangibbswhite_notthamforest,3.0,24.0,Morgan Gibbs-White,Nott'ham Forest
+2024-12-27,morganrogers_astonvilla,3.0,25.0,Morgan Rogers,Aston Villa
+2024-12-27,olliewatkins_astonvilla,3.0,26.0,Ollie Watkins,Aston Villa
+2024-12-27,rayanaitnouri_wolves,3.0,27.0,Rayan Ait-Nouri,Wolves
+2024-12-27,anthonyelanga_notthamforest,2.0,28.0,Anthony Elanga,Nott'ham Forest
+2024-12-27,bryanmbeumo_brentford,2.0,29.0,Bryan Mbeumo,Brentford
+2024-12-27,dominikszoboszlai_liverpool,2.0,30.0,Dominik Szoboszlai,Liverpool
+2024-12-27,eberechieze_crystalpalace,2.0,31.0,Eberechi Eze,Crystal Palace
+2024-12-27,jeanricnerbellegarde_wolves,2.0,32.0,Jean-Ricner Bellegarde,Wolves
+2024-12-27,justinkluivert_bournemouth,2.0,33.0,Justin Kluivert,Bournemouth
+2024-12-27,kevindebruyne_manchestercity,2.0,34.0,Kevin De Bruyne,Manchester City
+2024-12-27,leandrotrossard_arsenal,2.0,35.0,Leandro Trossard,Arsenal
+2024-12-27,martinodegaard_arsenal,2.0,36.0,Martin Odegaard,Arsenal
+2024-12-27,pedroporro_tottenham,2.0,37.0,Pedro Porro,Tottenham
+2024-12-27,savio_manchestercity,2.0,38.0,Savio,Manchester City
 2024-12-29,mohamedsalah_liverpool,13.0,1.0,Mohamed Salah,Liverpool
 2024-12-29,bukayosaka_arsenal,10.0,2.0,Bukayo Saka,Arsenal
 2024-12-29,antoneerobinson_fulham,7.0,3.0,Antonee Robinson,Fulham
@@ -1398,11 +1512,13 @@ date,player_team,value,rank,player,team
 2024-12-29,pedroporro_tottenham,3.0,29.0,Pedro Porro,Tottenham
 2024-12-29,savio_manchestercity,3.0,30.0,Savio,Manchester City
 2024-12-29,bryanmbeumo_brentford,2.0,31.0,Bryan Mbeumo,Brentford
-2024-12-29,eberechieze_crystalpalace,2.0,32.0,Eberechi Eze,Crystal Palace
-2024-12-29,jeanricnerbellegarde_wolves,2.0,33.0,Jean-Ricner Bellegarde,Wolves
-2024-12-29,justinkluivert_bournemouth,2.0,34.0,Justin Kluivert,Bournemouth
-2024-12-29,kevindebruyne_manchestercity,2.0,35.0,Kevin De Bruyne,Manchester City
-2024-12-29,martinodegaard_arsenal,2.0,36.0,Martin Odegaard,Arsenal
+2024-12-29,dominikszoboszlai_liverpool,2.0,32.0,Dominik Szoboszlai,Liverpool
+2024-12-29,eberechieze_crystalpalace,2.0,33.0,Eberechi Eze,Crystal Palace
+2024-12-29,jeanricnerbellegarde_wolves,2.0,34.0,Jean-Ricner Bellegarde,Wolves
+2024-12-29,justinkluivert_bournemouth,2.0,35.0,Justin Kluivert,Bournemouth
+2024-12-29,kevindebruyne_manchestercity,2.0,36.0,Kevin De Bruyne,Manchester City
+2024-12-29,leandrotrossard_arsenal,2.0,37.0,Leandro Trossard,Arsenal
+2024-12-29,martinodegaard_arsenal,2.0,38.0,Martin Odegaard,Arsenal
 2024-12-30,mohamedsalah_liverpool,13.0,1.0,Mohamed Salah,Liverpool
 2024-12-30,bukayosaka_arsenal,10.0,2.0,Bukayo Saka,Arsenal
 2024-12-30,antoneerobinson_fulham,7.0,3.0,Antonee Robinson,Fulham
@@ -1434,11 +1550,13 @@ date,player_team,value,rank,player,team
 2024-12-30,pedroporro_tottenham,3.0,29.0,Pedro Porro,Tottenham
 2024-12-30,savio_manchestercity,3.0,30.0,Savio,Manchester City
 2024-12-30,bryanmbeumo_brentford,2.0,31.0,Bryan Mbeumo,Brentford
-2024-12-30,eberechieze_crystalpalace,2.0,32.0,Eberechi Eze,Crystal Palace
-2024-12-30,jeanricnerbellegarde_wolves,2.0,33.0,Jean-Ricner Bellegarde,Wolves
-2024-12-30,justinkluivert_bournemouth,2.0,34.0,Justin Kluivert,Bournemouth
-2024-12-30,kevindebruyne_manchestercity,2.0,35.0,Kevin De Bruyne,Manchester City
-2024-12-30,martinodegaard_arsenal,2.0,36.0,Martin Odegaard,Arsenal
+2024-12-30,dominikszoboszlai_liverpool,2.0,32.0,Dominik Szoboszlai,Liverpool
+2024-12-30,eberechieze_crystalpalace,2.0,33.0,Eberechi Eze,Crystal Palace
+2024-12-30,jeanricnerbellegarde_wolves,2.0,34.0,Jean-Ricner Bellegarde,Wolves
+2024-12-30,justinkluivert_bournemouth,2.0,35.0,Justin Kluivert,Bournemouth
+2024-12-30,kevindebruyne_manchestercity,2.0,36.0,Kevin De Bruyne,Manchester City
+2024-12-30,leandrotrossard_arsenal,2.0,37.0,Leandro Trossard,Arsenal
+2024-12-30,martinodegaard_arsenal,2.0,38.0,Martin Odegaard,Arsenal
 2025-01-01,mohamedsalah_liverpool,13.0,1.0,Mohamed Salah,Liverpool
 2025-01-01,bukayosaka_arsenal,10.0,2.0,Bukayo Saka,Arsenal
 2025-01-01,antoneerobinson_fulham,7.0,3.0,Antonee Robinson,Fulham
@@ -1470,11 +1588,13 @@ date,player_team,value,rank,player,team
 2025-01-01,pedroporro_tottenham,3.0,29.0,Pedro Porro,Tottenham
 2025-01-01,savio_manchestercity,3.0,30.0,Savio,Manchester City
 2025-01-01,bryanmbeumo_brentford,2.0,31.0,Bryan Mbeumo,Brentford
-2025-01-01,eberechieze_crystalpalace,2.0,32.0,Eberechi Eze,Crystal Palace
-2025-01-01,jeanricnerbellegarde_wolves,2.0,33.0,Jean-Ricner Bellegarde,Wolves
-2025-01-01,justinkluivert_bournemouth,2.0,34.0,Justin Kluivert,Bournemouth
-2025-01-01,kevindebruyne_manchestercity,2.0,35.0,Kevin De Bruyne,Manchester City
-2025-01-01,martinodegaard_arsenal,2.0,36.0,Martin Odegaard,Arsenal
+2025-01-01,dominikszoboszlai_liverpool,2.0,32.0,Dominik Szoboszlai,Liverpool
+2025-01-01,eberechieze_crystalpalace,2.0,33.0,Eberechi Eze,Crystal Palace
+2025-01-01,jeanricnerbellegarde_wolves,2.0,34.0,Jean-Ricner Bellegarde,Wolves
+2025-01-01,justinkluivert_bournemouth,2.0,35.0,Justin Kluivert,Bournemouth
+2025-01-01,kevindebruyne_manchestercity,2.0,36.0,Kevin De Bruyne,Manchester City
+2025-01-01,leandrotrossard_arsenal,2.0,37.0,Leandro Trossard,Arsenal
+2025-01-01,martinodegaard_arsenal,2.0,38.0,Martin Odegaard,Arsenal
 2025-01-04,mohamedsalah_liverpool,13.0,1.0,Mohamed Salah,Liverpool
 2025-01-04,bukayosaka_arsenal,10.0,2.0,Bukayo Saka,Arsenal
 2025-01-04,antoneerobinson_fulham,7.0,3.0,Antonee Robinson,Fulham
@@ -1508,9 +1628,11 @@ date,player_team,value,rank,player,team
 2025-01-04,kevindebruyne_manchestercity,3.0,31.0,Kevin De Bruyne,Manchester City
 2025-01-04,morgangibbswhite_notthamforest,3.0,32.0,Morgan Gibbs-White,Nott'ham Forest
 2025-01-04,morganrogers_astonvilla,3.0,33.0,Morgan Rogers,Aston Villa
-2025-01-04,jeanricnerbellegarde_wolves,2.0,34.0,Jean-Ricner Bellegarde,Wolves
-2025-01-04,justinkluivert_bournemouth,2.0,35.0,Justin Kluivert,Bournemouth
-2025-01-04,martinodegaard_arsenal,2.0,36.0,Martin Odegaard,Arsenal
+2025-01-04,dominikszoboszlai_liverpool,2.0,34.0,Dominik Szoboszlai,Liverpool
+2025-01-04,jeanricnerbellegarde_wolves,2.0,35.0,Jean-Ricner Bellegarde,Wolves
+2025-01-04,justinkluivert_bournemouth,2.0,36.0,Justin Kluivert,Bournemouth
+2025-01-04,leandrotrossard_arsenal,2.0,37.0,Leandro Trossard,Arsenal
+2025-01-04,martinodegaard_arsenal,2.0,38.0,Martin Odegaard,Arsenal
 2025-01-05,mohamedsalah_liverpool,13.0,1.0,Mohamed Salah,Liverpool
 2025-01-05,bukayosaka_arsenal,10.0,2.0,Bukayo Saka,Arsenal
 2025-01-05,antoneerobinson_fulham,7.0,3.0,Antonee Robinson,Fulham
@@ -1544,9 +1666,11 @@ date,player_team,value,rank,player,team
 2025-01-05,kevindebruyne_manchestercity,3.0,31.0,Kevin De Bruyne,Manchester City
 2025-01-05,morgangibbswhite_notthamforest,3.0,32.0,Morgan Gibbs-White,Nott'ham Forest
 2025-01-05,morganrogers_astonvilla,3.0,33.0,Morgan Rogers,Aston Villa
-2025-01-05,jeanricnerbellegarde_wolves,2.0,34.0,Jean-Ricner Bellegarde,Wolves
-2025-01-05,justinkluivert_bournemouth,2.0,35.0,Justin Kluivert,Bournemouth
-2025-01-05,martinodegaard_arsenal,2.0,36.0,Martin Odegaard,Arsenal
+2025-01-05,dominikszoboszlai_liverpool,2.0,34.0,Dominik Szoboszlai,Liverpool
+2025-01-05,jeanricnerbellegarde_wolves,2.0,35.0,Jean-Ricner Bellegarde,Wolves
+2025-01-05,justinkluivert_bournemouth,2.0,36.0,Justin Kluivert,Bournemouth
+2025-01-05,leandrotrossard_arsenal,2.0,37.0,Leandro Trossard,Arsenal
+2025-01-05,martinodegaard_arsenal,2.0,38.0,Martin Odegaard,Arsenal
 2025-01-06,mohamedsalah_liverpool,13.0,1.0,Mohamed Salah,Liverpool
 2025-01-06,bukayosaka_arsenal,10.0,2.0,Bukayo Saka,Arsenal
 2025-01-06,antoneerobinson_fulham,7.0,3.0,Antonee Robinson,Fulham
@@ -1580,9 +1704,11 @@ date,player_team,value,rank,player,team
 2025-01-06,kevindebruyne_manchestercity,3.0,31.0,Kevin De Bruyne,Manchester City
 2025-01-06,morgangibbswhite_notthamforest,3.0,32.0,Morgan Gibbs-White,Nott'ham Forest
 2025-01-06,morganrogers_astonvilla,3.0,33.0,Morgan Rogers,Aston Villa
-2025-01-06,jeanricnerbellegarde_wolves,2.0,34.0,Jean-Ricner Bellegarde,Wolves
-2025-01-06,justinkluivert_bournemouth,2.0,35.0,Justin Kluivert,Bournemouth
-2025-01-06,martinodegaard_arsenal,2.0,36.0,Martin Odegaard,Arsenal
+2025-01-06,dominikszoboszlai_liverpool,2.0,34.0,Dominik Szoboszlai,Liverpool
+2025-01-06,jeanricnerbellegarde_wolves,2.0,35.0,Jean-Ricner Bellegarde,Wolves
+2025-01-06,justinkluivert_bournemouth,2.0,36.0,Justin Kluivert,Bournemouth
+2025-01-06,leandrotrossard_arsenal,2.0,37.0,Leandro Trossard,Arsenal
+2025-01-06,martinodegaard_arsenal,2.0,38.0,Martin Odegaard,Arsenal
 2025-01-14,mohamedsalah_liverpool,13.0,1.0,Mohamed Salah,Liverpool
 2025-01-14,bukayosaka_arsenal,10.0,2.0,Bukayo Saka,Arsenal
 2025-01-14,antoneerobinson_fulham,9.0,3.0,Antonee Robinson,Fulham
@@ -1616,9 +1742,11 @@ date,player_team,value,rank,player,team
 2025-01-14,jeremydoku_manchestercity,3.0,31.0,Jeremy Doku,Manchester City
 2025-01-14,morgangibbswhite_notthamforest,3.0,32.0,Morgan Gibbs-White,Nott'ham Forest
 2025-01-14,morganrogers_astonvilla,3.0,33.0,Morgan Rogers,Aston Villa
-2025-01-14,jeanricnerbellegarde_wolves,2.0,34.0,Jean-Ricner Bellegarde,Wolves
-2025-01-14,justinkluivert_bournemouth,2.0,35.0,Justin Kluivert,Bournemouth
-2025-01-14,martinodegaard_arsenal,2.0,36.0,Martin Odegaard,Arsenal
+2025-01-14,dominikszoboszlai_liverpool,2.0,34.0,Dominik Szoboszlai,Liverpool
+2025-01-14,jeanricnerbellegarde_wolves,2.0,35.0,Jean-Ricner Bellegarde,Wolves
+2025-01-14,justinkluivert_bournemouth,2.0,36.0,Justin Kluivert,Bournemouth
+2025-01-14,leandrotrossard_arsenal,2.0,37.0,Leandro Trossard,Arsenal
+2025-01-14,martinodegaard_arsenal,2.0,38.0,Martin Odegaard,Arsenal
 2025-01-15,mohamedsalah_liverpool,13.0,1.0,Mohamed Salah,Liverpool
 2025-01-15,bukayosaka_arsenal,10.0,2.0,Bukayo Saka,Arsenal
 2025-01-15,antoneerobinson_fulham,9.0,3.0,Antonee Robinson,Fulham
@@ -1653,8 +1781,10 @@ date,player_team,value,rank,player,team
 2025-01-15,jeremydoku_manchestercity,3.0,32.0,Jeremy Doku,Manchester City
 2025-01-15,martinodegaard_arsenal,3.0,33.0,Martin Odegaard,Arsenal
 2025-01-15,morgangibbswhite_notthamforest,3.0,34.0,Morgan Gibbs-White,Nott'ham Forest
-2025-01-15,jeanricnerbellegarde_wolves,2.0,35.0,Jean-Ricner Bellegarde,Wolves
-2025-01-15,justinkluivert_bournemouth,2.0,36.0,Justin Kluivert,Bournemouth
+2025-01-15,dominikszoboszlai_liverpool,2.0,35.0,Dominik Szoboszlai,Liverpool
+2025-01-15,jeanricnerbellegarde_wolves,2.0,36.0,Jean-Ricner Bellegarde,Wolves
+2025-01-15,justinkluivert_bournemouth,2.0,37.0,Justin Kluivert,Bournemouth
+2025-01-15,leandrotrossard_arsenal,2.0,38.0,Leandro Trossard,Arsenal
 2025-01-18,mohamedsalah_liverpool,13.0,1.0,Mohamed Salah,Liverpool
 2025-01-18,bukayosaka_arsenal,10.0,2.0,Bukayo Saka,Arsenal
 2025-01-18,antoneerobinson_fulham,9.0,3.0,Antonee Robinson,Fulham
@@ -1677,20 +1807,22 @@ date,player_team,value,rank,player,team
 2025-01-18,jamesmaddison_tottenham,4.0,20.0,James Maddison,Tottenham
 2025-01-18,jarrodbowen_westham,4.0,21.0,Jarrod Bowen,West Ham
 2025-01-18,kevindebruyne_manchestercity,4.0,22.0,Kevin De Bruyne,Manchester City
-2025-01-18,matheuscunha_wolves,4.0,23.0,Matheus Cunha,Wolves
-2025-01-18,morganrogers_astonvilla,4.0,24.0,Morgan Rogers,Aston Villa
-2025-01-18,olliewatkins_astonvilla,4.0,25.0,Ollie Watkins,Aston Villa
-2025-01-18,pedroporro_tottenham,4.0,26.0,Pedro Porro,Tottenham
-2025-01-18,youritielemans_astonvilla,4.0,27.0,Youri Tielemans,Aston Villa
-2025-01-18,adamatraore_fulham,3.0,28.0,Adama Traore,Fulham
-2025-01-18,alexiwobi_fulham,3.0,29.0,Alex Iwobi,Fulham
-2025-01-18,bryanmbeumo_brentford,3.0,30.0,Bryan Mbeumo,Brentford
-2025-01-18,declanrice_arsenal,3.0,31.0,Declan Rice,Arsenal
-2025-01-18,jeremydoku_manchestercity,3.0,32.0,Jeremy Doku,Manchester City
-2025-01-18,justinkluivert_bournemouth,3.0,33.0,Justin Kluivert,Bournemouth
-2025-01-18,martinodegaard_arsenal,3.0,34.0,Martin Odegaard,Arsenal
-2025-01-18,morgangibbswhite_notthamforest,3.0,35.0,Morgan Gibbs-White,Nott'ham Forest
-2025-01-18,jeanricnerbellegarde_wolves,2.0,36.0,Jean-Ricner Bellegarde,Wolves
+2025-01-18,leandrotrossard_arsenal,4.0,23.0,Leandro Trossard,Arsenal
+2025-01-18,matheuscunha_wolves,4.0,24.0,Matheus Cunha,Wolves
+2025-01-18,morganrogers_astonvilla,4.0,25.0,Morgan Rogers,Aston Villa
+2025-01-18,olliewatkins_astonvilla,4.0,26.0,Ollie Watkins,Aston Villa
+2025-01-18,pedroporro_tottenham,4.0,27.0,Pedro Porro,Tottenham
+2025-01-18,youritielemans_astonvilla,4.0,28.0,Youri Tielemans,Aston Villa
+2025-01-18,adamatraore_fulham,3.0,29.0,Adama Traore,Fulham
+2025-01-18,alexiwobi_fulham,3.0,30.0,Alex Iwobi,Fulham
+2025-01-18,bryanmbeumo_brentford,3.0,31.0,Bryan Mbeumo,Brentford
+2025-01-18,declanrice_arsenal,3.0,32.0,Declan Rice,Arsenal
+2025-01-18,jeremydoku_manchestercity,3.0,33.0,Jeremy Doku,Manchester City
+2025-01-18,justinkluivert_bournemouth,3.0,34.0,Justin Kluivert,Bournemouth
+2025-01-18,martinodegaard_arsenal,3.0,35.0,Martin Odegaard,Arsenal
+2025-01-18,morgangibbswhite_notthamforest,3.0,36.0,Morgan Gibbs-White,Nott'ham Forest
+2025-01-18,dominikszoboszlai_liverpool,2.0,37.0,Dominik Szoboszlai,Liverpool
+2025-01-18,jeanricnerbellegarde_wolves,2.0,38.0,Jean-Ricner Bellegarde,Wolves
 2025-01-19,mohamedsalah_liverpool,13.0,1.0,Mohamed Salah,Liverpool
 2025-01-19,bukayosaka_arsenal,10.0,2.0,Bukayo Saka,Arsenal
 2025-01-19,antoneerobinson_fulham,9.0,3.0,Antonee Robinson,Fulham
@@ -1714,19 +1846,21 @@ date,player_team,value,rank,player,team
 2025-01-19,jamesmaddison_tottenham,4.0,21.0,James Maddison,Tottenham
 2025-01-19,jarrodbowen_westham,4.0,22.0,Jarrod Bowen,West Ham
 2025-01-19,jeremydoku_manchestercity,4.0,23.0,Jeremy Doku,Manchester City
-2025-01-19,matheuscunha_wolves,4.0,24.0,Matheus Cunha,Wolves
-2025-01-19,morgangibbswhite_notthamforest,4.0,25.0,Morgan Gibbs-White,Nott'ham Forest
-2025-01-19,morganrogers_astonvilla,4.0,26.0,Morgan Rogers,Aston Villa
-2025-01-19,olliewatkins_astonvilla,4.0,27.0,Ollie Watkins,Aston Villa
-2025-01-19,pedroporro_tottenham,4.0,28.0,Pedro Porro,Tottenham
-2025-01-19,youritielemans_astonvilla,4.0,29.0,Youri Tielemans,Aston Villa
-2025-01-19,adamatraore_fulham,3.0,30.0,Adama Traore,Fulham
-2025-01-19,alexiwobi_fulham,3.0,31.0,Alex Iwobi,Fulham
-2025-01-19,bryanmbeumo_brentford,3.0,32.0,Bryan Mbeumo,Brentford
-2025-01-19,declanrice_arsenal,3.0,33.0,Declan Rice,Arsenal
-2025-01-19,justinkluivert_bournemouth,3.0,34.0,Justin Kluivert,Bournemouth
-2025-01-19,martinodegaard_arsenal,3.0,35.0,Martin Odegaard,Arsenal
-2025-01-19,jeanricnerbellegarde_wolves,2.0,36.0,Jean-Ricner Bellegarde,Wolves
+2025-01-19,leandrotrossard_arsenal,4.0,24.0,Leandro Trossard,Arsenal
+2025-01-19,matheuscunha_wolves,4.0,25.0,Matheus Cunha,Wolves
+2025-01-19,morgangibbswhite_notthamforest,4.0,26.0,Morgan Gibbs-White,Nott'ham Forest
+2025-01-19,morganrogers_astonvilla,4.0,27.0,Morgan Rogers,Aston Villa
+2025-01-19,olliewatkins_astonvilla,4.0,28.0,Ollie Watkins,Aston Villa
+2025-01-19,pedroporro_tottenham,4.0,29.0,Pedro Porro,Tottenham
+2025-01-19,youritielemans_astonvilla,4.0,30.0,Youri Tielemans,Aston Villa
+2025-01-19,adamatraore_fulham,3.0,31.0,Adama Traore,Fulham
+2025-01-19,alexiwobi_fulham,3.0,32.0,Alex Iwobi,Fulham
+2025-01-19,bryanmbeumo_brentford,3.0,33.0,Bryan Mbeumo,Brentford
+2025-01-19,declanrice_arsenal,3.0,34.0,Declan Rice,Arsenal
+2025-01-19,justinkluivert_bournemouth,3.0,35.0,Justin Kluivert,Bournemouth
+2025-01-19,martinodegaard_arsenal,3.0,36.0,Martin Odegaard,Arsenal
+2025-01-19,dominikszoboszlai_liverpool,2.0,37.0,Dominik Szoboszlai,Liverpool
+2025-01-19,jeanricnerbellegarde_wolves,2.0,38.0,Jean-Ricner Bellegarde,Wolves
 2025-01-25,mohamedsalah_liverpool,13.0,1.0,Mohamed Salah,Liverpool
 2025-01-25,bukayosaka_arsenal,10.0,2.0,Bukayo Saka,Arsenal
 2025-01-25,antoneerobinson_fulham,9.0,3.0,Antonee Robinson,Fulham
@@ -1751,18 +1885,20 @@ date,player_team,value,rank,player,team
 2025-01-25,jarrodbowen_westham,4.0,22.0,Jarrod Bowen,West Ham
 2025-01-25,jeremydoku_manchestercity,4.0,23.0,Jeremy Doku,Manchester City
 2025-01-25,justinkluivert_bournemouth,4.0,24.0,Justin Kluivert,Bournemouth
-2025-01-25,matheuscunha_wolves,4.0,25.0,Matheus Cunha,Wolves
-2025-01-25,morgangibbswhite_notthamforest,4.0,26.0,Morgan Gibbs-White,Nott'ham Forest
-2025-01-25,morganrogers_astonvilla,4.0,27.0,Morgan Rogers,Aston Villa
-2025-01-25,olliewatkins_astonvilla,4.0,28.0,Ollie Watkins,Aston Villa
-2025-01-25,pedroporro_tottenham,4.0,29.0,Pedro Porro,Tottenham
-2025-01-25,youritielemans_astonvilla,4.0,30.0,Youri Tielemans,Aston Villa
-2025-01-25,adamatraore_fulham,3.0,31.0,Adama Traore,Fulham
-2025-01-25,alexiwobi_fulham,3.0,32.0,Alex Iwobi,Fulham
-2025-01-25,bryanmbeumo_brentford,3.0,33.0,Bryan Mbeumo,Brentford
-2025-01-25,declanrice_arsenal,3.0,34.0,Declan Rice,Arsenal
-2025-01-25,martinodegaard_arsenal,3.0,35.0,Martin Odegaard,Arsenal
-2025-01-25,jeanricnerbellegarde_wolves,2.0,36.0,Jean-Ricner Bellegarde,Wolves
+2025-01-25,leandrotrossard_arsenal,4.0,25.0,Leandro Trossard,Arsenal
+2025-01-25,matheuscunha_wolves,4.0,26.0,Matheus Cunha,Wolves
+2025-01-25,morgangibbswhite_notthamforest,4.0,27.0,Morgan Gibbs-White,Nott'ham Forest
+2025-01-25,morganrogers_astonvilla,4.0,28.0,Morgan Rogers,Aston Villa
+2025-01-25,olliewatkins_astonvilla,4.0,29.0,Ollie Watkins,Aston Villa
+2025-01-25,pedroporro_tottenham,4.0,30.0,Pedro Porro,Tottenham
+2025-01-25,youritielemans_astonvilla,4.0,31.0,Youri Tielemans,Aston Villa
+2025-01-25,adamatraore_fulham,3.0,32.0,Adama Traore,Fulham
+2025-01-25,alexiwobi_fulham,3.0,33.0,Alex Iwobi,Fulham
+2025-01-25,bryanmbeumo_brentford,3.0,34.0,Bryan Mbeumo,Brentford
+2025-01-25,declanrice_arsenal,3.0,35.0,Declan Rice,Arsenal
+2025-01-25,martinodegaard_arsenal,3.0,36.0,Martin Odegaard,Arsenal
+2025-01-25,dominikszoboszlai_liverpool,2.0,37.0,Dominik Szoboszlai,Liverpool
+2025-01-25,jeanricnerbellegarde_wolves,2.0,38.0,Jean-Ricner Bellegarde,Wolves
 2025-01-26,mohamedsalah_liverpool,13.0,1.0,Mohamed Salah,Liverpool
 2025-01-26,bukayosaka_arsenal,10.0,2.0,Bukayo Saka,Arsenal
 2025-01-26,antoneerobinson_fulham,9.0,3.0,Antonee Robinson,Fulham
@@ -1789,16 +1925,18 @@ date,player_team,value,rank,player,team
 2025-01-26,jarrodbowen_westham,4.0,24.0,Jarrod Bowen,West Ham
 2025-01-26,jeremydoku_manchestercity,4.0,25.0,Jeremy Doku,Manchester City
 2025-01-26,justinkluivert_bournemouth,4.0,26.0,Justin Kluivert,Bournemouth
-2025-01-26,matheuscunha_wolves,4.0,27.0,Matheus Cunha,Wolves
-2025-01-26,morgangibbswhite_notthamforest,4.0,28.0,Morgan Gibbs-White,Nott'ham Forest
-2025-01-26,morganrogers_astonvilla,4.0,29.0,Morgan Rogers,Aston Villa
-2025-01-26,youritielemans_astonvilla,4.0,30.0,Youri Tielemans,Aston Villa
-2025-01-26,adamatraore_fulham,3.0,31.0,Adama Traore,Fulham
-2025-01-26,alexiwobi_fulham,3.0,32.0,Alex Iwobi,Fulham
-2025-01-26,bryanmbeumo_brentford,3.0,33.0,Bryan Mbeumo,Brentford
-2025-01-26,declanrice_arsenal,3.0,34.0,Declan Rice,Arsenal
-2025-01-26,martinodegaard_arsenal,3.0,35.0,Martin Odegaard,Arsenal
-2025-01-26,jeanricnerbellegarde_wolves,2.0,36.0,Jean-Ricner Bellegarde,Wolves
+2025-01-26,leandrotrossard_arsenal,4.0,27.0,Leandro Trossard,Arsenal
+2025-01-26,matheuscunha_wolves,4.0,28.0,Matheus Cunha,Wolves
+2025-01-26,morgangibbswhite_notthamforest,4.0,29.0,Morgan Gibbs-White,Nott'ham Forest
+2025-01-26,morganrogers_astonvilla,4.0,30.0,Morgan Rogers,Aston Villa
+2025-01-26,youritielemans_astonvilla,4.0,31.0,Youri Tielemans,Aston Villa
+2025-01-26,adamatraore_fulham,3.0,32.0,Adama Traore,Fulham
+2025-01-26,alexiwobi_fulham,3.0,33.0,Alex Iwobi,Fulham
+2025-01-26,bryanmbeumo_brentford,3.0,34.0,Bryan Mbeumo,Brentford
+2025-01-26,declanrice_arsenal,3.0,35.0,Declan Rice,Arsenal
+2025-01-26,martinodegaard_arsenal,3.0,36.0,Martin Odegaard,Arsenal
+2025-01-26,dominikszoboszlai_liverpool,2.0,37.0,Dominik Szoboszlai,Liverpool
+2025-01-26,jeanricnerbellegarde_wolves,2.0,38.0,Jean-Ricner Bellegarde,Wolves
 2025-02-01,mohamedsalah_liverpool,13.0,1.0,Mohamed Salah,Liverpool
 2025-02-01,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-02-01,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -1825,16 +1963,18 @@ date,player_team,value,rank,player,team
 2025-02-01,jarrodbowen_westham,4.0,24.0,Jarrod Bowen,West Ham
 2025-02-01,jeremydoku_manchestercity,4.0,25.0,Jeremy Doku,Manchester City
 2025-02-01,justinkluivert_bournemouth,4.0,26.0,Justin Kluivert,Bournemouth
-2025-02-01,matheuscunha_wolves,4.0,27.0,Matheus Cunha,Wolves
-2025-02-01,morgangibbswhite_notthamforest,4.0,28.0,Morgan Gibbs-White,Nott'ham Forest
-2025-02-01,morganrogers_astonvilla,4.0,29.0,Morgan Rogers,Aston Villa
-2025-02-01,youritielemans_astonvilla,4.0,30.0,Youri Tielemans,Aston Villa
-2025-02-01,adamatraore_fulham,3.0,31.0,Adama Traore,Fulham
-2025-02-01,alexiwobi_fulham,3.0,32.0,Alex Iwobi,Fulham
-2025-02-01,bryanmbeumo_brentford,3.0,33.0,Bryan Mbeumo,Brentford
-2025-02-01,declanrice_arsenal,3.0,34.0,Declan Rice,Arsenal
-2025-02-01,martinodegaard_arsenal,3.0,35.0,Martin Odegaard,Arsenal
-2025-02-01,jeanricnerbellegarde_wolves,2.0,36.0,Jean-Ricner Bellegarde,Wolves
+2025-02-01,leandrotrossard_arsenal,4.0,27.0,Leandro Trossard,Arsenal
+2025-02-01,matheuscunha_wolves,4.0,28.0,Matheus Cunha,Wolves
+2025-02-01,morgangibbswhite_notthamforest,4.0,29.0,Morgan Gibbs-White,Nott'ham Forest
+2025-02-01,morganrogers_astonvilla,4.0,30.0,Morgan Rogers,Aston Villa
+2025-02-01,youritielemans_astonvilla,4.0,31.0,Youri Tielemans,Aston Villa
+2025-02-01,adamatraore_fulham,3.0,32.0,Adama Traore,Fulham
+2025-02-01,alexiwobi_fulham,3.0,33.0,Alex Iwobi,Fulham
+2025-02-01,bryanmbeumo_brentford,3.0,34.0,Bryan Mbeumo,Brentford
+2025-02-01,declanrice_arsenal,3.0,35.0,Declan Rice,Arsenal
+2025-02-01,martinodegaard_arsenal,3.0,36.0,Martin Odegaard,Arsenal
+2025-02-01,dominikszoboszlai_liverpool,2.0,37.0,Dominik Szoboszlai,Liverpool
+2025-02-01,jeanricnerbellegarde_wolves,2.0,38.0,Jean-Ricner Bellegarde,Wolves
 2025-02-02,mohamedsalah_liverpool,13.0,1.0,Mohamed Salah,Liverpool
 2025-02-02,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-02-02,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -1862,15 +2002,17 @@ date,player_team,value,rank,player,team
 2025-02-02,jarrodbowen_westham,4.0,25.0,Jarrod Bowen,West Ham
 2025-02-02,jeremydoku_manchestercity,4.0,26.0,Jeremy Doku,Manchester City
 2025-02-02,justinkluivert_bournemouth,4.0,27.0,Justin Kluivert,Bournemouth
-2025-02-02,matheuscunha_wolves,4.0,28.0,Matheus Cunha,Wolves
-2025-02-02,morgangibbswhite_notthamforest,4.0,29.0,Morgan Gibbs-White,Nott'ham Forest
-2025-02-02,morganrogers_astonvilla,4.0,30.0,Morgan Rogers,Aston Villa
-2025-02-02,youritielemans_astonvilla,4.0,31.0,Youri Tielemans,Aston Villa
-2025-02-02,adamatraore_fulham,3.0,32.0,Adama Traore,Fulham
-2025-02-02,alexiwobi_fulham,3.0,33.0,Alex Iwobi,Fulham
-2025-02-02,bryanmbeumo_brentford,3.0,34.0,Bryan Mbeumo,Brentford
-2025-02-02,martinodegaard_arsenal,3.0,35.0,Martin Odegaard,Arsenal
-2025-02-02,jeanricnerbellegarde_wolves,2.0,36.0,Jean-Ricner Bellegarde,Wolves
+2025-02-02,leandrotrossard_arsenal,4.0,28.0,Leandro Trossard,Arsenal
+2025-02-02,matheuscunha_wolves,4.0,29.0,Matheus Cunha,Wolves
+2025-02-02,morgangibbswhite_notthamforest,4.0,30.0,Morgan Gibbs-White,Nott'ham Forest
+2025-02-02,morganrogers_astonvilla,4.0,31.0,Morgan Rogers,Aston Villa
+2025-02-02,youritielemans_astonvilla,4.0,32.0,Youri Tielemans,Aston Villa
+2025-02-02,adamatraore_fulham,3.0,33.0,Adama Traore,Fulham
+2025-02-02,alexiwobi_fulham,3.0,34.0,Alex Iwobi,Fulham
+2025-02-02,bryanmbeumo_brentford,3.0,35.0,Bryan Mbeumo,Brentford
+2025-02-02,martinodegaard_arsenal,3.0,36.0,Martin Odegaard,Arsenal
+2025-02-02,dominikszoboszlai_liverpool,2.0,37.0,Dominik Szoboszlai,Liverpool
+2025-02-02,jeanricnerbellegarde_wolves,2.0,38.0,Jean-Ricner Bellegarde,Wolves
 2025-02-12,mohamedsalah_liverpool,14.0,1.0,Mohamed Salah,Liverpool
 2025-02-12,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-02-12,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -1898,15 +2040,17 @@ date,player_team,value,rank,player,team
 2025-02-12,jarrodbowen_westham,4.0,25.0,Jarrod Bowen,West Ham
 2025-02-12,jeremydoku_manchestercity,4.0,26.0,Jeremy Doku,Manchester City
 2025-02-12,justinkluivert_bournemouth,4.0,27.0,Justin Kluivert,Bournemouth
-2025-02-12,matheuscunha_wolves,4.0,28.0,Matheus Cunha,Wolves
-2025-02-12,morgangibbswhite_notthamforest,4.0,29.0,Morgan Gibbs-White,Nott'ham Forest
-2025-02-12,morganrogers_astonvilla,4.0,30.0,Morgan Rogers,Aston Villa
-2025-02-12,youritielemans_astonvilla,4.0,31.0,Youri Tielemans,Aston Villa
-2025-02-12,adamatraore_fulham,3.0,32.0,Adama Traore,Fulham
-2025-02-12,alexiwobi_fulham,3.0,33.0,Alex Iwobi,Fulham
-2025-02-12,bryanmbeumo_brentford,3.0,34.0,Bryan Mbeumo,Brentford
-2025-02-12,martinodegaard_arsenal,3.0,35.0,Martin Odegaard,Arsenal
-2025-02-12,jeanricnerbellegarde_wolves,2.0,36.0,Jean-Ricner Bellegarde,Wolves
+2025-02-12,leandrotrossard_arsenal,4.0,28.0,Leandro Trossard,Arsenal
+2025-02-12,matheuscunha_wolves,4.0,29.0,Matheus Cunha,Wolves
+2025-02-12,morgangibbswhite_notthamforest,4.0,30.0,Morgan Gibbs-White,Nott'ham Forest
+2025-02-12,morganrogers_astonvilla,4.0,31.0,Morgan Rogers,Aston Villa
+2025-02-12,youritielemans_astonvilla,4.0,32.0,Youri Tielemans,Aston Villa
+2025-02-12,adamatraore_fulham,3.0,33.0,Adama Traore,Fulham
+2025-02-12,alexiwobi_fulham,3.0,34.0,Alex Iwobi,Fulham
+2025-02-12,bryanmbeumo_brentford,3.0,35.0,Bryan Mbeumo,Brentford
+2025-02-12,martinodegaard_arsenal,3.0,36.0,Martin Odegaard,Arsenal
+2025-02-12,dominikszoboszlai_liverpool,2.0,37.0,Dominik Szoboszlai,Liverpool
+2025-02-12,jeanricnerbellegarde_wolves,2.0,38.0,Jean-Ricner Bellegarde,Wolves
 2025-02-15,mohamedsalah_liverpool,14.0,1.0,Mohamed Salah,Liverpool
 2025-02-15,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-02-15,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -1927,22 +2071,24 @@ date,player_team,value,rank,player,team
 2025-02-15,elliotanderson_notthamforest,5.0,18.0,Elliot Anderson,Nott'ham Forest
 2025-02-15,joaopedro_brighton,5.0,19.0,Joao Pedro,Brighton
 2025-02-15,justinkluivert_bournemouth,5.0,20.0,Justin Kluivert,Bournemouth
-2025-02-15,morgangibbswhite_notthamforest,5.0,21.0,Morgan Gibbs-White,Nott'ham Forest
-2025-02-15,olliewatkins_astonvilla,5.0,22.0,Ollie Watkins,Aston Villa
-2025-02-15,pedroporro_tottenham,5.0,23.0,Pedro Porro,Tottenham
-2025-02-15,rayanaitnouri_wolves,5.0,24.0,Rayan Ait-Nouri,Wolves
-2025-02-15,adamatraore_fulham,4.0,25.0,Adama Traore,Fulham
-2025-02-15,enzofernandez_chelsea,4.0,26.0,Enzo Fernandez,Chelsea
-2025-02-15,jamesmaddison_tottenham,4.0,27.0,James Maddison,Tottenham
-2025-02-15,jarrodbowen_westham,4.0,28.0,Jarrod Bowen,West Ham
-2025-02-15,jeremydoku_manchestercity,4.0,29.0,Jeremy Doku,Manchester City
-2025-02-15,matheuscunha_wolves,4.0,30.0,Matheus Cunha,Wolves
-2025-02-15,morganrogers_astonvilla,4.0,31.0,Morgan Rogers,Aston Villa
-2025-02-15,youritielemans_astonvilla,4.0,32.0,Youri Tielemans,Aston Villa
-2025-02-15,alexiwobi_fulham,3.0,33.0,Alex Iwobi,Fulham
-2025-02-15,bryanmbeumo_brentford,3.0,34.0,Bryan Mbeumo,Brentford
-2025-02-15,martinodegaard_arsenal,3.0,35.0,Martin Odegaard,Arsenal
-2025-02-15,jeanricnerbellegarde_wolves,2.0,36.0,Jean-Ricner Bellegarde,Wolves
+2025-02-15,leandrotrossard_arsenal,5.0,21.0,Leandro Trossard,Arsenal
+2025-02-15,morgangibbswhite_notthamforest,5.0,22.0,Morgan Gibbs-White,Nott'ham Forest
+2025-02-15,olliewatkins_astonvilla,5.0,23.0,Ollie Watkins,Aston Villa
+2025-02-15,pedroporro_tottenham,5.0,24.0,Pedro Porro,Tottenham
+2025-02-15,rayanaitnouri_wolves,5.0,25.0,Rayan Ait-Nouri,Wolves
+2025-02-15,adamatraore_fulham,4.0,26.0,Adama Traore,Fulham
+2025-02-15,enzofernandez_chelsea,4.0,27.0,Enzo Fernandez,Chelsea
+2025-02-15,jamesmaddison_tottenham,4.0,28.0,James Maddison,Tottenham
+2025-02-15,jarrodbowen_westham,4.0,29.0,Jarrod Bowen,West Ham
+2025-02-15,jeremydoku_manchestercity,4.0,30.0,Jeremy Doku,Manchester City
+2025-02-15,matheuscunha_wolves,4.0,31.0,Matheus Cunha,Wolves
+2025-02-15,morganrogers_astonvilla,4.0,32.0,Morgan Rogers,Aston Villa
+2025-02-15,youritielemans_astonvilla,4.0,33.0,Youri Tielemans,Aston Villa
+2025-02-15,alexiwobi_fulham,3.0,34.0,Alex Iwobi,Fulham
+2025-02-15,bryanmbeumo_brentford,3.0,35.0,Bryan Mbeumo,Brentford
+2025-02-15,martinodegaard_arsenal,3.0,36.0,Martin Odegaard,Arsenal
+2025-02-15,dominikszoboszlai_liverpool,2.0,37.0,Dominik Szoboszlai,Liverpool
+2025-02-15,jeanricnerbellegarde_wolves,2.0,38.0,Jean-Ricner Bellegarde,Wolves
 2025-02-16,mohamedsalah_liverpool,14.0,1.0,Mohamed Salah,Liverpool
 2025-02-16,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-02-16,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -1963,22 +2109,24 @@ date,player_team,value,rank,player,team
 2025-02-16,elliotanderson_notthamforest,5.0,18.0,Elliot Anderson,Nott'ham Forest
 2025-02-16,joaopedro_brighton,5.0,19.0,Joao Pedro,Brighton
 2025-02-16,justinkluivert_bournemouth,5.0,20.0,Justin Kluivert,Bournemouth
-2025-02-16,morgangibbswhite_notthamforest,5.0,21.0,Morgan Gibbs-White,Nott'ham Forest
-2025-02-16,olliewatkins_astonvilla,5.0,22.0,Ollie Watkins,Aston Villa
-2025-02-16,pedroporro_tottenham,5.0,23.0,Pedro Porro,Tottenham
-2025-02-16,rayanaitnouri_wolves,5.0,24.0,Rayan Ait-Nouri,Wolves
-2025-02-16,adamatraore_fulham,4.0,25.0,Adama Traore,Fulham
-2025-02-16,enzofernandez_chelsea,4.0,26.0,Enzo Fernandez,Chelsea
-2025-02-16,jamesmaddison_tottenham,4.0,27.0,James Maddison,Tottenham
-2025-02-16,jarrodbowen_westham,4.0,28.0,Jarrod Bowen,West Ham
-2025-02-16,jeremydoku_manchestercity,4.0,29.0,Jeremy Doku,Manchester City
-2025-02-16,matheuscunha_wolves,4.0,30.0,Matheus Cunha,Wolves
-2025-02-16,morganrogers_astonvilla,4.0,31.0,Morgan Rogers,Aston Villa
-2025-02-16,youritielemans_astonvilla,4.0,32.0,Youri Tielemans,Aston Villa
-2025-02-16,alexiwobi_fulham,3.0,33.0,Alex Iwobi,Fulham
-2025-02-16,bryanmbeumo_brentford,3.0,34.0,Bryan Mbeumo,Brentford
-2025-02-16,jeanricnerbellegarde_wolves,3.0,35.0,Jean-Ricner Bellegarde,Wolves
-2025-02-16,martinodegaard_arsenal,3.0,36.0,Martin Odegaard,Arsenal
+2025-02-16,leandrotrossard_arsenal,5.0,21.0,Leandro Trossard,Arsenal
+2025-02-16,morgangibbswhite_notthamforest,5.0,22.0,Morgan Gibbs-White,Nott'ham Forest
+2025-02-16,olliewatkins_astonvilla,5.0,23.0,Ollie Watkins,Aston Villa
+2025-02-16,pedroporro_tottenham,5.0,24.0,Pedro Porro,Tottenham
+2025-02-16,rayanaitnouri_wolves,5.0,25.0,Rayan Ait-Nouri,Wolves
+2025-02-16,adamatraore_fulham,4.0,26.0,Adama Traore,Fulham
+2025-02-16,enzofernandez_chelsea,4.0,27.0,Enzo Fernandez,Chelsea
+2025-02-16,jamesmaddison_tottenham,4.0,28.0,James Maddison,Tottenham
+2025-02-16,jarrodbowen_westham,4.0,29.0,Jarrod Bowen,West Ham
+2025-02-16,jeremydoku_manchestercity,4.0,30.0,Jeremy Doku,Manchester City
+2025-02-16,matheuscunha_wolves,4.0,31.0,Matheus Cunha,Wolves
+2025-02-16,morganrogers_astonvilla,4.0,32.0,Morgan Rogers,Aston Villa
+2025-02-16,youritielemans_astonvilla,4.0,33.0,Youri Tielemans,Aston Villa
+2025-02-16,alexiwobi_fulham,3.0,34.0,Alex Iwobi,Fulham
+2025-02-16,bryanmbeumo_brentford,3.0,35.0,Bryan Mbeumo,Brentford
+2025-02-16,jeanricnerbellegarde_wolves,3.0,36.0,Jean-Ricner Bellegarde,Wolves
+2025-02-16,martinodegaard_arsenal,3.0,37.0,Martin Odegaard,Arsenal
+2025-02-16,dominikszoboszlai_liverpool,2.0,38.0,Dominik Szoboszlai,Liverpool
 2025-02-19,mohamedsalah_liverpool,15.0,1.0,Mohamed Salah,Liverpool
 2025-02-19,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-02-19,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -1999,22 +2147,24 @@ date,player_team,value,rank,player,team
 2025-02-19,elliotanderson_notthamforest,5.0,18.0,Elliot Anderson,Nott'ham Forest
 2025-02-19,joaopedro_brighton,5.0,19.0,Joao Pedro,Brighton
 2025-02-19,justinkluivert_bournemouth,5.0,20.0,Justin Kluivert,Bournemouth
-2025-02-19,morgangibbswhite_notthamforest,5.0,21.0,Morgan Gibbs-White,Nott'ham Forest
-2025-02-19,olliewatkins_astonvilla,5.0,22.0,Ollie Watkins,Aston Villa
-2025-02-19,pedroporro_tottenham,5.0,23.0,Pedro Porro,Tottenham
-2025-02-19,rayanaitnouri_wolves,5.0,24.0,Rayan Ait-Nouri,Wolves
-2025-02-19,adamatraore_fulham,4.0,25.0,Adama Traore,Fulham
-2025-02-19,enzofernandez_chelsea,4.0,26.0,Enzo Fernandez,Chelsea
-2025-02-19,jamesmaddison_tottenham,4.0,27.0,James Maddison,Tottenham
-2025-02-19,jarrodbowen_westham,4.0,28.0,Jarrod Bowen,West Ham
-2025-02-19,jeremydoku_manchestercity,4.0,29.0,Jeremy Doku,Manchester City
-2025-02-19,matheuscunha_wolves,4.0,30.0,Matheus Cunha,Wolves
-2025-02-19,morganrogers_astonvilla,4.0,31.0,Morgan Rogers,Aston Villa
-2025-02-19,youritielemans_astonvilla,4.0,32.0,Youri Tielemans,Aston Villa
-2025-02-19,alexiwobi_fulham,3.0,33.0,Alex Iwobi,Fulham
-2025-02-19,bryanmbeumo_brentford,3.0,34.0,Bryan Mbeumo,Brentford
-2025-02-19,jeanricnerbellegarde_wolves,3.0,35.0,Jean-Ricner Bellegarde,Wolves
-2025-02-19,martinodegaard_arsenal,3.0,36.0,Martin Odegaard,Arsenal
+2025-02-19,leandrotrossard_arsenal,5.0,21.0,Leandro Trossard,Arsenal
+2025-02-19,morgangibbswhite_notthamforest,5.0,22.0,Morgan Gibbs-White,Nott'ham Forest
+2025-02-19,olliewatkins_astonvilla,5.0,23.0,Ollie Watkins,Aston Villa
+2025-02-19,pedroporro_tottenham,5.0,24.0,Pedro Porro,Tottenham
+2025-02-19,rayanaitnouri_wolves,5.0,25.0,Rayan Ait-Nouri,Wolves
+2025-02-19,adamatraore_fulham,4.0,26.0,Adama Traore,Fulham
+2025-02-19,enzofernandez_chelsea,4.0,27.0,Enzo Fernandez,Chelsea
+2025-02-19,jamesmaddison_tottenham,4.0,28.0,James Maddison,Tottenham
+2025-02-19,jarrodbowen_westham,4.0,29.0,Jarrod Bowen,West Ham
+2025-02-19,jeremydoku_manchestercity,4.0,30.0,Jeremy Doku,Manchester City
+2025-02-19,matheuscunha_wolves,4.0,31.0,Matheus Cunha,Wolves
+2025-02-19,morganrogers_astonvilla,4.0,32.0,Morgan Rogers,Aston Villa
+2025-02-19,youritielemans_astonvilla,4.0,33.0,Youri Tielemans,Aston Villa
+2025-02-19,alexiwobi_fulham,3.0,34.0,Alex Iwobi,Fulham
+2025-02-19,bryanmbeumo_brentford,3.0,35.0,Bryan Mbeumo,Brentford
+2025-02-19,jeanricnerbellegarde_wolves,3.0,36.0,Jean-Ricner Bellegarde,Wolves
+2025-02-19,martinodegaard_arsenal,3.0,37.0,Martin Odegaard,Arsenal
+2025-02-19,dominikszoboszlai_liverpool,2.0,38.0,Dominik Szoboszlai,Liverpool
 2025-02-21,mohamedsalah_liverpool,15.0,1.0,Mohamed Salah,Liverpool
 2025-02-21,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-02-21,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -2035,22 +2185,24 @@ date,player_team,value,rank,player,team
 2025-02-21,elliotanderson_notthamforest,5.0,18.0,Elliot Anderson,Nott'ham Forest
 2025-02-21,joaopedro_brighton,5.0,19.0,Joao Pedro,Brighton
 2025-02-21,justinkluivert_bournemouth,5.0,20.0,Justin Kluivert,Bournemouth
-2025-02-21,morgangibbswhite_notthamforest,5.0,21.0,Morgan Gibbs-White,Nott'ham Forest
-2025-02-21,olliewatkins_astonvilla,5.0,22.0,Ollie Watkins,Aston Villa
-2025-02-21,pedroporro_tottenham,5.0,23.0,Pedro Porro,Tottenham
-2025-02-21,rayanaitnouri_wolves,5.0,24.0,Rayan Ait-Nouri,Wolves
-2025-02-21,adamatraore_fulham,4.0,25.0,Adama Traore,Fulham
-2025-02-21,bryanmbeumo_brentford,4.0,26.0,Bryan Mbeumo,Brentford
-2025-02-21,enzofernandez_chelsea,4.0,27.0,Enzo Fernandez,Chelsea
-2025-02-21,jamesmaddison_tottenham,4.0,28.0,James Maddison,Tottenham
-2025-02-21,jarrodbowen_westham,4.0,29.0,Jarrod Bowen,West Ham
-2025-02-21,jeremydoku_manchestercity,4.0,30.0,Jeremy Doku,Manchester City
-2025-02-21,matheuscunha_wolves,4.0,31.0,Matheus Cunha,Wolves
-2025-02-21,morganrogers_astonvilla,4.0,32.0,Morgan Rogers,Aston Villa
-2025-02-21,youritielemans_astonvilla,4.0,33.0,Youri Tielemans,Aston Villa
-2025-02-21,alexiwobi_fulham,3.0,34.0,Alex Iwobi,Fulham
-2025-02-21,jeanricnerbellegarde_wolves,3.0,35.0,Jean-Ricner Bellegarde,Wolves
-2025-02-21,martinodegaard_arsenal,3.0,36.0,Martin Odegaard,Arsenal
+2025-02-21,leandrotrossard_arsenal,5.0,21.0,Leandro Trossard,Arsenal
+2025-02-21,morgangibbswhite_notthamforest,5.0,22.0,Morgan Gibbs-White,Nott'ham Forest
+2025-02-21,olliewatkins_astonvilla,5.0,23.0,Ollie Watkins,Aston Villa
+2025-02-21,pedroporro_tottenham,5.0,24.0,Pedro Porro,Tottenham
+2025-02-21,rayanaitnouri_wolves,5.0,25.0,Rayan Ait-Nouri,Wolves
+2025-02-21,adamatraore_fulham,4.0,26.0,Adama Traore,Fulham
+2025-02-21,bryanmbeumo_brentford,4.0,27.0,Bryan Mbeumo,Brentford
+2025-02-21,enzofernandez_chelsea,4.0,28.0,Enzo Fernandez,Chelsea
+2025-02-21,jamesmaddison_tottenham,4.0,29.0,James Maddison,Tottenham
+2025-02-21,jarrodbowen_westham,4.0,30.0,Jarrod Bowen,West Ham
+2025-02-21,jeremydoku_manchestercity,4.0,31.0,Jeremy Doku,Manchester City
+2025-02-21,matheuscunha_wolves,4.0,32.0,Matheus Cunha,Wolves
+2025-02-21,morganrogers_astonvilla,4.0,33.0,Morgan Rogers,Aston Villa
+2025-02-21,youritielemans_astonvilla,4.0,34.0,Youri Tielemans,Aston Villa
+2025-02-21,alexiwobi_fulham,3.0,35.0,Alex Iwobi,Fulham
+2025-02-21,jeanricnerbellegarde_wolves,3.0,36.0,Jean-Ricner Bellegarde,Wolves
+2025-02-21,martinodegaard_arsenal,3.0,37.0,Martin Odegaard,Arsenal
+2025-02-21,dominikszoboszlai_liverpool,2.0,38.0,Dominik Szoboszlai,Liverpool
 2025-02-22,mohamedsalah_liverpool,15.0,1.0,Mohamed Salah,Liverpool
 2025-02-22,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-02-22,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -2072,21 +2224,23 @@ date,player_team,value,rank,player,team
 2025-02-22,elliotanderson_notthamforest,5.0,19.0,Elliot Anderson,Nott'ham Forest
 2025-02-22,jamesmaddison_tottenham,5.0,20.0,James Maddison,Tottenham
 2025-02-22,justinkluivert_bournemouth,5.0,21.0,Justin Kluivert,Bournemouth
-2025-02-22,morgangibbswhite_notthamforest,5.0,22.0,Morgan Gibbs-White,Nott'ham Forest
-2025-02-22,olliewatkins_astonvilla,5.0,23.0,Ollie Watkins,Aston Villa
-2025-02-22,pedroporro_tottenham,5.0,24.0,Pedro Porro,Tottenham
-2025-02-22,rayanaitnouri_wolves,5.0,25.0,Rayan Ait-Nouri,Wolves
-2025-02-22,adamatraore_fulham,4.0,26.0,Adama Traore,Fulham
-2025-02-22,bryanmbeumo_brentford,4.0,27.0,Bryan Mbeumo,Brentford
-2025-02-22,enzofernandez_chelsea,4.0,28.0,Enzo Fernandez,Chelsea
-2025-02-22,jarrodbowen_westham,4.0,29.0,Jarrod Bowen,West Ham
-2025-02-22,jeremydoku_manchestercity,4.0,30.0,Jeremy Doku,Manchester City
-2025-02-22,matheuscunha_wolves,4.0,31.0,Matheus Cunha,Wolves
-2025-02-22,morganrogers_astonvilla,4.0,32.0,Morgan Rogers,Aston Villa
-2025-02-22,youritielemans_astonvilla,4.0,33.0,Youri Tielemans,Aston Villa
-2025-02-22,alexiwobi_fulham,3.0,34.0,Alex Iwobi,Fulham
-2025-02-22,jeanricnerbellegarde_wolves,3.0,35.0,Jean-Ricner Bellegarde,Wolves
-2025-02-22,martinodegaard_arsenal,3.0,36.0,Martin Odegaard,Arsenal
+2025-02-22,leandrotrossard_arsenal,5.0,22.0,Leandro Trossard,Arsenal
+2025-02-22,morgangibbswhite_notthamforest,5.0,23.0,Morgan Gibbs-White,Nott'ham Forest
+2025-02-22,olliewatkins_astonvilla,5.0,24.0,Ollie Watkins,Aston Villa
+2025-02-22,pedroporro_tottenham,5.0,25.0,Pedro Porro,Tottenham
+2025-02-22,rayanaitnouri_wolves,5.0,26.0,Rayan Ait-Nouri,Wolves
+2025-02-22,adamatraore_fulham,4.0,27.0,Adama Traore,Fulham
+2025-02-22,bryanmbeumo_brentford,4.0,28.0,Bryan Mbeumo,Brentford
+2025-02-22,enzofernandez_chelsea,4.0,29.0,Enzo Fernandez,Chelsea
+2025-02-22,jarrodbowen_westham,4.0,30.0,Jarrod Bowen,West Ham
+2025-02-22,jeremydoku_manchestercity,4.0,31.0,Jeremy Doku,Manchester City
+2025-02-22,matheuscunha_wolves,4.0,32.0,Matheus Cunha,Wolves
+2025-02-22,morganrogers_astonvilla,4.0,33.0,Morgan Rogers,Aston Villa
+2025-02-22,youritielemans_astonvilla,4.0,34.0,Youri Tielemans,Aston Villa
+2025-02-22,alexiwobi_fulham,3.0,35.0,Alex Iwobi,Fulham
+2025-02-22,jeanricnerbellegarde_wolves,3.0,36.0,Jean-Ricner Bellegarde,Wolves
+2025-02-22,martinodegaard_arsenal,3.0,37.0,Martin Odegaard,Arsenal
+2025-02-22,dominikszoboszlai_liverpool,2.0,38.0,Dominik Szoboszlai,Liverpool
 2025-02-23,mohamedsalah_liverpool,16.0,1.0,Mohamed Salah,Liverpool
 2025-02-23,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-02-23,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -2108,21 +2262,23 @@ date,player_team,value,rank,player,team
 2025-02-23,elliotanderson_notthamforest,5.0,19.0,Elliot Anderson,Nott'ham Forest
 2025-02-23,jamesmaddison_tottenham,5.0,20.0,James Maddison,Tottenham
 2025-02-23,justinkluivert_bournemouth,5.0,21.0,Justin Kluivert,Bournemouth
-2025-02-23,morgangibbswhite_notthamforest,5.0,22.0,Morgan Gibbs-White,Nott'ham Forest
-2025-02-23,olliewatkins_astonvilla,5.0,23.0,Ollie Watkins,Aston Villa
-2025-02-23,pedroporro_tottenham,5.0,24.0,Pedro Porro,Tottenham
-2025-02-23,rayanaitnouri_wolves,5.0,25.0,Rayan Ait-Nouri,Wolves
-2025-02-23,adamatraore_fulham,4.0,26.0,Adama Traore,Fulham
-2025-02-23,bryanmbeumo_brentford,4.0,27.0,Bryan Mbeumo,Brentford
-2025-02-23,enzofernandez_chelsea,4.0,28.0,Enzo Fernandez,Chelsea
-2025-02-23,jarrodbowen_westham,4.0,29.0,Jarrod Bowen,West Ham
-2025-02-23,jeremydoku_manchestercity,4.0,30.0,Jeremy Doku,Manchester City
-2025-02-23,matheuscunha_wolves,4.0,31.0,Matheus Cunha,Wolves
-2025-02-23,morganrogers_astonvilla,4.0,32.0,Morgan Rogers,Aston Villa
-2025-02-23,youritielemans_astonvilla,4.0,33.0,Youri Tielemans,Aston Villa
-2025-02-23,alexiwobi_fulham,3.0,34.0,Alex Iwobi,Fulham
-2025-02-23,jeanricnerbellegarde_wolves,3.0,35.0,Jean-Ricner Bellegarde,Wolves
-2025-02-23,martinodegaard_arsenal,3.0,36.0,Martin Odegaard,Arsenal
+2025-02-23,leandrotrossard_arsenal,5.0,22.0,Leandro Trossard,Arsenal
+2025-02-23,morgangibbswhite_notthamforest,5.0,23.0,Morgan Gibbs-White,Nott'ham Forest
+2025-02-23,olliewatkins_astonvilla,5.0,24.0,Ollie Watkins,Aston Villa
+2025-02-23,pedroporro_tottenham,5.0,25.0,Pedro Porro,Tottenham
+2025-02-23,rayanaitnouri_wolves,5.0,26.0,Rayan Ait-Nouri,Wolves
+2025-02-23,adamatraore_fulham,4.0,27.0,Adama Traore,Fulham
+2025-02-23,bryanmbeumo_brentford,4.0,28.0,Bryan Mbeumo,Brentford
+2025-02-23,enzofernandez_chelsea,4.0,29.0,Enzo Fernandez,Chelsea
+2025-02-23,jarrodbowen_westham,4.0,30.0,Jarrod Bowen,West Ham
+2025-02-23,jeremydoku_manchestercity,4.0,31.0,Jeremy Doku,Manchester City
+2025-02-23,matheuscunha_wolves,4.0,32.0,Matheus Cunha,Wolves
+2025-02-23,morganrogers_astonvilla,4.0,33.0,Morgan Rogers,Aston Villa
+2025-02-23,youritielemans_astonvilla,4.0,34.0,Youri Tielemans,Aston Villa
+2025-02-23,alexiwobi_fulham,3.0,35.0,Alex Iwobi,Fulham
+2025-02-23,dominikszoboszlai_liverpool,3.0,36.0,Dominik Szoboszlai,Liverpool
+2025-02-23,jeanricnerbellegarde_wolves,3.0,37.0,Jean-Ricner Bellegarde,Wolves
+2025-02-23,martinodegaard_arsenal,3.0,38.0,Martin Odegaard,Arsenal
 2025-02-25,mohamedsalah_liverpool,16.0,1.0,Mohamed Salah,Liverpool
 2025-02-25,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-02-25,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -2146,19 +2302,21 @@ date,player_team,value,rank,player,team
 2025-02-25,elliotanderson_notthamforest,5.0,21.0,Elliot Anderson,Nott'ham Forest
 2025-02-25,jamesmaddison_tottenham,5.0,22.0,James Maddison,Tottenham
 2025-02-25,justinkluivert_bournemouth,5.0,23.0,Justin Kluivert,Bournemouth
-2025-02-25,morgangibbswhite_notthamforest,5.0,24.0,Morgan Gibbs-White,Nott'ham Forest
-2025-02-25,pedroporro_tottenham,5.0,25.0,Pedro Porro,Tottenham
-2025-02-25,rayanaitnouri_wolves,5.0,26.0,Rayan Ait-Nouri,Wolves
-2025-02-25,bryanmbeumo_brentford,4.0,27.0,Bryan Mbeumo,Brentford
-2025-02-25,enzofernandez_chelsea,4.0,28.0,Enzo Fernandez,Chelsea
-2025-02-25,jarrodbowen_westham,4.0,29.0,Jarrod Bowen,West Ham
-2025-02-25,jeremydoku_manchestercity,4.0,30.0,Jeremy Doku,Manchester City
-2025-02-25,matheuscunha_wolves,4.0,31.0,Matheus Cunha,Wolves
-2025-02-25,morganrogers_astonvilla,4.0,32.0,Morgan Rogers,Aston Villa
-2025-02-25,youritielemans_astonvilla,4.0,33.0,Youri Tielemans,Aston Villa
-2025-02-25,alexiwobi_fulham,3.0,34.0,Alex Iwobi,Fulham
-2025-02-25,jeanricnerbellegarde_wolves,3.0,35.0,Jean-Ricner Bellegarde,Wolves
-2025-02-25,martinodegaard_arsenal,3.0,36.0,Martin Odegaard,Arsenal
+2025-02-25,leandrotrossard_arsenal,5.0,24.0,Leandro Trossard,Arsenal
+2025-02-25,morgangibbswhite_notthamforest,5.0,25.0,Morgan Gibbs-White,Nott'ham Forest
+2025-02-25,pedroporro_tottenham,5.0,26.0,Pedro Porro,Tottenham
+2025-02-25,rayanaitnouri_wolves,5.0,27.0,Rayan Ait-Nouri,Wolves
+2025-02-25,bryanmbeumo_brentford,4.0,28.0,Bryan Mbeumo,Brentford
+2025-02-25,enzofernandez_chelsea,4.0,29.0,Enzo Fernandez,Chelsea
+2025-02-25,jarrodbowen_westham,4.0,30.0,Jarrod Bowen,West Ham
+2025-02-25,jeremydoku_manchestercity,4.0,31.0,Jeremy Doku,Manchester City
+2025-02-25,matheuscunha_wolves,4.0,32.0,Matheus Cunha,Wolves
+2025-02-25,morganrogers_astonvilla,4.0,33.0,Morgan Rogers,Aston Villa
+2025-02-25,youritielemans_astonvilla,4.0,34.0,Youri Tielemans,Aston Villa
+2025-02-25,alexiwobi_fulham,3.0,35.0,Alex Iwobi,Fulham
+2025-02-25,dominikszoboszlai_liverpool,3.0,36.0,Dominik Szoboszlai,Liverpool
+2025-02-25,jeanricnerbellegarde_wolves,3.0,37.0,Jean-Ricner Bellegarde,Wolves
+2025-02-25,martinodegaard_arsenal,3.0,38.0,Martin Odegaard,Arsenal
 2025-02-26,mohamedsalah_liverpool,17.0,1.0,Mohamed Salah,Liverpool
 2025-02-26,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-02-26,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -2182,19 +2340,21 @@ date,player_team,value,rank,player,team
 2025-02-26,elliotanderson_notthamforest,5.0,21.0,Elliot Anderson,Nott'ham Forest
 2025-02-26,jamesmaddison_tottenham,5.0,22.0,James Maddison,Tottenham
 2025-02-26,justinkluivert_bournemouth,5.0,23.0,Justin Kluivert,Bournemouth
-2025-02-26,morgangibbswhite_notthamforest,5.0,24.0,Morgan Gibbs-White,Nott'ham Forest
-2025-02-26,pedroporro_tottenham,5.0,25.0,Pedro Porro,Tottenham
-2025-02-26,rayanaitnouri_wolves,5.0,26.0,Rayan Ait-Nouri,Wolves
-2025-02-26,bryanmbeumo_brentford,4.0,27.0,Bryan Mbeumo,Brentford
-2025-02-26,enzofernandez_chelsea,4.0,28.0,Enzo Fernandez,Chelsea
-2025-02-26,jarrodbowen_westham,4.0,29.0,Jarrod Bowen,West Ham
-2025-02-26,jeremydoku_manchestercity,4.0,30.0,Jeremy Doku,Manchester City
-2025-02-26,matheuscunha_wolves,4.0,31.0,Matheus Cunha,Wolves
-2025-02-26,morganrogers_astonvilla,4.0,32.0,Morgan Rogers,Aston Villa
-2025-02-26,youritielemans_astonvilla,4.0,33.0,Youri Tielemans,Aston Villa
-2025-02-26,alexiwobi_fulham,3.0,34.0,Alex Iwobi,Fulham
-2025-02-26,jeanricnerbellegarde_wolves,3.0,35.0,Jean-Ricner Bellegarde,Wolves
-2025-02-26,martinodegaard_arsenal,3.0,36.0,Martin Odegaard,Arsenal
+2025-02-26,leandrotrossard_arsenal,5.0,24.0,Leandro Trossard,Arsenal
+2025-02-26,morgangibbswhite_notthamforest,5.0,25.0,Morgan Gibbs-White,Nott'ham Forest
+2025-02-26,pedroporro_tottenham,5.0,26.0,Pedro Porro,Tottenham
+2025-02-26,rayanaitnouri_wolves,5.0,27.0,Rayan Ait-Nouri,Wolves
+2025-02-26,bryanmbeumo_brentford,4.0,28.0,Bryan Mbeumo,Brentford
+2025-02-26,enzofernandez_chelsea,4.0,29.0,Enzo Fernandez,Chelsea
+2025-02-26,jarrodbowen_westham,4.0,30.0,Jarrod Bowen,West Ham
+2025-02-26,jeremydoku_manchestercity,4.0,31.0,Jeremy Doku,Manchester City
+2025-02-26,matheuscunha_wolves,4.0,32.0,Matheus Cunha,Wolves
+2025-02-26,morganrogers_astonvilla,4.0,33.0,Morgan Rogers,Aston Villa
+2025-02-26,youritielemans_astonvilla,4.0,34.0,Youri Tielemans,Aston Villa
+2025-02-26,alexiwobi_fulham,3.0,35.0,Alex Iwobi,Fulham
+2025-02-26,dominikszoboszlai_liverpool,3.0,36.0,Dominik Szoboszlai,Liverpool
+2025-02-26,jeanricnerbellegarde_wolves,3.0,37.0,Jean-Ricner Bellegarde,Wolves
+2025-02-26,martinodegaard_arsenal,3.0,38.0,Martin Odegaard,Arsenal
 2025-03-08,mohamedsalah_liverpool,17.0,1.0,Mohamed Salah,Liverpool
 2025-03-08,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-03-08,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -2219,18 +2379,20 @@ date,player_team,value,rank,player,team
 2025-03-08,elliotanderson_notthamforest,5.0,22.0,Elliot Anderson,Nott'ham Forest
 2025-03-08,jamesmaddison_tottenham,5.0,23.0,James Maddison,Tottenham
 2025-03-08,justinkluivert_bournemouth,5.0,24.0,Justin Kluivert,Bournemouth
-2025-03-08,pedroporro_tottenham,5.0,25.0,Pedro Porro,Tottenham
-2025-03-08,rayanaitnouri_wolves,5.0,26.0,Rayan Ait-Nouri,Wolves
-2025-03-08,alexiwobi_fulham,4.0,27.0,Alex Iwobi,Fulham
-2025-03-08,bryanmbeumo_brentford,4.0,28.0,Bryan Mbeumo,Brentford
-2025-03-08,enzofernandez_chelsea,4.0,29.0,Enzo Fernandez,Chelsea
-2025-03-08,jarrodbowen_westham,4.0,30.0,Jarrod Bowen,West Ham
-2025-03-08,jeanricnerbellegarde_wolves,4.0,31.0,Jean-Ricner Bellegarde,Wolves
-2025-03-08,jeremydoku_manchestercity,4.0,32.0,Jeremy Doku,Manchester City
-2025-03-08,matheuscunha_wolves,4.0,33.0,Matheus Cunha,Wolves
-2025-03-08,morganrogers_astonvilla,4.0,34.0,Morgan Rogers,Aston Villa
-2025-03-08,youritielemans_astonvilla,4.0,35.0,Youri Tielemans,Aston Villa
-2025-03-08,martinodegaard_arsenal,3.0,36.0,Martin Odegaard,Arsenal
+2025-03-08,leandrotrossard_arsenal,5.0,25.0,Leandro Trossard,Arsenal
+2025-03-08,pedroporro_tottenham,5.0,26.0,Pedro Porro,Tottenham
+2025-03-08,rayanaitnouri_wolves,5.0,27.0,Rayan Ait-Nouri,Wolves
+2025-03-08,alexiwobi_fulham,4.0,28.0,Alex Iwobi,Fulham
+2025-03-08,bryanmbeumo_brentford,4.0,29.0,Bryan Mbeumo,Brentford
+2025-03-08,enzofernandez_chelsea,4.0,30.0,Enzo Fernandez,Chelsea
+2025-03-08,jarrodbowen_westham,4.0,31.0,Jarrod Bowen,West Ham
+2025-03-08,jeanricnerbellegarde_wolves,4.0,32.0,Jean-Ricner Bellegarde,Wolves
+2025-03-08,jeremydoku_manchestercity,4.0,33.0,Jeremy Doku,Manchester City
+2025-03-08,matheuscunha_wolves,4.0,34.0,Matheus Cunha,Wolves
+2025-03-08,morganrogers_astonvilla,4.0,35.0,Morgan Rogers,Aston Villa
+2025-03-08,youritielemans_astonvilla,4.0,36.0,Youri Tielemans,Aston Villa
+2025-03-08,dominikszoboszlai_liverpool,3.0,37.0,Dominik Szoboszlai,Liverpool
+2025-03-08,martinodegaard_arsenal,3.0,38.0,Martin Odegaard,Arsenal
 2025-03-09,mohamedsalah_liverpool,17.0,1.0,Mohamed Salah,Liverpool
 2025-03-09,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-03-09,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -2256,17 +2418,19 @@ date,player_team,value,rank,player,team
 2025-03-09,elliotanderson_notthamforest,5.0,23.0,Elliot Anderson,Nott'ham Forest
 2025-03-09,enzofernandez_chelsea,5.0,24.0,Enzo Fernandez,Chelsea
 2025-03-09,jamesmaddison_tottenham,5.0,25.0,James Maddison,Tottenham
-2025-03-09,pedroporro_tottenham,5.0,26.0,Pedro Porro,Tottenham
-2025-03-09,rayanaitnouri_wolves,5.0,27.0,Rayan Ait-Nouri,Wolves
-2025-03-09,alexiwobi_fulham,4.0,28.0,Alex Iwobi,Fulham
-2025-03-09,bryanmbeumo_brentford,4.0,29.0,Bryan Mbeumo,Brentford
-2025-03-09,jarrodbowen_westham,4.0,30.0,Jarrod Bowen,West Ham
-2025-03-09,jeanricnerbellegarde_wolves,4.0,31.0,Jean-Ricner Bellegarde,Wolves
-2025-03-09,jeremydoku_manchestercity,4.0,32.0,Jeremy Doku,Manchester City
-2025-03-09,matheuscunha_wolves,4.0,33.0,Matheus Cunha,Wolves
-2025-03-09,morganrogers_astonvilla,4.0,34.0,Morgan Rogers,Aston Villa
-2025-03-09,youritielemans_astonvilla,4.0,35.0,Youri Tielemans,Aston Villa
-2025-03-09,martinodegaard_arsenal,3.0,36.0,Martin Odegaard,Arsenal
+2025-03-09,leandrotrossard_arsenal,5.0,26.0,Leandro Trossard,Arsenal
+2025-03-09,pedroporro_tottenham,5.0,27.0,Pedro Porro,Tottenham
+2025-03-09,rayanaitnouri_wolves,5.0,28.0,Rayan Ait-Nouri,Wolves
+2025-03-09,alexiwobi_fulham,4.0,29.0,Alex Iwobi,Fulham
+2025-03-09,bryanmbeumo_brentford,4.0,30.0,Bryan Mbeumo,Brentford
+2025-03-09,jarrodbowen_westham,4.0,31.0,Jarrod Bowen,West Ham
+2025-03-09,jeanricnerbellegarde_wolves,4.0,32.0,Jean-Ricner Bellegarde,Wolves
+2025-03-09,jeremydoku_manchestercity,4.0,33.0,Jeremy Doku,Manchester City
+2025-03-09,matheuscunha_wolves,4.0,34.0,Matheus Cunha,Wolves
+2025-03-09,morganrogers_astonvilla,4.0,35.0,Morgan Rogers,Aston Villa
+2025-03-09,youritielemans_astonvilla,4.0,36.0,Youri Tielemans,Aston Villa
+2025-03-09,dominikszoboszlai_liverpool,3.0,37.0,Dominik Szoboszlai,Liverpool
+2025-03-09,martinodegaard_arsenal,3.0,38.0,Martin Odegaard,Arsenal
 2025-03-15,mohamedsalah_liverpool,17.0,1.0,Mohamed Salah,Liverpool
 2025-03-15,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-03-15,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -2295,14 +2459,16 @@ date,player_team,value,rank,player,team
 2025-03-15,enzofernandez_chelsea,5.0,26.0,Enzo Fernandez,Chelsea
 2025-03-15,jamesmaddison_tottenham,5.0,27.0,James Maddison,Tottenham
 2025-03-15,jarrodbowen_westham,5.0,28.0,Jarrod Bowen,West Ham
-2025-03-15,pedroporro_tottenham,5.0,29.0,Pedro Porro,Tottenham
-2025-03-15,rayanaitnouri_wolves,5.0,30.0,Rayan Ait-Nouri,Wolves
-2025-03-15,alexiwobi_fulham,4.0,31.0,Alex Iwobi,Fulham
-2025-03-15,jeremydoku_manchestercity,4.0,32.0,Jeremy Doku,Manchester City
-2025-03-15,matheuscunha_wolves,4.0,33.0,Matheus Cunha,Wolves
-2025-03-15,morganrogers_astonvilla,4.0,34.0,Morgan Rogers,Aston Villa
-2025-03-15,youritielemans_astonvilla,4.0,35.0,Youri Tielemans,Aston Villa
-2025-03-15,martinodegaard_arsenal,3.0,36.0,Martin Odegaard,Arsenal
+2025-03-15,leandrotrossard_arsenal,5.0,29.0,Leandro Trossard,Arsenal
+2025-03-15,pedroporro_tottenham,5.0,30.0,Pedro Porro,Tottenham
+2025-03-15,rayanaitnouri_wolves,5.0,31.0,Rayan Ait-Nouri,Wolves
+2025-03-15,alexiwobi_fulham,4.0,32.0,Alex Iwobi,Fulham
+2025-03-15,jeremydoku_manchestercity,4.0,33.0,Jeremy Doku,Manchester City
+2025-03-15,matheuscunha_wolves,4.0,34.0,Matheus Cunha,Wolves
+2025-03-15,morganrogers_astonvilla,4.0,35.0,Morgan Rogers,Aston Villa
+2025-03-15,youritielemans_astonvilla,4.0,36.0,Youri Tielemans,Aston Villa
+2025-03-15,dominikszoboszlai_liverpool,3.0,37.0,Dominik Szoboszlai,Liverpool
+2025-03-15,martinodegaard_arsenal,3.0,38.0,Martin Odegaard,Arsenal
 2025-03-16,mohamedsalah_liverpool,17.0,1.0,Mohamed Salah,Liverpool
 2025-03-16,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-03-16,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -2331,14 +2497,16 @@ date,player_team,value,rank,player,team
 2025-03-16,enzofernandez_chelsea,5.0,26.0,Enzo Fernandez,Chelsea
 2025-03-16,jamesmaddison_tottenham,5.0,27.0,James Maddison,Tottenham
 2025-03-16,jarrodbowen_westham,5.0,28.0,Jarrod Bowen,West Ham
-2025-03-16,pedroporro_tottenham,5.0,29.0,Pedro Porro,Tottenham
-2025-03-16,rayanaitnouri_wolves,5.0,30.0,Rayan Ait-Nouri,Wolves
-2025-03-16,alexiwobi_fulham,4.0,31.0,Alex Iwobi,Fulham
-2025-03-16,jeremydoku_manchestercity,4.0,32.0,Jeremy Doku,Manchester City
-2025-03-16,martinodegaard_arsenal,4.0,33.0,Martin Odegaard,Arsenal
-2025-03-16,matheuscunha_wolves,4.0,34.0,Matheus Cunha,Wolves
-2025-03-16,morganrogers_astonvilla,4.0,35.0,Morgan Rogers,Aston Villa
-2025-03-16,youritielemans_astonvilla,4.0,36.0,Youri Tielemans,Aston Villa
+2025-03-16,leandrotrossard_arsenal,5.0,29.0,Leandro Trossard,Arsenal
+2025-03-16,pedroporro_tottenham,5.0,30.0,Pedro Porro,Tottenham
+2025-03-16,rayanaitnouri_wolves,5.0,31.0,Rayan Ait-Nouri,Wolves
+2025-03-16,alexiwobi_fulham,4.0,32.0,Alex Iwobi,Fulham
+2025-03-16,jeremydoku_manchestercity,4.0,33.0,Jeremy Doku,Manchester City
+2025-03-16,martinodegaard_arsenal,4.0,34.0,Martin Odegaard,Arsenal
+2025-03-16,matheuscunha_wolves,4.0,35.0,Matheus Cunha,Wolves
+2025-03-16,morganrogers_astonvilla,4.0,36.0,Morgan Rogers,Aston Villa
+2025-03-16,youritielemans_astonvilla,4.0,37.0,Youri Tielemans,Aston Villa
+2025-03-16,dominikszoboszlai_liverpool,3.0,38.0,Dominik Szoboszlai,Liverpool
 2025-04-02,mohamedsalah_liverpool,17.0,1.0,Mohamed Salah,Liverpool
 2025-04-02,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-04-02,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -2368,13 +2536,15 @@ date,player_team,value,rank,player,team
 2025-04-02,enzofernandez_chelsea,5.0,27.0,Enzo Fernandez,Chelsea
 2025-04-02,jamesmaddison_tottenham,5.0,28.0,James Maddison,Tottenham
 2025-04-02,jarrodbowen_westham,5.0,29.0,Jarrod Bowen,West Ham
-2025-04-02,pedroporro_tottenham,5.0,30.0,Pedro Porro,Tottenham
-2025-04-02,rayanaitnouri_wolves,5.0,31.0,Rayan Ait-Nouri,Wolves
-2025-04-02,alexiwobi_fulham,4.0,32.0,Alex Iwobi,Fulham
-2025-04-02,jeremydoku_manchestercity,4.0,33.0,Jeremy Doku,Manchester City
-2025-04-02,martinodegaard_arsenal,4.0,34.0,Martin Odegaard,Arsenal
-2025-04-02,matheuscunha_wolves,4.0,35.0,Matheus Cunha,Wolves
-2025-04-02,youritielemans_astonvilla,4.0,36.0,Youri Tielemans,Aston Villa
+2025-04-02,leandrotrossard_arsenal,5.0,30.0,Leandro Trossard,Arsenal
+2025-04-02,pedroporro_tottenham,5.0,31.0,Pedro Porro,Tottenham
+2025-04-02,rayanaitnouri_wolves,5.0,32.0,Rayan Ait-Nouri,Wolves
+2025-04-02,alexiwobi_fulham,4.0,33.0,Alex Iwobi,Fulham
+2025-04-02,jeremydoku_manchestercity,4.0,34.0,Jeremy Doku,Manchester City
+2025-04-02,martinodegaard_arsenal,4.0,35.0,Martin Odegaard,Arsenal
+2025-04-02,matheuscunha_wolves,4.0,36.0,Matheus Cunha,Wolves
+2025-04-02,youritielemans_astonvilla,4.0,37.0,Youri Tielemans,Aston Villa
+2025-04-02,dominikszoboszlai_liverpool,3.0,38.0,Dominik Szoboszlai,Liverpool
 2025-04-03,mohamedsalah_liverpool,17.0,1.0,Mohamed Salah,Liverpool
 2025-04-03,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-04-03,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -2404,13 +2574,15 @@ date,player_team,value,rank,player,team
 2025-04-03,enzofernandez_chelsea,5.0,27.0,Enzo Fernandez,Chelsea
 2025-04-03,jamesmaddison_tottenham,5.0,28.0,James Maddison,Tottenham
 2025-04-03,jarrodbowen_westham,5.0,29.0,Jarrod Bowen,West Ham
-2025-04-03,pedroporro_tottenham,5.0,30.0,Pedro Porro,Tottenham
-2025-04-03,rayanaitnouri_wolves,5.0,31.0,Rayan Ait-Nouri,Wolves
-2025-04-03,alexiwobi_fulham,4.0,32.0,Alex Iwobi,Fulham
-2025-04-03,jeremydoku_manchestercity,4.0,33.0,Jeremy Doku,Manchester City
-2025-04-03,martinodegaard_arsenal,4.0,34.0,Martin Odegaard,Arsenal
-2025-04-03,matheuscunha_wolves,4.0,35.0,Matheus Cunha,Wolves
-2025-04-03,youritielemans_astonvilla,4.0,36.0,Youri Tielemans,Aston Villa
+2025-04-03,leandrotrossard_arsenal,5.0,30.0,Leandro Trossard,Arsenal
+2025-04-03,pedroporro_tottenham,5.0,31.0,Pedro Porro,Tottenham
+2025-04-03,rayanaitnouri_wolves,5.0,32.0,Rayan Ait-Nouri,Wolves
+2025-04-03,alexiwobi_fulham,4.0,33.0,Alex Iwobi,Fulham
+2025-04-03,jeremydoku_manchestercity,4.0,34.0,Jeremy Doku,Manchester City
+2025-04-03,martinodegaard_arsenal,4.0,35.0,Martin Odegaard,Arsenal
+2025-04-03,matheuscunha_wolves,4.0,36.0,Matheus Cunha,Wolves
+2025-04-03,youritielemans_astonvilla,4.0,37.0,Youri Tielemans,Aston Villa
+2025-04-03,dominikszoboszlai_liverpool,3.0,38.0,Dominik Szoboszlai,Liverpool
 2025-04-05,mohamedsalah_liverpool,17.0,1.0,Mohamed Salah,Liverpool
 2025-04-05,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-04-05,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -2440,13 +2612,15 @@ date,player_team,value,rank,player,team
 2025-04-05,enzofernandez_chelsea,5.0,27.0,Enzo Fernandez,Chelsea
 2025-04-05,jamesmaddison_tottenham,5.0,28.0,James Maddison,Tottenham
 2025-04-05,jarrodbowen_westham,5.0,29.0,Jarrod Bowen,West Ham
-2025-04-05,pedroporro_tottenham,5.0,30.0,Pedro Porro,Tottenham
-2025-04-05,rayanaitnouri_wolves,5.0,31.0,Rayan Ait-Nouri,Wolves
-2025-04-05,youritielemans_astonvilla,5.0,32.0,Youri Tielemans,Aston Villa
-2025-04-05,alexiwobi_fulham,4.0,33.0,Alex Iwobi,Fulham
-2025-04-05,jeremydoku_manchestercity,4.0,34.0,Jeremy Doku,Manchester City
-2025-04-05,martinodegaard_arsenal,4.0,35.0,Martin Odegaard,Arsenal
-2025-04-05,matheuscunha_wolves,4.0,36.0,Matheus Cunha,Wolves
+2025-04-05,leandrotrossard_arsenal,5.0,30.0,Leandro Trossard,Arsenal
+2025-04-05,pedroporro_tottenham,5.0,31.0,Pedro Porro,Tottenham
+2025-04-05,rayanaitnouri_wolves,5.0,32.0,Rayan Ait-Nouri,Wolves
+2025-04-05,youritielemans_astonvilla,5.0,33.0,Youri Tielemans,Aston Villa
+2025-04-05,alexiwobi_fulham,4.0,34.0,Alex Iwobi,Fulham
+2025-04-05,jeremydoku_manchestercity,4.0,35.0,Jeremy Doku,Manchester City
+2025-04-05,martinodegaard_arsenal,4.0,36.0,Martin Odegaard,Arsenal
+2025-04-05,matheuscunha_wolves,4.0,37.0,Matheus Cunha,Wolves
+2025-04-05,dominikszoboszlai_liverpool,3.0,38.0,Dominik Szoboszlai,Liverpool
 2025-04-06,mohamedsalah_liverpool,17.0,1.0,Mohamed Salah,Liverpool
 2025-04-06,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-04-06,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -2477,12 +2651,14 @@ date,player_team,value,rank,player,team
 2025-04-06,declanrice_arsenal,5.0,28.0,Declan Rice,Arsenal
 2025-04-06,enzofernandez_chelsea,5.0,29.0,Enzo Fernandez,Chelsea
 2025-04-06,jarrodbowen_westham,5.0,30.0,Jarrod Bowen,West Ham
-2025-04-06,pedroporro_tottenham,5.0,31.0,Pedro Porro,Tottenham
-2025-04-06,rayanaitnouri_wolves,5.0,32.0,Rayan Ait-Nouri,Wolves
-2025-04-06,youritielemans_astonvilla,5.0,33.0,Youri Tielemans,Aston Villa
-2025-04-06,jeremydoku_manchestercity,4.0,34.0,Jeremy Doku,Manchester City
-2025-04-06,martinodegaard_arsenal,4.0,35.0,Martin Odegaard,Arsenal
-2025-04-06,matheuscunha_wolves,4.0,36.0,Matheus Cunha,Wolves
+2025-04-06,leandrotrossard_arsenal,5.0,31.0,Leandro Trossard,Arsenal
+2025-04-06,pedroporro_tottenham,5.0,32.0,Pedro Porro,Tottenham
+2025-04-06,rayanaitnouri_wolves,5.0,33.0,Rayan Ait-Nouri,Wolves
+2025-04-06,youritielemans_astonvilla,5.0,34.0,Youri Tielemans,Aston Villa
+2025-04-06,jeremydoku_manchestercity,4.0,35.0,Jeremy Doku,Manchester City
+2025-04-06,martinodegaard_arsenal,4.0,36.0,Martin Odegaard,Arsenal
+2025-04-06,matheuscunha_wolves,4.0,37.0,Matheus Cunha,Wolves
+2025-04-06,dominikszoboszlai_liverpool,3.0,38.0,Dominik Szoboszlai,Liverpool
 2025-04-12,mohamedsalah_liverpool,17.0,1.0,Mohamed Salah,Liverpool
 2025-04-12,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-04-12,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -2514,11 +2690,13 @@ date,player_team,value,rank,player,team
 2025-04-12,bryanmbeumo_brentford,5.0,29.0,Bryan Mbeumo,Brentford
 2025-04-12,enzofernandez_chelsea,5.0,30.0,Enzo Fernandez,Chelsea
 2025-04-12,jarrodbowen_westham,5.0,31.0,Jarrod Bowen,West Ham
-2025-04-12,pedroporro_tottenham,5.0,32.0,Pedro Porro,Tottenham
-2025-04-12,rayanaitnouri_wolves,5.0,33.0,Rayan Ait-Nouri,Wolves
-2025-04-12,jeremydoku_manchestercity,4.0,34.0,Jeremy Doku,Manchester City
-2025-04-12,martinodegaard_arsenal,4.0,35.0,Martin Odegaard,Arsenal
-2025-04-12,matheuscunha_wolves,4.0,36.0,Matheus Cunha,Wolves
+2025-04-12,leandrotrossard_arsenal,5.0,32.0,Leandro Trossard,Arsenal
+2025-04-12,pedroporro_tottenham,5.0,33.0,Pedro Porro,Tottenham
+2025-04-12,rayanaitnouri_wolves,5.0,34.0,Rayan Ait-Nouri,Wolves
+2025-04-12,jeremydoku_manchestercity,4.0,35.0,Jeremy Doku,Manchester City
+2025-04-12,martinodegaard_arsenal,4.0,36.0,Martin Odegaard,Arsenal
+2025-04-12,matheuscunha_wolves,4.0,37.0,Matheus Cunha,Wolves
+2025-04-12,dominikszoboszlai_liverpool,3.0,38.0,Dominik Szoboszlai,Liverpool
 2025-04-13,mohamedsalah_liverpool,18.0,1.0,Mohamed Salah,Liverpool
 2025-04-13,antoneerobinson_fulham,10.0,2.0,Antonee Robinson,Fulham
 2025-04-13,bukayosaka_arsenal,10.0,3.0,Bukayo Saka,Arsenal
@@ -2551,10 +2729,12 @@ date,player_team,value,rank,player,team
 2025-04-13,bryanmbeumo_brentford,5.0,30.0,Bryan Mbeumo,Brentford
 2025-04-13,enzofernandez_chelsea,5.0,31.0,Enzo Fernandez,Chelsea
 2025-04-13,jarrodbowen_westham,5.0,32.0,Jarrod Bowen,West Ham
-2025-04-13,pedroporro_tottenham,5.0,33.0,Pedro Porro,Tottenham
-2025-04-13,jeremydoku_manchestercity,4.0,34.0,Jeremy Doku,Manchester City
-2025-04-13,martinodegaard_arsenal,4.0,35.0,Martin Odegaard,Arsenal
-2025-04-13,matheuscunha_wolves,4.0,36.0,Matheus Cunha,Wolves
+2025-04-13,leandrotrossard_arsenal,5.0,33.0,Leandro Trossard,Arsenal
+2025-04-13,pedroporro_tottenham,5.0,34.0,Pedro Porro,Tottenham
+2025-04-13,jeremydoku_manchestercity,4.0,35.0,Jeremy Doku,Manchester City
+2025-04-13,martinodegaard_arsenal,4.0,36.0,Martin Odegaard,Arsenal
+2025-04-13,matheuscunha_wolves,4.0,37.0,Matheus Cunha,Wolves
+2025-04-13,dominikszoboszlai_liverpool,3.0,38.0,Dominik Szoboszlai,Liverpool
 2025-04-16,mohamedsalah_liverpool,18.0,1.0,Mohamed Salah,Liverpool
 2025-04-16,jacobmurphy_newcastleutd,11.0,2.0,Jacob Murphy,Newcastle Utd
 2025-04-16,antoneerobinson_fulham,10.0,3.0,Antonee Robinson,Fulham
@@ -2587,10 +2767,12 @@ date,player_team,value,rank,player,team
 2025-04-16,bryanmbeumo_brentford,5.0,30.0,Bryan Mbeumo,Brentford
 2025-04-16,enzofernandez_chelsea,5.0,31.0,Enzo Fernandez,Chelsea
 2025-04-16,jarrodbowen_westham,5.0,32.0,Jarrod Bowen,West Ham
-2025-04-16,pedroporro_tottenham,5.0,33.0,Pedro Porro,Tottenham
-2025-04-16,jeremydoku_manchestercity,4.0,34.0,Jeremy Doku,Manchester City
-2025-04-16,martinodegaard_arsenal,4.0,35.0,Martin Odegaard,Arsenal
-2025-04-16,matheuscunha_wolves,4.0,36.0,Matheus Cunha,Wolves
+2025-04-16,leandrotrossard_arsenal,5.0,33.0,Leandro Trossard,Arsenal
+2025-04-16,pedroporro_tottenham,5.0,34.0,Pedro Porro,Tottenham
+2025-04-16,jeremydoku_manchestercity,4.0,35.0,Jeremy Doku,Manchester City
+2025-04-16,martinodegaard_arsenal,4.0,36.0,Martin Odegaard,Arsenal
+2025-04-16,matheuscunha_wolves,4.0,37.0,Matheus Cunha,Wolves
+2025-04-16,dominikszoboszlai_liverpool,3.0,38.0,Dominik Szoboszlai,Liverpool
 2025-04-19,mohamedsalah_liverpool,18.0,1.0,Mohamed Salah,Liverpool
 2025-04-19,jacobmurphy_newcastleutd,11.0,2.0,Jacob Murphy,Newcastle Utd
 2025-04-19,antoneerobinson_fulham,10.0,3.0,Antonee Robinson,Fulham
@@ -2623,10 +2805,12 @@ date,player_team,value,rank,player,team
 2025-04-19,alexiwobi_fulham,5.0,30.0,Alex Iwobi,Fulham
 2025-04-19,enzofernandez_chelsea,5.0,31.0,Enzo Fernandez,Chelsea
 2025-04-19,jarrodbowen_westham,5.0,32.0,Jarrod Bowen,West Ham
-2025-04-19,pedroporro_tottenham,5.0,33.0,Pedro Porro,Tottenham
-2025-04-19,jeremydoku_manchestercity,4.0,34.0,Jeremy Doku,Manchester City
-2025-04-19,martinodegaard_arsenal,4.0,35.0,Martin Odegaard,Arsenal
-2025-04-19,matheuscunha_wolves,4.0,36.0,Matheus Cunha,Wolves
+2025-04-19,leandrotrossard_arsenal,5.0,33.0,Leandro Trossard,Arsenal
+2025-04-19,pedroporro_tottenham,5.0,34.0,Pedro Porro,Tottenham
+2025-04-19,jeremydoku_manchestercity,4.0,35.0,Jeremy Doku,Manchester City
+2025-04-19,martinodegaard_arsenal,4.0,36.0,Martin Odegaard,Arsenal
+2025-04-19,matheuscunha_wolves,4.0,37.0,Matheus Cunha,Wolves
+2025-04-19,dominikszoboszlai_liverpool,3.0,38.0,Dominik Szoboszlai,Liverpool
 2025-04-20,mohamedsalah_liverpool,18.0,1.0,Mohamed Salah,Liverpool
 2025-04-20,jacobmurphy_newcastleutd,11.0,2.0,Jacob Murphy,Newcastle Utd
 2025-04-20,antoneerobinson_fulham,10.0,3.0,Antonee Robinson,Fulham
@@ -2659,10 +2843,12 @@ date,player_team,value,rank,player,team
 2025-04-20,adamatraore_fulham,5.0,30.0,Adama Traore,Fulham
 2025-04-20,alexiwobi_fulham,5.0,31.0,Alex Iwobi,Fulham
 2025-04-20,jarrodbowen_westham,5.0,32.0,Jarrod Bowen,West Ham
-2025-04-20,martinodegaard_arsenal,5.0,33.0,Martin Odegaard,Arsenal
-2025-04-20,pedroporro_tottenham,5.0,34.0,Pedro Porro,Tottenham
-2025-04-20,jeremydoku_manchestercity,4.0,35.0,Jeremy Doku,Manchester City
-2025-04-20,matheuscunha_wolves,4.0,36.0,Matheus Cunha,Wolves
+2025-04-20,leandrotrossard_arsenal,5.0,33.0,Leandro Trossard,Arsenal
+2025-04-20,martinodegaard_arsenal,5.0,34.0,Martin Odegaard,Arsenal
+2025-04-20,pedroporro_tottenham,5.0,35.0,Pedro Porro,Tottenham
+2025-04-20,jeremydoku_manchestercity,4.0,36.0,Jeremy Doku,Manchester City
+2025-04-20,matheuscunha_wolves,4.0,37.0,Matheus Cunha,Wolves
+2025-04-20,dominikszoboszlai_liverpool,3.0,38.0,Dominik Szoboszlai,Liverpool
 2025-04-21,mohamedsalah_liverpool,18.0,1.0,Mohamed Salah,Liverpool
 2025-04-21,jacobmurphy_newcastleutd,11.0,2.0,Jacob Murphy,Newcastle Utd
 2025-04-21,antoneerobinson_fulham,10.0,3.0,Antonee Robinson,Fulham
@@ -2696,9 +2882,11 @@ date,player_team,value,rank,player,team
 2025-04-21,adamatraore_fulham,5.0,31.0,Adama Traore,Fulham
 2025-04-21,alexiwobi_fulham,5.0,32.0,Alex Iwobi,Fulham
 2025-04-21,jarrodbowen_westham,5.0,33.0,Jarrod Bowen,West Ham
-2025-04-21,martinodegaard_arsenal,5.0,34.0,Martin Odegaard,Arsenal
-2025-04-21,jeremydoku_manchestercity,4.0,35.0,Jeremy Doku,Manchester City
-2025-04-21,matheuscunha_wolves,4.0,36.0,Matheus Cunha,Wolves
+2025-04-21,leandrotrossard_arsenal,5.0,34.0,Leandro Trossard,Arsenal
+2025-04-21,martinodegaard_arsenal,5.0,35.0,Martin Odegaard,Arsenal
+2025-04-21,jeremydoku_manchestercity,4.0,36.0,Jeremy Doku,Manchester City
+2025-04-21,matheuscunha_wolves,4.0,37.0,Matheus Cunha,Wolves
+2025-04-21,dominikszoboszlai_liverpool,3.0,38.0,Dominik Szoboszlai,Liverpool
 2025-04-22,mohamedsalah_liverpool,18.0,1.0,Mohamed Salah,Liverpool
 2025-04-22,jacobmurphy_newcastleutd,11.0,2.0,Jacob Murphy,Newcastle Utd
 2025-04-22,antoneerobinson_fulham,10.0,3.0,Antonee Robinson,Fulham
@@ -2733,8 +2921,10 @@ date,player_team,value,rank,player,team
 2025-04-22,alexiwobi_fulham,5.0,32.0,Alex Iwobi,Fulham
 2025-04-22,jarrodbowen_westham,5.0,33.0,Jarrod Bowen,West Ham
 2025-04-22,jeremydoku_manchestercity,5.0,34.0,Jeremy Doku,Manchester City
-2025-04-22,martinodegaard_arsenal,5.0,35.0,Martin Odegaard,Arsenal
-2025-04-22,matheuscunha_wolves,4.0,36.0,Matheus Cunha,Wolves
+2025-04-22,leandrotrossard_arsenal,5.0,35.0,Leandro Trossard,Arsenal
+2025-04-22,martinodegaard_arsenal,5.0,36.0,Martin Odegaard,Arsenal
+2025-04-22,matheuscunha_wolves,4.0,37.0,Matheus Cunha,Wolves
+2025-04-22,dominikszoboszlai_liverpool,3.0,38.0,Dominik Szoboszlai,Liverpool
 2025-04-23,mohamedsalah_liverpool,18.0,1.0,Mohamed Salah,Liverpool
 2025-04-23,jacobmurphy_newcastleutd,11.0,2.0,Jacob Murphy,Newcastle Utd
 2025-04-23,antoneerobinson_fulham,10.0,3.0,Antonee Robinson,Fulham
@@ -2770,7 +2960,9 @@ date,player_team,value,rank,player,team
 2025-04-23,alexiwobi_fulham,5.0,33.0,Alex Iwobi,Fulham
 2025-04-23,jarrodbowen_westham,5.0,34.0,Jarrod Bowen,West Ham
 2025-04-23,jeremydoku_manchestercity,5.0,35.0,Jeremy Doku,Manchester City
-2025-04-23,matheuscunha_wolves,4.0,36.0,Matheus Cunha,Wolves
+2025-04-23,leandrotrossard_arsenal,5.0,36.0,Leandro Trossard,Arsenal
+2025-04-23,matheuscunha_wolves,4.0,37.0,Matheus Cunha,Wolves
+2025-04-23,dominikszoboszlai_liverpool,3.0,38.0,Dominik Szoboszlai,Liverpool
 2025-04-26,mohamedsalah_liverpool,18.0,1.0,Mohamed Salah,Liverpool
 2025-04-26,jacobmurphy_newcastleutd,11.0,2.0,Jacob Murphy,Newcastle Utd
 2025-04-26,antoneerobinson_fulham,10.0,3.0,Antonee Robinson,Fulham
@@ -2807,6 +2999,8 @@ date,player_team,value,rank,player,team
 2025-04-26,pedroporro_tottenham,6.0,34.0,Pedro Porro,Tottenham
 2025-04-26,trentalexanderarnold_liverpool,6.0,35.0,Trent Alexander-Arnold,Liverpool
 2025-04-26,jeremydoku_manchestercity,5.0,36.0,Jeremy Doku,Manchester City
+2025-04-26,leandrotrossard_arsenal,5.0,37.0,Leandro Trossard,Arsenal
+2025-04-26,dominikszoboszlai_liverpool,3.0,38.0,Dominik Szoboszlai,Liverpool
 2025-04-27,mohamedsalah_liverpool,18.0,1.0,Mohamed Salah,Liverpool
 2025-04-27,jacobmurphy_newcastleutd,11.0,2.0,Jacob Murphy,Newcastle Utd
 2025-04-27,antoneerobinson_fulham,10.0,3.0,Antonee Robinson,Fulham
@@ -2842,7 +3036,9 @@ date,player_team,value,rank,player,team
 2025-04-27,matheuscunha_wolves,6.0,33.0,Matheus Cunha,Wolves
 2025-04-27,pedroporro_tottenham,6.0,34.0,Pedro Porro,Tottenham
 2025-04-27,trentalexanderarnold_liverpool,6.0,35.0,Trent Alexander-Arnold,Liverpool
-2025-04-27,jeremydoku_manchestercity,5.0,36.0,Jeremy Doku,Manchester City
+2025-04-27,dominikszoboszlai_liverpool,5.0,36.0,Dominik Szoboszlai,Liverpool
+2025-04-27,jeremydoku_manchestercity,5.0,37.0,Jeremy Doku,Manchester City
+2025-04-27,leandrotrossard_arsenal,5.0,38.0,Leandro Trossard,Arsenal
 2025-05-02,mohamedsalah_liverpool,18.0,1.0,Mohamed Salah,Liverpool
 2025-05-02,jacobmurphy_newcastleutd,11.0,2.0,Jacob Murphy,Newcastle Utd
 2025-05-02,antoneerobinson_fulham,10.0,3.0,Antonee Robinson,Fulham
@@ -2879,6 +3075,8 @@ date,player_team,value,rank,player,team
 2025-05-02,matheuscunha_wolves,6.0,34.0,Matheus Cunha,Wolves
 2025-05-02,pedroporro_tottenham,6.0,35.0,Pedro Porro,Tottenham
 2025-05-02,trentalexanderarnold_liverpool,6.0,36.0,Trent Alexander-Arnold,Liverpool
+2025-05-02,dominikszoboszlai_liverpool,5.0,37.0,Dominik Szoboszlai,Liverpool
+2025-05-02,leandrotrossard_arsenal,5.0,38.0,Leandro Trossard,Arsenal
 2025-05-03,mohamedsalah_liverpool,18.0,1.0,Mohamed Salah,Liverpool
 2025-05-03,jacobmurphy_newcastleutd,11.0,2.0,Jacob Murphy,Newcastle Utd
 2025-05-03,antoneerobinson_fulham,10.0,3.0,Antonee Robinson,Fulham
@@ -2915,3 +3113,81 @@ date,player_team,value,rank,player,team
 2025-05-03,matheuscunha_wolves,6.0,34.0,Matheus Cunha,Wolves
 2025-05-03,pedroporro_tottenham,6.0,35.0,Pedro Porro,Tottenham
 2025-05-03,trentalexanderarnold_liverpool,6.0,36.0,Trent Alexander-Arnold,Liverpool
+2025-05-03,dominikszoboszlai_liverpool,5.0,37.0,Dominik Szoboszlai,Liverpool
+2025-05-03,leandrotrossard_arsenal,5.0,38.0,Leandro Trossard,Arsenal
+2025-05-10,mohamedsalah_liverpool,18.0,1.0,Mohamed Salah,Liverpool
+2025-05-10,jacobmurphy_newcastleutd,11.0,2.0,Jacob Murphy,Newcastle Utd
+2025-05-10,antoneerobinson_fulham,10.0,3.0,Antonee Robinson,Fulham
+2025-05-10,bukayosaka_arsenal,10.0,4.0,Bukayo Saka,Arsenal
+2025-05-10,anthonyelanga_notthamforest,9.0,5.0,Anthony Elanga,Nott'ham Forest
+2025-05-10,brunofernandes_manchesterutd,9.0,6.0,Bruno Fernandes,Manchester Utd
+2025-05-10,mikkeldamsgaard_brentford,9.0,7.0,Mikkel Damsgaard,Brentford
+2025-05-10,morganrogers_astonvilla,9.0,8.0,Morgan Rogers,Aston Villa
+2025-05-10,sonheungmin_tottenham,9.0,9.0,Son Heung-min,Tottenham
+2025-05-10,colepalmer_chelsea,8.0,10.0,Cole Palmer,Chelsea
+2025-05-10,eberechieze_crystalpalace,8.0,11.0,Eberechi Eze,Crystal Palace
+2025-05-10,savio_manchestercity,8.0,12.0,Savio,Manchester City
+2025-05-10,bryanmbeumo_brentford,7.0,13.0,Bryan Mbeumo,Brentford
+2025-05-10,declanrice_arsenal,7.0,14.0,Declan Rice,Arsenal
+2025-05-10,enzofernandez_chelsea,7.0,15.0,Enzo Fernandez,Chelsea
+2025-05-10,jamesmaddison_tottenham,7.0,16.0,James Maddison,Tottenham
+2025-05-10,jarrodbowen_westham,7.0,17.0,Jarrod Bowen,West Ham
+2025-05-10,kevindebruyne_manchestercity,7.0,18.0,Kevin De Bruyne,Manchester City
+2025-05-10,martinodegaard_arsenal,7.0,19.0,Martin Odegaard,Arsenal
+2025-05-10,morgangibbswhite_notthamforest,7.0,20.0,Morgan Gibbs-White,Nott'ham Forest
+2025-05-10,olliewatkins_astonvilla,7.0,21.0,Ollie Watkins,Aston Villa
+2025-05-10,rayanaitnouri_wolves,7.0,22.0,Rayan Ait-Nouri,Wolves
+2025-05-10,youritielemans_astonvilla,7.0,23.0,Youri Tielemans,Aston Villa
+2025-05-10,adamatraore_fulham,6.0,24.0,Adama Traore,Fulham
+2025-05-10,alexanderisak_newcastleutd,6.0,25.0,Alexander Isak,Newcastle Utd
+2025-05-10,alexiwobi_fulham,6.0,26.0,Alex Iwobi,Fulham
+2025-05-10,amaddiallo_manchesterutd,6.0,27.0,Amad Diallo,Manchester Utd
+2025-05-10,brunoguimaraes_newcastleutd,6.0,28.0,Bruno Guimaraes,Newcastle Utd
+2025-05-10,elliotanderson_notthamforest,6.0,29.0,Elliot Anderson,Nott'ham Forest
+2025-05-10,jeanricnerbellegarde_wolves,6.0,30.0,Jean-Ricner Bellegarde,Wolves
+2025-05-10,jeremydoku_manchestercity,6.0,31.0,Jeremy Doku,Manchester City
+2025-05-10,joaopedro_brighton,6.0,32.0,Joao Pedro,Brighton
+2025-05-10,justinkluivert_bournemouth,6.0,33.0,Justin Kluivert,Bournemouth
+2025-05-10,matheuscunha_wolves,6.0,34.0,Matheus Cunha,Wolves
+2025-05-10,pedroporro_tottenham,6.0,35.0,Pedro Porro,Tottenham
+2025-05-10,trentalexanderarnold_liverpool,6.0,36.0,Trent Alexander-Arnold,Liverpool
+2025-05-10,dominikszoboszlai_liverpool,5.0,37.0,Dominik Szoboszlai,Liverpool
+2025-05-10,leandrotrossard_arsenal,5.0,38.0,Leandro Trossard,Arsenal
+2025-05-11,mohamedsalah_liverpool,18.0,1.0,Mohamed Salah,Liverpool
+2025-05-11,jacobmurphy_newcastleutd,12.0,2.0,Jacob Murphy,Newcastle Utd
+2025-05-11,anthonyelanga_notthamforest,10.0,3.0,Anthony Elanga,Nott'ham Forest
+2025-05-11,antoneerobinson_fulham,10.0,4.0,Antonee Robinson,Fulham
+2025-05-11,bukayosaka_arsenal,10.0,5.0,Bukayo Saka,Arsenal
+2025-05-11,brunofernandes_manchesterutd,9.0,6.0,Bruno Fernandes,Manchester Utd
+2025-05-11,mikkeldamsgaard_brentford,9.0,7.0,Mikkel Damsgaard,Brentford
+2025-05-11,morganrogers_astonvilla,9.0,8.0,Morgan Rogers,Aston Villa
+2025-05-11,sonheungmin_tottenham,9.0,9.0,Son Heung-min,Tottenham
+2025-05-11,colepalmer_chelsea,8.0,10.0,Cole Palmer,Chelsea
+2025-05-11,eberechieze_crystalpalace,8.0,11.0,Eberechi Eze,Crystal Palace
+2025-05-11,morgangibbswhite_notthamforest,8.0,12.0,Morgan Gibbs-White,Nott'ham Forest
+2025-05-11,savio_manchestercity,8.0,13.0,Savio,Manchester City
+2025-05-11,bryanmbeumo_brentford,7.0,14.0,Bryan Mbeumo,Brentford
+2025-05-11,declanrice_arsenal,7.0,15.0,Declan Rice,Arsenal
+2025-05-11,enzofernandez_chelsea,7.0,16.0,Enzo Fernandez,Chelsea
+2025-05-11,jamesmaddison_tottenham,7.0,17.0,James Maddison,Tottenham
+2025-05-11,jarrodbowen_westham,7.0,18.0,Jarrod Bowen,West Ham
+2025-05-11,kevindebruyne_manchestercity,7.0,19.0,Kevin De Bruyne,Manchester City
+2025-05-11,martinodegaard_arsenal,7.0,20.0,Martin Odegaard,Arsenal
+2025-05-11,olliewatkins_astonvilla,7.0,21.0,Ollie Watkins,Aston Villa
+2025-05-11,rayanaitnouri_wolves,7.0,22.0,Rayan Ait-Nouri,Wolves
+2025-05-11,youritielemans_astonvilla,7.0,23.0,Youri Tielemans,Aston Villa
+2025-05-11,adamatraore_fulham,6.0,24.0,Adama Traore,Fulham
+2025-05-11,alexanderisak_newcastleutd,6.0,25.0,Alexander Isak,Newcastle Utd
+2025-05-11,alexiwobi_fulham,6.0,26.0,Alex Iwobi,Fulham
+2025-05-11,amaddiallo_manchesterutd,6.0,27.0,Amad Diallo,Manchester Utd
+2025-05-11,brunoguimaraes_newcastleutd,6.0,28.0,Bruno Guimaraes,Newcastle Utd
+2025-05-11,dominikszoboszlai_liverpool,6.0,29.0,Dominik Szoboszlai,Liverpool
+2025-05-11,elliotanderson_notthamforest,6.0,30.0,Elliot Anderson,Nott'ham Forest
+2025-05-11,jeanricnerbellegarde_wolves,6.0,31.0,Jean-Ricner Bellegarde,Wolves
+2025-05-11,jeremydoku_manchestercity,6.0,32.0,Jeremy Doku,Manchester City
+2025-05-11,joaopedro_brighton,6.0,33.0,Joao Pedro,Brighton
+2025-05-11,justinkluivert_bournemouth,6.0,34.0,Justin Kluivert,Bournemouth
+2025-05-11,leandrotrossard_arsenal,6.0,35.0,Leandro Trossard,Arsenal
+2025-05-11,matheuscunha_wolves,6.0,36.0,Matheus Cunha,Wolves
+2025-05-11,pedroporro_tottenham,6.0,37.0,Pedro Porro,Tottenham
+2025-05-11,trentalexanderarnold_liverpool,6.0,38.0,Trent Alexander-Arnold,Liverpool
