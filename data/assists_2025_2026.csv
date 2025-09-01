@@ -1,0 +1,48 @@
+date,team,player,value,player_team,cum_sum
+2025-08-15,Liverpool,Alexis Mac Allister,1,alexismacallister_liverpool,1.0
+2025-08-15,Bournemouth,David Brooks,1,davidbrooks_bournemouth,1.0
+2025-08-15,Bournemouth,Hamed Junior Traore,1,hamedjuniortraore_bournemouth,1.0
+2025-08-15,Liverpool,Hugo Ekitike,1,hugoekitike_liverpool,1.0
+2025-08-15,Liverpool,Wataru Endo,1,wataruendo_liverpool,1.0
+2025-08-16,Sunderland,Chemsdine Talbi,1,chemsdinetalbi_sunderland,1.0
+2025-08-16,Tottenham,Mohammed Kudus,2,mohammedkudus_tottenham,2.0
+2025-08-16,Sunderland,Omar Alderete,1,omaralderete_sunderland,1.0
+2025-08-16,Manchester City,Oscar Bobb,1,oscarbobb_manchestercity,1.0
+2025-08-16,Tottenham,Pape Matar Sarr,1,papematarsarr_tottenham,1.0
+2025-08-16,Manchester City,Rico Lewis,1,ricolewis_manchestercity,1.0
+2025-08-16,Manchester City,Tijjani Reijnders,1,tijjanireijnders_manchestercity,1.0
+2025-08-17,Nott'ham Forest,Elliot Anderson,1,elliotanderson_notthamforest,1.0
+2025-08-17,Nott'ham Forest,Morgan Gibbs-White,1,morgangibbswhite_notthamforest,1.0
+2025-08-22,West Ham,El Hadji Diouf,1,elhadjidiouf_westham,1.0
+2025-08-22,Chelsea,Estevao Willian,1,estevaowillian_chelsea,1.0
+2025-08-22,Chelsea,Joao Pedro,2,joaopedro_chelsea,2.0
+2025-08-22,Chelsea,Marc Cucurella,1,marccucurella_chelsea,1.0
+2025-08-23,Bournemouth,Antoine Semenyo,1,antoinesemenyo_bournemouth,1.0
+2025-08-23,Arsenal,Declan Rice,1,declanrice_arsenal,1.0
+2025-08-23,Burnley,Jaidon Anthony,1,jaidonanthony_burnley,1.0
+2025-08-23,Burnley,Josh Cullen,1,joshcullen_burnley,1.0
+2025-08-23,Arsenal,Jurrien Timber,1,jurrientimber_arsenal,1.0
+2025-08-23,Arsenal,Riccardo Calafiori,2,riccardocalafiori_arsenal,2.0
+2025-08-23,Tottenham,Richarlison,1,richarlison_tottenham,1.0
+2025-08-24,Fulham,Alex Iwobi,1,alexiwobi_fulham,1.0
+2025-08-24,Crystal Palace,Daniel Munoz,1,danielmunoz_crystalpalace,1.0
+2025-08-24,Nott'ham Forest,Dan Ndoye,1,danndoye_notthamforest,1.0
+2025-08-24,Everton,Jack Grealish,2,jackgrealish_everton,2.0
+2025-08-25,Liverpool,Cody Gakpo,2,codygakpo_liverpool,2.0
+2025-08-25,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,1.0
+2025-08-25,Newcastle Utd,Valentino Livramento,1,valentinolivramento_newcastleutd,1.0
+2025-08-30,Wolves,David Moller Wolfe,1,davidmollerwolfe_wolves,1.0
+2025-08-30,Manchester Utd,Diogo Dalot,1,diogodalot_manchesterutd,1.0
+2025-08-30,Chelsea,Enzo Fernandez,1,enzofernandez_chelsea,1.0
+2025-08-30,Brentford,Frank Onyeka,1,frankonyeka_brentford,1.0
+2025-08-30,Sunderland,Granit Xhaka,1,granitxhaka_sunderland,1.0
+2025-08-30,Everton,Jack Grealish,2,jackgrealish_everton,4.0
+2025-08-30,Burnley,Jacob Bruun Larsen,1,jacobbruunlarsen_burnley,1.0
+2025-08-30,Everton,Kiernan Dewsbury-Hall,1,kiernandewsburyhall_everton,1.0
+2025-08-30,Bournemouth,Marcos Senesi,1,marcossenesi_bournemouth,1.0
+2025-08-30,Wolves,Marshall Munetsi,1,marshallmunetsi_wolves,1.0
+2025-08-31,West Ham,Crysencio Summerville,1,crysenciosummerville_westham,1.0
+2025-08-31,West Ham,El Hadji Diouf,1,elhadjidiouf_westham,2.0
+2025-08-31,Brighton,Kaoru Mitoma,1,kaorumitoma_brighton,1.0
+2025-08-31,Crystal Palace,Maxence Lacroix,1,maxencelacroix_crystalpalace,1.0
+2025-08-31,Manchester City,Omar Marmoush,1,omarmarmoush_manchestercity,1.0

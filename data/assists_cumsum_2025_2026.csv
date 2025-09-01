@@ -1,0 +1,406 @@
+date,player_team,value,rank,player,team
+2025-08-15,alexismacallister_liverpool,1.0,1.0,Alexis Mac Allister,Liverpool
+2025-08-15,davidbrooks_bournemouth,1.0,2.0,David Brooks,Bournemouth
+2025-08-15,hamedjuniortraore_bournemouth,1.0,3.0,Hamed Junior Traore,Bournemouth
+2025-08-15,hugoekitike_liverpool,1.0,4.0,Hugo Ekitike,Liverpool
+2025-08-15,wataruendo_liverpool,1.0,5.0,Wataru Endo,Liverpool
+2025-08-15,alexiwobi_fulham,0.0,6.0,Alex Iwobi,Fulham
+2025-08-15,antoinesemenyo_bournemouth,0.0,7.0,Antoine Semenyo,Bournemouth
+2025-08-15,chemsdinetalbi_sunderland,0.0,8.0,Chemsdine Talbi,Sunderland
+2025-08-15,codygakpo_liverpool,0.0,9.0,Cody Gakpo,Liverpool
+2025-08-15,crysenciosummerville_westham,0.0,10.0,Crysencio Summerville,West Ham
+2025-08-15,danielmunoz_crystalpalace,0.0,11.0,Daniel Munoz,Crystal Palace
+2025-08-15,danndoye_notthamforest,0.0,12.0,Dan Ndoye,Nott'ham Forest
+2025-08-15,davidmollerwolfe_wolves,0.0,13.0,David Moller Wolfe,Wolves
+2025-08-15,declanrice_arsenal,0.0,14.0,Declan Rice,Arsenal
+2025-08-15,diogodalot_manchesterutd,0.0,15.0,Diogo Dalot,Manchester Utd
+2025-08-15,elhadjidiouf_westham,0.0,16.0,El Hadji Diouf,West Ham
+2025-08-15,elliotanderson_notthamforest,0.0,17.0,Elliot Anderson,Nott'ham Forest
+2025-08-15,enzofernandez_chelsea,0.0,18.0,Enzo Fernandez,Chelsea
+2025-08-15,estevaowillian_chelsea,0.0,19.0,Estevao Willian,Chelsea
+2025-08-15,frankonyeka_brentford,0.0,20.0,Frank Onyeka,Brentford
+2025-08-15,granitxhaka_sunderland,0.0,21.0,Granit Xhaka,Sunderland
+2025-08-15,jackgrealish_everton,0.0,22.0,Jack Grealish,Everton
+2025-08-15,jacobbruunlarsen_burnley,0.0,23.0,Jacob Bruun Larsen,Burnley
+2025-08-15,jaidonanthony_burnley,0.0,24.0,Jaidon Anthony,Burnley
+2025-08-15,joaopedro_chelsea,0.0,25.0,Joao Pedro,Chelsea
+2025-08-15,joshcullen_burnley,0.0,26.0,Josh Cullen,Burnley
+2025-08-15,jurrientimber_arsenal,0.0,27.0,Jurrien Timber,Arsenal
+2025-08-15,kaorumitoma_brighton,0.0,28.0,Kaoru Mitoma,Brighton
+2025-08-15,kiernandewsburyhall_everton,0.0,29.0,Kiernan Dewsbury-Hall,Everton
+2025-08-15,marccucurella_chelsea,0.0,30.0,Marc Cucurella,Chelsea
+2025-08-15,marcossenesi_bournemouth,0.0,31.0,Marcos Senesi,Bournemouth
+2025-08-15,marshallmunetsi_wolves,0.0,32.0,Marshall Munetsi,Wolves
+2025-08-15,maxencelacroix_crystalpalace,0.0,33.0,Maxence Lacroix,Crystal Palace
+2025-08-15,mohamedsalah_liverpool,0.0,34.0,Mohamed Salah,Liverpool
+2025-08-15,mohammedkudus_tottenham,0.0,35.0,Mohammed Kudus,Tottenham
+2025-08-15,morgangibbswhite_notthamforest,0.0,36.0,Morgan Gibbs-White,Nott'ham Forest
+2025-08-15,omaralderete_sunderland,0.0,37.0,Omar Alderete,Sunderland
+2025-08-15,omarmarmoush_manchestercity,0.0,38.0,Omar Marmoush,Manchester City
+2025-08-15,oscarbobb_manchestercity,0.0,39.0,Oscar Bobb,Manchester City
+2025-08-15,papematarsarr_tottenham,0.0,40.0,Pape Matar Sarr,Tottenham
+2025-08-15,riccardocalafiori_arsenal,0.0,41.0,Riccardo Calafiori,Arsenal
+2025-08-15,richarlison_tottenham,0.0,42.0,Richarlison,Tottenham
+2025-08-15,ricolewis_manchestercity,0.0,43.0,Rico Lewis,Manchester City
+2025-08-15,tijjanireijnders_manchestercity,0.0,44.0,Tijjani Reijnders,Manchester City
+2025-08-15,valentinolivramento_newcastleutd,0.0,45.0,Valentino Livramento,Newcastle Utd
+2025-08-16,mohammedkudus_tottenham,2.0,1.0,Mohammed Kudus,Tottenham
+2025-08-16,alexismacallister_liverpool,1.0,2.0,Alexis Mac Allister,Liverpool
+2025-08-16,chemsdinetalbi_sunderland,1.0,3.0,Chemsdine Talbi,Sunderland
+2025-08-16,davidbrooks_bournemouth,1.0,4.0,David Brooks,Bournemouth
+2025-08-16,hamedjuniortraore_bournemouth,1.0,5.0,Hamed Junior Traore,Bournemouth
+2025-08-16,hugoekitike_liverpool,1.0,6.0,Hugo Ekitike,Liverpool
+2025-08-16,omaralderete_sunderland,1.0,7.0,Omar Alderete,Sunderland
+2025-08-16,oscarbobb_manchestercity,1.0,8.0,Oscar Bobb,Manchester City
+2025-08-16,papematarsarr_tottenham,1.0,9.0,Pape Matar Sarr,Tottenham
+2025-08-16,ricolewis_manchestercity,1.0,10.0,Rico Lewis,Manchester City
+2025-08-16,tijjanireijnders_manchestercity,1.0,11.0,Tijjani Reijnders,Manchester City
+2025-08-16,wataruendo_liverpool,1.0,12.0,Wataru Endo,Liverpool
+2025-08-16,alexiwobi_fulham,0.0,13.0,Alex Iwobi,Fulham
+2025-08-16,antoinesemenyo_bournemouth,0.0,14.0,Antoine Semenyo,Bournemouth
+2025-08-16,codygakpo_liverpool,0.0,15.0,Cody Gakpo,Liverpool
+2025-08-16,crysenciosummerville_westham,0.0,16.0,Crysencio Summerville,West Ham
+2025-08-16,danielmunoz_crystalpalace,0.0,17.0,Daniel Munoz,Crystal Palace
+2025-08-16,danndoye_notthamforest,0.0,18.0,Dan Ndoye,Nott'ham Forest
+2025-08-16,davidmollerwolfe_wolves,0.0,19.0,David Moller Wolfe,Wolves
+2025-08-16,declanrice_arsenal,0.0,20.0,Declan Rice,Arsenal
+2025-08-16,diogodalot_manchesterutd,0.0,21.0,Diogo Dalot,Manchester Utd
+2025-08-16,elhadjidiouf_westham,0.0,22.0,El Hadji Diouf,West Ham
+2025-08-16,elliotanderson_notthamforest,0.0,23.0,Elliot Anderson,Nott'ham Forest
+2025-08-16,enzofernandez_chelsea,0.0,24.0,Enzo Fernandez,Chelsea
+2025-08-16,estevaowillian_chelsea,0.0,25.0,Estevao Willian,Chelsea
+2025-08-16,frankonyeka_brentford,0.0,26.0,Frank Onyeka,Brentford
+2025-08-16,granitxhaka_sunderland,0.0,27.0,Granit Xhaka,Sunderland
+2025-08-16,jackgrealish_everton,0.0,28.0,Jack Grealish,Everton
+2025-08-16,jacobbruunlarsen_burnley,0.0,29.0,Jacob Bruun Larsen,Burnley
+2025-08-16,jaidonanthony_burnley,0.0,30.0,Jaidon Anthony,Burnley
+2025-08-16,joaopedro_chelsea,0.0,31.0,Joao Pedro,Chelsea
+2025-08-16,joshcullen_burnley,0.0,32.0,Josh Cullen,Burnley
+2025-08-16,jurrientimber_arsenal,0.0,33.0,Jurrien Timber,Arsenal
+2025-08-16,kaorumitoma_brighton,0.0,34.0,Kaoru Mitoma,Brighton
+2025-08-16,kiernandewsburyhall_everton,0.0,35.0,Kiernan Dewsbury-Hall,Everton
+2025-08-16,marccucurella_chelsea,0.0,36.0,Marc Cucurella,Chelsea
+2025-08-16,marcossenesi_bournemouth,0.0,37.0,Marcos Senesi,Bournemouth
+2025-08-16,marshallmunetsi_wolves,0.0,38.0,Marshall Munetsi,Wolves
+2025-08-16,maxencelacroix_crystalpalace,0.0,39.0,Maxence Lacroix,Crystal Palace
+2025-08-16,mohamedsalah_liverpool,0.0,40.0,Mohamed Salah,Liverpool
+2025-08-16,morgangibbswhite_notthamforest,0.0,41.0,Morgan Gibbs-White,Nott'ham Forest
+2025-08-16,omarmarmoush_manchestercity,0.0,42.0,Omar Marmoush,Manchester City
+2025-08-16,riccardocalafiori_arsenal,0.0,43.0,Riccardo Calafiori,Arsenal
+2025-08-16,richarlison_tottenham,0.0,44.0,Richarlison,Tottenham
+2025-08-16,valentinolivramento_newcastleutd,0.0,45.0,Valentino Livramento,Newcastle Utd
+2025-08-17,mohammedkudus_tottenham,2.0,1.0,Mohammed Kudus,Tottenham
+2025-08-17,alexismacallister_liverpool,1.0,2.0,Alexis Mac Allister,Liverpool
+2025-08-17,chemsdinetalbi_sunderland,1.0,3.0,Chemsdine Talbi,Sunderland
+2025-08-17,davidbrooks_bournemouth,1.0,4.0,David Brooks,Bournemouth
+2025-08-17,elliotanderson_notthamforest,1.0,5.0,Elliot Anderson,Nott'ham Forest
+2025-08-17,hamedjuniortraore_bournemouth,1.0,6.0,Hamed Junior Traore,Bournemouth
+2025-08-17,hugoekitike_liverpool,1.0,7.0,Hugo Ekitike,Liverpool
+2025-08-17,morgangibbswhite_notthamforest,1.0,8.0,Morgan Gibbs-White,Nott'ham Forest
+2025-08-17,omaralderete_sunderland,1.0,9.0,Omar Alderete,Sunderland
+2025-08-17,oscarbobb_manchestercity,1.0,10.0,Oscar Bobb,Manchester City
+2025-08-17,papematarsarr_tottenham,1.0,11.0,Pape Matar Sarr,Tottenham
+2025-08-17,ricolewis_manchestercity,1.0,12.0,Rico Lewis,Manchester City
+2025-08-17,tijjanireijnders_manchestercity,1.0,13.0,Tijjani Reijnders,Manchester City
+2025-08-17,wataruendo_liverpool,1.0,14.0,Wataru Endo,Liverpool
+2025-08-17,alexiwobi_fulham,0.0,15.0,Alex Iwobi,Fulham
+2025-08-17,antoinesemenyo_bournemouth,0.0,16.0,Antoine Semenyo,Bournemouth
+2025-08-17,codygakpo_liverpool,0.0,17.0,Cody Gakpo,Liverpool
+2025-08-17,crysenciosummerville_westham,0.0,18.0,Crysencio Summerville,West Ham
+2025-08-17,danielmunoz_crystalpalace,0.0,19.0,Daniel Munoz,Crystal Palace
+2025-08-17,danndoye_notthamforest,0.0,20.0,Dan Ndoye,Nott'ham Forest
+2025-08-17,davidmollerwolfe_wolves,0.0,21.0,David Moller Wolfe,Wolves
+2025-08-17,declanrice_arsenal,0.0,22.0,Declan Rice,Arsenal
+2025-08-17,diogodalot_manchesterutd,0.0,23.0,Diogo Dalot,Manchester Utd
+2025-08-17,elhadjidiouf_westham,0.0,24.0,El Hadji Diouf,West Ham
+2025-08-17,enzofernandez_chelsea,0.0,25.0,Enzo Fernandez,Chelsea
+2025-08-17,estevaowillian_chelsea,0.0,26.0,Estevao Willian,Chelsea
+2025-08-17,frankonyeka_brentford,0.0,27.0,Frank Onyeka,Brentford
+2025-08-17,granitxhaka_sunderland,0.0,28.0,Granit Xhaka,Sunderland
+2025-08-17,jackgrealish_everton,0.0,29.0,Jack Grealish,Everton
+2025-08-17,jacobbruunlarsen_burnley,0.0,30.0,Jacob Bruun Larsen,Burnley
+2025-08-17,jaidonanthony_burnley,0.0,31.0,Jaidon Anthony,Burnley
+2025-08-17,joaopedro_chelsea,0.0,32.0,Joao Pedro,Chelsea
+2025-08-17,joshcullen_burnley,0.0,33.0,Josh Cullen,Burnley
+2025-08-17,jurrientimber_arsenal,0.0,34.0,Jurrien Timber,Arsenal
+2025-08-17,kaorumitoma_brighton,0.0,35.0,Kaoru Mitoma,Brighton
+2025-08-17,kiernandewsburyhall_everton,0.0,36.0,Kiernan Dewsbury-Hall,Everton
+2025-08-17,marccucurella_chelsea,0.0,37.0,Marc Cucurella,Chelsea
+2025-08-17,marcossenesi_bournemouth,0.0,38.0,Marcos Senesi,Bournemouth
+2025-08-17,marshallmunetsi_wolves,0.0,39.0,Marshall Munetsi,Wolves
+2025-08-17,maxencelacroix_crystalpalace,0.0,40.0,Maxence Lacroix,Crystal Palace
+2025-08-17,mohamedsalah_liverpool,0.0,41.0,Mohamed Salah,Liverpool
+2025-08-17,omarmarmoush_manchestercity,0.0,42.0,Omar Marmoush,Manchester City
+2025-08-17,riccardocalafiori_arsenal,0.0,43.0,Riccardo Calafiori,Arsenal
+2025-08-17,richarlison_tottenham,0.0,44.0,Richarlison,Tottenham
+2025-08-17,valentinolivramento_newcastleutd,0.0,45.0,Valentino Livramento,Newcastle Utd
+2025-08-22,joaopedro_chelsea,2.0,1.0,Joao Pedro,Chelsea
+2025-08-22,mohammedkudus_tottenham,2.0,2.0,Mohammed Kudus,Tottenham
+2025-08-22,alexismacallister_liverpool,1.0,3.0,Alexis Mac Allister,Liverpool
+2025-08-22,chemsdinetalbi_sunderland,1.0,4.0,Chemsdine Talbi,Sunderland
+2025-08-22,davidbrooks_bournemouth,1.0,5.0,David Brooks,Bournemouth
+2025-08-22,elhadjidiouf_westham,1.0,6.0,El Hadji Diouf,West Ham
+2025-08-22,elliotanderson_notthamforest,1.0,7.0,Elliot Anderson,Nott'ham Forest
+2025-08-22,estevaowillian_chelsea,1.0,8.0,Estevao Willian,Chelsea
+2025-08-22,hamedjuniortraore_bournemouth,1.0,9.0,Hamed Junior Traore,Bournemouth
+2025-08-22,hugoekitike_liverpool,1.0,10.0,Hugo Ekitike,Liverpool
+2025-08-22,marccucurella_chelsea,1.0,11.0,Marc Cucurella,Chelsea
+2025-08-22,morgangibbswhite_notthamforest,1.0,12.0,Morgan Gibbs-White,Nott'ham Forest
+2025-08-22,omaralderete_sunderland,1.0,13.0,Omar Alderete,Sunderland
+2025-08-22,oscarbobb_manchestercity,1.0,14.0,Oscar Bobb,Manchester City
+2025-08-22,papematarsarr_tottenham,1.0,15.0,Pape Matar Sarr,Tottenham
+2025-08-22,ricolewis_manchestercity,1.0,16.0,Rico Lewis,Manchester City
+2025-08-22,tijjanireijnders_manchestercity,1.0,17.0,Tijjani Reijnders,Manchester City
+2025-08-22,wataruendo_liverpool,1.0,18.0,Wataru Endo,Liverpool
+2025-08-22,alexiwobi_fulham,0.0,19.0,Alex Iwobi,Fulham
+2025-08-22,antoinesemenyo_bournemouth,0.0,20.0,Antoine Semenyo,Bournemouth
+2025-08-22,codygakpo_liverpool,0.0,21.0,Cody Gakpo,Liverpool
+2025-08-22,crysenciosummerville_westham,0.0,22.0,Crysencio Summerville,West Ham
+2025-08-22,danielmunoz_crystalpalace,0.0,23.0,Daniel Munoz,Crystal Palace
+2025-08-22,danndoye_notthamforest,0.0,24.0,Dan Ndoye,Nott'ham Forest
+2025-08-22,davidmollerwolfe_wolves,0.0,25.0,David Moller Wolfe,Wolves
+2025-08-22,declanrice_arsenal,0.0,26.0,Declan Rice,Arsenal
+2025-08-22,diogodalot_manchesterutd,0.0,27.0,Diogo Dalot,Manchester Utd
+2025-08-22,enzofernandez_chelsea,0.0,28.0,Enzo Fernandez,Chelsea
+2025-08-22,frankonyeka_brentford,0.0,29.0,Frank Onyeka,Brentford
+2025-08-22,granitxhaka_sunderland,0.0,30.0,Granit Xhaka,Sunderland
+2025-08-22,jackgrealish_everton,0.0,31.0,Jack Grealish,Everton
+2025-08-22,jacobbruunlarsen_burnley,0.0,32.0,Jacob Bruun Larsen,Burnley
+2025-08-22,jaidonanthony_burnley,0.0,33.0,Jaidon Anthony,Burnley
+2025-08-22,joshcullen_burnley,0.0,34.0,Josh Cullen,Burnley
+2025-08-22,jurrientimber_arsenal,0.0,35.0,Jurrien Timber,Arsenal
+2025-08-22,kaorumitoma_brighton,0.0,36.0,Kaoru Mitoma,Brighton
+2025-08-22,kiernandewsburyhall_everton,0.0,37.0,Kiernan Dewsbury-Hall,Everton
+2025-08-22,marcossenesi_bournemouth,0.0,38.0,Marcos Senesi,Bournemouth
+2025-08-22,marshallmunetsi_wolves,0.0,39.0,Marshall Munetsi,Wolves
+2025-08-22,maxencelacroix_crystalpalace,0.0,40.0,Maxence Lacroix,Crystal Palace
+2025-08-22,mohamedsalah_liverpool,0.0,41.0,Mohamed Salah,Liverpool
+2025-08-22,omarmarmoush_manchestercity,0.0,42.0,Omar Marmoush,Manchester City
+2025-08-22,riccardocalafiori_arsenal,0.0,43.0,Riccardo Calafiori,Arsenal
+2025-08-22,richarlison_tottenham,0.0,44.0,Richarlison,Tottenham
+2025-08-22,valentinolivramento_newcastleutd,0.0,45.0,Valentino Livramento,Newcastle Utd
+2025-08-23,joaopedro_chelsea,2.0,1.0,Joao Pedro,Chelsea
+2025-08-23,mohammedkudus_tottenham,2.0,2.0,Mohammed Kudus,Tottenham
+2025-08-23,riccardocalafiori_arsenal,2.0,3.0,Riccardo Calafiori,Arsenal
+2025-08-23,alexismacallister_liverpool,1.0,4.0,Alexis Mac Allister,Liverpool
+2025-08-23,antoinesemenyo_bournemouth,1.0,5.0,Antoine Semenyo,Bournemouth
+2025-08-23,chemsdinetalbi_sunderland,1.0,6.0,Chemsdine Talbi,Sunderland
+2025-08-23,davidbrooks_bournemouth,1.0,7.0,David Brooks,Bournemouth
+2025-08-23,declanrice_arsenal,1.0,8.0,Declan Rice,Arsenal
+2025-08-23,elhadjidiouf_westham,1.0,9.0,El Hadji Diouf,West Ham
+2025-08-23,elliotanderson_notthamforest,1.0,10.0,Elliot Anderson,Nott'ham Forest
+2025-08-23,estevaowillian_chelsea,1.0,11.0,Estevao Willian,Chelsea
+2025-08-23,hamedjuniortraore_bournemouth,1.0,12.0,Hamed Junior Traore,Bournemouth
+2025-08-23,hugoekitike_liverpool,1.0,13.0,Hugo Ekitike,Liverpool
+2025-08-23,jaidonanthony_burnley,1.0,14.0,Jaidon Anthony,Burnley
+2025-08-23,joshcullen_burnley,1.0,15.0,Josh Cullen,Burnley
+2025-08-23,jurrientimber_arsenal,1.0,16.0,Jurrien Timber,Arsenal
+2025-08-23,marccucurella_chelsea,1.0,17.0,Marc Cucurella,Chelsea
+2025-08-23,morgangibbswhite_notthamforest,1.0,18.0,Morgan Gibbs-White,Nott'ham Forest
+2025-08-23,omaralderete_sunderland,1.0,19.0,Omar Alderete,Sunderland
+2025-08-23,oscarbobb_manchestercity,1.0,20.0,Oscar Bobb,Manchester City
+2025-08-23,papematarsarr_tottenham,1.0,21.0,Pape Matar Sarr,Tottenham
+2025-08-23,richarlison_tottenham,1.0,22.0,Richarlison,Tottenham
+2025-08-23,ricolewis_manchestercity,1.0,23.0,Rico Lewis,Manchester City
+2025-08-23,tijjanireijnders_manchestercity,1.0,24.0,Tijjani Reijnders,Manchester City
+2025-08-23,wataruendo_liverpool,1.0,25.0,Wataru Endo,Liverpool
+2025-08-23,alexiwobi_fulham,0.0,26.0,Alex Iwobi,Fulham
+2025-08-23,codygakpo_liverpool,0.0,27.0,Cody Gakpo,Liverpool
+2025-08-23,crysenciosummerville_westham,0.0,28.0,Crysencio Summerville,West Ham
+2025-08-23,danielmunoz_crystalpalace,0.0,29.0,Daniel Munoz,Crystal Palace
+2025-08-23,danndoye_notthamforest,0.0,30.0,Dan Ndoye,Nott'ham Forest
+2025-08-23,davidmollerwolfe_wolves,0.0,31.0,David Moller Wolfe,Wolves
+2025-08-23,diogodalot_manchesterutd,0.0,32.0,Diogo Dalot,Manchester Utd
+2025-08-23,enzofernandez_chelsea,0.0,33.0,Enzo Fernandez,Chelsea
+2025-08-23,frankonyeka_brentford,0.0,34.0,Frank Onyeka,Brentford
+2025-08-23,granitxhaka_sunderland,0.0,35.0,Granit Xhaka,Sunderland
+2025-08-23,jackgrealish_everton,0.0,36.0,Jack Grealish,Everton
+2025-08-23,jacobbruunlarsen_burnley,0.0,37.0,Jacob Bruun Larsen,Burnley
+2025-08-23,kaorumitoma_brighton,0.0,38.0,Kaoru Mitoma,Brighton
+2025-08-23,kiernandewsburyhall_everton,0.0,39.0,Kiernan Dewsbury-Hall,Everton
+2025-08-23,marcossenesi_bournemouth,0.0,40.0,Marcos Senesi,Bournemouth
+2025-08-23,marshallmunetsi_wolves,0.0,41.0,Marshall Munetsi,Wolves
+2025-08-23,maxencelacroix_crystalpalace,0.0,42.0,Maxence Lacroix,Crystal Palace
+2025-08-23,mohamedsalah_liverpool,0.0,43.0,Mohamed Salah,Liverpool
+2025-08-23,omarmarmoush_manchestercity,0.0,44.0,Omar Marmoush,Manchester City
+2025-08-23,valentinolivramento_newcastleutd,0.0,45.0,Valentino Livramento,Newcastle Utd
+2025-08-24,jackgrealish_everton,2.0,1.0,Jack Grealish,Everton
+2025-08-24,joaopedro_chelsea,2.0,2.0,Joao Pedro,Chelsea
+2025-08-24,mohammedkudus_tottenham,2.0,3.0,Mohammed Kudus,Tottenham
+2025-08-24,riccardocalafiori_arsenal,2.0,4.0,Riccardo Calafiori,Arsenal
+2025-08-24,alexismacallister_liverpool,1.0,5.0,Alexis Mac Allister,Liverpool
+2025-08-24,alexiwobi_fulham,1.0,6.0,Alex Iwobi,Fulham
+2025-08-24,antoinesemenyo_bournemouth,1.0,7.0,Antoine Semenyo,Bournemouth
+2025-08-24,chemsdinetalbi_sunderland,1.0,8.0,Chemsdine Talbi,Sunderland
+2025-08-24,danielmunoz_crystalpalace,1.0,9.0,Daniel Munoz,Crystal Palace
+2025-08-24,danndoye_notthamforest,1.0,10.0,Dan Ndoye,Nott'ham Forest
+2025-08-24,davidbrooks_bournemouth,1.0,11.0,David Brooks,Bournemouth
+2025-08-24,declanrice_arsenal,1.0,12.0,Declan Rice,Arsenal
+2025-08-24,elhadjidiouf_westham,1.0,13.0,El Hadji Diouf,West Ham
+2025-08-24,elliotanderson_notthamforest,1.0,14.0,Elliot Anderson,Nott'ham Forest
+2025-08-24,estevaowillian_chelsea,1.0,15.0,Estevao Willian,Chelsea
+2025-08-24,hamedjuniortraore_bournemouth,1.0,16.0,Hamed Junior Traore,Bournemouth
+2025-08-24,hugoekitike_liverpool,1.0,17.0,Hugo Ekitike,Liverpool
+2025-08-24,jaidonanthony_burnley,1.0,18.0,Jaidon Anthony,Burnley
+2025-08-24,joshcullen_burnley,1.0,19.0,Josh Cullen,Burnley
+2025-08-24,jurrientimber_arsenal,1.0,20.0,Jurrien Timber,Arsenal
+2025-08-24,marccucurella_chelsea,1.0,21.0,Marc Cucurella,Chelsea
+2025-08-24,morgangibbswhite_notthamforest,1.0,22.0,Morgan Gibbs-White,Nott'ham Forest
+2025-08-24,omaralderete_sunderland,1.0,23.0,Omar Alderete,Sunderland
+2025-08-24,oscarbobb_manchestercity,1.0,24.0,Oscar Bobb,Manchester City
+2025-08-24,papematarsarr_tottenham,1.0,25.0,Pape Matar Sarr,Tottenham
+2025-08-24,richarlison_tottenham,1.0,26.0,Richarlison,Tottenham
+2025-08-24,ricolewis_manchestercity,1.0,27.0,Rico Lewis,Manchester City
+2025-08-24,tijjanireijnders_manchestercity,1.0,28.0,Tijjani Reijnders,Manchester City
+2025-08-24,wataruendo_liverpool,1.0,29.0,Wataru Endo,Liverpool
+2025-08-24,codygakpo_liverpool,0.0,30.0,Cody Gakpo,Liverpool
+2025-08-24,crysenciosummerville_westham,0.0,31.0,Crysencio Summerville,West Ham
+2025-08-24,davidmollerwolfe_wolves,0.0,32.0,David Moller Wolfe,Wolves
+2025-08-24,diogodalot_manchesterutd,0.0,33.0,Diogo Dalot,Manchester Utd
+2025-08-24,enzofernandez_chelsea,0.0,34.0,Enzo Fernandez,Chelsea
+2025-08-24,frankonyeka_brentford,0.0,35.0,Frank Onyeka,Brentford
+2025-08-24,granitxhaka_sunderland,0.0,36.0,Granit Xhaka,Sunderland
+2025-08-24,jacobbruunlarsen_burnley,0.0,37.0,Jacob Bruun Larsen,Burnley
+2025-08-24,kaorumitoma_brighton,0.0,38.0,Kaoru Mitoma,Brighton
+2025-08-24,kiernandewsburyhall_everton,0.0,39.0,Kiernan Dewsbury-Hall,Everton
+2025-08-24,marcossenesi_bournemouth,0.0,40.0,Marcos Senesi,Bournemouth
+2025-08-24,marshallmunetsi_wolves,0.0,41.0,Marshall Munetsi,Wolves
+2025-08-24,maxencelacroix_crystalpalace,0.0,42.0,Maxence Lacroix,Crystal Palace
+2025-08-24,mohamedsalah_liverpool,0.0,43.0,Mohamed Salah,Liverpool
+2025-08-24,omarmarmoush_manchestercity,0.0,44.0,Omar Marmoush,Manchester City
+2025-08-24,valentinolivramento_newcastleutd,0.0,45.0,Valentino Livramento,Newcastle Utd
+2025-08-25,codygakpo_liverpool,2.0,1.0,Cody Gakpo,Liverpool
+2025-08-25,jackgrealish_everton,2.0,2.0,Jack Grealish,Everton
+2025-08-25,joaopedro_chelsea,2.0,3.0,Joao Pedro,Chelsea
+2025-08-25,mohammedkudus_tottenham,2.0,4.0,Mohammed Kudus,Tottenham
+2025-08-25,riccardocalafiori_arsenal,2.0,5.0,Riccardo Calafiori,Arsenal
+2025-08-25,alexismacallister_liverpool,1.0,6.0,Alexis Mac Allister,Liverpool
+2025-08-25,alexiwobi_fulham,1.0,7.0,Alex Iwobi,Fulham
+2025-08-25,antoinesemenyo_bournemouth,1.0,8.0,Antoine Semenyo,Bournemouth
+2025-08-25,chemsdinetalbi_sunderland,1.0,9.0,Chemsdine Talbi,Sunderland
+2025-08-25,danielmunoz_crystalpalace,1.0,10.0,Daniel Munoz,Crystal Palace
+2025-08-25,danndoye_notthamforest,1.0,11.0,Dan Ndoye,Nott'ham Forest
+2025-08-25,davidbrooks_bournemouth,1.0,12.0,David Brooks,Bournemouth
+2025-08-25,declanrice_arsenal,1.0,13.0,Declan Rice,Arsenal
+2025-08-25,elhadjidiouf_westham,1.0,14.0,El Hadji Diouf,West Ham
+2025-08-25,elliotanderson_notthamforest,1.0,15.0,Elliot Anderson,Nott'ham Forest
+2025-08-25,estevaowillian_chelsea,1.0,16.0,Estevao Willian,Chelsea
+2025-08-25,hamedjuniortraore_bournemouth,1.0,17.0,Hamed Junior Traore,Bournemouth
+2025-08-25,hugoekitike_liverpool,1.0,18.0,Hugo Ekitike,Liverpool
+2025-08-25,jaidonanthony_burnley,1.0,19.0,Jaidon Anthony,Burnley
+2025-08-25,joshcullen_burnley,1.0,20.0,Josh Cullen,Burnley
+2025-08-25,jurrientimber_arsenal,1.0,21.0,Jurrien Timber,Arsenal
+2025-08-25,marccucurella_chelsea,1.0,22.0,Marc Cucurella,Chelsea
+2025-08-25,mohamedsalah_liverpool,1.0,23.0,Mohamed Salah,Liverpool
+2025-08-25,morgangibbswhite_notthamforest,1.0,24.0,Morgan Gibbs-White,Nott'ham Forest
+2025-08-25,omaralderete_sunderland,1.0,25.0,Omar Alderete,Sunderland
+2025-08-25,oscarbobb_manchestercity,1.0,26.0,Oscar Bobb,Manchester City
+2025-08-25,papematarsarr_tottenham,1.0,27.0,Pape Matar Sarr,Tottenham
+2025-08-25,richarlison_tottenham,1.0,28.0,Richarlison,Tottenham
+2025-08-25,ricolewis_manchestercity,1.0,29.0,Rico Lewis,Manchester City
+2025-08-25,tijjanireijnders_manchestercity,1.0,30.0,Tijjani Reijnders,Manchester City
+2025-08-25,valentinolivramento_newcastleutd,1.0,31.0,Valentino Livramento,Newcastle Utd
+2025-08-25,wataruendo_liverpool,1.0,32.0,Wataru Endo,Liverpool
+2025-08-25,crysenciosummerville_westham,0.0,33.0,Crysencio Summerville,West Ham
+2025-08-25,davidmollerwolfe_wolves,0.0,34.0,David Moller Wolfe,Wolves
+2025-08-25,diogodalot_manchesterutd,0.0,35.0,Diogo Dalot,Manchester Utd
+2025-08-25,enzofernandez_chelsea,0.0,36.0,Enzo Fernandez,Chelsea
+2025-08-25,frankonyeka_brentford,0.0,37.0,Frank Onyeka,Brentford
+2025-08-25,granitxhaka_sunderland,0.0,38.0,Granit Xhaka,Sunderland
+2025-08-25,jacobbruunlarsen_burnley,0.0,39.0,Jacob Bruun Larsen,Burnley
+2025-08-25,kaorumitoma_brighton,0.0,40.0,Kaoru Mitoma,Brighton
+2025-08-25,kiernandewsburyhall_everton,0.0,41.0,Kiernan Dewsbury-Hall,Everton
+2025-08-25,marcossenesi_bournemouth,0.0,42.0,Marcos Senesi,Bournemouth
+2025-08-25,marshallmunetsi_wolves,0.0,43.0,Marshall Munetsi,Wolves
+2025-08-25,maxencelacroix_crystalpalace,0.0,44.0,Maxence Lacroix,Crystal Palace
+2025-08-25,omarmarmoush_manchestercity,0.0,45.0,Omar Marmoush,Manchester City
+2025-08-30,jackgrealish_everton,4.0,1.0,Jack Grealish,Everton
+2025-08-30,codygakpo_liverpool,2.0,2.0,Cody Gakpo,Liverpool
+2025-08-30,joaopedro_chelsea,2.0,3.0,Joao Pedro,Chelsea
+2025-08-30,mohammedkudus_tottenham,2.0,4.0,Mohammed Kudus,Tottenham
+2025-08-30,riccardocalafiori_arsenal,2.0,5.0,Riccardo Calafiori,Arsenal
+2025-08-30,alexismacallister_liverpool,1.0,6.0,Alexis Mac Allister,Liverpool
+2025-08-30,alexiwobi_fulham,1.0,7.0,Alex Iwobi,Fulham
+2025-08-30,antoinesemenyo_bournemouth,1.0,8.0,Antoine Semenyo,Bournemouth
+2025-08-30,chemsdinetalbi_sunderland,1.0,9.0,Chemsdine Talbi,Sunderland
+2025-08-30,danielmunoz_crystalpalace,1.0,10.0,Daniel Munoz,Crystal Palace
+2025-08-30,danndoye_notthamforest,1.0,11.0,Dan Ndoye,Nott'ham Forest
+2025-08-30,davidbrooks_bournemouth,1.0,12.0,David Brooks,Bournemouth
+2025-08-30,davidmollerwolfe_wolves,1.0,13.0,David Moller Wolfe,Wolves
+2025-08-30,declanrice_arsenal,1.0,14.0,Declan Rice,Arsenal
+2025-08-30,diogodalot_manchesterutd,1.0,15.0,Diogo Dalot,Manchester Utd
+2025-08-30,elhadjidiouf_westham,1.0,16.0,El Hadji Diouf,West Ham
+2025-08-30,elliotanderson_notthamforest,1.0,17.0,Elliot Anderson,Nott'ham Forest
+2025-08-30,enzofernandez_chelsea,1.0,18.0,Enzo Fernandez,Chelsea
+2025-08-30,estevaowillian_chelsea,1.0,19.0,Estevao Willian,Chelsea
+2025-08-30,frankonyeka_brentford,1.0,20.0,Frank Onyeka,Brentford
+2025-08-30,granitxhaka_sunderland,1.0,21.0,Granit Xhaka,Sunderland
+2025-08-30,hamedjuniortraore_bournemouth,1.0,22.0,Hamed Junior Traore,Bournemouth
+2025-08-30,hugoekitike_liverpool,1.0,23.0,Hugo Ekitike,Liverpool
+2025-08-30,jacobbruunlarsen_burnley,1.0,24.0,Jacob Bruun Larsen,Burnley
+2025-08-30,jaidonanthony_burnley,1.0,25.0,Jaidon Anthony,Burnley
+2025-08-30,joshcullen_burnley,1.0,26.0,Josh Cullen,Burnley
+2025-08-30,jurrientimber_arsenal,1.0,27.0,Jurrien Timber,Arsenal
+2025-08-30,kiernandewsburyhall_everton,1.0,28.0,Kiernan Dewsbury-Hall,Everton
+2025-08-30,marccucurella_chelsea,1.0,29.0,Marc Cucurella,Chelsea
+2025-08-30,marcossenesi_bournemouth,1.0,30.0,Marcos Senesi,Bournemouth
+2025-08-30,marshallmunetsi_wolves,1.0,31.0,Marshall Munetsi,Wolves
+2025-08-30,mohamedsalah_liverpool,1.0,32.0,Mohamed Salah,Liverpool
+2025-08-30,morgangibbswhite_notthamforest,1.0,33.0,Morgan Gibbs-White,Nott'ham Forest
+2025-08-30,omaralderete_sunderland,1.0,34.0,Omar Alderete,Sunderland
+2025-08-30,oscarbobb_manchestercity,1.0,35.0,Oscar Bobb,Manchester City
+2025-08-30,papematarsarr_tottenham,1.0,36.0,Pape Matar Sarr,Tottenham
+2025-08-30,richarlison_tottenham,1.0,37.0,Richarlison,Tottenham
+2025-08-30,ricolewis_manchestercity,1.0,38.0,Rico Lewis,Manchester City
+2025-08-30,tijjanireijnders_manchestercity,1.0,39.0,Tijjani Reijnders,Manchester City
+2025-08-30,valentinolivramento_newcastleutd,1.0,40.0,Valentino Livramento,Newcastle Utd
+2025-08-30,wataruendo_liverpool,1.0,41.0,Wataru Endo,Liverpool
+2025-08-30,crysenciosummerville_westham,0.0,42.0,Crysencio Summerville,West Ham
+2025-08-30,kaorumitoma_brighton,0.0,43.0,Kaoru Mitoma,Brighton
+2025-08-30,maxencelacroix_crystalpalace,0.0,44.0,Maxence Lacroix,Crystal Palace
+2025-08-30,omarmarmoush_manchestercity,0.0,45.0,Omar Marmoush,Manchester City
+2025-08-31,jackgrealish_everton,4.0,1.0,Jack Grealish,Everton
+2025-08-31,codygakpo_liverpool,2.0,2.0,Cody Gakpo,Liverpool
+2025-08-31,elhadjidiouf_westham,2.0,3.0,El Hadji Diouf,West Ham
+2025-08-31,joaopedro_chelsea,2.0,4.0,Joao Pedro,Chelsea
+2025-08-31,mohammedkudus_tottenham,2.0,5.0,Mohammed Kudus,Tottenham
+2025-08-31,riccardocalafiori_arsenal,2.0,6.0,Riccardo Calafiori,Arsenal
+2025-08-31,alexismacallister_liverpool,1.0,7.0,Alexis Mac Allister,Liverpool
+2025-08-31,alexiwobi_fulham,1.0,8.0,Alex Iwobi,Fulham
+2025-08-31,antoinesemenyo_bournemouth,1.0,9.0,Antoine Semenyo,Bournemouth
+2025-08-31,chemsdinetalbi_sunderland,1.0,10.0,Chemsdine Talbi,Sunderland
+2025-08-31,crysenciosummerville_westham,1.0,11.0,Crysencio Summerville,West Ham
+2025-08-31,danielmunoz_crystalpalace,1.0,12.0,Daniel Munoz,Crystal Palace
+2025-08-31,danndoye_notthamforest,1.0,13.0,Dan Ndoye,Nott'ham Forest
+2025-08-31,davidbrooks_bournemouth,1.0,14.0,David Brooks,Bournemouth
+2025-08-31,davidmollerwolfe_wolves,1.0,15.0,David Moller Wolfe,Wolves
+2025-08-31,declanrice_arsenal,1.0,16.0,Declan Rice,Arsenal
+2025-08-31,diogodalot_manchesterutd,1.0,17.0,Diogo Dalot,Manchester Utd
+2025-08-31,elliotanderson_notthamforest,1.0,18.0,Elliot Anderson,Nott'ham Forest
+2025-08-31,enzofernandez_chelsea,1.0,19.0,Enzo Fernandez,Chelsea
+2025-08-31,estevaowillian_chelsea,1.0,20.0,Estevao Willian,Chelsea
+2025-08-31,frankonyeka_brentford,1.0,21.0,Frank Onyeka,Brentford
+2025-08-31,granitxhaka_sunderland,1.0,22.0,Granit Xhaka,Sunderland
+2025-08-31,hamedjuniortraore_bournemouth,1.0,23.0,Hamed Junior Traore,Bournemouth
+2025-08-31,hugoekitike_liverpool,1.0,24.0,Hugo Ekitike,Liverpool
+2025-08-31,jacobbruunlarsen_burnley,1.0,25.0,Jacob Bruun Larsen,Burnley
+2025-08-31,jaidonanthony_burnley,1.0,26.0,Jaidon Anthony,Burnley
+2025-08-31,joshcullen_burnley,1.0,27.0,Josh Cullen,Burnley
+2025-08-31,jurrientimber_arsenal,1.0,28.0,Jurrien Timber,Arsenal
+2025-08-31,kaorumitoma_brighton,1.0,29.0,Kaoru Mitoma,Brighton
+2025-08-31,kiernandewsburyhall_everton,1.0,30.0,Kiernan Dewsbury-Hall,Everton
+2025-08-31,marccucurella_chelsea,1.0,31.0,Marc Cucurella,Chelsea
+2025-08-31,marcossenesi_bournemouth,1.0,32.0,Marcos Senesi,Bournemouth
+2025-08-31,marshallmunetsi_wolves,1.0,33.0,Marshall Munetsi,Wolves
+2025-08-31,maxencelacroix_crystalpalace,1.0,34.0,Maxence Lacroix,Crystal Palace
+2025-08-31,mohamedsalah_liverpool,1.0,35.0,Mohamed Salah,Liverpool
+2025-08-31,morgangibbswhite_notthamforest,1.0,36.0,Morgan Gibbs-White,Nott'ham Forest
+2025-08-31,omaralderete_sunderland,1.0,37.0,Omar Alderete,Sunderland
+2025-08-31,omarmarmoush_manchestercity,1.0,38.0,Omar Marmoush,Manchester City
+2025-08-31,oscarbobb_manchestercity,1.0,39.0,Oscar Bobb,Manchester City
+2025-08-31,papematarsarr_tottenham,1.0,40.0,Pape Matar Sarr,Tottenham
+2025-08-31,richarlison_tottenham,1.0,41.0,Richarlison,Tottenham
+2025-08-31,ricolewis_manchestercity,1.0,42.0,Rico Lewis,Manchester City
+2025-08-31,tijjanireijnders_manchestercity,1.0,43.0,Tijjani Reijnders,Manchester City
+2025-08-31,valentinolivramento_newcastleutd,1.0,44.0,Valentino Livramento,Newcastle Utd
+2025-08-31,wataruendo_liverpool,1.0,45.0,Wataru Endo,Liverpool

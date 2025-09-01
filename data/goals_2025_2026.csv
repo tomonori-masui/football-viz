@@ -1,0 +1,71 @@
+date,team,player,value,player_team,cum_sum,pk
+2025-08-15,Bournemouth,Antoine Semenyo,2,antoinesemenyo_bournemouth,2.0,0.0
+2025-08-15,Liverpool,Cody Gakpo,1,codygakpo_liverpool,1.0,0.0
+2025-08-15,Liverpool,Federico Chiesa,1,federicochiesa_liverpool,1.0,0.0
+2025-08-15,Liverpool,Hugo Ekitike,1,hugoekitike_liverpool,1.0,0.0
+2025-08-15,Liverpool,Mohamed Salah,1,mohamedsalah_liverpool,1.0,0.0
+2025-08-16,Tottenham,Brennan Johnson,1,brennanjohnson_tottenham,1.0,0.0
+2025-08-16,Sunderland,Daniel Ballard,1,danielballard_sunderland,1.0,0.0
+2025-08-16,Sunderland,Eliezer Mayenda,1,eliezermayenda_sunderland,1.0,0.0
+2025-08-16,Manchester City,Erling Haaland,2,erlinghaaland_manchestercity,2.0,0.0
+2025-08-16,Brighton,Matt O'Riley,1,mattoriley_brighton,1.0,1.0
+2025-08-16,Manchester City,Rayan Cherki,1,rayancherki_manchestercity,1.0,0.0
+2025-08-16,Tottenham,Richarlison,2,richarlison_tottenham,2.0,0.0
+2025-08-16,Fulham,Rodrigo Muniz,1,rodrigomuniz_fulham,1.0,0.0
+2025-08-16,Manchester City,Tijjani Reijnders,1,tijjanireijnders_manchestercity,1.0,0.0
+2025-08-16,Sunderland,Wilson Isidor,1,wilsonisidor_sunderland,1.0,0.0
+2025-08-17,Nott'ham Forest,Chris Wood,2,chriswood_notthamforest,2.0,0.0
+2025-08-17,Nott'ham Forest,Dan Ndoye,1,danndoye_notthamforest,1.0,0.0
+2025-08-17,Arsenal,Riccardo Calafiori,1,riccardocalafiori_arsenal,1.0,0.0
+2025-08-17,Brentford,Thiago,1,thiago_brentford,1.0,1.0
+2025-08-18,Leeds United,Lukas Nmecha,1,lukasnmecha_leedsunited,1.0,1.0
+2025-08-22,Chelsea,Enzo Fernandez,1,enzofernandez_chelsea,1.0,0.0
+2025-08-22,Chelsea,Joao Pedro,1,joaopedro_chelsea,1.0,0.0
+2025-08-22,West Ham,Lucas Paqueta,1,lucaspaqueta_westham,1.0,0.0
+2025-08-22,Chelsea,Moises Caicedo,1,moisescaicedo_chelsea,1.0,0.0
+2025-08-22,Chelsea,Pedro Neto,1,pedroneto_chelsea,1.0,0.0
+2025-08-22,Chelsea,Trevoh Chalobah,1,trevohchalobah_chelsea,1.0,0.0
+2025-08-23,Tottenham,Brennan Johnson,1,brennanjohnson_tottenham,2.0,0.0
+2025-08-23,Arsenal,Bukayo Saka,1,bukayosaka_arsenal,1.0,0.0
+2025-08-23,Brentford,Dango Ouattara,1,dangoouattara_brentford,1.0,0.0
+2025-08-23,Burnley,Jaidon Anthony,1,jaidonanthony_burnley,1.0,0.0
+2025-08-23,Tottenham,Joao Palhinha,1,joaopalhinha_tottenham,1.0,0.0
+2025-08-23,Burnley,Josh Cullen,1,joshcullen_burnley,1.0,0.0
+2025-08-23,Arsenal,Jurrien Timber,2,jurrientimber_arsenal,2.0,0.0
+2025-08-23,Bournemouth,Marcus Tavernier,1,marcustavernier_bournemouth,1.0,0.0
+2025-08-23,Arsenal,Viktor Gyokeres,2,viktorgyokeres_arsenal,2.0,1.0
+2025-08-24,Nott'ham Forest,Callum Hudson-Odoi,1,callumhudsonodoi_notthamforest,1.0,0.0
+2025-08-24,Fulham,Emile Smith Rowe,1,emilesmithrowe_fulham,1.0,0.0
+2025-08-24,Everton,Iliman Ndiaye,1,ilimanndiaye_everton,1.0,0.0
+2025-08-24,Crystal Palace,Ismaila Sarr,1,ismailasarr_crystalpalace,1.0,0.0
+2025-08-24,Everton,James Garner,1,jamesgarner_everton,1.0,0.0
+2025-08-25,Newcastle Utd,Bruno Guimaraes,1,brunoguimaraes_newcastleutd,1.0,0.0
+2025-08-25,Liverpool,Hugo Ekitike,1,hugoekitike_liverpool,2.0,0.0
+2025-08-25,Liverpool,Rio Ngumoha,1,riongumoha_liverpool,1.0,0.0
+2025-08-25,Liverpool,Ryan Gravenberch,1,ryangravenberch_liverpool,1.0,0.0
+2025-08-25,Newcastle Utd,William Osula,1,williamosula_newcastleutd,1.0,0.0
+2025-08-30,Everton,Beto,1,beto_everton,1.0,0.0
+2025-08-30,Manchester Utd,Bruno Fernandes,1,brunofernandes_manchesterutd,1.0,1.0
+2025-08-30,Manchester Utd,Bryan Mbeumo,1,bryanmbeumo_manchesterutd,1.0,0.0
+2025-08-30,Chelsea,Enzo Fernandez,1,enzofernandez_chelsea,2.0,1.0
+2025-08-30,Sunderland,Enzo Le Fee,1,enzolefee_sunderland,1.0,1.0
+2025-08-30,Bournemouth,Evanilson,1,evanilson_bournemouth,1.0,0.0
+2025-08-30,Wolves,Hwang Hee-chan,1,hwangheechan_wolves,1.0,0.0
+2025-08-30,Everton,Iliman Ndiaye,1,ilimanndiaye_everton,2.0,0.0
+2025-08-30,Burnley,Jaidon Anthony,1,jaidonanthony_burnley,2.0,0.0
+2025-08-30,Chelsea,Joao Pedro,1,joaopedro_chelsea,2.0,0.0
+2025-08-30,Everton,Kiernan Dewsbury-Hall,1,kiernandewsburyhall_everton,1.0,0.0
+2025-08-30,Burnley,Lyle Foster,1,lylefoster_burnley,1.0,0.0
+2025-08-30,Wolves,Rodrigo Gomes,1,rodrigogomes_wolves,1.0,0.0
+2025-08-30,Brentford,Thiago,1,thiago_brentford,2.0,1.0
+2025-08-30,Sunderland,Wilson Isidor,1,wilsonisidor_sunderland,2.0,0.0
+2025-08-31,Brighton,Brajan Gruda,1,brajangruda_brighton,1.0,0.0
+2025-08-31,West Ham,Callum Wilson,1,callumwilson_westham,1.0,0.0
+2025-08-31,Liverpool,Dominik Szoboszlai,1,dominikszoboszlai_liverpool,1.0,0.0
+2025-08-31,Manchester City,Erling Haaland,1,erlinghaaland_manchestercity,3.0,0.0
+2025-08-31,Crystal Palace,Ismaila Sarr,1,ismailasarr_crystalpalace,2.0,0.0
+2025-08-31,Brighton,James Milner,1,jamesmilner_brighton,1.0,1.0
+2025-08-31,West Ham,Jarrod Bowen,1,jarrodbowen_westham,1.0,0.0
+2025-08-31,Crystal Palace,Jean-Philippe Mateta,1,jeanphilippemateta_crystalpalace,1.0,1.0
+2025-08-31,West Ham,Lucas Paqueta,1,lucaspaqueta_westham,2.0,1.0
+2025-08-31,Crystal Palace,Marc Guehi,1,marcguehi_crystalpalace,1.0,0.0

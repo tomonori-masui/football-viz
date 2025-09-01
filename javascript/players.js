@@ -12,7 +12,7 @@ let playersPerValue = {};
 let valueCountsArray = [];
 const mobileWidth = 620;
 const formatDate = d3.timeFormat("%y-%m-%d");
-const latestSeason = "2024_2025";
+const latestSeason = "2025_2026";
 
 export function drawPlayers() {
     defineSVG();
