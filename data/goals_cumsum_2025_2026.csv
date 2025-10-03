@@ -4,60 +4,104 @@ date,player_team,value,pk,rank,player,team
 2025-08-15,federicochiesa_liverpool,1.0,0.0,3.0,Federico Chiesa,Liverpool
 2025-08-15,hugoekitike_liverpool,1.0,0.0,4.0,Hugo Ekitike,Liverpool
 2025-08-15,mohamedsalah_liverpool,1.0,0.0,5.0,Mohamed Salah,Liverpool
-2025-08-15,beto_everton,0.0,0.0,6.0,Beto,Everton
-2025-08-15,brajangruda_brighton,0.0,0.0,7.0,Brajan Gruda,Brighton
-2025-08-15,brennanjohnson_tottenham,0.0,0.0,8.0,Brennan Johnson,Tottenham
-2025-08-15,brunofernandes_manchesterutd,0.0,0.0,9.0,Bruno Fernandes,Manchester Utd
-2025-08-15,brunoguimaraes_newcastleutd,0.0,0.0,10.0,Bruno Guimaraes,Newcastle Utd
-2025-08-15,bryanmbeumo_manchesterutd,0.0,0.0,11.0,Bryan Mbeumo,Manchester Utd
-2025-08-15,bukayosaka_arsenal,0.0,0.0,12.0,Bukayo Saka,Arsenal
-2025-08-15,callumhudsonodoi_notthamforest,0.0,0.0,13.0,Callum Hudson-Odoi,Nott'ham Forest
-2025-08-15,callumwilson_westham,0.0,0.0,14.0,Callum Wilson,West Ham
-2025-08-15,chriswood_notthamforest,0.0,0.0,15.0,Chris Wood,Nott'ham Forest
-2025-08-15,dangoouattara_brentford,0.0,0.0,16.0,Dango Ouattara,Brentford
-2025-08-15,danielballard_sunderland,0.0,0.0,17.0,Daniel Ballard,Sunderland
-2025-08-15,danndoye_notthamforest,0.0,0.0,18.0,Dan Ndoye,Nott'ham Forest
-2025-08-15,dominikszoboszlai_liverpool,0.0,0.0,19.0,Dominik Szoboszlai,Liverpool
-2025-08-15,eliezermayenda_sunderland,0.0,0.0,20.0,Eliezer Mayenda,Sunderland
-2025-08-15,emilesmithrowe_fulham,0.0,0.0,21.0,Emile Smith Rowe,Fulham
-2025-08-15,enzofernandez_chelsea,0.0,0.0,22.0,Enzo Fernandez,Chelsea
-2025-08-15,enzolefee_sunderland,0.0,0.0,23.0,Enzo Le Fee,Sunderland
-2025-08-15,erlinghaaland_manchestercity,0.0,0.0,24.0,Erling Haaland,Manchester City
-2025-08-15,evanilson_bournemouth,0.0,0.0,25.0,Evanilson,Bournemouth
-2025-08-15,hwangheechan_wolves,0.0,0.0,26.0,Hwang Hee-chan,Wolves
-2025-08-15,ilimanndiaye_everton,0.0,0.0,27.0,Iliman Ndiaye,Everton
-2025-08-15,ismailasarr_crystalpalace,0.0,0.0,28.0,Ismaila Sarr,Crystal Palace
-2025-08-15,jaidonanthony_burnley,0.0,0.0,29.0,Jaidon Anthony,Burnley
-2025-08-15,jamesgarner_everton,0.0,0.0,30.0,James Garner,Everton
-2025-08-15,jamesmilner_brighton,0.0,0.0,31.0,James Milner,Brighton
-2025-08-15,jarrodbowen_westham,0.0,0.0,32.0,Jarrod Bowen,West Ham
-2025-08-15,jeanphilippemateta_crystalpalace,0.0,0.0,33.0,Jean-Philippe Mateta,Crystal Palace
-2025-08-15,joaopalhinha_tottenham,0.0,0.0,34.0,Joao Palhinha,Tottenham
-2025-08-15,joaopedro_chelsea,0.0,0.0,35.0,Joao Pedro,Chelsea
-2025-08-15,joshcullen_burnley,0.0,0.0,36.0,Josh Cullen,Burnley
-2025-08-15,jurrientimber_arsenal,0.0,0.0,37.0,Jurrien Timber,Arsenal
-2025-08-15,kiernandewsburyhall_everton,0.0,0.0,38.0,Kiernan Dewsbury-Hall,Everton
-2025-08-15,lucaspaqueta_westham,0.0,0.0,39.0,Lucas Paqueta,West Ham
-2025-08-15,lukasnmecha_leedsunited,0.0,0.0,40.0,Lukas Nmecha,Leeds United
-2025-08-15,lylefoster_burnley,0.0,0.0,41.0,Lyle Foster,Burnley
-2025-08-15,marcguehi_crystalpalace,0.0,0.0,42.0,Marc Guehi,Crystal Palace
-2025-08-15,marcustavernier_bournemouth,0.0,0.0,43.0,Marcus Tavernier,Bournemouth
-2025-08-15,mattoriley_brighton,0.0,0.0,44.0,Matt O'Riley,Brighton
-2025-08-15,moisescaicedo_chelsea,0.0,0.0,45.0,Moises Caicedo,Chelsea
-2025-08-15,pedroneto_chelsea,0.0,0.0,46.0,Pedro Neto,Chelsea
-2025-08-15,rayancherki_manchestercity,0.0,0.0,47.0,Rayan Cherki,Manchester City
-2025-08-15,riccardocalafiori_arsenal,0.0,0.0,48.0,Riccardo Calafiori,Arsenal
-2025-08-15,richarlison_tottenham,0.0,0.0,49.0,Richarlison,Tottenham
-2025-08-15,riongumoha_liverpool,0.0,0.0,50.0,Rio Ngumoha,Liverpool
-2025-08-15,rodrigogomes_wolves,0.0,0.0,51.0,Rodrigo Gomes,Wolves
-2025-08-15,rodrigomuniz_fulham,0.0,0.0,52.0,Rodrigo Muniz,Fulham
-2025-08-15,ryangravenberch_liverpool,0.0,0.0,53.0,Ryan Gravenberch,Liverpool
-2025-08-15,thiago_brentford,0.0,0.0,54.0,Thiago,Brentford
-2025-08-15,tijjanireijnders_manchestercity,0.0,0.0,55.0,Tijjani Reijnders,Manchester City
-2025-08-15,trevohchalobah_chelsea,0.0,0.0,56.0,Trevoh Chalobah,Chelsea
-2025-08-15,viktorgyokeres_arsenal,0.0,0.0,57.0,Viktor Gyokeres,Arsenal
-2025-08-15,williamosula_newcastleutd,0.0,0.0,58.0,William Osula,Newcastle Utd
-2025-08-15,wilsonisidor_sunderland,0.0,0.0,59.0,Wilson Isidor,Sunderland
+2025-08-15,alexiwobi_fulham,0.0,0.0,6.0,Alex Iwobi,Fulham
+2025-08-15,alexscott_bournemouth,0.0,0.0,7.0,Alex Scott,Bournemouth
+2025-08-15,antonstach_leedsunited,0.0,0.0,8.0,Anton Stach,Leeds United
+2025-08-15,benjaminsesko_manchesterutd,0.0,0.0,9.0,Benjamin Sesko,Manchester Utd
+2025-08-15,beto_everton,0.0,0.0,10.0,Beto,Everton
+2025-08-15,brajangruda_brighton,0.0,0.0,11.0,Brajan Gruda,Brighton
+2025-08-15,brennanjohnson_tottenham,0.0,0.0,12.0,Brennan Johnson,Tottenham
+2025-08-15,brunofernandes_manchesterutd,0.0,0.0,13.0,Bruno Fernandes,Manchester Utd
+2025-08-15,brunoguimaraes_newcastleutd,0.0,0.0,14.0,Bruno Guimaraes,Newcastle Utd
+2025-08-15,bryanmbeumo_manchesterutd,0.0,0.0,15.0,Bryan Mbeumo,Manchester Utd
+2025-08-15,bukayosaka_arsenal,0.0,0.0,16.0,Bukayo Saka,Arsenal
+2025-08-15,callumhudsonodoi_notthamforest,0.0,0.0,17.0,Callum Hudson-Odoi,Nott'ham Forest
+2025-08-15,callumwilson_westham,0.0,0.0,18.0,Callum Wilson,West Ham
+2025-08-15,casemiro_manchesterutd,0.0,0.0,19.0,Casemiro,Manchester Utd
+2025-08-15,chriswood_notthamforest,0.0,0.0,20.0,Chris Wood,Nott'ham Forest
+2025-08-15,colepalmer_chelsea,0.0,0.0,21.0,Cole Palmer,Chelsea
+2025-08-15,dangoouattara_brentford,0.0,0.0,22.0,Dango Ouattara,Brentford
+2025-08-15,danielballard_sunderland,0.0,0.0,23.0,Daniel Ballard,Sunderland
+2025-08-15,danndoye_notthamforest,0.0,0.0,24.0,Dan Ndoye,Nott'ham Forest
+2025-08-15,dannywelbeck_brighton,0.0,0.0,25.0,Danny Welbeck,Brighton
+2025-08-15,dominiccalvertlewin_leedsunited,0.0,0.0,26.0,Dominic Calvert-Lewin,Leeds United
+2025-08-15,dominikszoboszlai_liverpool,0.0,0.0,27.0,Dominik Szoboszlai,Liverpool
+2025-08-15,eddienketiah_crystalpalace,0.0,0.0,28.0,Eddie Nketiah,Crystal Palace
+2025-08-15,eliezermayenda_sunderland,0.0,0.0,29.0,Eliezer Mayenda,Sunderland
+2025-08-15,elijuniorkroupi_bournemouth,0.0,0.0,30.0,Eli Junior Kroupi,Bournemouth
+2025-08-15,emibuendia_astonvilla,0.0,0.0,31.0,Emi Buendia,Aston Villa
+2025-08-15,emilesmithrowe_fulham,0.0,0.0,32.0,Emile Smith Rowe,Fulham
+2025-08-15,enzofernandez_chelsea,0.0,0.0,33.0,Enzo Fernandez,Chelsea
+2025-08-15,enzolefee_sunderland,0.0,0.0,34.0,Enzo Le Fee,Sunderland
+2025-08-15,erlinghaaland_manchestercity,0.0,0.0,35.0,Erling Haaland,Manchester City
+2025-08-15,evanilson_bournemouth,0.0,0.0,36.0,Evanilson,Bournemouth
+2025-08-15,fabiocarvalho_brentford,0.0,0.0,37.0,Fabio Carvalho,Brentford
+2025-08-15,gabrielmagalhaes_arsenal,0.0,0.0,38.0,Gabriel Magalhaes,Arsenal
+2025-08-15,gabrielmartinelli_arsenal,0.0,0.0,39.0,Gabriel Martinelli,Arsenal
+2025-08-15,harrywilson_fulham,0.0,0.0,40.0,Harry Wilson,Fulham
+2025-08-15,hwangheechan_wolves,0.0,0.0,41.0,Hwang Hee-chan,Wolves
+2025-08-15,idrissaganagueye_everton,0.0,0.0,42.0,Idrissa Gana Gueye,Everton
+2025-08-15,ilimanndiaye_everton,0.0,0.0,43.0,Iliman Ndiaye,Everton
+2025-08-15,ismailasarr_crystalpalace,0.0,0.0,44.0,Ismaila Sarr,Crystal Palace
+2025-08-15,jaidonanthony_burnley,0.0,0.0,45.0,Jaidon Anthony,Burnley
+2025-08-15,jamesgarner_everton,0.0,0.0,46.0,James Garner,Everton
+2025-08-15,jamesmilner_brighton,0.0,0.0,47.0,James Milner,Brighton
+2025-08-15,jarrodbowen_westham,0.0,0.0,48.0,Jarrod Bowen,West Ham
+2025-08-15,jeanphilippemateta_crystalpalace,0.0,0.0,49.0,Jean-Philippe Mateta,Crystal Palace
+2025-08-15,joaopalhinha_tottenham,0.0,0.0,50.0,Joao Palhinha,Tottenham
+2025-08-15,joaopedro_chelsea,0.0,0.0,51.0,Joao Pedro,Chelsea
+2025-08-15,joerodon_leedsunited,0.0,0.0,52.0,Joe Rodon,Leeds United
+2025-08-15,johnmcginn_astonvilla,0.0,0.0,53.0,John McGinn,Aston Villa
+2025-08-15,joshcullen_burnley,0.0,0.0,54.0,Josh Cullen,Burnley
+2025-08-15,jurrientimber_arsenal,0.0,0.0,55.0,Jurrien Timber,Arsenal
+2025-08-15,kaorumitoma_brighton,0.0,0.0,56.0,Kaoru Mitoma,Brighton
+2025-08-15,kevinschade_brentford,0.0,0.0,57.0,Kevin Schade,Brentford
+2025-08-15,kiernandewsburyhall_everton,0.0,0.0,58.0,Kiernan Dewsbury-Hall,Everton
+2025-08-15,ladislavkrejci_wolves,0.0,0.0,59.0,Ladislav Krejci,Wolves
+2025-08-15,lucasbergvall_tottenham,0.0,0.0,60.0,Lucas Bergvall,Tottenham
+2025-08-15,lucaspaqueta_westham,0.0,0.0,61.0,Lucas Paqueta,West Ham
+2025-08-15,lukasnmecha_leedsunited,0.0,0.0,62.0,Lukas Nmecha,Leeds United
+2025-08-15,lylefoster_burnley,0.0,0.0,63.0,Lyle Foster,Burnley
+2025-08-15,marcguehi_crystalpalace,0.0,0.0,64.0,Marc Guehi,Crystal Palace
+2025-08-15,marcustavernier_bournemouth,0.0,0.0,65.0,Marcus Tavernier,Bournemouth
+2025-08-15,martinzubimendi_arsenal,0.0,0.0,66.0,Martin Zubimendi,Arsenal
+2025-08-15,matheusnunes_manchestercity,0.0,0.0,67.0,Matheus Nunes,Manchester City
+2025-08-15,mathiasjensen_brentford,0.0,0.0,68.0,Mathias Jensen,Brentford
+2025-08-15,mattoriley_brighton,0.0,0.0,69.0,Matt O'Riley,Brighton
+2025-08-15,mattycash_astonvilla,0.0,0.0,70.0,Matty Cash,Aston Villa
+2025-08-15,maximdecuyper_brighton,0.0,0.0,71.0,Maxim De Cuyper,Brighton
+2025-08-15,michaelkeane_everton,0.0,0.0,72.0,Michael Keane,Everton
+2025-08-15,mickyvandeven_tottenham,0.0,0.0,73.0,Micky van de Ven,Tottenham
+2025-08-15,mikelmerino_arsenal,0.0,0.0,74.0,Mikel Merino,Arsenal
+2025-08-15,mikkeldamsgaard_brentford,0.0,0.0,75.0,Mikkel Damsgaard,Brentford
+2025-08-15,moisescaicedo_chelsea,0.0,0.0,76.0,Moises Caicedo,Chelsea
+2025-08-15,necowilliams_notthamforest,0.0,0.0,77.0,Neco Williams,Nott'ham Forest
+2025-08-15,nickwoltemade_newcastleutd,0.0,0.0,78.0,Nick Woltemade,Newcastle Utd
+2025-08-15,noahokafor_leedsunited,0.0,0.0,79.0,Noah Okafor,Leeds United
+2025-08-15,olliewatkins_astonvilla,0.0,0.0,80.0,Ollie Watkins,Aston Villa
+2025-08-15,omaralderete_sunderland,0.0,0.0,81.0,Omar Alderete,Sunderland
+2025-08-15,papematarsarr_tottenham,0.0,0.0,82.0,Pape Matar Sarr,Tottenham
+2025-08-15,pedroneto_chelsea,0.0,0.0,83.0,Pedro Neto,Chelsea
+2025-08-15,philfoden_manchestercity,0.0,0.0,84.0,Phil Foden,Manchester City
+2025-08-15,rauljimenez_fulham,0.0,0.0,85.0,Raul Jimenez,Fulham
+2025-08-15,rayancherki_manchestercity,0.0,0.0,86.0,Rayan Cherki,Manchester City
+2025-08-15,riccardocalafiori_arsenal,0.0,0.0,87.0,Riccardo Calafiori,Arsenal
+2025-08-15,richarlison_tottenham,0.0,0.0,88.0,Richarlison,Tottenham
+2025-08-15,riongumoha_liverpool,0.0,0.0,89.0,Rio Ngumoha,Liverpool
+2025-08-15,rodrigogomes_wolves,0.0,0.0,90.0,Rodrigo Gomes,Wolves
+2025-08-15,rodrigomuniz_fulham,0.0,0.0,91.0,Rodrigo Muniz,Fulham
+2025-08-15,ryangravenberch_liverpool,0.0,0.0,92.0,Ryan Gravenberch,Liverpool
+2025-08-15,santiagobueno_wolves,0.0,0.0,93.0,Santiago Bueno,Wolves
+2025-08-15,seanlongstaff_leedsunited,0.0,0.0,94.0,Sean Longstaff,Leeds United
+2025-08-15,thiago_brentford,0.0,0.0,95.0,Thiago,Brentford
+2025-08-15,tijjanireijnders_manchestercity,0.0,0.0,96.0,Tijjani Reijnders,Manchester City
+2025-08-15,trevohchalobah_chelsea,0.0,0.0,97.0,Trevoh Chalobah,Chelsea
+2025-08-15,tyrickmitchell_crystalpalace,0.0,0.0,98.0,Tyrick Mitchell,Crystal Palace
+2025-08-15,viktorgyokeres_arsenal,0.0,0.0,99.0,Viktor Gyokeres,Arsenal
+2025-08-15,williamosula_newcastleutd,0.0,0.0,100.0,William Osula,Newcastle Utd
+2025-08-15,wilsonisidor_sunderland,0.0,0.0,101.0,Wilson Isidor,Sunderland
+2025-08-15,yankubaminteh_brighton,0.0,0.0,102.0,Yankuba Minteh,Brighton
+2025-08-15,yasinayari_brighton,0.0,0.0,103.0,Yasin Ayari,Brighton
 2025-08-16,antoinesemenyo_bournemouth,2.0,0.0,1.0,Antoine Semenyo,Bournemouth
 2025-08-16,erlinghaaland_manchestercity,2.0,0.0,2.0,Erling Haaland,Manchester City
 2025-08-16,richarlison_tottenham,2.0,0.0,3.0,Richarlison,Tottenham
@@ -73,50 +117,94 @@ date,player_team,value,pk,rank,player,team
 2025-08-16,rodrigomuniz_fulham,1.0,0.0,13.0,Rodrigo Muniz,Fulham
 2025-08-16,tijjanireijnders_manchestercity,1.0,0.0,14.0,Tijjani Reijnders,Manchester City
 2025-08-16,wilsonisidor_sunderland,1.0,0.0,15.0,Wilson Isidor,Sunderland
-2025-08-16,beto_everton,0.0,0.0,16.0,Beto,Everton
-2025-08-16,brajangruda_brighton,0.0,0.0,17.0,Brajan Gruda,Brighton
-2025-08-16,brunofernandes_manchesterutd,0.0,0.0,18.0,Bruno Fernandes,Manchester Utd
-2025-08-16,brunoguimaraes_newcastleutd,0.0,0.0,19.0,Bruno Guimaraes,Newcastle Utd
-2025-08-16,bryanmbeumo_manchesterutd,0.0,0.0,20.0,Bryan Mbeumo,Manchester Utd
-2025-08-16,bukayosaka_arsenal,0.0,0.0,21.0,Bukayo Saka,Arsenal
-2025-08-16,callumhudsonodoi_notthamforest,0.0,0.0,22.0,Callum Hudson-Odoi,Nott'ham Forest
-2025-08-16,callumwilson_westham,0.0,0.0,23.0,Callum Wilson,West Ham
-2025-08-16,chriswood_notthamforest,0.0,0.0,24.0,Chris Wood,Nott'ham Forest
-2025-08-16,dangoouattara_brentford,0.0,0.0,25.0,Dango Ouattara,Brentford
-2025-08-16,danndoye_notthamforest,0.0,0.0,26.0,Dan Ndoye,Nott'ham Forest
-2025-08-16,dominikszoboszlai_liverpool,0.0,0.0,27.0,Dominik Szoboszlai,Liverpool
-2025-08-16,emilesmithrowe_fulham,0.0,0.0,28.0,Emile Smith Rowe,Fulham
-2025-08-16,enzofernandez_chelsea,0.0,0.0,29.0,Enzo Fernandez,Chelsea
-2025-08-16,enzolefee_sunderland,0.0,0.0,30.0,Enzo Le Fee,Sunderland
-2025-08-16,evanilson_bournemouth,0.0,0.0,31.0,Evanilson,Bournemouth
-2025-08-16,hwangheechan_wolves,0.0,0.0,32.0,Hwang Hee-chan,Wolves
-2025-08-16,ilimanndiaye_everton,0.0,0.0,33.0,Iliman Ndiaye,Everton
-2025-08-16,ismailasarr_crystalpalace,0.0,0.0,34.0,Ismaila Sarr,Crystal Palace
-2025-08-16,jaidonanthony_burnley,0.0,0.0,35.0,Jaidon Anthony,Burnley
-2025-08-16,jamesgarner_everton,0.0,0.0,36.0,James Garner,Everton
-2025-08-16,jamesmilner_brighton,0.0,0.0,37.0,James Milner,Brighton
-2025-08-16,jarrodbowen_westham,0.0,0.0,38.0,Jarrod Bowen,West Ham
-2025-08-16,jeanphilippemateta_crystalpalace,0.0,0.0,39.0,Jean-Philippe Mateta,Crystal Palace
-2025-08-16,joaopalhinha_tottenham,0.0,0.0,40.0,Joao Palhinha,Tottenham
-2025-08-16,joaopedro_chelsea,0.0,0.0,41.0,Joao Pedro,Chelsea
-2025-08-16,joshcullen_burnley,0.0,0.0,42.0,Josh Cullen,Burnley
-2025-08-16,jurrientimber_arsenal,0.0,0.0,43.0,Jurrien Timber,Arsenal
-2025-08-16,kiernandewsburyhall_everton,0.0,0.0,44.0,Kiernan Dewsbury-Hall,Everton
-2025-08-16,lucaspaqueta_westham,0.0,0.0,45.0,Lucas Paqueta,West Ham
-2025-08-16,lukasnmecha_leedsunited,0.0,0.0,46.0,Lukas Nmecha,Leeds United
-2025-08-16,lylefoster_burnley,0.0,0.0,47.0,Lyle Foster,Burnley
-2025-08-16,marcguehi_crystalpalace,0.0,0.0,48.0,Marc Guehi,Crystal Palace
-2025-08-16,marcustavernier_bournemouth,0.0,0.0,49.0,Marcus Tavernier,Bournemouth
-2025-08-16,moisescaicedo_chelsea,0.0,0.0,50.0,Moises Caicedo,Chelsea
-2025-08-16,pedroneto_chelsea,0.0,0.0,51.0,Pedro Neto,Chelsea
-2025-08-16,riccardocalafiori_arsenal,0.0,0.0,52.0,Riccardo Calafiori,Arsenal
-2025-08-16,riongumoha_liverpool,0.0,0.0,53.0,Rio Ngumoha,Liverpool
-2025-08-16,rodrigogomes_wolves,0.0,0.0,54.0,Rodrigo Gomes,Wolves
-2025-08-16,ryangravenberch_liverpool,0.0,0.0,55.0,Ryan Gravenberch,Liverpool
-2025-08-16,thiago_brentford,0.0,0.0,56.0,Thiago,Brentford
-2025-08-16,trevohchalobah_chelsea,0.0,0.0,57.0,Trevoh Chalobah,Chelsea
-2025-08-16,viktorgyokeres_arsenal,0.0,0.0,58.0,Viktor Gyokeres,Arsenal
-2025-08-16,williamosula_newcastleutd,0.0,0.0,59.0,William Osula,Newcastle Utd
+2025-08-16,alexiwobi_fulham,0.0,0.0,16.0,Alex Iwobi,Fulham
+2025-08-16,alexscott_bournemouth,0.0,0.0,17.0,Alex Scott,Bournemouth
+2025-08-16,antonstach_leedsunited,0.0,0.0,18.0,Anton Stach,Leeds United
+2025-08-16,benjaminsesko_manchesterutd,0.0,0.0,19.0,Benjamin Sesko,Manchester Utd
+2025-08-16,beto_everton,0.0,0.0,20.0,Beto,Everton
+2025-08-16,brajangruda_brighton,0.0,0.0,21.0,Brajan Gruda,Brighton
+2025-08-16,brunofernandes_manchesterutd,0.0,0.0,22.0,Bruno Fernandes,Manchester Utd
+2025-08-16,brunoguimaraes_newcastleutd,0.0,0.0,23.0,Bruno Guimaraes,Newcastle Utd
+2025-08-16,bryanmbeumo_manchesterutd,0.0,0.0,24.0,Bryan Mbeumo,Manchester Utd
+2025-08-16,bukayosaka_arsenal,0.0,0.0,25.0,Bukayo Saka,Arsenal
+2025-08-16,callumhudsonodoi_notthamforest,0.0,0.0,26.0,Callum Hudson-Odoi,Nott'ham Forest
+2025-08-16,callumwilson_westham,0.0,0.0,27.0,Callum Wilson,West Ham
+2025-08-16,casemiro_manchesterutd,0.0,0.0,28.0,Casemiro,Manchester Utd
+2025-08-16,chriswood_notthamforest,0.0,0.0,29.0,Chris Wood,Nott'ham Forest
+2025-08-16,colepalmer_chelsea,0.0,0.0,30.0,Cole Palmer,Chelsea
+2025-08-16,dangoouattara_brentford,0.0,0.0,31.0,Dango Ouattara,Brentford
+2025-08-16,danndoye_notthamforest,0.0,0.0,32.0,Dan Ndoye,Nott'ham Forest
+2025-08-16,dannywelbeck_brighton,0.0,0.0,33.0,Danny Welbeck,Brighton
+2025-08-16,dominiccalvertlewin_leedsunited,0.0,0.0,34.0,Dominic Calvert-Lewin,Leeds United
+2025-08-16,dominikszoboszlai_liverpool,0.0,0.0,35.0,Dominik Szoboszlai,Liverpool
+2025-08-16,eddienketiah_crystalpalace,0.0,0.0,36.0,Eddie Nketiah,Crystal Palace
+2025-08-16,elijuniorkroupi_bournemouth,0.0,0.0,37.0,Eli Junior Kroupi,Bournemouth
+2025-08-16,emibuendia_astonvilla,0.0,0.0,38.0,Emi Buendia,Aston Villa
+2025-08-16,emilesmithrowe_fulham,0.0,0.0,39.0,Emile Smith Rowe,Fulham
+2025-08-16,enzofernandez_chelsea,0.0,0.0,40.0,Enzo Fernandez,Chelsea
+2025-08-16,enzolefee_sunderland,0.0,0.0,41.0,Enzo Le Fee,Sunderland
+2025-08-16,evanilson_bournemouth,0.0,0.0,42.0,Evanilson,Bournemouth
+2025-08-16,fabiocarvalho_brentford,0.0,0.0,43.0,Fabio Carvalho,Brentford
+2025-08-16,gabrielmagalhaes_arsenal,0.0,0.0,44.0,Gabriel Magalhaes,Arsenal
+2025-08-16,gabrielmartinelli_arsenal,0.0,0.0,45.0,Gabriel Martinelli,Arsenal
+2025-08-16,harrywilson_fulham,0.0,0.0,46.0,Harry Wilson,Fulham
+2025-08-16,hwangheechan_wolves,0.0,0.0,47.0,Hwang Hee-chan,Wolves
+2025-08-16,idrissaganagueye_everton,0.0,0.0,48.0,Idrissa Gana Gueye,Everton
+2025-08-16,ilimanndiaye_everton,0.0,0.0,49.0,Iliman Ndiaye,Everton
+2025-08-16,ismailasarr_crystalpalace,0.0,0.0,50.0,Ismaila Sarr,Crystal Palace
+2025-08-16,jaidonanthony_burnley,0.0,0.0,51.0,Jaidon Anthony,Burnley
+2025-08-16,jamesgarner_everton,0.0,0.0,52.0,James Garner,Everton
+2025-08-16,jamesmilner_brighton,0.0,0.0,53.0,James Milner,Brighton
+2025-08-16,jarrodbowen_westham,0.0,0.0,54.0,Jarrod Bowen,West Ham
+2025-08-16,jeanphilippemateta_crystalpalace,0.0,0.0,55.0,Jean-Philippe Mateta,Crystal Palace
+2025-08-16,joaopalhinha_tottenham,0.0,0.0,56.0,Joao Palhinha,Tottenham
+2025-08-16,joaopedro_chelsea,0.0,0.0,57.0,Joao Pedro,Chelsea
+2025-08-16,joerodon_leedsunited,0.0,0.0,58.0,Joe Rodon,Leeds United
+2025-08-16,johnmcginn_astonvilla,0.0,0.0,59.0,John McGinn,Aston Villa
+2025-08-16,joshcullen_burnley,0.0,0.0,60.0,Josh Cullen,Burnley
+2025-08-16,jurrientimber_arsenal,0.0,0.0,61.0,Jurrien Timber,Arsenal
+2025-08-16,kaorumitoma_brighton,0.0,0.0,62.0,Kaoru Mitoma,Brighton
+2025-08-16,kevinschade_brentford,0.0,0.0,63.0,Kevin Schade,Brentford
+2025-08-16,kiernandewsburyhall_everton,0.0,0.0,64.0,Kiernan Dewsbury-Hall,Everton
+2025-08-16,ladislavkrejci_wolves,0.0,0.0,65.0,Ladislav Krejci,Wolves
+2025-08-16,lucasbergvall_tottenham,0.0,0.0,66.0,Lucas Bergvall,Tottenham
+2025-08-16,lucaspaqueta_westham,0.0,0.0,67.0,Lucas Paqueta,West Ham
+2025-08-16,lukasnmecha_leedsunited,0.0,0.0,68.0,Lukas Nmecha,Leeds United
+2025-08-16,lylefoster_burnley,0.0,0.0,69.0,Lyle Foster,Burnley
+2025-08-16,marcguehi_crystalpalace,0.0,0.0,70.0,Marc Guehi,Crystal Palace
+2025-08-16,marcustavernier_bournemouth,0.0,0.0,71.0,Marcus Tavernier,Bournemouth
+2025-08-16,martinzubimendi_arsenal,0.0,0.0,72.0,Martin Zubimendi,Arsenal
+2025-08-16,matheusnunes_manchestercity,0.0,0.0,73.0,Matheus Nunes,Manchester City
+2025-08-16,mathiasjensen_brentford,0.0,0.0,74.0,Mathias Jensen,Brentford
+2025-08-16,mattycash_astonvilla,0.0,0.0,75.0,Matty Cash,Aston Villa
+2025-08-16,maximdecuyper_brighton,0.0,0.0,76.0,Maxim De Cuyper,Brighton
+2025-08-16,michaelkeane_everton,0.0,0.0,77.0,Michael Keane,Everton
+2025-08-16,mickyvandeven_tottenham,0.0,0.0,78.0,Micky van de Ven,Tottenham
+2025-08-16,mikelmerino_arsenal,0.0,0.0,79.0,Mikel Merino,Arsenal
+2025-08-16,mikkeldamsgaard_brentford,0.0,0.0,80.0,Mikkel Damsgaard,Brentford
+2025-08-16,moisescaicedo_chelsea,0.0,0.0,81.0,Moises Caicedo,Chelsea
+2025-08-16,necowilliams_notthamforest,0.0,0.0,82.0,Neco Williams,Nott'ham Forest
+2025-08-16,nickwoltemade_newcastleutd,0.0,0.0,83.0,Nick Woltemade,Newcastle Utd
+2025-08-16,noahokafor_leedsunited,0.0,0.0,84.0,Noah Okafor,Leeds United
+2025-08-16,olliewatkins_astonvilla,0.0,0.0,85.0,Ollie Watkins,Aston Villa
+2025-08-16,omaralderete_sunderland,0.0,0.0,86.0,Omar Alderete,Sunderland
+2025-08-16,papematarsarr_tottenham,0.0,0.0,87.0,Pape Matar Sarr,Tottenham
+2025-08-16,pedroneto_chelsea,0.0,0.0,88.0,Pedro Neto,Chelsea
+2025-08-16,philfoden_manchestercity,0.0,0.0,89.0,Phil Foden,Manchester City
+2025-08-16,rauljimenez_fulham,0.0,0.0,90.0,Raul Jimenez,Fulham
+2025-08-16,riccardocalafiori_arsenal,0.0,0.0,91.0,Riccardo Calafiori,Arsenal
+2025-08-16,riongumoha_liverpool,0.0,0.0,92.0,Rio Ngumoha,Liverpool
+2025-08-16,rodrigogomes_wolves,0.0,0.0,93.0,Rodrigo Gomes,Wolves
+2025-08-16,ryangravenberch_liverpool,0.0,0.0,94.0,Ryan Gravenberch,Liverpool
+2025-08-16,santiagobueno_wolves,0.0,0.0,95.0,Santiago Bueno,Wolves
+2025-08-16,seanlongstaff_leedsunited,0.0,0.0,96.0,Sean Longstaff,Leeds United
+2025-08-16,thiago_brentford,0.0,0.0,97.0,Thiago,Brentford
+2025-08-16,trevohchalobah_chelsea,0.0,0.0,98.0,Trevoh Chalobah,Chelsea
+2025-08-16,tyrickmitchell_crystalpalace,0.0,0.0,99.0,Tyrick Mitchell,Crystal Palace
+2025-08-16,viktorgyokeres_arsenal,0.0,0.0,100.0,Viktor Gyokeres,Arsenal
+2025-08-16,williamosula_newcastleutd,0.0,0.0,101.0,William Osula,Newcastle Utd
+2025-08-16,yankubaminteh_brighton,0.0,0.0,102.0,Yankuba Minteh,Brighton
+2025-08-16,yasinayari_brighton,0.0,0.0,103.0,Yasin Ayari,Brighton
 2025-08-17,antoinesemenyo_bournemouth,2.0,0.0,1.0,Antoine Semenyo,Bournemouth
 2025-08-17,chriswood_notthamforest,2.0,0.0,2.0,Chris Wood,Nott'ham Forest
 2025-08-17,erlinghaaland_manchestercity,2.0,0.0,3.0,Erling Haaland,Manchester City
@@ -136,46 +224,90 @@ date,player_team,value,pk,rank,player,team
 2025-08-17,thiago_brentford,1.0,1.0,17.0,Thiago,Brentford
 2025-08-17,tijjanireijnders_manchestercity,1.0,0.0,18.0,Tijjani Reijnders,Manchester City
 2025-08-17,wilsonisidor_sunderland,1.0,0.0,19.0,Wilson Isidor,Sunderland
-2025-08-17,beto_everton,0.0,0.0,20.0,Beto,Everton
-2025-08-17,brajangruda_brighton,0.0,0.0,21.0,Brajan Gruda,Brighton
-2025-08-17,brunofernandes_manchesterutd,0.0,0.0,22.0,Bruno Fernandes,Manchester Utd
-2025-08-17,brunoguimaraes_newcastleutd,0.0,0.0,23.0,Bruno Guimaraes,Newcastle Utd
-2025-08-17,bryanmbeumo_manchesterutd,0.0,0.0,24.0,Bryan Mbeumo,Manchester Utd
-2025-08-17,bukayosaka_arsenal,0.0,0.0,25.0,Bukayo Saka,Arsenal
-2025-08-17,callumhudsonodoi_notthamforest,0.0,0.0,26.0,Callum Hudson-Odoi,Nott'ham Forest
-2025-08-17,callumwilson_westham,0.0,0.0,27.0,Callum Wilson,West Ham
-2025-08-17,dangoouattara_brentford,0.0,0.0,28.0,Dango Ouattara,Brentford
-2025-08-17,dominikszoboszlai_liverpool,0.0,0.0,29.0,Dominik Szoboszlai,Liverpool
-2025-08-17,emilesmithrowe_fulham,0.0,0.0,30.0,Emile Smith Rowe,Fulham
-2025-08-17,enzofernandez_chelsea,0.0,0.0,31.0,Enzo Fernandez,Chelsea
-2025-08-17,enzolefee_sunderland,0.0,0.0,32.0,Enzo Le Fee,Sunderland
-2025-08-17,evanilson_bournemouth,0.0,0.0,33.0,Evanilson,Bournemouth
-2025-08-17,hwangheechan_wolves,0.0,0.0,34.0,Hwang Hee-chan,Wolves
-2025-08-17,ilimanndiaye_everton,0.0,0.0,35.0,Iliman Ndiaye,Everton
-2025-08-17,ismailasarr_crystalpalace,0.0,0.0,36.0,Ismaila Sarr,Crystal Palace
-2025-08-17,jaidonanthony_burnley,0.0,0.0,37.0,Jaidon Anthony,Burnley
-2025-08-17,jamesgarner_everton,0.0,0.0,38.0,James Garner,Everton
-2025-08-17,jamesmilner_brighton,0.0,0.0,39.0,James Milner,Brighton
-2025-08-17,jarrodbowen_westham,0.0,0.0,40.0,Jarrod Bowen,West Ham
-2025-08-17,jeanphilippemateta_crystalpalace,0.0,0.0,41.0,Jean-Philippe Mateta,Crystal Palace
-2025-08-17,joaopalhinha_tottenham,0.0,0.0,42.0,Joao Palhinha,Tottenham
-2025-08-17,joaopedro_chelsea,0.0,0.0,43.0,Joao Pedro,Chelsea
-2025-08-17,joshcullen_burnley,0.0,0.0,44.0,Josh Cullen,Burnley
-2025-08-17,jurrientimber_arsenal,0.0,0.0,45.0,Jurrien Timber,Arsenal
-2025-08-17,kiernandewsburyhall_everton,0.0,0.0,46.0,Kiernan Dewsbury-Hall,Everton
-2025-08-17,lucaspaqueta_westham,0.0,0.0,47.0,Lucas Paqueta,West Ham
-2025-08-17,lukasnmecha_leedsunited,0.0,0.0,48.0,Lukas Nmecha,Leeds United
-2025-08-17,lylefoster_burnley,0.0,0.0,49.0,Lyle Foster,Burnley
-2025-08-17,marcguehi_crystalpalace,0.0,0.0,50.0,Marc Guehi,Crystal Palace
-2025-08-17,marcustavernier_bournemouth,0.0,0.0,51.0,Marcus Tavernier,Bournemouth
-2025-08-17,moisescaicedo_chelsea,0.0,0.0,52.0,Moises Caicedo,Chelsea
-2025-08-17,pedroneto_chelsea,0.0,0.0,53.0,Pedro Neto,Chelsea
-2025-08-17,riongumoha_liverpool,0.0,0.0,54.0,Rio Ngumoha,Liverpool
-2025-08-17,rodrigogomes_wolves,0.0,0.0,55.0,Rodrigo Gomes,Wolves
-2025-08-17,ryangravenberch_liverpool,0.0,0.0,56.0,Ryan Gravenberch,Liverpool
-2025-08-17,trevohchalobah_chelsea,0.0,0.0,57.0,Trevoh Chalobah,Chelsea
-2025-08-17,viktorgyokeres_arsenal,0.0,0.0,58.0,Viktor Gyokeres,Arsenal
-2025-08-17,williamosula_newcastleutd,0.0,0.0,59.0,William Osula,Newcastle Utd
+2025-08-17,alexiwobi_fulham,0.0,0.0,20.0,Alex Iwobi,Fulham
+2025-08-17,alexscott_bournemouth,0.0,0.0,21.0,Alex Scott,Bournemouth
+2025-08-17,antonstach_leedsunited,0.0,0.0,22.0,Anton Stach,Leeds United
+2025-08-17,benjaminsesko_manchesterutd,0.0,0.0,23.0,Benjamin Sesko,Manchester Utd
+2025-08-17,beto_everton,0.0,0.0,24.0,Beto,Everton
+2025-08-17,brajangruda_brighton,0.0,0.0,25.0,Brajan Gruda,Brighton
+2025-08-17,brunofernandes_manchesterutd,0.0,0.0,26.0,Bruno Fernandes,Manchester Utd
+2025-08-17,brunoguimaraes_newcastleutd,0.0,0.0,27.0,Bruno Guimaraes,Newcastle Utd
+2025-08-17,bryanmbeumo_manchesterutd,0.0,0.0,28.0,Bryan Mbeumo,Manchester Utd
+2025-08-17,bukayosaka_arsenal,0.0,0.0,29.0,Bukayo Saka,Arsenal
+2025-08-17,callumhudsonodoi_notthamforest,0.0,0.0,30.0,Callum Hudson-Odoi,Nott'ham Forest
+2025-08-17,callumwilson_westham,0.0,0.0,31.0,Callum Wilson,West Ham
+2025-08-17,casemiro_manchesterutd,0.0,0.0,32.0,Casemiro,Manchester Utd
+2025-08-17,colepalmer_chelsea,0.0,0.0,33.0,Cole Palmer,Chelsea
+2025-08-17,dangoouattara_brentford,0.0,0.0,34.0,Dango Ouattara,Brentford
+2025-08-17,dannywelbeck_brighton,0.0,0.0,35.0,Danny Welbeck,Brighton
+2025-08-17,dominiccalvertlewin_leedsunited,0.0,0.0,36.0,Dominic Calvert-Lewin,Leeds United
+2025-08-17,dominikszoboszlai_liverpool,0.0,0.0,37.0,Dominik Szoboszlai,Liverpool
+2025-08-17,eddienketiah_crystalpalace,0.0,0.0,38.0,Eddie Nketiah,Crystal Palace
+2025-08-17,elijuniorkroupi_bournemouth,0.0,0.0,39.0,Eli Junior Kroupi,Bournemouth
+2025-08-17,emibuendia_astonvilla,0.0,0.0,40.0,Emi Buendia,Aston Villa
+2025-08-17,emilesmithrowe_fulham,0.0,0.0,41.0,Emile Smith Rowe,Fulham
+2025-08-17,enzofernandez_chelsea,0.0,0.0,42.0,Enzo Fernandez,Chelsea
+2025-08-17,enzolefee_sunderland,0.0,0.0,43.0,Enzo Le Fee,Sunderland
+2025-08-17,evanilson_bournemouth,0.0,0.0,44.0,Evanilson,Bournemouth
+2025-08-17,fabiocarvalho_brentford,0.0,0.0,45.0,Fabio Carvalho,Brentford
+2025-08-17,gabrielmagalhaes_arsenal,0.0,0.0,46.0,Gabriel Magalhaes,Arsenal
+2025-08-17,gabrielmartinelli_arsenal,0.0,0.0,47.0,Gabriel Martinelli,Arsenal
+2025-08-17,harrywilson_fulham,0.0,0.0,48.0,Harry Wilson,Fulham
+2025-08-17,hwangheechan_wolves,0.0,0.0,49.0,Hwang Hee-chan,Wolves
+2025-08-17,idrissaganagueye_everton,0.0,0.0,50.0,Idrissa Gana Gueye,Everton
+2025-08-17,ilimanndiaye_everton,0.0,0.0,51.0,Iliman Ndiaye,Everton
+2025-08-17,ismailasarr_crystalpalace,0.0,0.0,52.0,Ismaila Sarr,Crystal Palace
+2025-08-17,jaidonanthony_burnley,0.0,0.0,53.0,Jaidon Anthony,Burnley
+2025-08-17,jamesgarner_everton,0.0,0.0,54.0,James Garner,Everton
+2025-08-17,jamesmilner_brighton,0.0,0.0,55.0,James Milner,Brighton
+2025-08-17,jarrodbowen_westham,0.0,0.0,56.0,Jarrod Bowen,West Ham
+2025-08-17,jeanphilippemateta_crystalpalace,0.0,0.0,57.0,Jean-Philippe Mateta,Crystal Palace
+2025-08-17,joaopalhinha_tottenham,0.0,0.0,58.0,Joao Palhinha,Tottenham
+2025-08-17,joaopedro_chelsea,0.0,0.0,59.0,Joao Pedro,Chelsea
+2025-08-17,joerodon_leedsunited,0.0,0.0,60.0,Joe Rodon,Leeds United
+2025-08-17,johnmcginn_astonvilla,0.0,0.0,61.0,John McGinn,Aston Villa
+2025-08-17,joshcullen_burnley,0.0,0.0,62.0,Josh Cullen,Burnley
+2025-08-17,jurrientimber_arsenal,0.0,0.0,63.0,Jurrien Timber,Arsenal
+2025-08-17,kaorumitoma_brighton,0.0,0.0,64.0,Kaoru Mitoma,Brighton
+2025-08-17,kevinschade_brentford,0.0,0.0,65.0,Kevin Schade,Brentford
+2025-08-17,kiernandewsburyhall_everton,0.0,0.0,66.0,Kiernan Dewsbury-Hall,Everton
+2025-08-17,ladislavkrejci_wolves,0.0,0.0,67.0,Ladislav Krejci,Wolves
+2025-08-17,lucasbergvall_tottenham,0.0,0.0,68.0,Lucas Bergvall,Tottenham
+2025-08-17,lucaspaqueta_westham,0.0,0.0,69.0,Lucas Paqueta,West Ham
+2025-08-17,lukasnmecha_leedsunited,0.0,0.0,70.0,Lukas Nmecha,Leeds United
+2025-08-17,lylefoster_burnley,0.0,0.0,71.0,Lyle Foster,Burnley
+2025-08-17,marcguehi_crystalpalace,0.0,0.0,72.0,Marc Guehi,Crystal Palace
+2025-08-17,marcustavernier_bournemouth,0.0,0.0,73.0,Marcus Tavernier,Bournemouth
+2025-08-17,martinzubimendi_arsenal,0.0,0.0,74.0,Martin Zubimendi,Arsenal
+2025-08-17,matheusnunes_manchestercity,0.0,0.0,75.0,Matheus Nunes,Manchester City
+2025-08-17,mathiasjensen_brentford,0.0,0.0,76.0,Mathias Jensen,Brentford
+2025-08-17,mattycash_astonvilla,0.0,0.0,77.0,Matty Cash,Aston Villa
+2025-08-17,maximdecuyper_brighton,0.0,0.0,78.0,Maxim De Cuyper,Brighton
+2025-08-17,michaelkeane_everton,0.0,0.0,79.0,Michael Keane,Everton
+2025-08-17,mickyvandeven_tottenham,0.0,0.0,80.0,Micky van de Ven,Tottenham
+2025-08-17,mikelmerino_arsenal,0.0,0.0,81.0,Mikel Merino,Arsenal
+2025-08-17,mikkeldamsgaard_brentford,0.0,0.0,82.0,Mikkel Damsgaard,Brentford
+2025-08-17,moisescaicedo_chelsea,0.0,0.0,83.0,Moises Caicedo,Chelsea
+2025-08-17,necowilliams_notthamforest,0.0,0.0,84.0,Neco Williams,Nott'ham Forest
+2025-08-17,nickwoltemade_newcastleutd,0.0,0.0,85.0,Nick Woltemade,Newcastle Utd
+2025-08-17,noahokafor_leedsunited,0.0,0.0,86.0,Noah Okafor,Leeds United
+2025-08-17,olliewatkins_astonvilla,0.0,0.0,87.0,Ollie Watkins,Aston Villa
+2025-08-17,omaralderete_sunderland,0.0,0.0,88.0,Omar Alderete,Sunderland
+2025-08-17,papematarsarr_tottenham,0.0,0.0,89.0,Pape Matar Sarr,Tottenham
+2025-08-17,pedroneto_chelsea,0.0,0.0,90.0,Pedro Neto,Chelsea
+2025-08-17,philfoden_manchestercity,0.0,0.0,91.0,Phil Foden,Manchester City
+2025-08-17,rauljimenez_fulham,0.0,0.0,92.0,Raul Jimenez,Fulham
+2025-08-17,riongumoha_liverpool,0.0,0.0,93.0,Rio Ngumoha,Liverpool
+2025-08-17,rodrigogomes_wolves,0.0,0.0,94.0,Rodrigo Gomes,Wolves
+2025-08-17,ryangravenberch_liverpool,0.0,0.0,95.0,Ryan Gravenberch,Liverpool
+2025-08-17,santiagobueno_wolves,0.0,0.0,96.0,Santiago Bueno,Wolves
+2025-08-17,seanlongstaff_leedsunited,0.0,0.0,97.0,Sean Longstaff,Leeds United
+2025-08-17,trevohchalobah_chelsea,0.0,0.0,98.0,Trevoh Chalobah,Chelsea
+2025-08-17,tyrickmitchell_crystalpalace,0.0,0.0,99.0,Tyrick Mitchell,Crystal Palace
+2025-08-17,viktorgyokeres_arsenal,0.0,0.0,100.0,Viktor Gyokeres,Arsenal
+2025-08-17,williamosula_newcastleutd,0.0,0.0,101.0,William Osula,Newcastle Utd
+2025-08-17,yankubaminteh_brighton,0.0,0.0,102.0,Yankuba Minteh,Brighton
+2025-08-17,yasinayari_brighton,0.0,0.0,103.0,Yasin Ayari,Brighton
 2025-08-18,antoinesemenyo_bournemouth,2.0,0.0,1.0,Antoine Semenyo,Bournemouth
 2025-08-18,chriswood_notthamforest,2.0,0.0,2.0,Chris Wood,Nott'ham Forest
 2025-08-18,erlinghaaland_manchestercity,2.0,0.0,3.0,Erling Haaland,Manchester City
@@ -196,45 +328,89 @@ date,player_team,value,pk,rank,player,team
 2025-08-18,thiago_brentford,1.0,1.0,18.0,Thiago,Brentford
 2025-08-18,tijjanireijnders_manchestercity,1.0,0.0,19.0,Tijjani Reijnders,Manchester City
 2025-08-18,wilsonisidor_sunderland,1.0,0.0,20.0,Wilson Isidor,Sunderland
-2025-08-18,beto_everton,0.0,0.0,21.0,Beto,Everton
-2025-08-18,brajangruda_brighton,0.0,0.0,22.0,Brajan Gruda,Brighton
-2025-08-18,brunofernandes_manchesterutd,0.0,0.0,23.0,Bruno Fernandes,Manchester Utd
-2025-08-18,brunoguimaraes_newcastleutd,0.0,0.0,24.0,Bruno Guimaraes,Newcastle Utd
-2025-08-18,bryanmbeumo_manchesterutd,0.0,0.0,25.0,Bryan Mbeumo,Manchester Utd
-2025-08-18,bukayosaka_arsenal,0.0,0.0,26.0,Bukayo Saka,Arsenal
-2025-08-18,callumhudsonodoi_notthamforest,0.0,0.0,27.0,Callum Hudson-Odoi,Nott'ham Forest
-2025-08-18,callumwilson_westham,0.0,0.0,28.0,Callum Wilson,West Ham
-2025-08-18,dangoouattara_brentford,0.0,0.0,29.0,Dango Ouattara,Brentford
-2025-08-18,dominikszoboszlai_liverpool,0.0,0.0,30.0,Dominik Szoboszlai,Liverpool
-2025-08-18,emilesmithrowe_fulham,0.0,0.0,31.0,Emile Smith Rowe,Fulham
-2025-08-18,enzofernandez_chelsea,0.0,0.0,32.0,Enzo Fernandez,Chelsea
-2025-08-18,enzolefee_sunderland,0.0,0.0,33.0,Enzo Le Fee,Sunderland
-2025-08-18,evanilson_bournemouth,0.0,0.0,34.0,Evanilson,Bournemouth
-2025-08-18,hwangheechan_wolves,0.0,0.0,35.0,Hwang Hee-chan,Wolves
-2025-08-18,ilimanndiaye_everton,0.0,0.0,36.0,Iliman Ndiaye,Everton
-2025-08-18,ismailasarr_crystalpalace,0.0,0.0,37.0,Ismaila Sarr,Crystal Palace
-2025-08-18,jaidonanthony_burnley,0.0,0.0,38.0,Jaidon Anthony,Burnley
-2025-08-18,jamesgarner_everton,0.0,0.0,39.0,James Garner,Everton
-2025-08-18,jamesmilner_brighton,0.0,0.0,40.0,James Milner,Brighton
-2025-08-18,jarrodbowen_westham,0.0,0.0,41.0,Jarrod Bowen,West Ham
-2025-08-18,jeanphilippemateta_crystalpalace,0.0,0.0,42.0,Jean-Philippe Mateta,Crystal Palace
-2025-08-18,joaopalhinha_tottenham,0.0,0.0,43.0,Joao Palhinha,Tottenham
-2025-08-18,joaopedro_chelsea,0.0,0.0,44.0,Joao Pedro,Chelsea
-2025-08-18,joshcullen_burnley,0.0,0.0,45.0,Josh Cullen,Burnley
-2025-08-18,jurrientimber_arsenal,0.0,0.0,46.0,Jurrien Timber,Arsenal
-2025-08-18,kiernandewsburyhall_everton,0.0,0.0,47.0,Kiernan Dewsbury-Hall,Everton
-2025-08-18,lucaspaqueta_westham,0.0,0.0,48.0,Lucas Paqueta,West Ham
-2025-08-18,lylefoster_burnley,0.0,0.0,49.0,Lyle Foster,Burnley
-2025-08-18,marcguehi_crystalpalace,0.0,0.0,50.0,Marc Guehi,Crystal Palace
-2025-08-18,marcustavernier_bournemouth,0.0,0.0,51.0,Marcus Tavernier,Bournemouth
-2025-08-18,moisescaicedo_chelsea,0.0,0.0,52.0,Moises Caicedo,Chelsea
-2025-08-18,pedroneto_chelsea,0.0,0.0,53.0,Pedro Neto,Chelsea
-2025-08-18,riongumoha_liverpool,0.0,0.0,54.0,Rio Ngumoha,Liverpool
-2025-08-18,rodrigogomes_wolves,0.0,0.0,55.0,Rodrigo Gomes,Wolves
-2025-08-18,ryangravenberch_liverpool,0.0,0.0,56.0,Ryan Gravenberch,Liverpool
-2025-08-18,trevohchalobah_chelsea,0.0,0.0,57.0,Trevoh Chalobah,Chelsea
-2025-08-18,viktorgyokeres_arsenal,0.0,0.0,58.0,Viktor Gyokeres,Arsenal
-2025-08-18,williamosula_newcastleutd,0.0,0.0,59.0,William Osula,Newcastle Utd
+2025-08-18,alexiwobi_fulham,0.0,0.0,21.0,Alex Iwobi,Fulham
+2025-08-18,alexscott_bournemouth,0.0,0.0,22.0,Alex Scott,Bournemouth
+2025-08-18,antonstach_leedsunited,0.0,0.0,23.0,Anton Stach,Leeds United
+2025-08-18,benjaminsesko_manchesterutd,0.0,0.0,24.0,Benjamin Sesko,Manchester Utd
+2025-08-18,beto_everton,0.0,0.0,25.0,Beto,Everton
+2025-08-18,brajangruda_brighton,0.0,0.0,26.0,Brajan Gruda,Brighton
+2025-08-18,brunofernandes_manchesterutd,0.0,0.0,27.0,Bruno Fernandes,Manchester Utd
+2025-08-18,brunoguimaraes_newcastleutd,0.0,0.0,28.0,Bruno Guimaraes,Newcastle Utd
+2025-08-18,bryanmbeumo_manchesterutd,0.0,0.0,29.0,Bryan Mbeumo,Manchester Utd
+2025-08-18,bukayosaka_arsenal,0.0,0.0,30.0,Bukayo Saka,Arsenal
+2025-08-18,callumhudsonodoi_notthamforest,0.0,0.0,31.0,Callum Hudson-Odoi,Nott'ham Forest
+2025-08-18,callumwilson_westham,0.0,0.0,32.0,Callum Wilson,West Ham
+2025-08-18,casemiro_manchesterutd,0.0,0.0,33.0,Casemiro,Manchester Utd
+2025-08-18,colepalmer_chelsea,0.0,0.0,34.0,Cole Palmer,Chelsea
+2025-08-18,dangoouattara_brentford,0.0,0.0,35.0,Dango Ouattara,Brentford
+2025-08-18,dannywelbeck_brighton,0.0,0.0,36.0,Danny Welbeck,Brighton
+2025-08-18,dominiccalvertlewin_leedsunited,0.0,0.0,37.0,Dominic Calvert-Lewin,Leeds United
+2025-08-18,dominikszoboszlai_liverpool,0.0,0.0,38.0,Dominik Szoboszlai,Liverpool
+2025-08-18,eddienketiah_crystalpalace,0.0,0.0,39.0,Eddie Nketiah,Crystal Palace
+2025-08-18,elijuniorkroupi_bournemouth,0.0,0.0,40.0,Eli Junior Kroupi,Bournemouth
+2025-08-18,emibuendia_astonvilla,0.0,0.0,41.0,Emi Buendia,Aston Villa
+2025-08-18,emilesmithrowe_fulham,0.0,0.0,42.0,Emile Smith Rowe,Fulham
+2025-08-18,enzofernandez_chelsea,0.0,0.0,43.0,Enzo Fernandez,Chelsea
+2025-08-18,enzolefee_sunderland,0.0,0.0,44.0,Enzo Le Fee,Sunderland
+2025-08-18,evanilson_bournemouth,0.0,0.0,45.0,Evanilson,Bournemouth
+2025-08-18,fabiocarvalho_brentford,0.0,0.0,46.0,Fabio Carvalho,Brentford
+2025-08-18,gabrielmagalhaes_arsenal,0.0,0.0,47.0,Gabriel Magalhaes,Arsenal
+2025-08-18,gabrielmartinelli_arsenal,0.0,0.0,48.0,Gabriel Martinelli,Arsenal
+2025-08-18,harrywilson_fulham,0.0,0.0,49.0,Harry Wilson,Fulham
+2025-08-18,hwangheechan_wolves,0.0,0.0,50.0,Hwang Hee-chan,Wolves
+2025-08-18,idrissaganagueye_everton,0.0,0.0,51.0,Idrissa Gana Gueye,Everton
+2025-08-18,ilimanndiaye_everton,0.0,0.0,52.0,Iliman Ndiaye,Everton
+2025-08-18,ismailasarr_crystalpalace,0.0,0.0,53.0,Ismaila Sarr,Crystal Palace
+2025-08-18,jaidonanthony_burnley,0.0,0.0,54.0,Jaidon Anthony,Burnley
+2025-08-18,jamesgarner_everton,0.0,0.0,55.0,James Garner,Everton
+2025-08-18,jamesmilner_brighton,0.0,0.0,56.0,James Milner,Brighton
+2025-08-18,jarrodbowen_westham,0.0,0.0,57.0,Jarrod Bowen,West Ham
+2025-08-18,jeanphilippemateta_crystalpalace,0.0,0.0,58.0,Jean-Philippe Mateta,Crystal Palace
+2025-08-18,joaopalhinha_tottenham,0.0,0.0,59.0,Joao Palhinha,Tottenham
+2025-08-18,joaopedro_chelsea,0.0,0.0,60.0,Joao Pedro,Chelsea
+2025-08-18,joerodon_leedsunited,0.0,0.0,61.0,Joe Rodon,Leeds United
+2025-08-18,johnmcginn_astonvilla,0.0,0.0,62.0,John McGinn,Aston Villa
+2025-08-18,joshcullen_burnley,0.0,0.0,63.0,Josh Cullen,Burnley
+2025-08-18,jurrientimber_arsenal,0.0,0.0,64.0,Jurrien Timber,Arsenal
+2025-08-18,kaorumitoma_brighton,0.0,0.0,65.0,Kaoru Mitoma,Brighton
+2025-08-18,kevinschade_brentford,0.0,0.0,66.0,Kevin Schade,Brentford
+2025-08-18,kiernandewsburyhall_everton,0.0,0.0,67.0,Kiernan Dewsbury-Hall,Everton
+2025-08-18,ladislavkrejci_wolves,0.0,0.0,68.0,Ladislav Krejci,Wolves
+2025-08-18,lucasbergvall_tottenham,0.0,0.0,69.0,Lucas Bergvall,Tottenham
+2025-08-18,lucaspaqueta_westham,0.0,0.0,70.0,Lucas Paqueta,West Ham
+2025-08-18,lylefoster_burnley,0.0,0.0,71.0,Lyle Foster,Burnley
+2025-08-18,marcguehi_crystalpalace,0.0,0.0,72.0,Marc Guehi,Crystal Palace
+2025-08-18,marcustavernier_bournemouth,0.0,0.0,73.0,Marcus Tavernier,Bournemouth
+2025-08-18,martinzubimendi_arsenal,0.0,0.0,74.0,Martin Zubimendi,Arsenal
+2025-08-18,matheusnunes_manchestercity,0.0,0.0,75.0,Matheus Nunes,Manchester City
+2025-08-18,mathiasjensen_brentford,0.0,0.0,76.0,Mathias Jensen,Brentford
+2025-08-18,mattycash_astonvilla,0.0,0.0,77.0,Matty Cash,Aston Villa
+2025-08-18,maximdecuyper_brighton,0.0,0.0,78.0,Maxim De Cuyper,Brighton
+2025-08-18,michaelkeane_everton,0.0,0.0,79.0,Michael Keane,Everton
+2025-08-18,mickyvandeven_tottenham,0.0,0.0,80.0,Micky van de Ven,Tottenham
+2025-08-18,mikelmerino_arsenal,0.0,0.0,81.0,Mikel Merino,Arsenal
+2025-08-18,mikkeldamsgaard_brentford,0.0,0.0,82.0,Mikkel Damsgaard,Brentford
+2025-08-18,moisescaicedo_chelsea,0.0,0.0,83.0,Moises Caicedo,Chelsea
+2025-08-18,necowilliams_notthamforest,0.0,0.0,84.0,Neco Williams,Nott'ham Forest
+2025-08-18,nickwoltemade_newcastleutd,0.0,0.0,85.0,Nick Woltemade,Newcastle Utd
+2025-08-18,noahokafor_leedsunited,0.0,0.0,86.0,Noah Okafor,Leeds United
+2025-08-18,olliewatkins_astonvilla,0.0,0.0,87.0,Ollie Watkins,Aston Villa
+2025-08-18,omaralderete_sunderland,0.0,0.0,88.0,Omar Alderete,Sunderland
+2025-08-18,papematarsarr_tottenham,0.0,0.0,89.0,Pape Matar Sarr,Tottenham
+2025-08-18,pedroneto_chelsea,0.0,0.0,90.0,Pedro Neto,Chelsea
+2025-08-18,philfoden_manchestercity,0.0,0.0,91.0,Phil Foden,Manchester City
+2025-08-18,rauljimenez_fulham,0.0,0.0,92.0,Raul Jimenez,Fulham
+2025-08-18,riongumoha_liverpool,0.0,0.0,93.0,Rio Ngumoha,Liverpool
+2025-08-18,rodrigogomes_wolves,0.0,0.0,94.0,Rodrigo Gomes,Wolves
+2025-08-18,ryangravenberch_liverpool,0.0,0.0,95.0,Ryan Gravenberch,Liverpool
+2025-08-18,santiagobueno_wolves,0.0,0.0,96.0,Santiago Bueno,Wolves
+2025-08-18,seanlongstaff_leedsunited,0.0,0.0,97.0,Sean Longstaff,Leeds United
+2025-08-18,trevohchalobah_chelsea,0.0,0.0,98.0,Trevoh Chalobah,Chelsea
+2025-08-18,tyrickmitchell_crystalpalace,0.0,0.0,99.0,Tyrick Mitchell,Crystal Palace
+2025-08-18,viktorgyokeres_arsenal,0.0,0.0,100.0,Viktor Gyokeres,Arsenal
+2025-08-18,williamosula_newcastleutd,0.0,0.0,101.0,William Osula,Newcastle Utd
+2025-08-18,yankubaminteh_brighton,0.0,0.0,102.0,Yankuba Minteh,Brighton
+2025-08-18,yasinayari_brighton,0.0,0.0,103.0,Yasin Ayari,Brighton
 2025-08-22,antoinesemenyo_bournemouth,2.0,0.0,1.0,Antoine Semenyo,Bournemouth
 2025-08-22,chriswood_notthamforest,2.0,0.0,2.0,Chris Wood,Nott'ham Forest
 2025-08-22,erlinghaaland_manchestercity,2.0,0.0,3.0,Erling Haaland,Manchester City
@@ -261,39 +437,83 @@ date,player_team,value,pk,rank,player,team
 2025-08-22,tijjanireijnders_manchestercity,1.0,0.0,24.0,Tijjani Reijnders,Manchester City
 2025-08-22,trevohchalobah_chelsea,1.0,0.0,25.0,Trevoh Chalobah,Chelsea
 2025-08-22,wilsonisidor_sunderland,1.0,0.0,26.0,Wilson Isidor,Sunderland
-2025-08-22,beto_everton,0.0,0.0,27.0,Beto,Everton
-2025-08-22,brajangruda_brighton,0.0,0.0,28.0,Brajan Gruda,Brighton
-2025-08-22,brunofernandes_manchesterutd,0.0,0.0,29.0,Bruno Fernandes,Manchester Utd
-2025-08-22,brunoguimaraes_newcastleutd,0.0,0.0,30.0,Bruno Guimaraes,Newcastle Utd
-2025-08-22,bryanmbeumo_manchesterutd,0.0,0.0,31.0,Bryan Mbeumo,Manchester Utd
-2025-08-22,bukayosaka_arsenal,0.0,0.0,32.0,Bukayo Saka,Arsenal
-2025-08-22,callumhudsonodoi_notthamforest,0.0,0.0,33.0,Callum Hudson-Odoi,Nott'ham Forest
-2025-08-22,callumwilson_westham,0.0,0.0,34.0,Callum Wilson,West Ham
-2025-08-22,dangoouattara_brentford,0.0,0.0,35.0,Dango Ouattara,Brentford
-2025-08-22,dominikszoboszlai_liverpool,0.0,0.0,36.0,Dominik Szoboszlai,Liverpool
-2025-08-22,emilesmithrowe_fulham,0.0,0.0,37.0,Emile Smith Rowe,Fulham
-2025-08-22,enzolefee_sunderland,0.0,0.0,38.0,Enzo Le Fee,Sunderland
-2025-08-22,evanilson_bournemouth,0.0,0.0,39.0,Evanilson,Bournemouth
-2025-08-22,hwangheechan_wolves,0.0,0.0,40.0,Hwang Hee-chan,Wolves
-2025-08-22,ilimanndiaye_everton,0.0,0.0,41.0,Iliman Ndiaye,Everton
-2025-08-22,ismailasarr_crystalpalace,0.0,0.0,42.0,Ismaila Sarr,Crystal Palace
-2025-08-22,jaidonanthony_burnley,0.0,0.0,43.0,Jaidon Anthony,Burnley
-2025-08-22,jamesgarner_everton,0.0,0.0,44.0,James Garner,Everton
-2025-08-22,jamesmilner_brighton,0.0,0.0,45.0,James Milner,Brighton
-2025-08-22,jarrodbowen_westham,0.0,0.0,46.0,Jarrod Bowen,West Ham
-2025-08-22,jeanphilippemateta_crystalpalace,0.0,0.0,47.0,Jean-Philippe Mateta,Crystal Palace
-2025-08-22,joaopalhinha_tottenham,0.0,0.0,48.0,Joao Palhinha,Tottenham
-2025-08-22,joshcullen_burnley,0.0,0.0,49.0,Josh Cullen,Burnley
-2025-08-22,jurrientimber_arsenal,0.0,0.0,50.0,Jurrien Timber,Arsenal
-2025-08-22,kiernandewsburyhall_everton,0.0,0.0,51.0,Kiernan Dewsbury-Hall,Everton
-2025-08-22,lylefoster_burnley,0.0,0.0,52.0,Lyle Foster,Burnley
-2025-08-22,marcguehi_crystalpalace,0.0,0.0,53.0,Marc Guehi,Crystal Palace
-2025-08-22,marcustavernier_bournemouth,0.0,0.0,54.0,Marcus Tavernier,Bournemouth
-2025-08-22,riongumoha_liverpool,0.0,0.0,55.0,Rio Ngumoha,Liverpool
-2025-08-22,rodrigogomes_wolves,0.0,0.0,56.0,Rodrigo Gomes,Wolves
-2025-08-22,ryangravenberch_liverpool,0.0,0.0,57.0,Ryan Gravenberch,Liverpool
-2025-08-22,viktorgyokeres_arsenal,0.0,0.0,58.0,Viktor Gyokeres,Arsenal
-2025-08-22,williamosula_newcastleutd,0.0,0.0,59.0,William Osula,Newcastle Utd
+2025-08-22,alexiwobi_fulham,0.0,0.0,27.0,Alex Iwobi,Fulham
+2025-08-22,alexscott_bournemouth,0.0,0.0,28.0,Alex Scott,Bournemouth
+2025-08-22,antonstach_leedsunited,0.0,0.0,29.0,Anton Stach,Leeds United
+2025-08-22,benjaminsesko_manchesterutd,0.0,0.0,30.0,Benjamin Sesko,Manchester Utd
+2025-08-22,beto_everton,0.0,0.0,31.0,Beto,Everton
+2025-08-22,brajangruda_brighton,0.0,0.0,32.0,Brajan Gruda,Brighton
+2025-08-22,brunofernandes_manchesterutd,0.0,0.0,33.0,Bruno Fernandes,Manchester Utd
+2025-08-22,brunoguimaraes_newcastleutd,0.0,0.0,34.0,Bruno Guimaraes,Newcastle Utd
+2025-08-22,bryanmbeumo_manchesterutd,0.0,0.0,35.0,Bryan Mbeumo,Manchester Utd
+2025-08-22,bukayosaka_arsenal,0.0,0.0,36.0,Bukayo Saka,Arsenal
+2025-08-22,callumhudsonodoi_notthamforest,0.0,0.0,37.0,Callum Hudson-Odoi,Nott'ham Forest
+2025-08-22,callumwilson_westham,0.0,0.0,38.0,Callum Wilson,West Ham
+2025-08-22,casemiro_manchesterutd,0.0,0.0,39.0,Casemiro,Manchester Utd
+2025-08-22,colepalmer_chelsea,0.0,0.0,40.0,Cole Palmer,Chelsea
+2025-08-22,dangoouattara_brentford,0.0,0.0,41.0,Dango Ouattara,Brentford
+2025-08-22,dannywelbeck_brighton,0.0,0.0,42.0,Danny Welbeck,Brighton
+2025-08-22,dominiccalvertlewin_leedsunited,0.0,0.0,43.0,Dominic Calvert-Lewin,Leeds United
+2025-08-22,dominikszoboszlai_liverpool,0.0,0.0,44.0,Dominik Szoboszlai,Liverpool
+2025-08-22,eddienketiah_crystalpalace,0.0,0.0,45.0,Eddie Nketiah,Crystal Palace
+2025-08-22,elijuniorkroupi_bournemouth,0.0,0.0,46.0,Eli Junior Kroupi,Bournemouth
+2025-08-22,emibuendia_astonvilla,0.0,0.0,47.0,Emi Buendia,Aston Villa
+2025-08-22,emilesmithrowe_fulham,0.0,0.0,48.0,Emile Smith Rowe,Fulham
+2025-08-22,enzolefee_sunderland,0.0,0.0,49.0,Enzo Le Fee,Sunderland
+2025-08-22,evanilson_bournemouth,0.0,0.0,50.0,Evanilson,Bournemouth
+2025-08-22,fabiocarvalho_brentford,0.0,0.0,51.0,Fabio Carvalho,Brentford
+2025-08-22,gabrielmagalhaes_arsenal,0.0,0.0,52.0,Gabriel Magalhaes,Arsenal
+2025-08-22,gabrielmartinelli_arsenal,0.0,0.0,53.0,Gabriel Martinelli,Arsenal
+2025-08-22,harrywilson_fulham,0.0,0.0,54.0,Harry Wilson,Fulham
+2025-08-22,hwangheechan_wolves,0.0,0.0,55.0,Hwang Hee-chan,Wolves
+2025-08-22,idrissaganagueye_everton,0.0,0.0,56.0,Idrissa Gana Gueye,Everton
+2025-08-22,ilimanndiaye_everton,0.0,0.0,57.0,Iliman Ndiaye,Everton
+2025-08-22,ismailasarr_crystalpalace,0.0,0.0,58.0,Ismaila Sarr,Crystal Palace
+2025-08-22,jaidonanthony_burnley,0.0,0.0,59.0,Jaidon Anthony,Burnley
+2025-08-22,jamesgarner_everton,0.0,0.0,60.0,James Garner,Everton
+2025-08-22,jamesmilner_brighton,0.0,0.0,61.0,James Milner,Brighton
+2025-08-22,jarrodbowen_westham,0.0,0.0,62.0,Jarrod Bowen,West Ham
+2025-08-22,jeanphilippemateta_crystalpalace,0.0,0.0,63.0,Jean-Philippe Mateta,Crystal Palace
+2025-08-22,joaopalhinha_tottenham,0.0,0.0,64.0,Joao Palhinha,Tottenham
+2025-08-22,joerodon_leedsunited,0.0,0.0,65.0,Joe Rodon,Leeds United
+2025-08-22,johnmcginn_astonvilla,0.0,0.0,66.0,John McGinn,Aston Villa
+2025-08-22,joshcullen_burnley,0.0,0.0,67.0,Josh Cullen,Burnley
+2025-08-22,jurrientimber_arsenal,0.0,0.0,68.0,Jurrien Timber,Arsenal
+2025-08-22,kaorumitoma_brighton,0.0,0.0,69.0,Kaoru Mitoma,Brighton
+2025-08-22,kevinschade_brentford,0.0,0.0,70.0,Kevin Schade,Brentford
+2025-08-22,kiernandewsburyhall_everton,0.0,0.0,71.0,Kiernan Dewsbury-Hall,Everton
+2025-08-22,ladislavkrejci_wolves,0.0,0.0,72.0,Ladislav Krejci,Wolves
+2025-08-22,lucasbergvall_tottenham,0.0,0.0,73.0,Lucas Bergvall,Tottenham
+2025-08-22,lylefoster_burnley,0.0,0.0,74.0,Lyle Foster,Burnley
+2025-08-22,marcguehi_crystalpalace,0.0,0.0,75.0,Marc Guehi,Crystal Palace
+2025-08-22,marcustavernier_bournemouth,0.0,0.0,76.0,Marcus Tavernier,Bournemouth
+2025-08-22,martinzubimendi_arsenal,0.0,0.0,77.0,Martin Zubimendi,Arsenal
+2025-08-22,matheusnunes_manchestercity,0.0,0.0,78.0,Matheus Nunes,Manchester City
+2025-08-22,mathiasjensen_brentford,0.0,0.0,79.0,Mathias Jensen,Brentford
+2025-08-22,mattycash_astonvilla,0.0,0.0,80.0,Matty Cash,Aston Villa
+2025-08-22,maximdecuyper_brighton,0.0,0.0,81.0,Maxim De Cuyper,Brighton
+2025-08-22,michaelkeane_everton,0.0,0.0,82.0,Michael Keane,Everton
+2025-08-22,mickyvandeven_tottenham,0.0,0.0,83.0,Micky van de Ven,Tottenham
+2025-08-22,mikelmerino_arsenal,0.0,0.0,84.0,Mikel Merino,Arsenal
+2025-08-22,mikkeldamsgaard_brentford,0.0,0.0,85.0,Mikkel Damsgaard,Brentford
+2025-08-22,necowilliams_notthamforest,0.0,0.0,86.0,Neco Williams,Nott'ham Forest
+2025-08-22,nickwoltemade_newcastleutd,0.0,0.0,87.0,Nick Woltemade,Newcastle Utd
+2025-08-22,noahokafor_leedsunited,0.0,0.0,88.0,Noah Okafor,Leeds United
+2025-08-22,olliewatkins_astonvilla,0.0,0.0,89.0,Ollie Watkins,Aston Villa
+2025-08-22,omaralderete_sunderland,0.0,0.0,90.0,Omar Alderete,Sunderland
+2025-08-22,papematarsarr_tottenham,0.0,0.0,91.0,Pape Matar Sarr,Tottenham
+2025-08-22,philfoden_manchestercity,0.0,0.0,92.0,Phil Foden,Manchester City
+2025-08-22,rauljimenez_fulham,0.0,0.0,93.0,Raul Jimenez,Fulham
+2025-08-22,riongumoha_liverpool,0.0,0.0,94.0,Rio Ngumoha,Liverpool
+2025-08-22,rodrigogomes_wolves,0.0,0.0,95.0,Rodrigo Gomes,Wolves
+2025-08-22,ryangravenberch_liverpool,0.0,0.0,96.0,Ryan Gravenberch,Liverpool
+2025-08-22,santiagobueno_wolves,0.0,0.0,97.0,Santiago Bueno,Wolves
+2025-08-22,seanlongstaff_leedsunited,0.0,0.0,98.0,Sean Longstaff,Leeds United
+2025-08-22,tyrickmitchell_crystalpalace,0.0,0.0,99.0,Tyrick Mitchell,Crystal Palace
+2025-08-22,viktorgyokeres_arsenal,0.0,0.0,100.0,Viktor Gyokeres,Arsenal
+2025-08-22,williamosula_newcastleutd,0.0,0.0,101.0,William Osula,Newcastle Utd
+2025-08-22,yankubaminteh_brighton,0.0,0.0,102.0,Yankuba Minteh,Brighton
+2025-08-22,yasinayari_brighton,0.0,0.0,103.0,Yasin Ayari,Brighton
 2025-08-23,antoinesemenyo_bournemouth,2.0,0.0,1.0,Antoine Semenyo,Bournemouth
 2025-08-23,brennanjohnson_tottenham,2.0,0.0,2.0,Brennan Johnson,Tottenham
 2025-08-23,chriswood_notthamforest,2.0,0.0,3.0,Chris Wood,Nott'ham Forest
@@ -328,31 +548,75 @@ date,player_team,value,pk,rank,player,team
 2025-08-23,tijjanireijnders_manchestercity,1.0,0.0,32.0,Tijjani Reijnders,Manchester City
 2025-08-23,trevohchalobah_chelsea,1.0,0.0,33.0,Trevoh Chalobah,Chelsea
 2025-08-23,wilsonisidor_sunderland,1.0,0.0,34.0,Wilson Isidor,Sunderland
-2025-08-23,beto_everton,0.0,0.0,35.0,Beto,Everton
-2025-08-23,brajangruda_brighton,0.0,0.0,36.0,Brajan Gruda,Brighton
-2025-08-23,brunofernandes_manchesterutd,0.0,0.0,37.0,Bruno Fernandes,Manchester Utd
-2025-08-23,brunoguimaraes_newcastleutd,0.0,0.0,38.0,Bruno Guimaraes,Newcastle Utd
-2025-08-23,bryanmbeumo_manchesterutd,0.0,0.0,39.0,Bryan Mbeumo,Manchester Utd
-2025-08-23,callumhudsonodoi_notthamforest,0.0,0.0,40.0,Callum Hudson-Odoi,Nott'ham Forest
-2025-08-23,callumwilson_westham,0.0,0.0,41.0,Callum Wilson,West Ham
-2025-08-23,dominikszoboszlai_liverpool,0.0,0.0,42.0,Dominik Szoboszlai,Liverpool
-2025-08-23,emilesmithrowe_fulham,0.0,0.0,43.0,Emile Smith Rowe,Fulham
-2025-08-23,enzolefee_sunderland,0.0,0.0,44.0,Enzo Le Fee,Sunderland
-2025-08-23,evanilson_bournemouth,0.0,0.0,45.0,Evanilson,Bournemouth
-2025-08-23,hwangheechan_wolves,0.0,0.0,46.0,Hwang Hee-chan,Wolves
-2025-08-23,ilimanndiaye_everton,0.0,0.0,47.0,Iliman Ndiaye,Everton
-2025-08-23,ismailasarr_crystalpalace,0.0,0.0,48.0,Ismaila Sarr,Crystal Palace
-2025-08-23,jamesgarner_everton,0.0,0.0,49.0,James Garner,Everton
-2025-08-23,jamesmilner_brighton,0.0,0.0,50.0,James Milner,Brighton
-2025-08-23,jarrodbowen_westham,0.0,0.0,51.0,Jarrod Bowen,West Ham
-2025-08-23,jeanphilippemateta_crystalpalace,0.0,0.0,52.0,Jean-Philippe Mateta,Crystal Palace
-2025-08-23,kiernandewsburyhall_everton,0.0,0.0,53.0,Kiernan Dewsbury-Hall,Everton
-2025-08-23,lylefoster_burnley,0.0,0.0,54.0,Lyle Foster,Burnley
-2025-08-23,marcguehi_crystalpalace,0.0,0.0,55.0,Marc Guehi,Crystal Palace
-2025-08-23,riongumoha_liverpool,0.0,0.0,56.0,Rio Ngumoha,Liverpool
-2025-08-23,rodrigogomes_wolves,0.0,0.0,57.0,Rodrigo Gomes,Wolves
-2025-08-23,ryangravenberch_liverpool,0.0,0.0,58.0,Ryan Gravenberch,Liverpool
-2025-08-23,williamosula_newcastleutd,0.0,0.0,59.0,William Osula,Newcastle Utd
+2025-08-23,alexiwobi_fulham,0.0,0.0,35.0,Alex Iwobi,Fulham
+2025-08-23,alexscott_bournemouth,0.0,0.0,36.0,Alex Scott,Bournemouth
+2025-08-23,antonstach_leedsunited,0.0,0.0,37.0,Anton Stach,Leeds United
+2025-08-23,benjaminsesko_manchesterutd,0.0,0.0,38.0,Benjamin Sesko,Manchester Utd
+2025-08-23,beto_everton,0.0,0.0,39.0,Beto,Everton
+2025-08-23,brajangruda_brighton,0.0,0.0,40.0,Brajan Gruda,Brighton
+2025-08-23,brunofernandes_manchesterutd,0.0,0.0,41.0,Bruno Fernandes,Manchester Utd
+2025-08-23,brunoguimaraes_newcastleutd,0.0,0.0,42.0,Bruno Guimaraes,Newcastle Utd
+2025-08-23,bryanmbeumo_manchesterutd,0.0,0.0,43.0,Bryan Mbeumo,Manchester Utd
+2025-08-23,callumhudsonodoi_notthamforest,0.0,0.0,44.0,Callum Hudson-Odoi,Nott'ham Forest
+2025-08-23,callumwilson_westham,0.0,0.0,45.0,Callum Wilson,West Ham
+2025-08-23,casemiro_manchesterutd,0.0,0.0,46.0,Casemiro,Manchester Utd
+2025-08-23,colepalmer_chelsea,0.0,0.0,47.0,Cole Palmer,Chelsea
+2025-08-23,dannywelbeck_brighton,0.0,0.0,48.0,Danny Welbeck,Brighton
+2025-08-23,dominiccalvertlewin_leedsunited,0.0,0.0,49.0,Dominic Calvert-Lewin,Leeds United
+2025-08-23,dominikszoboszlai_liverpool,0.0,0.0,50.0,Dominik Szoboszlai,Liverpool
+2025-08-23,eddienketiah_crystalpalace,0.0,0.0,51.0,Eddie Nketiah,Crystal Palace
+2025-08-23,elijuniorkroupi_bournemouth,0.0,0.0,52.0,Eli Junior Kroupi,Bournemouth
+2025-08-23,emibuendia_astonvilla,0.0,0.0,53.0,Emi Buendia,Aston Villa
+2025-08-23,emilesmithrowe_fulham,0.0,0.0,54.0,Emile Smith Rowe,Fulham
+2025-08-23,enzolefee_sunderland,0.0,0.0,55.0,Enzo Le Fee,Sunderland
+2025-08-23,evanilson_bournemouth,0.0,0.0,56.0,Evanilson,Bournemouth
+2025-08-23,fabiocarvalho_brentford,0.0,0.0,57.0,Fabio Carvalho,Brentford
+2025-08-23,gabrielmagalhaes_arsenal,0.0,0.0,58.0,Gabriel Magalhaes,Arsenal
+2025-08-23,gabrielmartinelli_arsenal,0.0,0.0,59.0,Gabriel Martinelli,Arsenal
+2025-08-23,harrywilson_fulham,0.0,0.0,60.0,Harry Wilson,Fulham
+2025-08-23,hwangheechan_wolves,0.0,0.0,61.0,Hwang Hee-chan,Wolves
+2025-08-23,idrissaganagueye_everton,0.0,0.0,62.0,Idrissa Gana Gueye,Everton
+2025-08-23,ilimanndiaye_everton,0.0,0.0,63.0,Iliman Ndiaye,Everton
+2025-08-23,ismailasarr_crystalpalace,0.0,0.0,64.0,Ismaila Sarr,Crystal Palace
+2025-08-23,jamesgarner_everton,0.0,0.0,65.0,James Garner,Everton
+2025-08-23,jamesmilner_brighton,0.0,0.0,66.0,James Milner,Brighton
+2025-08-23,jarrodbowen_westham,0.0,0.0,67.0,Jarrod Bowen,West Ham
+2025-08-23,jeanphilippemateta_crystalpalace,0.0,0.0,68.0,Jean-Philippe Mateta,Crystal Palace
+2025-08-23,joerodon_leedsunited,0.0,0.0,69.0,Joe Rodon,Leeds United
+2025-08-23,johnmcginn_astonvilla,0.0,0.0,70.0,John McGinn,Aston Villa
+2025-08-23,kaorumitoma_brighton,0.0,0.0,71.0,Kaoru Mitoma,Brighton
+2025-08-23,kevinschade_brentford,0.0,0.0,72.0,Kevin Schade,Brentford
+2025-08-23,kiernandewsburyhall_everton,0.0,0.0,73.0,Kiernan Dewsbury-Hall,Everton
+2025-08-23,ladislavkrejci_wolves,0.0,0.0,74.0,Ladislav Krejci,Wolves
+2025-08-23,lucasbergvall_tottenham,0.0,0.0,75.0,Lucas Bergvall,Tottenham
+2025-08-23,lylefoster_burnley,0.0,0.0,76.0,Lyle Foster,Burnley
+2025-08-23,marcguehi_crystalpalace,0.0,0.0,77.0,Marc Guehi,Crystal Palace
+2025-08-23,martinzubimendi_arsenal,0.0,0.0,78.0,Martin Zubimendi,Arsenal
+2025-08-23,matheusnunes_manchestercity,0.0,0.0,79.0,Matheus Nunes,Manchester City
+2025-08-23,mathiasjensen_brentford,0.0,0.0,80.0,Mathias Jensen,Brentford
+2025-08-23,mattycash_astonvilla,0.0,0.0,81.0,Matty Cash,Aston Villa
+2025-08-23,maximdecuyper_brighton,0.0,0.0,82.0,Maxim De Cuyper,Brighton
+2025-08-23,michaelkeane_everton,0.0,0.0,83.0,Michael Keane,Everton
+2025-08-23,mickyvandeven_tottenham,0.0,0.0,84.0,Micky van de Ven,Tottenham
+2025-08-23,mikelmerino_arsenal,0.0,0.0,85.0,Mikel Merino,Arsenal
+2025-08-23,mikkeldamsgaard_brentford,0.0,0.0,86.0,Mikkel Damsgaard,Brentford
+2025-08-23,necowilliams_notthamforest,0.0,0.0,87.0,Neco Williams,Nott'ham Forest
+2025-08-23,nickwoltemade_newcastleutd,0.0,0.0,88.0,Nick Woltemade,Newcastle Utd
+2025-08-23,noahokafor_leedsunited,0.0,0.0,89.0,Noah Okafor,Leeds United
+2025-08-23,olliewatkins_astonvilla,0.0,0.0,90.0,Ollie Watkins,Aston Villa
+2025-08-23,omaralderete_sunderland,0.0,0.0,91.0,Omar Alderete,Sunderland
+2025-08-23,papematarsarr_tottenham,0.0,0.0,92.0,Pape Matar Sarr,Tottenham
+2025-08-23,philfoden_manchestercity,0.0,0.0,93.0,Phil Foden,Manchester City
+2025-08-23,rauljimenez_fulham,0.0,0.0,94.0,Raul Jimenez,Fulham
+2025-08-23,riongumoha_liverpool,0.0,0.0,95.0,Rio Ngumoha,Liverpool
+2025-08-23,rodrigogomes_wolves,0.0,0.0,96.0,Rodrigo Gomes,Wolves
+2025-08-23,ryangravenberch_liverpool,0.0,0.0,97.0,Ryan Gravenberch,Liverpool
+2025-08-23,santiagobueno_wolves,0.0,0.0,98.0,Santiago Bueno,Wolves
+2025-08-23,seanlongstaff_leedsunited,0.0,0.0,99.0,Sean Longstaff,Leeds United
+2025-08-23,tyrickmitchell_crystalpalace,0.0,0.0,100.0,Tyrick Mitchell,Crystal Palace
+2025-08-23,williamosula_newcastleutd,0.0,0.0,101.0,William Osula,Newcastle Utd
+2025-08-23,yankubaminteh_brighton,0.0,0.0,102.0,Yankuba Minteh,Brighton
+2025-08-23,yasinayari_brighton,0.0,0.0,103.0,Yasin Ayari,Brighton
 2025-08-24,antoinesemenyo_bournemouth,2.0,0.0,1.0,Antoine Semenyo,Bournemouth
 2025-08-24,brennanjohnson_tottenham,2.0,0.0,2.0,Brennan Johnson,Tottenham
 2025-08-24,chriswood_notthamforest,2.0,0.0,3.0,Chris Wood,Nott'ham Forest
@@ -392,26 +656,70 @@ date,player_team,value,pk,rank,player,team
 2025-08-24,tijjanireijnders_manchestercity,1.0,0.0,37.0,Tijjani Reijnders,Manchester City
 2025-08-24,trevohchalobah_chelsea,1.0,0.0,38.0,Trevoh Chalobah,Chelsea
 2025-08-24,wilsonisidor_sunderland,1.0,0.0,39.0,Wilson Isidor,Sunderland
-2025-08-24,beto_everton,0.0,0.0,40.0,Beto,Everton
-2025-08-24,brajangruda_brighton,0.0,0.0,41.0,Brajan Gruda,Brighton
-2025-08-24,brunofernandes_manchesterutd,0.0,0.0,42.0,Bruno Fernandes,Manchester Utd
-2025-08-24,brunoguimaraes_newcastleutd,0.0,0.0,43.0,Bruno Guimaraes,Newcastle Utd
-2025-08-24,bryanmbeumo_manchesterutd,0.0,0.0,44.0,Bryan Mbeumo,Manchester Utd
-2025-08-24,callumwilson_westham,0.0,0.0,45.0,Callum Wilson,West Ham
-2025-08-24,dominikszoboszlai_liverpool,0.0,0.0,46.0,Dominik Szoboszlai,Liverpool
-2025-08-24,enzolefee_sunderland,0.0,0.0,47.0,Enzo Le Fee,Sunderland
-2025-08-24,evanilson_bournemouth,0.0,0.0,48.0,Evanilson,Bournemouth
-2025-08-24,hwangheechan_wolves,0.0,0.0,49.0,Hwang Hee-chan,Wolves
-2025-08-24,jamesmilner_brighton,0.0,0.0,50.0,James Milner,Brighton
-2025-08-24,jarrodbowen_westham,0.0,0.0,51.0,Jarrod Bowen,West Ham
-2025-08-24,jeanphilippemateta_crystalpalace,0.0,0.0,52.0,Jean-Philippe Mateta,Crystal Palace
-2025-08-24,kiernandewsburyhall_everton,0.0,0.0,53.0,Kiernan Dewsbury-Hall,Everton
-2025-08-24,lylefoster_burnley,0.0,0.0,54.0,Lyle Foster,Burnley
-2025-08-24,marcguehi_crystalpalace,0.0,0.0,55.0,Marc Guehi,Crystal Palace
-2025-08-24,riongumoha_liverpool,0.0,0.0,56.0,Rio Ngumoha,Liverpool
-2025-08-24,rodrigogomes_wolves,0.0,0.0,57.0,Rodrigo Gomes,Wolves
-2025-08-24,ryangravenberch_liverpool,0.0,0.0,58.0,Ryan Gravenberch,Liverpool
-2025-08-24,williamosula_newcastleutd,0.0,0.0,59.0,William Osula,Newcastle Utd
+2025-08-24,alexiwobi_fulham,0.0,0.0,40.0,Alex Iwobi,Fulham
+2025-08-24,alexscott_bournemouth,0.0,0.0,41.0,Alex Scott,Bournemouth
+2025-08-24,antonstach_leedsunited,0.0,0.0,42.0,Anton Stach,Leeds United
+2025-08-24,benjaminsesko_manchesterutd,0.0,0.0,43.0,Benjamin Sesko,Manchester Utd
+2025-08-24,beto_everton,0.0,0.0,44.0,Beto,Everton
+2025-08-24,brajangruda_brighton,0.0,0.0,45.0,Brajan Gruda,Brighton
+2025-08-24,brunofernandes_manchesterutd,0.0,0.0,46.0,Bruno Fernandes,Manchester Utd
+2025-08-24,brunoguimaraes_newcastleutd,0.0,0.0,47.0,Bruno Guimaraes,Newcastle Utd
+2025-08-24,bryanmbeumo_manchesterutd,0.0,0.0,48.0,Bryan Mbeumo,Manchester Utd
+2025-08-24,callumwilson_westham,0.0,0.0,49.0,Callum Wilson,West Ham
+2025-08-24,casemiro_manchesterutd,0.0,0.0,50.0,Casemiro,Manchester Utd
+2025-08-24,colepalmer_chelsea,0.0,0.0,51.0,Cole Palmer,Chelsea
+2025-08-24,dannywelbeck_brighton,0.0,0.0,52.0,Danny Welbeck,Brighton
+2025-08-24,dominiccalvertlewin_leedsunited,0.0,0.0,53.0,Dominic Calvert-Lewin,Leeds United
+2025-08-24,dominikszoboszlai_liverpool,0.0,0.0,54.0,Dominik Szoboszlai,Liverpool
+2025-08-24,eddienketiah_crystalpalace,0.0,0.0,55.0,Eddie Nketiah,Crystal Palace
+2025-08-24,elijuniorkroupi_bournemouth,0.0,0.0,56.0,Eli Junior Kroupi,Bournemouth
+2025-08-24,emibuendia_astonvilla,0.0,0.0,57.0,Emi Buendia,Aston Villa
+2025-08-24,enzolefee_sunderland,0.0,0.0,58.0,Enzo Le Fee,Sunderland
+2025-08-24,evanilson_bournemouth,0.0,0.0,59.0,Evanilson,Bournemouth
+2025-08-24,fabiocarvalho_brentford,0.0,0.0,60.0,Fabio Carvalho,Brentford
+2025-08-24,gabrielmagalhaes_arsenal,0.0,0.0,61.0,Gabriel Magalhaes,Arsenal
+2025-08-24,gabrielmartinelli_arsenal,0.0,0.0,62.0,Gabriel Martinelli,Arsenal
+2025-08-24,harrywilson_fulham,0.0,0.0,63.0,Harry Wilson,Fulham
+2025-08-24,hwangheechan_wolves,0.0,0.0,64.0,Hwang Hee-chan,Wolves
+2025-08-24,idrissaganagueye_everton,0.0,0.0,65.0,Idrissa Gana Gueye,Everton
+2025-08-24,jamesmilner_brighton,0.0,0.0,66.0,James Milner,Brighton
+2025-08-24,jarrodbowen_westham,0.0,0.0,67.0,Jarrod Bowen,West Ham
+2025-08-24,jeanphilippemateta_crystalpalace,0.0,0.0,68.0,Jean-Philippe Mateta,Crystal Palace
+2025-08-24,joerodon_leedsunited,0.0,0.0,69.0,Joe Rodon,Leeds United
+2025-08-24,johnmcginn_astonvilla,0.0,0.0,70.0,John McGinn,Aston Villa
+2025-08-24,kaorumitoma_brighton,0.0,0.0,71.0,Kaoru Mitoma,Brighton
+2025-08-24,kevinschade_brentford,0.0,0.0,72.0,Kevin Schade,Brentford
+2025-08-24,kiernandewsburyhall_everton,0.0,0.0,73.0,Kiernan Dewsbury-Hall,Everton
+2025-08-24,ladislavkrejci_wolves,0.0,0.0,74.0,Ladislav Krejci,Wolves
+2025-08-24,lucasbergvall_tottenham,0.0,0.0,75.0,Lucas Bergvall,Tottenham
+2025-08-24,lylefoster_burnley,0.0,0.0,76.0,Lyle Foster,Burnley
+2025-08-24,marcguehi_crystalpalace,0.0,0.0,77.0,Marc Guehi,Crystal Palace
+2025-08-24,martinzubimendi_arsenal,0.0,0.0,78.0,Martin Zubimendi,Arsenal
+2025-08-24,matheusnunes_manchestercity,0.0,0.0,79.0,Matheus Nunes,Manchester City
+2025-08-24,mathiasjensen_brentford,0.0,0.0,80.0,Mathias Jensen,Brentford
+2025-08-24,mattycash_astonvilla,0.0,0.0,81.0,Matty Cash,Aston Villa
+2025-08-24,maximdecuyper_brighton,0.0,0.0,82.0,Maxim De Cuyper,Brighton
+2025-08-24,michaelkeane_everton,0.0,0.0,83.0,Michael Keane,Everton
+2025-08-24,mickyvandeven_tottenham,0.0,0.0,84.0,Micky van de Ven,Tottenham
+2025-08-24,mikelmerino_arsenal,0.0,0.0,85.0,Mikel Merino,Arsenal
+2025-08-24,mikkeldamsgaard_brentford,0.0,0.0,86.0,Mikkel Damsgaard,Brentford
+2025-08-24,necowilliams_notthamforest,0.0,0.0,87.0,Neco Williams,Nott'ham Forest
+2025-08-24,nickwoltemade_newcastleutd,0.0,0.0,88.0,Nick Woltemade,Newcastle Utd
+2025-08-24,noahokafor_leedsunited,0.0,0.0,89.0,Noah Okafor,Leeds United
+2025-08-24,olliewatkins_astonvilla,0.0,0.0,90.0,Ollie Watkins,Aston Villa
+2025-08-24,omaralderete_sunderland,0.0,0.0,91.0,Omar Alderete,Sunderland
+2025-08-24,papematarsarr_tottenham,0.0,0.0,92.0,Pape Matar Sarr,Tottenham
+2025-08-24,philfoden_manchestercity,0.0,0.0,93.0,Phil Foden,Manchester City
+2025-08-24,rauljimenez_fulham,0.0,0.0,94.0,Raul Jimenez,Fulham
+2025-08-24,riongumoha_liverpool,0.0,0.0,95.0,Rio Ngumoha,Liverpool
+2025-08-24,rodrigogomes_wolves,0.0,0.0,96.0,Rodrigo Gomes,Wolves
+2025-08-24,ryangravenberch_liverpool,0.0,0.0,97.0,Ryan Gravenberch,Liverpool
+2025-08-24,santiagobueno_wolves,0.0,0.0,98.0,Santiago Bueno,Wolves
+2025-08-24,seanlongstaff_leedsunited,0.0,0.0,99.0,Sean Longstaff,Leeds United
+2025-08-24,tyrickmitchell_crystalpalace,0.0,0.0,100.0,Tyrick Mitchell,Crystal Palace
+2025-08-24,williamosula_newcastleutd,0.0,0.0,101.0,William Osula,Newcastle Utd
+2025-08-24,yankubaminteh_brighton,0.0,0.0,102.0,Yankuba Minteh,Brighton
+2025-08-24,yasinayari_brighton,0.0,0.0,103.0,Yasin Ayari,Brighton
 2025-08-25,antoinesemenyo_bournemouth,2.0,0.0,1.0,Antoine Semenyo,Bournemouth
 2025-08-25,brennanjohnson_tottenham,2.0,0.0,2.0,Brennan Johnson,Tottenham
 2025-08-25,chriswood_notthamforest,2.0,0.0,3.0,Chris Wood,Nott'ham Forest
@@ -455,22 +763,66 @@ date,player_team,value,pk,rank,player,team
 2025-08-25,trevohchalobah_chelsea,1.0,0.0,41.0,Trevoh Chalobah,Chelsea
 2025-08-25,williamosula_newcastleutd,1.0,0.0,42.0,William Osula,Newcastle Utd
 2025-08-25,wilsonisidor_sunderland,1.0,0.0,43.0,Wilson Isidor,Sunderland
-2025-08-25,beto_everton,0.0,0.0,44.0,Beto,Everton
-2025-08-25,brajangruda_brighton,0.0,0.0,45.0,Brajan Gruda,Brighton
-2025-08-25,brunofernandes_manchesterutd,0.0,0.0,46.0,Bruno Fernandes,Manchester Utd
-2025-08-25,bryanmbeumo_manchesterutd,0.0,0.0,47.0,Bryan Mbeumo,Manchester Utd
-2025-08-25,callumwilson_westham,0.0,0.0,48.0,Callum Wilson,West Ham
-2025-08-25,dominikszoboszlai_liverpool,0.0,0.0,49.0,Dominik Szoboszlai,Liverpool
-2025-08-25,enzolefee_sunderland,0.0,0.0,50.0,Enzo Le Fee,Sunderland
-2025-08-25,evanilson_bournemouth,0.0,0.0,51.0,Evanilson,Bournemouth
-2025-08-25,hwangheechan_wolves,0.0,0.0,52.0,Hwang Hee-chan,Wolves
-2025-08-25,jamesmilner_brighton,0.0,0.0,53.0,James Milner,Brighton
-2025-08-25,jarrodbowen_westham,0.0,0.0,54.0,Jarrod Bowen,West Ham
-2025-08-25,jeanphilippemateta_crystalpalace,0.0,0.0,55.0,Jean-Philippe Mateta,Crystal Palace
-2025-08-25,kiernandewsburyhall_everton,0.0,0.0,56.0,Kiernan Dewsbury-Hall,Everton
-2025-08-25,lylefoster_burnley,0.0,0.0,57.0,Lyle Foster,Burnley
-2025-08-25,marcguehi_crystalpalace,0.0,0.0,58.0,Marc Guehi,Crystal Palace
-2025-08-25,rodrigogomes_wolves,0.0,0.0,59.0,Rodrigo Gomes,Wolves
+2025-08-25,alexiwobi_fulham,0.0,0.0,44.0,Alex Iwobi,Fulham
+2025-08-25,alexscott_bournemouth,0.0,0.0,45.0,Alex Scott,Bournemouth
+2025-08-25,antonstach_leedsunited,0.0,0.0,46.0,Anton Stach,Leeds United
+2025-08-25,benjaminsesko_manchesterutd,0.0,0.0,47.0,Benjamin Sesko,Manchester Utd
+2025-08-25,beto_everton,0.0,0.0,48.0,Beto,Everton
+2025-08-25,brajangruda_brighton,0.0,0.0,49.0,Brajan Gruda,Brighton
+2025-08-25,brunofernandes_manchesterutd,0.0,0.0,50.0,Bruno Fernandes,Manchester Utd
+2025-08-25,bryanmbeumo_manchesterutd,0.0,0.0,51.0,Bryan Mbeumo,Manchester Utd
+2025-08-25,callumwilson_westham,0.0,0.0,52.0,Callum Wilson,West Ham
+2025-08-25,casemiro_manchesterutd,0.0,0.0,53.0,Casemiro,Manchester Utd
+2025-08-25,colepalmer_chelsea,0.0,0.0,54.0,Cole Palmer,Chelsea
+2025-08-25,dannywelbeck_brighton,0.0,0.0,55.0,Danny Welbeck,Brighton
+2025-08-25,dominiccalvertlewin_leedsunited,0.0,0.0,56.0,Dominic Calvert-Lewin,Leeds United
+2025-08-25,dominikszoboszlai_liverpool,0.0,0.0,57.0,Dominik Szoboszlai,Liverpool
+2025-08-25,eddienketiah_crystalpalace,0.0,0.0,58.0,Eddie Nketiah,Crystal Palace
+2025-08-25,elijuniorkroupi_bournemouth,0.0,0.0,59.0,Eli Junior Kroupi,Bournemouth
+2025-08-25,emibuendia_astonvilla,0.0,0.0,60.0,Emi Buendia,Aston Villa
+2025-08-25,enzolefee_sunderland,0.0,0.0,61.0,Enzo Le Fee,Sunderland
+2025-08-25,evanilson_bournemouth,0.0,0.0,62.0,Evanilson,Bournemouth
+2025-08-25,fabiocarvalho_brentford,0.0,0.0,63.0,Fabio Carvalho,Brentford
+2025-08-25,gabrielmagalhaes_arsenal,0.0,0.0,64.0,Gabriel Magalhaes,Arsenal
+2025-08-25,gabrielmartinelli_arsenal,0.0,0.0,65.0,Gabriel Martinelli,Arsenal
+2025-08-25,harrywilson_fulham,0.0,0.0,66.0,Harry Wilson,Fulham
+2025-08-25,hwangheechan_wolves,0.0,0.0,67.0,Hwang Hee-chan,Wolves
+2025-08-25,idrissaganagueye_everton,0.0,0.0,68.0,Idrissa Gana Gueye,Everton
+2025-08-25,jamesmilner_brighton,0.0,0.0,69.0,James Milner,Brighton
+2025-08-25,jarrodbowen_westham,0.0,0.0,70.0,Jarrod Bowen,West Ham
+2025-08-25,jeanphilippemateta_crystalpalace,0.0,0.0,71.0,Jean-Philippe Mateta,Crystal Palace
+2025-08-25,joerodon_leedsunited,0.0,0.0,72.0,Joe Rodon,Leeds United
+2025-08-25,johnmcginn_astonvilla,0.0,0.0,73.0,John McGinn,Aston Villa
+2025-08-25,kaorumitoma_brighton,0.0,0.0,74.0,Kaoru Mitoma,Brighton
+2025-08-25,kevinschade_brentford,0.0,0.0,75.0,Kevin Schade,Brentford
+2025-08-25,kiernandewsburyhall_everton,0.0,0.0,76.0,Kiernan Dewsbury-Hall,Everton
+2025-08-25,ladislavkrejci_wolves,0.0,0.0,77.0,Ladislav Krejci,Wolves
+2025-08-25,lucasbergvall_tottenham,0.0,0.0,78.0,Lucas Bergvall,Tottenham
+2025-08-25,lylefoster_burnley,0.0,0.0,79.0,Lyle Foster,Burnley
+2025-08-25,marcguehi_crystalpalace,0.0,0.0,80.0,Marc Guehi,Crystal Palace
+2025-08-25,martinzubimendi_arsenal,0.0,0.0,81.0,Martin Zubimendi,Arsenal
+2025-08-25,matheusnunes_manchestercity,0.0,0.0,82.0,Matheus Nunes,Manchester City
+2025-08-25,mathiasjensen_brentford,0.0,0.0,83.0,Mathias Jensen,Brentford
+2025-08-25,mattycash_astonvilla,0.0,0.0,84.0,Matty Cash,Aston Villa
+2025-08-25,maximdecuyper_brighton,0.0,0.0,85.0,Maxim De Cuyper,Brighton
+2025-08-25,michaelkeane_everton,0.0,0.0,86.0,Michael Keane,Everton
+2025-08-25,mickyvandeven_tottenham,0.0,0.0,87.0,Micky van de Ven,Tottenham
+2025-08-25,mikelmerino_arsenal,0.0,0.0,88.0,Mikel Merino,Arsenal
+2025-08-25,mikkeldamsgaard_brentford,0.0,0.0,89.0,Mikkel Damsgaard,Brentford
+2025-08-25,necowilliams_notthamforest,0.0,0.0,90.0,Neco Williams,Nott'ham Forest
+2025-08-25,nickwoltemade_newcastleutd,0.0,0.0,91.0,Nick Woltemade,Newcastle Utd
+2025-08-25,noahokafor_leedsunited,0.0,0.0,92.0,Noah Okafor,Leeds United
+2025-08-25,olliewatkins_astonvilla,0.0,0.0,93.0,Ollie Watkins,Aston Villa
+2025-08-25,omaralderete_sunderland,0.0,0.0,94.0,Omar Alderete,Sunderland
+2025-08-25,papematarsarr_tottenham,0.0,0.0,95.0,Pape Matar Sarr,Tottenham
+2025-08-25,philfoden_manchestercity,0.0,0.0,96.0,Phil Foden,Manchester City
+2025-08-25,rauljimenez_fulham,0.0,0.0,97.0,Raul Jimenez,Fulham
+2025-08-25,rodrigogomes_wolves,0.0,0.0,98.0,Rodrigo Gomes,Wolves
+2025-08-25,santiagobueno_wolves,0.0,0.0,99.0,Santiago Bueno,Wolves
+2025-08-25,seanlongstaff_leedsunited,0.0,0.0,100.0,Sean Longstaff,Leeds United
+2025-08-25,tyrickmitchell_crystalpalace,0.0,0.0,101.0,Tyrick Mitchell,Crystal Palace
+2025-08-25,yankubaminteh_brighton,0.0,0.0,102.0,Yankuba Minteh,Brighton
+2025-08-25,yasinayari_brighton,0.0,0.0,103.0,Yasin Ayari,Brighton
 2025-08-30,antoinesemenyo_bournemouth,2.0,0.0,1.0,Antoine Semenyo,Bournemouth
 2025-08-30,brennanjohnson_tottenham,2.0,0.0,2.0,Brennan Johnson,Tottenham
 2025-08-30,chriswood_notthamforest,2.0,0.0,3.0,Chris Wood,Nott'ham Forest
@@ -523,13 +875,57 @@ date,player_team,value,pk,rank,player,team
 2025-08-30,tijjanireijnders_manchestercity,1.0,0.0,50.0,Tijjani Reijnders,Manchester City
 2025-08-30,trevohchalobah_chelsea,1.0,0.0,51.0,Trevoh Chalobah,Chelsea
 2025-08-30,williamosula_newcastleutd,1.0,0.0,52.0,William Osula,Newcastle Utd
-2025-08-30,brajangruda_brighton,0.0,0.0,53.0,Brajan Gruda,Brighton
-2025-08-30,callumwilson_westham,0.0,0.0,54.0,Callum Wilson,West Ham
-2025-08-30,dominikszoboszlai_liverpool,0.0,0.0,55.0,Dominik Szoboszlai,Liverpool
-2025-08-30,jamesmilner_brighton,0.0,0.0,56.0,James Milner,Brighton
-2025-08-30,jarrodbowen_westham,0.0,0.0,57.0,Jarrod Bowen,West Ham
-2025-08-30,jeanphilippemateta_crystalpalace,0.0,0.0,58.0,Jean-Philippe Mateta,Crystal Palace
-2025-08-30,marcguehi_crystalpalace,0.0,0.0,59.0,Marc Guehi,Crystal Palace
+2025-08-30,alexiwobi_fulham,0.0,0.0,53.0,Alex Iwobi,Fulham
+2025-08-30,alexscott_bournemouth,0.0,0.0,54.0,Alex Scott,Bournemouth
+2025-08-30,antonstach_leedsunited,0.0,0.0,55.0,Anton Stach,Leeds United
+2025-08-30,benjaminsesko_manchesterutd,0.0,0.0,56.0,Benjamin Sesko,Manchester Utd
+2025-08-30,brajangruda_brighton,0.0,0.0,57.0,Brajan Gruda,Brighton
+2025-08-30,callumwilson_westham,0.0,0.0,58.0,Callum Wilson,West Ham
+2025-08-30,casemiro_manchesterutd,0.0,0.0,59.0,Casemiro,Manchester Utd
+2025-08-30,colepalmer_chelsea,0.0,0.0,60.0,Cole Palmer,Chelsea
+2025-08-30,dannywelbeck_brighton,0.0,0.0,61.0,Danny Welbeck,Brighton
+2025-08-30,dominiccalvertlewin_leedsunited,0.0,0.0,62.0,Dominic Calvert-Lewin,Leeds United
+2025-08-30,dominikszoboszlai_liverpool,0.0,0.0,63.0,Dominik Szoboszlai,Liverpool
+2025-08-30,eddienketiah_crystalpalace,0.0,0.0,64.0,Eddie Nketiah,Crystal Palace
+2025-08-30,elijuniorkroupi_bournemouth,0.0,0.0,65.0,Eli Junior Kroupi,Bournemouth
+2025-08-30,emibuendia_astonvilla,0.0,0.0,66.0,Emi Buendia,Aston Villa
+2025-08-30,fabiocarvalho_brentford,0.0,0.0,67.0,Fabio Carvalho,Brentford
+2025-08-30,gabrielmagalhaes_arsenal,0.0,0.0,68.0,Gabriel Magalhaes,Arsenal
+2025-08-30,gabrielmartinelli_arsenal,0.0,0.0,69.0,Gabriel Martinelli,Arsenal
+2025-08-30,harrywilson_fulham,0.0,0.0,70.0,Harry Wilson,Fulham
+2025-08-30,idrissaganagueye_everton,0.0,0.0,71.0,Idrissa Gana Gueye,Everton
+2025-08-30,jamesmilner_brighton,0.0,0.0,72.0,James Milner,Brighton
+2025-08-30,jarrodbowen_westham,0.0,0.0,73.0,Jarrod Bowen,West Ham
+2025-08-30,jeanphilippemateta_crystalpalace,0.0,0.0,74.0,Jean-Philippe Mateta,Crystal Palace
+2025-08-30,joerodon_leedsunited,0.0,0.0,75.0,Joe Rodon,Leeds United
+2025-08-30,johnmcginn_astonvilla,0.0,0.0,76.0,John McGinn,Aston Villa
+2025-08-30,kaorumitoma_brighton,0.0,0.0,77.0,Kaoru Mitoma,Brighton
+2025-08-30,kevinschade_brentford,0.0,0.0,78.0,Kevin Schade,Brentford
+2025-08-30,ladislavkrejci_wolves,0.0,0.0,79.0,Ladislav Krejci,Wolves
+2025-08-30,lucasbergvall_tottenham,0.0,0.0,80.0,Lucas Bergvall,Tottenham
+2025-08-30,marcguehi_crystalpalace,0.0,0.0,81.0,Marc Guehi,Crystal Palace
+2025-08-30,martinzubimendi_arsenal,0.0,0.0,82.0,Martin Zubimendi,Arsenal
+2025-08-30,matheusnunes_manchestercity,0.0,0.0,83.0,Matheus Nunes,Manchester City
+2025-08-30,mathiasjensen_brentford,0.0,0.0,84.0,Mathias Jensen,Brentford
+2025-08-30,mattycash_astonvilla,0.0,0.0,85.0,Matty Cash,Aston Villa
+2025-08-30,maximdecuyper_brighton,0.0,0.0,86.0,Maxim De Cuyper,Brighton
+2025-08-30,michaelkeane_everton,0.0,0.0,87.0,Michael Keane,Everton
+2025-08-30,mickyvandeven_tottenham,0.0,0.0,88.0,Micky van de Ven,Tottenham
+2025-08-30,mikelmerino_arsenal,0.0,0.0,89.0,Mikel Merino,Arsenal
+2025-08-30,mikkeldamsgaard_brentford,0.0,0.0,90.0,Mikkel Damsgaard,Brentford
+2025-08-30,necowilliams_notthamforest,0.0,0.0,91.0,Neco Williams,Nott'ham Forest
+2025-08-30,nickwoltemade_newcastleutd,0.0,0.0,92.0,Nick Woltemade,Newcastle Utd
+2025-08-30,noahokafor_leedsunited,0.0,0.0,93.0,Noah Okafor,Leeds United
+2025-08-30,olliewatkins_astonvilla,0.0,0.0,94.0,Ollie Watkins,Aston Villa
+2025-08-30,omaralderete_sunderland,0.0,0.0,95.0,Omar Alderete,Sunderland
+2025-08-30,papematarsarr_tottenham,0.0,0.0,96.0,Pape Matar Sarr,Tottenham
+2025-08-30,philfoden_manchestercity,0.0,0.0,97.0,Phil Foden,Manchester City
+2025-08-30,rauljimenez_fulham,0.0,0.0,98.0,Raul Jimenez,Fulham
+2025-08-30,santiagobueno_wolves,0.0,0.0,99.0,Santiago Bueno,Wolves
+2025-08-30,seanlongstaff_leedsunited,0.0,0.0,100.0,Sean Longstaff,Leeds United
+2025-08-30,tyrickmitchell_crystalpalace,0.0,0.0,101.0,Tyrick Mitchell,Crystal Palace
+2025-08-30,yankubaminteh_brighton,0.0,0.0,102.0,Yankuba Minteh,Brighton
+2025-08-30,yasinayari_brighton,0.0,0.0,103.0,Yasin Ayari,Brighton
 2025-08-31,erlinghaaland_manchestercity,3.0,0.0,1.0,Erling Haaland,Manchester City
 2025-08-31,antoinesemenyo_bournemouth,2.0,0.0,2.0,Antoine Semenyo,Bournemouth
 2025-08-31,brennanjohnson_tottenham,2.0,0.0,3.0,Brennan Johnson,Tottenham
@@ -589,3 +985,768 @@ date,player_team,value,pk,rank,player,team
 2025-08-31,tijjanireijnders_manchestercity,1.0,0.0,57.0,Tijjani Reijnders,Manchester City
 2025-08-31,trevohchalobah_chelsea,1.0,0.0,58.0,Trevoh Chalobah,Chelsea
 2025-08-31,williamosula_newcastleutd,1.0,0.0,59.0,William Osula,Newcastle Utd
+2025-08-31,alexiwobi_fulham,0.0,0.0,60.0,Alex Iwobi,Fulham
+2025-08-31,alexscott_bournemouth,0.0,0.0,61.0,Alex Scott,Bournemouth
+2025-08-31,antonstach_leedsunited,0.0,0.0,62.0,Anton Stach,Leeds United
+2025-08-31,benjaminsesko_manchesterutd,0.0,0.0,63.0,Benjamin Sesko,Manchester Utd
+2025-08-31,casemiro_manchesterutd,0.0,0.0,64.0,Casemiro,Manchester Utd
+2025-08-31,colepalmer_chelsea,0.0,0.0,65.0,Cole Palmer,Chelsea
+2025-08-31,dannywelbeck_brighton,0.0,0.0,66.0,Danny Welbeck,Brighton
+2025-08-31,dominiccalvertlewin_leedsunited,0.0,0.0,67.0,Dominic Calvert-Lewin,Leeds United
+2025-08-31,eddienketiah_crystalpalace,0.0,0.0,68.0,Eddie Nketiah,Crystal Palace
+2025-08-31,elijuniorkroupi_bournemouth,0.0,0.0,69.0,Eli Junior Kroupi,Bournemouth
+2025-08-31,emibuendia_astonvilla,0.0,0.0,70.0,Emi Buendia,Aston Villa
+2025-08-31,fabiocarvalho_brentford,0.0,0.0,71.0,Fabio Carvalho,Brentford
+2025-08-31,gabrielmagalhaes_arsenal,0.0,0.0,72.0,Gabriel Magalhaes,Arsenal
+2025-08-31,gabrielmartinelli_arsenal,0.0,0.0,73.0,Gabriel Martinelli,Arsenal
+2025-08-31,harrywilson_fulham,0.0,0.0,74.0,Harry Wilson,Fulham
+2025-08-31,idrissaganagueye_everton,0.0,0.0,75.0,Idrissa Gana Gueye,Everton
+2025-08-31,joerodon_leedsunited,0.0,0.0,76.0,Joe Rodon,Leeds United
+2025-08-31,johnmcginn_astonvilla,0.0,0.0,77.0,John McGinn,Aston Villa
+2025-08-31,kaorumitoma_brighton,0.0,0.0,78.0,Kaoru Mitoma,Brighton
+2025-08-31,kevinschade_brentford,0.0,0.0,79.0,Kevin Schade,Brentford
+2025-08-31,ladislavkrejci_wolves,0.0,0.0,80.0,Ladislav Krejci,Wolves
+2025-08-31,lucasbergvall_tottenham,0.0,0.0,81.0,Lucas Bergvall,Tottenham
+2025-08-31,martinzubimendi_arsenal,0.0,0.0,82.0,Martin Zubimendi,Arsenal
+2025-08-31,matheusnunes_manchestercity,0.0,0.0,83.0,Matheus Nunes,Manchester City
+2025-08-31,mathiasjensen_brentford,0.0,0.0,84.0,Mathias Jensen,Brentford
+2025-08-31,mattycash_astonvilla,0.0,0.0,85.0,Matty Cash,Aston Villa
+2025-08-31,maximdecuyper_brighton,0.0,0.0,86.0,Maxim De Cuyper,Brighton
+2025-08-31,michaelkeane_everton,0.0,0.0,87.0,Michael Keane,Everton
+2025-08-31,mickyvandeven_tottenham,0.0,0.0,88.0,Micky van de Ven,Tottenham
+2025-08-31,mikelmerino_arsenal,0.0,0.0,89.0,Mikel Merino,Arsenal
+2025-08-31,mikkeldamsgaard_brentford,0.0,0.0,90.0,Mikkel Damsgaard,Brentford
+2025-08-31,necowilliams_notthamforest,0.0,0.0,91.0,Neco Williams,Nott'ham Forest
+2025-08-31,nickwoltemade_newcastleutd,0.0,0.0,92.0,Nick Woltemade,Newcastle Utd
+2025-08-31,noahokafor_leedsunited,0.0,0.0,93.0,Noah Okafor,Leeds United
+2025-08-31,olliewatkins_astonvilla,0.0,0.0,94.0,Ollie Watkins,Aston Villa
+2025-08-31,omaralderete_sunderland,0.0,0.0,95.0,Omar Alderete,Sunderland
+2025-08-31,papematarsarr_tottenham,0.0,0.0,96.0,Pape Matar Sarr,Tottenham
+2025-08-31,philfoden_manchestercity,0.0,0.0,97.0,Phil Foden,Manchester City
+2025-08-31,rauljimenez_fulham,0.0,0.0,98.0,Raul Jimenez,Fulham
+2025-08-31,santiagobueno_wolves,0.0,0.0,99.0,Santiago Bueno,Wolves
+2025-08-31,seanlongstaff_leedsunited,0.0,0.0,100.0,Sean Longstaff,Leeds United
+2025-08-31,tyrickmitchell_crystalpalace,0.0,0.0,101.0,Tyrick Mitchell,Crystal Palace
+2025-08-31,yankubaminteh_brighton,0.0,0.0,102.0,Yankuba Minteh,Brighton
+2025-08-31,yasinayari_brighton,0.0,0.0,103.0,Yasin Ayari,Brighton
+2025-09-13,antoinesemenyo_bournemouth,3.0,1.0,1.0,Antoine Semenyo,Bournemouth
+2025-09-13,erlinghaaland_manchestercity,3.0,0.0,2.0,Erling Haaland,Manchester City
+2025-09-13,viktorgyokeres_arsenal,3.0,1.0,3.0,Viktor Gyokeres,Arsenal
+2025-09-13,brennanjohnson_tottenham,2.0,0.0,4.0,Brennan Johnson,Tottenham
+2025-09-13,chriswood_notthamforest,2.0,0.0,5.0,Chris Wood,Nott'ham Forest
+2025-09-13,enzofernandez_chelsea,2.0,1.0,6.0,Enzo Fernandez,Chelsea
+2025-09-13,hugoekitike_liverpool,2.0,0.0,7.0,Hugo Ekitike,Liverpool
+2025-09-13,ilimanndiaye_everton,2.0,0.0,8.0,Iliman Ndiaye,Everton
+2025-09-13,ismailasarr_crystalpalace,2.0,0.0,9.0,Ismaila Sarr,Crystal Palace
+2025-09-13,jaidonanthony_burnley,2.0,0.0,10.0,Jaidon Anthony,Burnley
+2025-09-13,joaopedro_chelsea,2.0,0.0,11.0,Joao Pedro,Chelsea
+2025-09-13,jurrientimber_arsenal,2.0,0.0,12.0,Jurrien Timber,Arsenal
+2025-09-13,lucaspaqueta_westham,2.0,1.0,13.0,Lucas Paqueta,West Ham
+2025-09-13,martinzubimendi_arsenal,2.0,0.0,14.0,Martin Zubimendi,Arsenal
+2025-09-13,moisescaicedo_chelsea,2.0,0.0,15.0,Moises Caicedo,Chelsea
+2025-09-13,richarlison_tottenham,2.0,0.0,16.0,Richarlison,Tottenham
+2025-09-13,thiago_brentford,2.0,1.0,17.0,Thiago,Brentford
+2025-09-13,wilsonisidor_sunderland,2.0,0.0,18.0,Wilson Isidor,Sunderland
+2025-09-13,alexscott_bournemouth,1.0,0.0,19.0,Alex Scott,Bournemouth
+2025-09-13,beto_everton,1.0,0.0,20.0,Beto,Everton
+2025-09-13,brajangruda_brighton,1.0,0.0,21.0,Brajan Gruda,Brighton
+2025-09-13,brunofernandes_manchesterutd,1.0,1.0,22.0,Bruno Fernandes,Manchester Utd
+2025-09-13,brunoguimaraes_newcastleutd,1.0,0.0,23.0,Bruno Guimaraes,Newcastle Utd
+2025-09-13,bryanmbeumo_manchesterutd,1.0,0.0,24.0,Bryan Mbeumo,Manchester Utd
+2025-09-13,bukayosaka_arsenal,1.0,0.0,25.0,Bukayo Saka,Arsenal
+2025-09-13,callumhudsonodoi_notthamforest,1.0,0.0,26.0,Callum Hudson-Odoi,Nott'ham Forest
+2025-09-13,callumwilson_westham,1.0,0.0,27.0,Callum Wilson,West Ham
+2025-09-13,codygakpo_liverpool,1.0,0.0,28.0,Cody Gakpo,Liverpool
+2025-09-13,colepalmer_chelsea,1.0,0.0,29.0,Cole Palmer,Chelsea
+2025-09-13,dangoouattara_brentford,1.0,0.0,30.0,Dango Ouattara,Brentford
+2025-09-13,danielballard_sunderland,1.0,0.0,31.0,Daniel Ballard,Sunderland
+2025-09-13,danndoye_notthamforest,1.0,0.0,32.0,Dan Ndoye,Nott'ham Forest
+2025-09-13,dominikszoboszlai_liverpool,1.0,0.0,33.0,Dominik Szoboszlai,Liverpool
+2025-09-13,eliezermayenda_sunderland,1.0,0.0,34.0,Eliezer Mayenda,Sunderland
+2025-09-13,emilesmithrowe_fulham,1.0,0.0,35.0,Emile Smith Rowe,Fulham
+2025-09-13,enzolefee_sunderland,1.0,1.0,36.0,Enzo Le Fee,Sunderland
+2025-09-13,evanilson_bournemouth,1.0,0.0,37.0,Evanilson,Bournemouth
+2025-09-13,fabiocarvalho_brentford,1.0,0.0,38.0,Fabio Carvalho,Brentford
+2025-09-13,federicochiesa_liverpool,1.0,0.0,39.0,Federico Chiesa,Liverpool
+2025-09-13,hwangheechan_wolves,1.0,0.0,40.0,Hwang Hee-chan,Wolves
+2025-09-13,jamesgarner_everton,1.0,0.0,41.0,James Garner,Everton
+2025-09-13,jamesmilner_brighton,1.0,1.0,42.0,James Milner,Brighton
+2025-09-13,jarrodbowen_westham,1.0,0.0,43.0,Jarrod Bowen,West Ham
+2025-09-13,jeanphilippemateta_crystalpalace,1.0,1.0,44.0,Jean-Philippe Mateta,Crystal Palace
+2025-09-13,joaopalhinha_tottenham,1.0,0.0,45.0,Joao Palhinha,Tottenham
+2025-09-13,joshcullen_burnley,1.0,0.0,46.0,Josh Cullen,Burnley
+2025-09-13,kaorumitoma_brighton,1.0,0.0,47.0,Kaoru Mitoma,Brighton
+2025-09-13,kevinschade_brentford,1.0,0.0,48.0,Kevin Schade,Brentford
+2025-09-13,kiernandewsburyhall_everton,1.0,0.0,49.0,Kiernan Dewsbury-Hall,Everton
+2025-09-13,lucasbergvall_tottenham,1.0,0.0,50.0,Lucas Bergvall,Tottenham
+2025-09-13,lukasnmecha_leedsunited,1.0,1.0,51.0,Lukas Nmecha,Leeds United
+2025-09-13,lylefoster_burnley,1.0,0.0,52.0,Lyle Foster,Burnley
+2025-09-13,marcguehi_crystalpalace,1.0,0.0,53.0,Marc Guehi,Crystal Palace
+2025-09-13,marcustavernier_bournemouth,1.0,0.0,54.0,Marcus Tavernier,Bournemouth
+2025-09-13,mattoriley_brighton,1.0,1.0,55.0,Matt O'Riley,Brighton
+2025-09-13,mickyvandeven_tottenham,1.0,0.0,56.0,Micky van de Ven,Tottenham
+2025-09-13,mohamedsalah_liverpool,1.0,0.0,57.0,Mohamed Salah,Liverpool
+2025-09-13,nickwoltemade_newcastleutd,1.0,0.0,58.0,Nick Woltemade,Newcastle Utd
+2025-09-13,papematarsarr_tottenham,1.0,0.0,59.0,Pape Matar Sarr,Tottenham
+2025-09-13,pedroneto_chelsea,1.0,0.0,60.0,Pedro Neto,Chelsea
+2025-09-13,rayancherki_manchestercity,1.0,0.0,61.0,Rayan Cherki,Manchester City
+2025-09-13,riccardocalafiori_arsenal,1.0,0.0,62.0,Riccardo Calafiori,Arsenal
+2025-09-13,riongumoha_liverpool,1.0,0.0,63.0,Rio Ngumoha,Liverpool
+2025-09-13,rodrigogomes_wolves,1.0,0.0,64.0,Rodrigo Gomes,Wolves
+2025-09-13,rodrigomuniz_fulham,1.0,0.0,65.0,Rodrigo Muniz,Fulham
+2025-09-13,ryangravenberch_liverpool,1.0,0.0,66.0,Ryan Gravenberch,Liverpool
+2025-09-13,tijjanireijnders_manchestercity,1.0,0.0,67.0,Tijjani Reijnders,Manchester City
+2025-09-13,trevohchalobah_chelsea,1.0,0.0,68.0,Trevoh Chalobah,Chelsea
+2025-09-13,williamosula_newcastleutd,1.0,0.0,69.0,William Osula,Newcastle Utd
+2025-09-13,alexiwobi_fulham,0.0,0.0,70.0,Alex Iwobi,Fulham
+2025-09-13,antonstach_leedsunited,0.0,0.0,71.0,Anton Stach,Leeds United
+2025-09-13,benjaminsesko_manchesterutd,0.0,0.0,72.0,Benjamin Sesko,Manchester Utd
+2025-09-13,casemiro_manchesterutd,0.0,0.0,73.0,Casemiro,Manchester Utd
+2025-09-13,dannywelbeck_brighton,0.0,0.0,74.0,Danny Welbeck,Brighton
+2025-09-13,dominiccalvertlewin_leedsunited,0.0,0.0,75.0,Dominic Calvert-Lewin,Leeds United
+2025-09-13,eddienketiah_crystalpalace,0.0,0.0,76.0,Eddie Nketiah,Crystal Palace
+2025-09-13,elijuniorkroupi_bournemouth,0.0,0.0,77.0,Eli Junior Kroupi,Bournemouth
+2025-09-13,emibuendia_astonvilla,0.0,0.0,78.0,Emi Buendia,Aston Villa
+2025-09-13,gabrielmagalhaes_arsenal,0.0,0.0,79.0,Gabriel Magalhaes,Arsenal
+2025-09-13,gabrielmartinelli_arsenal,0.0,0.0,80.0,Gabriel Martinelli,Arsenal
+2025-09-13,harrywilson_fulham,0.0,0.0,81.0,Harry Wilson,Fulham
+2025-09-13,idrissaganagueye_everton,0.0,0.0,82.0,Idrissa Gana Gueye,Everton
+2025-09-13,joerodon_leedsunited,0.0,0.0,83.0,Joe Rodon,Leeds United
+2025-09-13,johnmcginn_astonvilla,0.0,0.0,84.0,John McGinn,Aston Villa
+2025-09-13,ladislavkrejci_wolves,0.0,0.0,85.0,Ladislav Krejci,Wolves
+2025-09-13,matheusnunes_manchestercity,0.0,0.0,86.0,Matheus Nunes,Manchester City
+2025-09-13,mathiasjensen_brentford,0.0,0.0,87.0,Mathias Jensen,Brentford
+2025-09-13,mattycash_astonvilla,0.0,0.0,88.0,Matty Cash,Aston Villa
+2025-09-13,maximdecuyper_brighton,0.0,0.0,89.0,Maxim De Cuyper,Brighton
+2025-09-13,michaelkeane_everton,0.0,0.0,90.0,Michael Keane,Everton
+2025-09-13,mikelmerino_arsenal,0.0,0.0,91.0,Mikel Merino,Arsenal
+2025-09-13,mikkeldamsgaard_brentford,0.0,0.0,92.0,Mikkel Damsgaard,Brentford
+2025-09-13,necowilliams_notthamforest,0.0,0.0,93.0,Neco Williams,Nott'ham Forest
+2025-09-13,noahokafor_leedsunited,0.0,0.0,94.0,Noah Okafor,Leeds United
+2025-09-13,olliewatkins_astonvilla,0.0,0.0,95.0,Ollie Watkins,Aston Villa
+2025-09-13,omaralderete_sunderland,0.0,0.0,96.0,Omar Alderete,Sunderland
+2025-09-13,philfoden_manchestercity,0.0,0.0,97.0,Phil Foden,Manchester City
+2025-09-13,rauljimenez_fulham,0.0,0.0,98.0,Raul Jimenez,Fulham
+2025-09-13,santiagobueno_wolves,0.0,0.0,99.0,Santiago Bueno,Wolves
+2025-09-13,seanlongstaff_leedsunited,0.0,0.0,100.0,Sean Longstaff,Leeds United
+2025-09-13,tyrickmitchell_crystalpalace,0.0,0.0,101.0,Tyrick Mitchell,Crystal Palace
+2025-09-13,yankubaminteh_brighton,0.0,0.0,102.0,Yankuba Minteh,Brighton
+2025-09-13,yasinayari_brighton,0.0,0.0,103.0,Yasin Ayari,Brighton
+2025-09-14,erlinghaaland_manchestercity,5.0,0.0,1.0,Erling Haaland,Manchester City
+2025-09-14,antoinesemenyo_bournemouth,3.0,1.0,2.0,Antoine Semenyo,Bournemouth
+2025-09-14,viktorgyokeres_arsenal,3.0,1.0,3.0,Viktor Gyokeres,Arsenal
+2025-09-14,brennanjohnson_tottenham,2.0,0.0,4.0,Brennan Johnson,Tottenham
+2025-09-14,chriswood_notthamforest,2.0,0.0,5.0,Chris Wood,Nott'ham Forest
+2025-09-14,enzofernandez_chelsea,2.0,1.0,6.0,Enzo Fernandez,Chelsea
+2025-09-14,hugoekitike_liverpool,2.0,0.0,7.0,Hugo Ekitike,Liverpool
+2025-09-14,ilimanndiaye_everton,2.0,0.0,8.0,Iliman Ndiaye,Everton
+2025-09-14,ismailasarr_crystalpalace,2.0,0.0,9.0,Ismaila Sarr,Crystal Palace
+2025-09-14,jaidonanthony_burnley,2.0,0.0,10.0,Jaidon Anthony,Burnley
+2025-09-14,joaopedro_chelsea,2.0,0.0,11.0,Joao Pedro,Chelsea
+2025-09-14,jurrientimber_arsenal,2.0,0.0,12.0,Jurrien Timber,Arsenal
+2025-09-14,lucaspaqueta_westham,2.0,1.0,13.0,Lucas Paqueta,West Ham
+2025-09-14,martinzubimendi_arsenal,2.0,0.0,14.0,Martin Zubimendi,Arsenal
+2025-09-14,mohamedsalah_liverpool,2.0,1.0,15.0,Mohamed Salah,Liverpool
+2025-09-14,moisescaicedo_chelsea,2.0,0.0,16.0,Moises Caicedo,Chelsea
+2025-09-14,richarlison_tottenham,2.0,0.0,17.0,Richarlison,Tottenham
+2025-09-14,thiago_brentford,2.0,1.0,18.0,Thiago,Brentford
+2025-09-14,wilsonisidor_sunderland,2.0,0.0,19.0,Wilson Isidor,Sunderland
+2025-09-14,alexscott_bournemouth,1.0,0.0,20.0,Alex Scott,Bournemouth
+2025-09-14,beto_everton,1.0,0.0,21.0,Beto,Everton
+2025-09-14,brajangruda_brighton,1.0,0.0,22.0,Brajan Gruda,Brighton
+2025-09-14,brunofernandes_manchesterutd,1.0,1.0,23.0,Bruno Fernandes,Manchester Utd
+2025-09-14,brunoguimaraes_newcastleutd,1.0,0.0,24.0,Bruno Guimaraes,Newcastle Utd
+2025-09-14,bryanmbeumo_manchesterutd,1.0,0.0,25.0,Bryan Mbeumo,Manchester Utd
+2025-09-14,bukayosaka_arsenal,1.0,0.0,26.0,Bukayo Saka,Arsenal
+2025-09-14,callumhudsonodoi_notthamforest,1.0,0.0,27.0,Callum Hudson-Odoi,Nott'ham Forest
+2025-09-14,callumwilson_westham,1.0,0.0,28.0,Callum Wilson,West Ham
+2025-09-14,codygakpo_liverpool,1.0,0.0,29.0,Cody Gakpo,Liverpool
+2025-09-14,colepalmer_chelsea,1.0,0.0,30.0,Cole Palmer,Chelsea
+2025-09-14,dangoouattara_brentford,1.0,0.0,31.0,Dango Ouattara,Brentford
+2025-09-14,danielballard_sunderland,1.0,0.0,32.0,Daniel Ballard,Sunderland
+2025-09-14,danndoye_notthamforest,1.0,0.0,33.0,Dan Ndoye,Nott'ham Forest
+2025-09-14,dominikszoboszlai_liverpool,1.0,0.0,34.0,Dominik Szoboszlai,Liverpool
+2025-09-14,eliezermayenda_sunderland,1.0,0.0,35.0,Eliezer Mayenda,Sunderland
+2025-09-14,emilesmithrowe_fulham,1.0,0.0,36.0,Emile Smith Rowe,Fulham
+2025-09-14,enzolefee_sunderland,1.0,1.0,37.0,Enzo Le Fee,Sunderland
+2025-09-14,evanilson_bournemouth,1.0,0.0,38.0,Evanilson,Bournemouth
+2025-09-14,fabiocarvalho_brentford,1.0,0.0,39.0,Fabio Carvalho,Brentford
+2025-09-14,federicochiesa_liverpool,1.0,0.0,40.0,Federico Chiesa,Liverpool
+2025-09-14,hwangheechan_wolves,1.0,0.0,41.0,Hwang Hee-chan,Wolves
+2025-09-14,jamesgarner_everton,1.0,0.0,42.0,James Garner,Everton
+2025-09-14,jamesmilner_brighton,1.0,1.0,43.0,James Milner,Brighton
+2025-09-14,jarrodbowen_westham,1.0,0.0,44.0,Jarrod Bowen,West Ham
+2025-09-14,jeanphilippemateta_crystalpalace,1.0,1.0,45.0,Jean-Philippe Mateta,Crystal Palace
+2025-09-14,joaopalhinha_tottenham,1.0,0.0,46.0,Joao Palhinha,Tottenham
+2025-09-14,joshcullen_burnley,1.0,0.0,47.0,Josh Cullen,Burnley
+2025-09-14,kaorumitoma_brighton,1.0,0.0,48.0,Kaoru Mitoma,Brighton
+2025-09-14,kevinschade_brentford,1.0,0.0,49.0,Kevin Schade,Brentford
+2025-09-14,kiernandewsburyhall_everton,1.0,0.0,50.0,Kiernan Dewsbury-Hall,Everton
+2025-09-14,lucasbergvall_tottenham,1.0,0.0,51.0,Lucas Bergvall,Tottenham
+2025-09-14,lukasnmecha_leedsunited,1.0,1.0,52.0,Lukas Nmecha,Leeds United
+2025-09-14,lylefoster_burnley,1.0,0.0,53.0,Lyle Foster,Burnley
+2025-09-14,marcguehi_crystalpalace,1.0,0.0,54.0,Marc Guehi,Crystal Palace
+2025-09-14,marcustavernier_bournemouth,1.0,0.0,55.0,Marcus Tavernier,Bournemouth
+2025-09-14,mattoriley_brighton,1.0,1.0,56.0,Matt O'Riley,Brighton
+2025-09-14,mickyvandeven_tottenham,1.0,0.0,57.0,Micky van de Ven,Tottenham
+2025-09-14,nickwoltemade_newcastleutd,1.0,0.0,58.0,Nick Woltemade,Newcastle Utd
+2025-09-14,papematarsarr_tottenham,1.0,0.0,59.0,Pape Matar Sarr,Tottenham
+2025-09-14,pedroneto_chelsea,1.0,0.0,60.0,Pedro Neto,Chelsea
+2025-09-14,philfoden_manchestercity,1.0,0.0,61.0,Phil Foden,Manchester City
+2025-09-14,rayancherki_manchestercity,1.0,0.0,62.0,Rayan Cherki,Manchester City
+2025-09-14,riccardocalafiori_arsenal,1.0,0.0,63.0,Riccardo Calafiori,Arsenal
+2025-09-14,riongumoha_liverpool,1.0,0.0,64.0,Rio Ngumoha,Liverpool
+2025-09-14,rodrigogomes_wolves,1.0,0.0,65.0,Rodrigo Gomes,Wolves
+2025-09-14,rodrigomuniz_fulham,1.0,0.0,66.0,Rodrigo Muniz,Fulham
+2025-09-14,ryangravenberch_liverpool,1.0,0.0,67.0,Ryan Gravenberch,Liverpool
+2025-09-14,tijjanireijnders_manchestercity,1.0,0.0,68.0,Tijjani Reijnders,Manchester City
+2025-09-14,trevohchalobah_chelsea,1.0,0.0,69.0,Trevoh Chalobah,Chelsea
+2025-09-14,williamosula_newcastleutd,1.0,0.0,70.0,William Osula,Newcastle Utd
+2025-09-14,alexiwobi_fulham,0.0,0.0,71.0,Alex Iwobi,Fulham
+2025-09-14,antonstach_leedsunited,0.0,0.0,72.0,Anton Stach,Leeds United
+2025-09-14,benjaminsesko_manchesterutd,0.0,0.0,73.0,Benjamin Sesko,Manchester Utd
+2025-09-14,casemiro_manchesterutd,0.0,0.0,74.0,Casemiro,Manchester Utd
+2025-09-14,dannywelbeck_brighton,0.0,0.0,75.0,Danny Welbeck,Brighton
+2025-09-14,dominiccalvertlewin_leedsunited,0.0,0.0,76.0,Dominic Calvert-Lewin,Leeds United
+2025-09-14,eddienketiah_crystalpalace,0.0,0.0,77.0,Eddie Nketiah,Crystal Palace
+2025-09-14,elijuniorkroupi_bournemouth,0.0,0.0,78.0,Eli Junior Kroupi,Bournemouth
+2025-09-14,emibuendia_astonvilla,0.0,0.0,79.0,Emi Buendia,Aston Villa
+2025-09-14,gabrielmagalhaes_arsenal,0.0,0.0,80.0,Gabriel Magalhaes,Arsenal
+2025-09-14,gabrielmartinelli_arsenal,0.0,0.0,81.0,Gabriel Martinelli,Arsenal
+2025-09-14,harrywilson_fulham,0.0,0.0,82.0,Harry Wilson,Fulham
+2025-09-14,idrissaganagueye_everton,0.0,0.0,83.0,Idrissa Gana Gueye,Everton
+2025-09-14,joerodon_leedsunited,0.0,0.0,84.0,Joe Rodon,Leeds United
+2025-09-14,johnmcginn_astonvilla,0.0,0.0,85.0,John McGinn,Aston Villa
+2025-09-14,ladislavkrejci_wolves,0.0,0.0,86.0,Ladislav Krejci,Wolves
+2025-09-14,matheusnunes_manchestercity,0.0,0.0,87.0,Matheus Nunes,Manchester City
+2025-09-14,mathiasjensen_brentford,0.0,0.0,88.0,Mathias Jensen,Brentford
+2025-09-14,mattycash_astonvilla,0.0,0.0,89.0,Matty Cash,Aston Villa
+2025-09-14,maximdecuyper_brighton,0.0,0.0,90.0,Maxim De Cuyper,Brighton
+2025-09-14,michaelkeane_everton,0.0,0.0,91.0,Michael Keane,Everton
+2025-09-14,mikelmerino_arsenal,0.0,0.0,92.0,Mikel Merino,Arsenal
+2025-09-14,mikkeldamsgaard_brentford,0.0,0.0,93.0,Mikkel Damsgaard,Brentford
+2025-09-14,necowilliams_notthamforest,0.0,0.0,94.0,Neco Williams,Nott'ham Forest
+2025-09-14,noahokafor_leedsunited,0.0,0.0,95.0,Noah Okafor,Leeds United
+2025-09-14,olliewatkins_astonvilla,0.0,0.0,96.0,Ollie Watkins,Aston Villa
+2025-09-14,omaralderete_sunderland,0.0,0.0,97.0,Omar Alderete,Sunderland
+2025-09-14,rauljimenez_fulham,0.0,0.0,98.0,Raul Jimenez,Fulham
+2025-09-14,santiagobueno_wolves,0.0,0.0,99.0,Santiago Bueno,Wolves
+2025-09-14,seanlongstaff_leedsunited,0.0,0.0,100.0,Sean Longstaff,Leeds United
+2025-09-14,tyrickmitchell_crystalpalace,0.0,0.0,101.0,Tyrick Mitchell,Crystal Palace
+2025-09-14,yankubaminteh_brighton,0.0,0.0,102.0,Yankuba Minteh,Brighton
+2025-09-14,yasinayari_brighton,0.0,0.0,103.0,Yasin Ayari,Brighton
+2025-09-20,erlinghaaland_manchestercity,5.0,0.0,1.0,Erling Haaland,Manchester City
+2025-09-20,antoinesemenyo_bournemouth,3.0,1.0,2.0,Antoine Semenyo,Bournemouth
+2025-09-20,hugoekitike_liverpool,3.0,0.0,3.0,Hugo Ekitike,Liverpool
+2025-09-20,jaidonanthony_burnley,3.0,0.0,4.0,Jaidon Anthony,Burnley
+2025-09-20,richarlison_tottenham,3.0,0.0,5.0,Richarlison,Tottenham
+2025-09-20,viktorgyokeres_arsenal,3.0,1.0,6.0,Viktor Gyokeres,Arsenal
+2025-09-20,brennanjohnson_tottenham,2.0,0.0,7.0,Brennan Johnson,Tottenham
+2025-09-20,brunofernandes_manchesterutd,2.0,1.0,8.0,Bruno Fernandes,Manchester Utd
+2025-09-20,chriswood_notthamforest,2.0,0.0,9.0,Chris Wood,Nott'ham Forest
+2025-09-20,enzofernandez_chelsea,2.0,1.0,10.0,Enzo Fernandez,Chelsea
+2025-09-20,ilimanndiaye_everton,2.0,0.0,11.0,Iliman Ndiaye,Everton
+2025-09-20,ismailasarr_crystalpalace,2.0,0.0,12.0,Ismaila Sarr,Crystal Palace
+2025-09-20,jarrodbowen_westham,2.0,0.0,13.0,Jarrod Bowen,West Ham
+2025-09-20,jeanphilippemateta_crystalpalace,2.0,1.0,14.0,Jean-Philippe Mateta,Crystal Palace
+2025-09-20,joaopedro_chelsea,2.0,0.0,15.0,Joao Pedro,Chelsea
+2025-09-20,jurrientimber_arsenal,2.0,0.0,16.0,Jurrien Timber,Arsenal
+2025-09-20,lucaspaqueta_westham,2.0,1.0,17.0,Lucas Paqueta,West Ham
+2025-09-20,martinzubimendi_arsenal,2.0,0.0,18.0,Martin Zubimendi,Arsenal
+2025-09-20,mohamedsalah_liverpool,2.0,1.0,19.0,Mohamed Salah,Liverpool
+2025-09-20,moisescaicedo_chelsea,2.0,0.0,20.0,Moises Caicedo,Chelsea
+2025-09-20,ryangravenberch_liverpool,2.0,0.0,21.0,Ryan Gravenberch,Liverpool
+2025-09-20,thiago_brentford,2.0,1.0,22.0,Thiago,Brentford
+2025-09-20,trevohchalobah_chelsea,2.0,0.0,23.0,Trevoh Chalobah,Chelsea
+2025-09-20,wilsonisidor_sunderland,2.0,0.0,24.0,Wilson Isidor,Sunderland
+2025-09-20,alexiwobi_fulham,1.0,0.0,25.0,Alex Iwobi,Fulham
+2025-09-20,alexscott_bournemouth,1.0,0.0,26.0,Alex Scott,Bournemouth
+2025-09-20,antonstach_leedsunited,1.0,0.0,27.0,Anton Stach,Leeds United
+2025-09-20,beto_everton,1.0,0.0,28.0,Beto,Everton
+2025-09-20,brajangruda_brighton,1.0,0.0,29.0,Brajan Gruda,Brighton
+2025-09-20,brunoguimaraes_newcastleutd,1.0,0.0,30.0,Bruno Guimaraes,Newcastle Utd
+2025-09-20,bryanmbeumo_manchesterutd,1.0,0.0,31.0,Bryan Mbeumo,Manchester Utd
+2025-09-20,bukayosaka_arsenal,1.0,0.0,32.0,Bukayo Saka,Arsenal
+2025-09-20,callumhudsonodoi_notthamforest,1.0,0.0,33.0,Callum Hudson-Odoi,Nott'ham Forest
+2025-09-20,callumwilson_westham,1.0,0.0,34.0,Callum Wilson,West Ham
+2025-09-20,casemiro_manchesterutd,1.0,0.0,35.0,Casemiro,Manchester Utd
+2025-09-20,codygakpo_liverpool,1.0,0.0,36.0,Cody Gakpo,Liverpool
+2025-09-20,colepalmer_chelsea,1.0,0.0,37.0,Cole Palmer,Chelsea
+2025-09-20,dangoouattara_brentford,1.0,0.0,38.0,Dango Ouattara,Brentford
+2025-09-20,danielballard_sunderland,1.0,0.0,39.0,Daniel Ballard,Sunderland
+2025-09-20,danndoye_notthamforest,1.0,0.0,40.0,Dan Ndoye,Nott'ham Forest
+2025-09-20,dominiccalvertlewin_leedsunited,1.0,0.0,41.0,Dominic Calvert-Lewin,Leeds United
+2025-09-20,dominikszoboszlai_liverpool,1.0,0.0,42.0,Dominik Szoboszlai,Liverpool
+2025-09-20,eliezermayenda_sunderland,1.0,0.0,43.0,Eliezer Mayenda,Sunderland
+2025-09-20,emilesmithrowe_fulham,1.0,0.0,44.0,Emile Smith Rowe,Fulham
+2025-09-20,enzolefee_sunderland,1.0,1.0,45.0,Enzo Le Fee,Sunderland
+2025-09-20,evanilson_bournemouth,1.0,0.0,46.0,Evanilson,Bournemouth
+2025-09-20,fabiocarvalho_brentford,1.0,0.0,47.0,Fabio Carvalho,Brentford
+2025-09-20,federicochiesa_liverpool,1.0,0.0,48.0,Federico Chiesa,Liverpool
+2025-09-20,harrywilson_fulham,1.0,0.0,49.0,Harry Wilson,Fulham
+2025-09-20,hwangheechan_wolves,1.0,0.0,50.0,Hwang Hee-chan,Wolves
+2025-09-20,idrissaganagueye_everton,1.0,0.0,51.0,Idrissa Gana Gueye,Everton
+2025-09-20,jamesgarner_everton,1.0,0.0,52.0,James Garner,Everton
+2025-09-20,jamesmilner_brighton,1.0,1.0,53.0,James Milner,Brighton
+2025-09-20,joaopalhinha_tottenham,1.0,0.0,54.0,Joao Palhinha,Tottenham
+2025-09-20,joshcullen_burnley,1.0,0.0,55.0,Josh Cullen,Burnley
+2025-09-20,kaorumitoma_brighton,1.0,0.0,56.0,Kaoru Mitoma,Brighton
+2025-09-20,kevinschade_brentford,1.0,0.0,57.0,Kevin Schade,Brentford
+2025-09-20,kiernandewsburyhall_everton,1.0,0.0,58.0,Kiernan Dewsbury-Hall,Everton
+2025-09-20,ladislavkrejci_wolves,1.0,0.0,59.0,Ladislav Krejci,Wolves
+2025-09-20,lucasbergvall_tottenham,1.0,0.0,60.0,Lucas Bergvall,Tottenham
+2025-09-20,lukasnmecha_leedsunited,1.0,1.0,61.0,Lukas Nmecha,Leeds United
+2025-09-20,lylefoster_burnley,1.0,0.0,62.0,Lyle Foster,Burnley
+2025-09-20,marcguehi_crystalpalace,1.0,0.0,63.0,Marc Guehi,Crystal Palace
+2025-09-20,marcustavernier_bournemouth,1.0,0.0,64.0,Marcus Tavernier,Bournemouth
+2025-09-20,mattoriley_brighton,1.0,1.0,65.0,Matt O'Riley,Brighton
+2025-09-20,mickyvandeven_tottenham,1.0,0.0,66.0,Micky van de Ven,Tottenham
+2025-09-20,mikkeldamsgaard_brentford,1.0,0.0,67.0,Mikkel Damsgaard,Brentford
+2025-09-20,necowilliams_notthamforest,1.0,0.0,68.0,Neco Williams,Nott'ham Forest
+2025-09-20,nickwoltemade_newcastleutd,1.0,0.0,69.0,Nick Woltemade,Newcastle Utd
+2025-09-20,noahokafor_leedsunited,1.0,0.0,70.0,Noah Okafor,Leeds United
+2025-09-20,papematarsarr_tottenham,1.0,0.0,71.0,Pape Matar Sarr,Tottenham
+2025-09-20,pedroneto_chelsea,1.0,0.0,72.0,Pedro Neto,Chelsea
+2025-09-20,philfoden_manchestercity,1.0,0.0,73.0,Phil Foden,Manchester City
+2025-09-20,rayancherki_manchestercity,1.0,0.0,74.0,Rayan Cherki,Manchester City
+2025-09-20,riccardocalafiori_arsenal,1.0,0.0,75.0,Riccardo Calafiori,Arsenal
+2025-09-20,riongumoha_liverpool,1.0,0.0,76.0,Rio Ngumoha,Liverpool
+2025-09-20,rodrigogomes_wolves,1.0,0.0,77.0,Rodrigo Gomes,Wolves
+2025-09-20,rodrigomuniz_fulham,1.0,0.0,78.0,Rodrigo Muniz,Fulham
+2025-09-20,tijjanireijnders_manchestercity,1.0,0.0,79.0,Tijjani Reijnders,Manchester City
+2025-09-20,tyrickmitchell_crystalpalace,1.0,0.0,80.0,Tyrick Mitchell,Crystal Palace
+2025-09-20,williamosula_newcastleutd,1.0,0.0,81.0,William Osula,Newcastle Utd
+2025-09-20,yankubaminteh_brighton,1.0,0.0,82.0,Yankuba Minteh,Brighton
+2025-09-20,yasinayari_brighton,1.0,0.0,83.0,Yasin Ayari,Brighton
+2025-09-20,benjaminsesko_manchesterutd,0.0,0.0,84.0,Benjamin Sesko,Manchester Utd
+2025-09-20,dannywelbeck_brighton,0.0,0.0,85.0,Danny Welbeck,Brighton
+2025-09-20,eddienketiah_crystalpalace,0.0,0.0,86.0,Eddie Nketiah,Crystal Palace
+2025-09-20,elijuniorkroupi_bournemouth,0.0,0.0,87.0,Eli Junior Kroupi,Bournemouth
+2025-09-20,emibuendia_astonvilla,0.0,0.0,88.0,Emi Buendia,Aston Villa
+2025-09-20,gabrielmagalhaes_arsenal,0.0,0.0,89.0,Gabriel Magalhaes,Arsenal
+2025-09-20,gabrielmartinelli_arsenal,0.0,0.0,90.0,Gabriel Martinelli,Arsenal
+2025-09-20,joerodon_leedsunited,0.0,0.0,91.0,Joe Rodon,Leeds United
+2025-09-20,johnmcginn_astonvilla,0.0,0.0,92.0,John McGinn,Aston Villa
+2025-09-20,matheusnunes_manchestercity,0.0,0.0,93.0,Matheus Nunes,Manchester City
+2025-09-20,mathiasjensen_brentford,0.0,0.0,94.0,Mathias Jensen,Brentford
+2025-09-20,mattycash_astonvilla,0.0,0.0,95.0,Matty Cash,Aston Villa
+2025-09-20,maximdecuyper_brighton,0.0,0.0,96.0,Maxim De Cuyper,Brighton
+2025-09-20,michaelkeane_everton,0.0,0.0,97.0,Michael Keane,Everton
+2025-09-20,mikelmerino_arsenal,0.0,0.0,98.0,Mikel Merino,Arsenal
+2025-09-20,olliewatkins_astonvilla,0.0,0.0,99.0,Ollie Watkins,Aston Villa
+2025-09-20,omaralderete_sunderland,0.0,0.0,100.0,Omar Alderete,Sunderland
+2025-09-20,rauljimenez_fulham,0.0,0.0,101.0,Raul Jimenez,Fulham
+2025-09-20,santiagobueno_wolves,0.0,0.0,102.0,Santiago Bueno,Wolves
+2025-09-20,seanlongstaff_leedsunited,0.0,0.0,103.0,Sean Longstaff,Leeds United
+2025-09-21,erlinghaaland_manchestercity,6.0,0.0,1.0,Erling Haaland,Manchester City
+2025-09-21,antoinesemenyo_bournemouth,3.0,1.0,2.0,Antoine Semenyo,Bournemouth
+2025-09-21,hugoekitike_liverpool,3.0,0.0,3.0,Hugo Ekitike,Liverpool
+2025-09-21,jaidonanthony_burnley,3.0,0.0,4.0,Jaidon Anthony,Burnley
+2025-09-21,richarlison_tottenham,3.0,0.0,5.0,Richarlison,Tottenham
+2025-09-21,viktorgyokeres_arsenal,3.0,1.0,6.0,Viktor Gyokeres,Arsenal
+2025-09-21,wilsonisidor_sunderland,3.0,0.0,7.0,Wilson Isidor,Sunderland
+2025-09-21,brennanjohnson_tottenham,2.0,0.0,8.0,Brennan Johnson,Tottenham
+2025-09-21,brunofernandes_manchesterutd,2.0,1.0,9.0,Bruno Fernandes,Manchester Utd
+2025-09-21,chriswood_notthamforest,2.0,0.0,10.0,Chris Wood,Nott'ham Forest
+2025-09-21,enzofernandez_chelsea,2.0,1.0,11.0,Enzo Fernandez,Chelsea
+2025-09-21,ilimanndiaye_everton,2.0,0.0,12.0,Iliman Ndiaye,Everton
+2025-09-21,ismailasarr_crystalpalace,2.0,0.0,13.0,Ismaila Sarr,Crystal Palace
+2025-09-21,jarrodbowen_westham,2.0,0.0,14.0,Jarrod Bowen,West Ham
+2025-09-21,jeanphilippemateta_crystalpalace,2.0,1.0,15.0,Jean-Philippe Mateta,Crystal Palace
+2025-09-21,joaopedro_chelsea,2.0,0.0,16.0,Joao Pedro,Chelsea
+2025-09-21,jurrientimber_arsenal,2.0,0.0,17.0,Jurrien Timber,Arsenal
+2025-09-21,lucaspaqueta_westham,2.0,1.0,18.0,Lucas Paqueta,West Ham
+2025-09-21,martinzubimendi_arsenal,2.0,0.0,19.0,Martin Zubimendi,Arsenal
+2025-09-21,mohamedsalah_liverpool,2.0,1.0,20.0,Mohamed Salah,Liverpool
+2025-09-21,moisescaicedo_chelsea,2.0,0.0,21.0,Moises Caicedo,Chelsea
+2025-09-21,ryangravenberch_liverpool,2.0,0.0,22.0,Ryan Gravenberch,Liverpool
+2025-09-21,thiago_brentford,2.0,1.0,23.0,Thiago,Brentford
+2025-09-21,trevohchalobah_chelsea,2.0,0.0,24.0,Trevoh Chalobah,Chelsea
+2025-09-21,alexiwobi_fulham,1.0,0.0,25.0,Alex Iwobi,Fulham
+2025-09-21,alexscott_bournemouth,1.0,0.0,26.0,Alex Scott,Bournemouth
+2025-09-21,antonstach_leedsunited,1.0,0.0,27.0,Anton Stach,Leeds United
+2025-09-21,beto_everton,1.0,0.0,28.0,Beto,Everton
+2025-09-21,brajangruda_brighton,1.0,0.0,29.0,Brajan Gruda,Brighton
+2025-09-21,brunoguimaraes_newcastleutd,1.0,0.0,30.0,Bruno Guimaraes,Newcastle Utd
+2025-09-21,bryanmbeumo_manchesterutd,1.0,0.0,31.0,Bryan Mbeumo,Manchester Utd
+2025-09-21,bukayosaka_arsenal,1.0,0.0,32.0,Bukayo Saka,Arsenal
+2025-09-21,callumhudsonodoi_notthamforest,1.0,0.0,33.0,Callum Hudson-Odoi,Nott'ham Forest
+2025-09-21,callumwilson_westham,1.0,0.0,34.0,Callum Wilson,West Ham
+2025-09-21,casemiro_manchesterutd,1.0,0.0,35.0,Casemiro,Manchester Utd
+2025-09-21,codygakpo_liverpool,1.0,0.0,36.0,Cody Gakpo,Liverpool
+2025-09-21,colepalmer_chelsea,1.0,0.0,37.0,Cole Palmer,Chelsea
+2025-09-21,dangoouattara_brentford,1.0,0.0,38.0,Dango Ouattara,Brentford
+2025-09-21,danielballard_sunderland,1.0,0.0,39.0,Daniel Ballard,Sunderland
+2025-09-21,danndoye_notthamforest,1.0,0.0,40.0,Dan Ndoye,Nott'ham Forest
+2025-09-21,dominiccalvertlewin_leedsunited,1.0,0.0,41.0,Dominic Calvert-Lewin,Leeds United
+2025-09-21,dominikszoboszlai_liverpool,1.0,0.0,42.0,Dominik Szoboszlai,Liverpool
+2025-09-21,eliezermayenda_sunderland,1.0,0.0,43.0,Eliezer Mayenda,Sunderland
+2025-09-21,emilesmithrowe_fulham,1.0,0.0,44.0,Emile Smith Rowe,Fulham
+2025-09-21,enzolefee_sunderland,1.0,1.0,45.0,Enzo Le Fee,Sunderland
+2025-09-21,evanilson_bournemouth,1.0,0.0,46.0,Evanilson,Bournemouth
+2025-09-21,fabiocarvalho_brentford,1.0,0.0,47.0,Fabio Carvalho,Brentford
+2025-09-21,federicochiesa_liverpool,1.0,0.0,48.0,Federico Chiesa,Liverpool
+2025-09-21,gabrielmartinelli_arsenal,1.0,0.0,49.0,Gabriel Martinelli,Arsenal
+2025-09-21,harrywilson_fulham,1.0,0.0,50.0,Harry Wilson,Fulham
+2025-09-21,hwangheechan_wolves,1.0,0.0,51.0,Hwang Hee-chan,Wolves
+2025-09-21,idrissaganagueye_everton,1.0,0.0,52.0,Idrissa Gana Gueye,Everton
+2025-09-21,jamesgarner_everton,1.0,0.0,53.0,James Garner,Everton
+2025-09-21,jamesmilner_brighton,1.0,1.0,54.0,James Milner,Brighton
+2025-09-21,joaopalhinha_tottenham,1.0,0.0,55.0,Joao Palhinha,Tottenham
+2025-09-21,joshcullen_burnley,1.0,0.0,56.0,Josh Cullen,Burnley
+2025-09-21,kaorumitoma_brighton,1.0,0.0,57.0,Kaoru Mitoma,Brighton
+2025-09-21,kevinschade_brentford,1.0,0.0,58.0,Kevin Schade,Brentford
+2025-09-21,kiernandewsburyhall_everton,1.0,0.0,59.0,Kiernan Dewsbury-Hall,Everton
+2025-09-21,ladislavkrejci_wolves,1.0,0.0,60.0,Ladislav Krejci,Wolves
+2025-09-21,lucasbergvall_tottenham,1.0,0.0,61.0,Lucas Bergvall,Tottenham
+2025-09-21,lukasnmecha_leedsunited,1.0,1.0,62.0,Lukas Nmecha,Leeds United
+2025-09-21,lylefoster_burnley,1.0,0.0,63.0,Lyle Foster,Burnley
+2025-09-21,marcguehi_crystalpalace,1.0,0.0,64.0,Marc Guehi,Crystal Palace
+2025-09-21,marcustavernier_bournemouth,1.0,0.0,65.0,Marcus Tavernier,Bournemouth
+2025-09-21,mattoriley_brighton,1.0,1.0,66.0,Matt O'Riley,Brighton
+2025-09-21,mattycash_astonvilla,1.0,0.0,67.0,Matty Cash,Aston Villa
+2025-09-21,mickyvandeven_tottenham,1.0,0.0,68.0,Micky van de Ven,Tottenham
+2025-09-21,mikkeldamsgaard_brentford,1.0,0.0,69.0,Mikkel Damsgaard,Brentford
+2025-09-21,necowilliams_notthamforest,1.0,0.0,70.0,Neco Williams,Nott'ham Forest
+2025-09-21,nickwoltemade_newcastleutd,1.0,0.0,71.0,Nick Woltemade,Newcastle Utd
+2025-09-21,noahokafor_leedsunited,1.0,0.0,72.0,Noah Okafor,Leeds United
+2025-09-21,papematarsarr_tottenham,1.0,0.0,73.0,Pape Matar Sarr,Tottenham
+2025-09-21,pedroneto_chelsea,1.0,0.0,74.0,Pedro Neto,Chelsea
+2025-09-21,philfoden_manchestercity,1.0,0.0,75.0,Phil Foden,Manchester City
+2025-09-21,rayancherki_manchestercity,1.0,0.0,76.0,Rayan Cherki,Manchester City
+2025-09-21,riccardocalafiori_arsenal,1.0,0.0,77.0,Riccardo Calafiori,Arsenal
+2025-09-21,riongumoha_liverpool,1.0,0.0,78.0,Rio Ngumoha,Liverpool
+2025-09-21,rodrigogomes_wolves,1.0,0.0,79.0,Rodrigo Gomes,Wolves
+2025-09-21,rodrigomuniz_fulham,1.0,0.0,80.0,Rodrigo Muniz,Fulham
+2025-09-21,tijjanireijnders_manchestercity,1.0,0.0,81.0,Tijjani Reijnders,Manchester City
+2025-09-21,tyrickmitchell_crystalpalace,1.0,0.0,82.0,Tyrick Mitchell,Crystal Palace
+2025-09-21,williamosula_newcastleutd,1.0,0.0,83.0,William Osula,Newcastle Utd
+2025-09-21,yankubaminteh_brighton,1.0,0.0,84.0,Yankuba Minteh,Brighton
+2025-09-21,yasinayari_brighton,1.0,0.0,85.0,Yasin Ayari,Brighton
+2025-09-21,benjaminsesko_manchesterutd,0.0,0.0,86.0,Benjamin Sesko,Manchester Utd
+2025-09-21,dannywelbeck_brighton,0.0,0.0,87.0,Danny Welbeck,Brighton
+2025-09-21,eddienketiah_crystalpalace,0.0,0.0,88.0,Eddie Nketiah,Crystal Palace
+2025-09-21,elijuniorkroupi_bournemouth,0.0,0.0,89.0,Eli Junior Kroupi,Bournemouth
+2025-09-21,emibuendia_astonvilla,0.0,0.0,90.0,Emi Buendia,Aston Villa
+2025-09-21,gabrielmagalhaes_arsenal,0.0,0.0,91.0,Gabriel Magalhaes,Arsenal
+2025-09-21,joerodon_leedsunited,0.0,0.0,92.0,Joe Rodon,Leeds United
+2025-09-21,johnmcginn_astonvilla,0.0,0.0,93.0,John McGinn,Aston Villa
+2025-09-21,matheusnunes_manchestercity,0.0,0.0,94.0,Matheus Nunes,Manchester City
+2025-09-21,mathiasjensen_brentford,0.0,0.0,95.0,Mathias Jensen,Brentford
+2025-09-21,maximdecuyper_brighton,0.0,0.0,96.0,Maxim De Cuyper,Brighton
+2025-09-21,michaelkeane_everton,0.0,0.0,97.0,Michael Keane,Everton
+2025-09-21,mikelmerino_arsenal,0.0,0.0,98.0,Mikel Merino,Arsenal
+2025-09-21,olliewatkins_astonvilla,0.0,0.0,99.0,Ollie Watkins,Aston Villa
+2025-09-21,omaralderete_sunderland,0.0,0.0,100.0,Omar Alderete,Sunderland
+2025-09-21,rauljimenez_fulham,0.0,0.0,101.0,Raul Jimenez,Fulham
+2025-09-21,santiagobueno_wolves,0.0,0.0,102.0,Santiago Bueno,Wolves
+2025-09-21,seanlongstaff_leedsunited,0.0,0.0,103.0,Sean Longstaff,Leeds United
+2025-09-27,erlinghaaland_manchestercity,8.0,0.0,1.0,Erling Haaland,Manchester City
+2025-09-27,antoinesemenyo_bournemouth,4.0,1.0,2.0,Antoine Semenyo,Bournemouth
+2025-09-27,jaidonanthony_burnley,4.0,0.0,3.0,Jaidon Anthony,Burnley
+2025-09-27,thiago_brentford,4.0,1.0,4.0,Thiago,Brentford
+2025-09-27,enzofernandez_chelsea,3.0,1.0,5.0,Enzo Fernandez,Chelsea
+2025-09-27,hugoekitike_liverpool,3.0,0.0,6.0,Hugo Ekitike,Liverpool
+2025-09-27,ismailasarr_crystalpalace,3.0,0.0,7.0,Ismaila Sarr,Crystal Palace
+2025-09-27,richarlison_tottenham,3.0,0.0,8.0,Richarlison,Tottenham
+2025-09-27,viktorgyokeres_arsenal,3.0,1.0,9.0,Viktor Gyokeres,Arsenal
+2025-09-27,wilsonisidor_sunderland,3.0,0.0,10.0,Wilson Isidor,Sunderland
+2025-09-27,brennanjohnson_tottenham,2.0,0.0,11.0,Brennan Johnson,Tottenham
+2025-09-27,brunofernandes_manchesterutd,2.0,1.0,12.0,Bruno Fernandes,Manchester Utd
+2025-09-27,chriswood_notthamforest,2.0,0.0,13.0,Chris Wood,Nott'ham Forest
+2025-09-27,dannywelbeck_brighton,2.0,0.0,14.0,Danny Welbeck,Brighton
+2025-09-27,federicochiesa_liverpool,2.0,0.0,15.0,Federico Chiesa,Liverpool
+2025-09-27,ilimanndiaye_everton,2.0,0.0,16.0,Iliman Ndiaye,Everton
+2025-09-27,jarrodbowen_westham,2.0,0.0,17.0,Jarrod Bowen,West Ham
+2025-09-27,jeanphilippemateta_crystalpalace,2.0,1.0,18.0,Jean-Philippe Mateta,Crystal Palace
+2025-09-27,joaopalhinha_tottenham,2.0,0.0,19.0,Joao Palhinha,Tottenham
+2025-09-27,joaopedro_chelsea,2.0,0.0,20.0,Joao Pedro,Chelsea
+2025-09-27,jurrientimber_arsenal,2.0,0.0,21.0,Jurrien Timber,Arsenal
+2025-09-27,lucaspaqueta_westham,2.0,1.0,22.0,Lucas Paqueta,West Ham
+2025-09-27,martinzubimendi_arsenal,2.0,0.0,23.0,Martin Zubimendi,Arsenal
+2025-09-27,mohamedsalah_liverpool,2.0,1.0,24.0,Mohamed Salah,Liverpool
+2025-09-27,moisescaicedo_chelsea,2.0,0.0,25.0,Moises Caicedo,Chelsea
+2025-09-27,ryangravenberch_liverpool,2.0,0.0,26.0,Ryan Gravenberch,Liverpool
+2025-09-27,trevohchalobah_chelsea,2.0,0.0,27.0,Trevoh Chalobah,Chelsea
+2025-09-27,alexiwobi_fulham,1.0,0.0,28.0,Alex Iwobi,Fulham
+2025-09-27,alexscott_bournemouth,1.0,0.0,29.0,Alex Scott,Bournemouth
+2025-09-27,antonstach_leedsunited,1.0,0.0,30.0,Anton Stach,Leeds United
+2025-09-27,benjaminsesko_manchesterutd,1.0,0.0,31.0,Benjamin Sesko,Manchester Utd
+2025-09-27,beto_everton,1.0,0.0,32.0,Beto,Everton
+2025-09-27,brajangruda_brighton,1.0,0.0,33.0,Brajan Gruda,Brighton
+2025-09-27,brunoguimaraes_newcastleutd,1.0,0.0,34.0,Bruno Guimaraes,Newcastle Utd
+2025-09-27,bryanmbeumo_manchesterutd,1.0,0.0,35.0,Bryan Mbeumo,Manchester Utd
+2025-09-27,bukayosaka_arsenal,1.0,0.0,36.0,Bukayo Saka,Arsenal
+2025-09-27,callumhudsonodoi_notthamforest,1.0,0.0,37.0,Callum Hudson-Odoi,Nott'ham Forest
+2025-09-27,callumwilson_westham,1.0,0.0,38.0,Callum Wilson,West Ham
+2025-09-27,casemiro_manchesterutd,1.0,0.0,39.0,Casemiro,Manchester Utd
+2025-09-27,codygakpo_liverpool,1.0,0.0,40.0,Cody Gakpo,Liverpool
+2025-09-27,colepalmer_chelsea,1.0,0.0,41.0,Cole Palmer,Chelsea
+2025-09-27,dangoouattara_brentford,1.0,0.0,42.0,Dango Ouattara,Brentford
+2025-09-27,danielballard_sunderland,1.0,0.0,43.0,Daniel Ballard,Sunderland
+2025-09-27,danndoye_notthamforest,1.0,0.0,44.0,Dan Ndoye,Nott'ham Forest
+2025-09-27,dominiccalvertlewin_leedsunited,1.0,0.0,45.0,Dominic Calvert-Lewin,Leeds United
+2025-09-27,dominikszoboszlai_liverpool,1.0,0.0,46.0,Dominik Szoboszlai,Liverpool
+2025-09-27,eddienketiah_crystalpalace,1.0,0.0,47.0,Eddie Nketiah,Crystal Palace
+2025-09-27,eliezermayenda_sunderland,1.0,0.0,48.0,Eliezer Mayenda,Sunderland
+2025-09-27,elijuniorkroupi_bournemouth,1.0,0.0,49.0,Eli Junior Kroupi,Bournemouth
+2025-09-27,emilesmithrowe_fulham,1.0,0.0,50.0,Emile Smith Rowe,Fulham
+2025-09-27,enzolefee_sunderland,1.0,1.0,51.0,Enzo Le Fee,Sunderland
+2025-09-27,evanilson_bournemouth,1.0,0.0,52.0,Evanilson,Bournemouth
+2025-09-27,fabiocarvalho_brentford,1.0,0.0,53.0,Fabio Carvalho,Brentford
+2025-09-27,gabrielmartinelli_arsenal,1.0,0.0,54.0,Gabriel Martinelli,Arsenal
+2025-09-27,harrywilson_fulham,1.0,0.0,55.0,Harry Wilson,Fulham
+2025-09-27,hwangheechan_wolves,1.0,0.0,56.0,Hwang Hee-chan,Wolves
+2025-09-27,idrissaganagueye_everton,1.0,0.0,57.0,Idrissa Gana Gueye,Everton
+2025-09-27,jamesgarner_everton,1.0,0.0,58.0,James Garner,Everton
+2025-09-27,jamesmilner_brighton,1.0,1.0,59.0,James Milner,Brighton
+2025-09-27,joerodon_leedsunited,1.0,0.0,60.0,Joe Rodon,Leeds United
+2025-09-27,joshcullen_burnley,1.0,0.0,61.0,Josh Cullen,Burnley
+2025-09-27,kaorumitoma_brighton,1.0,0.0,62.0,Kaoru Mitoma,Brighton
+2025-09-27,kevinschade_brentford,1.0,0.0,63.0,Kevin Schade,Brentford
+2025-09-27,kiernandewsburyhall_everton,1.0,0.0,64.0,Kiernan Dewsbury-Hall,Everton
+2025-09-27,ladislavkrejci_wolves,1.0,0.0,65.0,Ladislav Krejci,Wolves
+2025-09-27,lucasbergvall_tottenham,1.0,0.0,66.0,Lucas Bergvall,Tottenham
+2025-09-27,lukasnmecha_leedsunited,1.0,1.0,67.0,Lukas Nmecha,Leeds United
+2025-09-27,lylefoster_burnley,1.0,0.0,68.0,Lyle Foster,Burnley
+2025-09-27,marcguehi_crystalpalace,1.0,0.0,69.0,Marc Guehi,Crystal Palace
+2025-09-27,marcustavernier_bournemouth,1.0,0.0,70.0,Marcus Tavernier,Bournemouth
+2025-09-27,matheusnunes_manchestercity,1.0,0.0,71.0,Matheus Nunes,Manchester City
+2025-09-27,mathiasjensen_brentford,1.0,0.0,72.0,Mathias Jensen,Brentford
+2025-09-27,mattoriley_brighton,1.0,1.0,73.0,Matt O'Riley,Brighton
+2025-09-27,mattycash_astonvilla,1.0,0.0,74.0,Matty Cash,Aston Villa
+2025-09-27,maximdecuyper_brighton,1.0,0.0,75.0,Maxim De Cuyper,Brighton
+2025-09-27,mickyvandeven_tottenham,1.0,0.0,76.0,Micky van de Ven,Tottenham
+2025-09-27,mikkeldamsgaard_brentford,1.0,0.0,77.0,Mikkel Damsgaard,Brentford
+2025-09-27,necowilliams_notthamforest,1.0,0.0,78.0,Neco Williams,Nott'ham Forest
+2025-09-27,nickwoltemade_newcastleutd,1.0,0.0,79.0,Nick Woltemade,Newcastle Utd
+2025-09-27,noahokafor_leedsunited,1.0,0.0,80.0,Noah Okafor,Leeds United
+2025-09-27,omaralderete_sunderland,1.0,0.0,81.0,Omar Alderete,Sunderland
+2025-09-27,papematarsarr_tottenham,1.0,0.0,82.0,Pape Matar Sarr,Tottenham
+2025-09-27,pedroneto_chelsea,1.0,0.0,83.0,Pedro Neto,Chelsea
+2025-09-27,philfoden_manchestercity,1.0,0.0,84.0,Phil Foden,Manchester City
+2025-09-27,rayancherki_manchestercity,1.0,0.0,85.0,Rayan Cherki,Manchester City
+2025-09-27,riccardocalafiori_arsenal,1.0,0.0,86.0,Riccardo Calafiori,Arsenal
+2025-09-27,riongumoha_liverpool,1.0,0.0,87.0,Rio Ngumoha,Liverpool
+2025-09-27,rodrigogomes_wolves,1.0,0.0,88.0,Rodrigo Gomes,Wolves
+2025-09-27,rodrigomuniz_fulham,1.0,0.0,89.0,Rodrigo Muniz,Fulham
+2025-09-27,santiagobueno_wolves,1.0,0.0,90.0,Santiago Bueno,Wolves
+2025-09-27,seanlongstaff_leedsunited,1.0,0.0,91.0,Sean Longstaff,Leeds United
+2025-09-27,tijjanireijnders_manchestercity,1.0,0.0,92.0,Tijjani Reijnders,Manchester City
+2025-09-27,tyrickmitchell_crystalpalace,1.0,0.0,93.0,Tyrick Mitchell,Crystal Palace
+2025-09-27,williamosula_newcastleutd,1.0,0.0,94.0,William Osula,Newcastle Utd
+2025-09-27,yankubaminteh_brighton,1.0,0.0,95.0,Yankuba Minteh,Brighton
+2025-09-27,yasinayari_brighton,1.0,0.0,96.0,Yasin Ayari,Brighton
+2025-09-27,emibuendia_astonvilla,0.0,0.0,97.0,Emi Buendia,Aston Villa
+2025-09-27,gabrielmagalhaes_arsenal,0.0,0.0,98.0,Gabriel Magalhaes,Arsenal
+2025-09-27,johnmcginn_astonvilla,0.0,0.0,99.0,John McGinn,Aston Villa
+2025-09-27,michaelkeane_everton,0.0,0.0,100.0,Michael Keane,Everton
+2025-09-27,mikelmerino_arsenal,0.0,0.0,101.0,Mikel Merino,Arsenal
+2025-09-27,olliewatkins_astonvilla,0.0,0.0,102.0,Ollie Watkins,Aston Villa
+2025-09-27,rauljimenez_fulham,0.0,0.0,103.0,Raul Jimenez,Fulham
+2025-09-28,erlinghaaland_manchestercity,8.0,0.0,1.0,Erling Haaland,Manchester City
+2025-09-28,antoinesemenyo_bournemouth,4.0,1.0,2.0,Antoine Semenyo,Bournemouth
+2025-09-28,jaidonanthony_burnley,4.0,0.0,3.0,Jaidon Anthony,Burnley
+2025-09-28,thiago_brentford,4.0,1.0,4.0,Thiago,Brentford
+2025-09-28,enzofernandez_chelsea,3.0,1.0,5.0,Enzo Fernandez,Chelsea
+2025-09-28,hugoekitike_liverpool,3.0,0.0,6.0,Hugo Ekitike,Liverpool
+2025-09-28,ismailasarr_crystalpalace,3.0,0.0,7.0,Ismaila Sarr,Crystal Palace
+2025-09-28,richarlison_tottenham,3.0,0.0,8.0,Richarlison,Tottenham
+2025-09-28,viktorgyokeres_arsenal,3.0,1.0,9.0,Viktor Gyokeres,Arsenal
+2025-09-28,wilsonisidor_sunderland,3.0,0.0,10.0,Wilson Isidor,Sunderland
+2025-09-28,brennanjohnson_tottenham,2.0,0.0,11.0,Brennan Johnson,Tottenham
+2025-09-28,brunofernandes_manchesterutd,2.0,1.0,12.0,Bruno Fernandes,Manchester Utd
+2025-09-28,chriswood_notthamforest,2.0,0.0,13.0,Chris Wood,Nott'ham Forest
+2025-09-28,dannywelbeck_brighton,2.0,0.0,14.0,Danny Welbeck,Brighton
+2025-09-28,federicochiesa_liverpool,2.0,0.0,15.0,Federico Chiesa,Liverpool
+2025-09-28,ilimanndiaye_everton,2.0,0.0,16.0,Iliman Ndiaye,Everton
+2025-09-28,jarrodbowen_westham,2.0,0.0,17.0,Jarrod Bowen,West Ham
+2025-09-28,jeanphilippemateta_crystalpalace,2.0,1.0,18.0,Jean-Philippe Mateta,Crystal Palace
+2025-09-28,joaopalhinha_tottenham,2.0,0.0,19.0,Joao Palhinha,Tottenham
+2025-09-28,joaopedro_chelsea,2.0,0.0,20.0,Joao Pedro,Chelsea
+2025-09-28,jurrientimber_arsenal,2.0,0.0,21.0,Jurrien Timber,Arsenal
+2025-09-28,lucaspaqueta_westham,2.0,1.0,22.0,Lucas Paqueta,West Ham
+2025-09-28,martinzubimendi_arsenal,2.0,0.0,23.0,Martin Zubimendi,Arsenal
+2025-09-28,mohamedsalah_liverpool,2.0,1.0,24.0,Mohamed Salah,Liverpool
+2025-09-28,moisescaicedo_chelsea,2.0,0.0,25.0,Moises Caicedo,Chelsea
+2025-09-28,nickwoltemade_newcastleutd,2.0,0.0,26.0,Nick Woltemade,Newcastle Utd
+2025-09-28,ryangravenberch_liverpool,2.0,0.0,27.0,Ryan Gravenberch,Liverpool
+2025-09-28,trevohchalobah_chelsea,2.0,0.0,28.0,Trevoh Chalobah,Chelsea
+2025-09-28,alexiwobi_fulham,1.0,0.0,29.0,Alex Iwobi,Fulham
+2025-09-28,alexscott_bournemouth,1.0,0.0,30.0,Alex Scott,Bournemouth
+2025-09-28,antonstach_leedsunited,1.0,0.0,31.0,Anton Stach,Leeds United
+2025-09-28,benjaminsesko_manchesterutd,1.0,0.0,32.0,Benjamin Sesko,Manchester Utd
+2025-09-28,beto_everton,1.0,0.0,33.0,Beto,Everton
+2025-09-28,brajangruda_brighton,1.0,0.0,34.0,Brajan Gruda,Brighton
+2025-09-28,brunoguimaraes_newcastleutd,1.0,0.0,35.0,Bruno Guimaraes,Newcastle Utd
+2025-09-28,bryanmbeumo_manchesterutd,1.0,0.0,36.0,Bryan Mbeumo,Manchester Utd
+2025-09-28,bukayosaka_arsenal,1.0,0.0,37.0,Bukayo Saka,Arsenal
+2025-09-28,callumhudsonodoi_notthamforest,1.0,0.0,38.0,Callum Hudson-Odoi,Nott'ham Forest
+2025-09-28,callumwilson_westham,1.0,0.0,39.0,Callum Wilson,West Ham
+2025-09-28,casemiro_manchesterutd,1.0,0.0,40.0,Casemiro,Manchester Utd
+2025-09-28,codygakpo_liverpool,1.0,0.0,41.0,Cody Gakpo,Liverpool
+2025-09-28,colepalmer_chelsea,1.0,0.0,42.0,Cole Palmer,Chelsea
+2025-09-28,dangoouattara_brentford,1.0,0.0,43.0,Dango Ouattara,Brentford
+2025-09-28,danielballard_sunderland,1.0,0.0,44.0,Daniel Ballard,Sunderland
+2025-09-28,danndoye_notthamforest,1.0,0.0,45.0,Dan Ndoye,Nott'ham Forest
+2025-09-28,dominiccalvertlewin_leedsunited,1.0,0.0,46.0,Dominic Calvert-Lewin,Leeds United
+2025-09-28,dominikszoboszlai_liverpool,1.0,0.0,47.0,Dominik Szoboszlai,Liverpool
+2025-09-28,eddienketiah_crystalpalace,1.0,0.0,48.0,Eddie Nketiah,Crystal Palace
+2025-09-28,eliezermayenda_sunderland,1.0,0.0,49.0,Eliezer Mayenda,Sunderland
+2025-09-28,elijuniorkroupi_bournemouth,1.0,0.0,50.0,Eli Junior Kroupi,Bournemouth
+2025-09-28,emibuendia_astonvilla,1.0,0.0,51.0,Emi Buendia,Aston Villa
+2025-09-28,emilesmithrowe_fulham,1.0,0.0,52.0,Emile Smith Rowe,Fulham
+2025-09-28,enzolefee_sunderland,1.0,1.0,53.0,Enzo Le Fee,Sunderland
+2025-09-28,evanilson_bournemouth,1.0,0.0,54.0,Evanilson,Bournemouth
+2025-09-28,fabiocarvalho_brentford,1.0,0.0,55.0,Fabio Carvalho,Brentford
+2025-09-28,gabrielmagalhaes_arsenal,1.0,0.0,56.0,Gabriel Magalhaes,Arsenal
+2025-09-28,gabrielmartinelli_arsenal,1.0,0.0,57.0,Gabriel Martinelli,Arsenal
+2025-09-28,harrywilson_fulham,1.0,0.0,58.0,Harry Wilson,Fulham
+2025-09-28,hwangheechan_wolves,1.0,0.0,59.0,Hwang Hee-chan,Wolves
+2025-09-28,idrissaganagueye_everton,1.0,0.0,60.0,Idrissa Gana Gueye,Everton
+2025-09-28,jamesgarner_everton,1.0,0.0,61.0,James Garner,Everton
+2025-09-28,jamesmilner_brighton,1.0,1.0,62.0,James Milner,Brighton
+2025-09-28,joerodon_leedsunited,1.0,0.0,63.0,Joe Rodon,Leeds United
+2025-09-28,johnmcginn_astonvilla,1.0,0.0,64.0,John McGinn,Aston Villa
+2025-09-28,joshcullen_burnley,1.0,0.0,65.0,Josh Cullen,Burnley
+2025-09-28,kaorumitoma_brighton,1.0,0.0,66.0,Kaoru Mitoma,Brighton
+2025-09-28,kevinschade_brentford,1.0,0.0,67.0,Kevin Schade,Brentford
+2025-09-28,kiernandewsburyhall_everton,1.0,0.0,68.0,Kiernan Dewsbury-Hall,Everton
+2025-09-28,ladislavkrejci_wolves,1.0,0.0,69.0,Ladislav Krejci,Wolves
+2025-09-28,lucasbergvall_tottenham,1.0,0.0,70.0,Lucas Bergvall,Tottenham
+2025-09-28,lukasnmecha_leedsunited,1.0,1.0,71.0,Lukas Nmecha,Leeds United
+2025-09-28,lylefoster_burnley,1.0,0.0,72.0,Lyle Foster,Burnley
+2025-09-28,marcguehi_crystalpalace,1.0,0.0,73.0,Marc Guehi,Crystal Palace
+2025-09-28,marcustavernier_bournemouth,1.0,0.0,74.0,Marcus Tavernier,Bournemouth
+2025-09-28,matheusnunes_manchestercity,1.0,0.0,75.0,Matheus Nunes,Manchester City
+2025-09-28,mathiasjensen_brentford,1.0,0.0,76.0,Mathias Jensen,Brentford
+2025-09-28,mattoriley_brighton,1.0,1.0,77.0,Matt O'Riley,Brighton
+2025-09-28,mattycash_astonvilla,1.0,0.0,78.0,Matty Cash,Aston Villa
+2025-09-28,maximdecuyper_brighton,1.0,0.0,79.0,Maxim De Cuyper,Brighton
+2025-09-28,mickyvandeven_tottenham,1.0,0.0,80.0,Micky van de Ven,Tottenham
+2025-09-28,mikelmerino_arsenal,1.0,0.0,81.0,Mikel Merino,Arsenal
+2025-09-28,mikkeldamsgaard_brentford,1.0,0.0,82.0,Mikkel Damsgaard,Brentford
+2025-09-28,necowilliams_notthamforest,1.0,0.0,83.0,Neco Williams,Nott'ham Forest
+2025-09-28,noahokafor_leedsunited,1.0,0.0,84.0,Noah Okafor,Leeds United
+2025-09-28,olliewatkins_astonvilla,1.0,0.0,85.0,Ollie Watkins,Aston Villa
+2025-09-28,omaralderete_sunderland,1.0,0.0,86.0,Omar Alderete,Sunderland
+2025-09-28,papematarsarr_tottenham,1.0,0.0,87.0,Pape Matar Sarr,Tottenham
+2025-09-28,pedroneto_chelsea,1.0,0.0,88.0,Pedro Neto,Chelsea
+2025-09-28,philfoden_manchestercity,1.0,0.0,89.0,Phil Foden,Manchester City
+2025-09-28,rauljimenez_fulham,1.0,0.0,90.0,Raul Jimenez,Fulham
+2025-09-28,rayancherki_manchestercity,1.0,0.0,91.0,Rayan Cherki,Manchester City
+2025-09-28,riccardocalafiori_arsenal,1.0,0.0,92.0,Riccardo Calafiori,Arsenal
+2025-09-28,riongumoha_liverpool,1.0,0.0,93.0,Rio Ngumoha,Liverpool
+2025-09-28,rodrigogomes_wolves,1.0,0.0,94.0,Rodrigo Gomes,Wolves
+2025-09-28,rodrigomuniz_fulham,1.0,0.0,95.0,Rodrigo Muniz,Fulham
+2025-09-28,santiagobueno_wolves,1.0,0.0,96.0,Santiago Bueno,Wolves
+2025-09-28,seanlongstaff_leedsunited,1.0,0.0,97.0,Sean Longstaff,Leeds United
+2025-09-28,tijjanireijnders_manchestercity,1.0,0.0,98.0,Tijjani Reijnders,Manchester City
+2025-09-28,tyrickmitchell_crystalpalace,1.0,0.0,99.0,Tyrick Mitchell,Crystal Palace
+2025-09-28,williamosula_newcastleutd,1.0,0.0,100.0,William Osula,Newcastle Utd
+2025-09-28,yankubaminteh_brighton,1.0,0.0,101.0,Yankuba Minteh,Brighton
+2025-09-28,yasinayari_brighton,1.0,0.0,102.0,Yasin Ayari,Brighton
+2025-09-28,michaelkeane_everton,0.0,0.0,103.0,Michael Keane,Everton
+2025-09-29,erlinghaaland_manchestercity,8.0,0.0,1.0,Erling Haaland,Manchester City
+2025-09-29,antoinesemenyo_bournemouth,4.0,1.0,2.0,Antoine Semenyo,Bournemouth
+2025-09-29,jaidonanthony_burnley,4.0,0.0,3.0,Jaidon Anthony,Burnley
+2025-09-29,thiago_brentford,4.0,1.0,4.0,Thiago,Brentford
+2025-09-29,enzofernandez_chelsea,3.0,1.0,5.0,Enzo Fernandez,Chelsea
+2025-09-29,hugoekitike_liverpool,3.0,0.0,6.0,Hugo Ekitike,Liverpool
+2025-09-29,ismailasarr_crystalpalace,3.0,0.0,7.0,Ismaila Sarr,Crystal Palace
+2025-09-29,jarrodbowen_westham,3.0,0.0,8.0,Jarrod Bowen,West Ham
+2025-09-29,richarlison_tottenham,3.0,0.0,9.0,Richarlison,Tottenham
+2025-09-29,viktorgyokeres_arsenal,3.0,1.0,10.0,Viktor Gyokeres,Arsenal
+2025-09-29,wilsonisidor_sunderland,3.0,0.0,11.0,Wilson Isidor,Sunderland
+2025-09-29,brennanjohnson_tottenham,2.0,0.0,12.0,Brennan Johnson,Tottenham
+2025-09-29,brunofernandes_manchesterutd,2.0,1.0,13.0,Bruno Fernandes,Manchester Utd
+2025-09-29,chriswood_notthamforest,2.0,0.0,14.0,Chris Wood,Nott'ham Forest
+2025-09-29,dannywelbeck_brighton,2.0,0.0,15.0,Danny Welbeck,Brighton
+2025-09-29,federicochiesa_liverpool,2.0,0.0,16.0,Federico Chiesa,Liverpool
+2025-09-29,ilimanndiaye_everton,2.0,0.0,17.0,Iliman Ndiaye,Everton
+2025-09-29,jeanphilippemateta_crystalpalace,2.0,1.0,18.0,Jean-Philippe Mateta,Crystal Palace
+2025-09-29,joaopalhinha_tottenham,2.0,0.0,19.0,Joao Palhinha,Tottenham
+2025-09-29,joaopedro_chelsea,2.0,0.0,20.0,Joao Pedro,Chelsea
+2025-09-29,jurrientimber_arsenal,2.0,0.0,21.0,Jurrien Timber,Arsenal
+2025-09-29,lucaspaqueta_westham,2.0,1.0,22.0,Lucas Paqueta,West Ham
+2025-09-29,martinzubimendi_arsenal,2.0,0.0,23.0,Martin Zubimendi,Arsenal
+2025-09-29,mohamedsalah_liverpool,2.0,1.0,24.0,Mohamed Salah,Liverpool
+2025-09-29,moisescaicedo_chelsea,2.0,0.0,25.0,Moises Caicedo,Chelsea
+2025-09-29,nickwoltemade_newcastleutd,2.0,0.0,26.0,Nick Woltemade,Newcastle Utd
+2025-09-29,ryangravenberch_liverpool,2.0,0.0,27.0,Ryan Gravenberch,Liverpool
+2025-09-29,trevohchalobah_chelsea,2.0,0.0,28.0,Trevoh Chalobah,Chelsea
+2025-09-29,alexiwobi_fulham,1.0,0.0,29.0,Alex Iwobi,Fulham
+2025-09-29,alexscott_bournemouth,1.0,0.0,30.0,Alex Scott,Bournemouth
+2025-09-29,antonstach_leedsunited,1.0,0.0,31.0,Anton Stach,Leeds United
+2025-09-29,benjaminsesko_manchesterutd,1.0,0.0,32.0,Benjamin Sesko,Manchester Utd
+2025-09-29,beto_everton,1.0,0.0,33.0,Beto,Everton
+2025-09-29,brajangruda_brighton,1.0,0.0,34.0,Brajan Gruda,Brighton
+2025-09-29,brunoguimaraes_newcastleutd,1.0,0.0,35.0,Bruno Guimaraes,Newcastle Utd
+2025-09-29,bryanmbeumo_manchesterutd,1.0,0.0,36.0,Bryan Mbeumo,Manchester Utd
+2025-09-29,bukayosaka_arsenal,1.0,0.0,37.0,Bukayo Saka,Arsenal
+2025-09-29,callumhudsonodoi_notthamforest,1.0,0.0,38.0,Callum Hudson-Odoi,Nott'ham Forest
+2025-09-29,callumwilson_westham,1.0,0.0,39.0,Callum Wilson,West Ham
+2025-09-29,casemiro_manchesterutd,1.0,0.0,40.0,Casemiro,Manchester Utd
+2025-09-29,codygakpo_liverpool,1.0,0.0,41.0,Cody Gakpo,Liverpool
+2025-09-29,colepalmer_chelsea,1.0,0.0,42.0,Cole Palmer,Chelsea
+2025-09-29,dangoouattara_brentford,1.0,0.0,43.0,Dango Ouattara,Brentford
+2025-09-29,danielballard_sunderland,1.0,0.0,44.0,Daniel Ballard,Sunderland
+2025-09-29,danndoye_notthamforest,1.0,0.0,45.0,Dan Ndoye,Nott'ham Forest
+2025-09-29,dominiccalvertlewin_leedsunited,1.0,0.0,46.0,Dominic Calvert-Lewin,Leeds United
+2025-09-29,dominikszoboszlai_liverpool,1.0,0.0,47.0,Dominik Szoboszlai,Liverpool
+2025-09-29,eddienketiah_crystalpalace,1.0,0.0,48.0,Eddie Nketiah,Crystal Palace
+2025-09-29,eliezermayenda_sunderland,1.0,0.0,49.0,Eliezer Mayenda,Sunderland
+2025-09-29,elijuniorkroupi_bournemouth,1.0,0.0,50.0,Eli Junior Kroupi,Bournemouth
+2025-09-29,emibuendia_astonvilla,1.0,0.0,51.0,Emi Buendia,Aston Villa
+2025-09-29,emilesmithrowe_fulham,1.0,0.0,52.0,Emile Smith Rowe,Fulham
+2025-09-29,enzolefee_sunderland,1.0,1.0,53.0,Enzo Le Fee,Sunderland
+2025-09-29,evanilson_bournemouth,1.0,0.0,54.0,Evanilson,Bournemouth
+2025-09-29,fabiocarvalho_brentford,1.0,0.0,55.0,Fabio Carvalho,Brentford
+2025-09-29,gabrielmagalhaes_arsenal,1.0,0.0,56.0,Gabriel Magalhaes,Arsenal
+2025-09-29,gabrielmartinelli_arsenal,1.0,0.0,57.0,Gabriel Martinelli,Arsenal
+2025-09-29,harrywilson_fulham,1.0,0.0,58.0,Harry Wilson,Fulham
+2025-09-29,hwangheechan_wolves,1.0,0.0,59.0,Hwang Hee-chan,Wolves
+2025-09-29,idrissaganagueye_everton,1.0,0.0,60.0,Idrissa Gana Gueye,Everton
+2025-09-29,jamesgarner_everton,1.0,0.0,61.0,James Garner,Everton
+2025-09-29,jamesmilner_brighton,1.0,1.0,62.0,James Milner,Brighton
+2025-09-29,joerodon_leedsunited,1.0,0.0,63.0,Joe Rodon,Leeds United
+2025-09-29,johnmcginn_astonvilla,1.0,0.0,64.0,John McGinn,Aston Villa
+2025-09-29,joshcullen_burnley,1.0,0.0,65.0,Josh Cullen,Burnley
+2025-09-29,kaorumitoma_brighton,1.0,0.0,66.0,Kaoru Mitoma,Brighton
+2025-09-29,kevinschade_brentford,1.0,0.0,67.0,Kevin Schade,Brentford
+2025-09-29,kiernandewsburyhall_everton,1.0,0.0,68.0,Kiernan Dewsbury-Hall,Everton
+2025-09-29,ladislavkrejci_wolves,1.0,0.0,69.0,Ladislav Krejci,Wolves
+2025-09-29,lucasbergvall_tottenham,1.0,0.0,70.0,Lucas Bergvall,Tottenham
+2025-09-29,lukasnmecha_leedsunited,1.0,1.0,71.0,Lukas Nmecha,Leeds United
+2025-09-29,lylefoster_burnley,1.0,0.0,72.0,Lyle Foster,Burnley
+2025-09-29,marcguehi_crystalpalace,1.0,0.0,73.0,Marc Guehi,Crystal Palace
+2025-09-29,marcustavernier_bournemouth,1.0,0.0,74.0,Marcus Tavernier,Bournemouth
+2025-09-29,matheusnunes_manchestercity,1.0,0.0,75.0,Matheus Nunes,Manchester City
+2025-09-29,mathiasjensen_brentford,1.0,0.0,76.0,Mathias Jensen,Brentford
+2025-09-29,mattoriley_brighton,1.0,1.0,77.0,Matt O'Riley,Brighton
+2025-09-29,mattycash_astonvilla,1.0,0.0,78.0,Matty Cash,Aston Villa
+2025-09-29,maximdecuyper_brighton,1.0,0.0,79.0,Maxim De Cuyper,Brighton
+2025-09-29,michaelkeane_everton,1.0,0.0,80.0,Michael Keane,Everton
+2025-09-29,mickyvandeven_tottenham,1.0,0.0,81.0,Micky van de Ven,Tottenham
+2025-09-29,mikelmerino_arsenal,1.0,0.0,82.0,Mikel Merino,Arsenal
+2025-09-29,mikkeldamsgaard_brentford,1.0,0.0,83.0,Mikkel Damsgaard,Brentford
+2025-09-29,necowilliams_notthamforest,1.0,0.0,84.0,Neco Williams,Nott'ham Forest
+2025-09-29,noahokafor_leedsunited,1.0,0.0,85.0,Noah Okafor,Leeds United
+2025-09-29,olliewatkins_astonvilla,1.0,0.0,86.0,Ollie Watkins,Aston Villa
+2025-09-29,omaralderete_sunderland,1.0,0.0,87.0,Omar Alderete,Sunderland
+2025-09-29,papematarsarr_tottenham,1.0,0.0,88.0,Pape Matar Sarr,Tottenham
+2025-09-29,pedroneto_chelsea,1.0,0.0,89.0,Pedro Neto,Chelsea
+2025-09-29,philfoden_manchestercity,1.0,0.0,90.0,Phil Foden,Manchester City
+2025-09-29,rauljimenez_fulham,1.0,0.0,91.0,Raul Jimenez,Fulham
+2025-09-29,rayancherki_manchestercity,1.0,0.0,92.0,Rayan Cherki,Manchester City
+2025-09-29,riccardocalafiori_arsenal,1.0,0.0,93.0,Riccardo Calafiori,Arsenal
+2025-09-29,riongumoha_liverpool,1.0,0.0,94.0,Rio Ngumoha,Liverpool
+2025-09-29,rodrigogomes_wolves,1.0,0.0,95.0,Rodrigo Gomes,Wolves
+2025-09-29,rodrigomuniz_fulham,1.0,0.0,96.0,Rodrigo Muniz,Fulham
+2025-09-29,santiagobueno_wolves,1.0,0.0,97.0,Santiago Bueno,Wolves
+2025-09-29,seanlongstaff_leedsunited,1.0,0.0,98.0,Sean Longstaff,Leeds United
+2025-09-29,tijjanireijnders_manchestercity,1.0,0.0,99.0,Tijjani Reijnders,Manchester City
+2025-09-29,tyrickmitchell_crystalpalace,1.0,0.0,100.0,Tyrick Mitchell,Crystal Palace
+2025-09-29,williamosula_newcastleutd,1.0,0.0,101.0,William Osula,Newcastle Utd
+2025-09-29,yankubaminteh_brighton,1.0,0.0,102.0,Yankuba Minteh,Brighton
+2025-09-29,yasinayari_brighton,1.0,0.0,103.0,Yasin Ayari,Brighton
