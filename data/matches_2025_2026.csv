@@ -1,58 +1,168 @@
 Date,HomeTeam,AwayTeam,FTHG,FTAG,HomeTeamRank,HomeTeamPosition,HomeTeamCumPts,AwayTeamRank,AwayTeamPosition,AwayTeamCumPts
+2025-12-22,Fulham,Nottm Forest,1,0,13.0,13,23.0,17.0,17,18.0
+2025-12-21,Aston Villa,Man United,2,1,3.0,3,36.0,7.0,7,26.0
+2025-12-20,Wolves,Brentford,0,2,20.0,20,2.0,12.0,12,23.0
+2025-12-20,Bournemouth,Burnley,1,1,14.0,14,22.0,19.0,19,11.0
+2025-12-20,Brighton,Sunderland,0,0,9.0,9,24.0,6.0,6,27.0
+2025-12-20,Man City,West Ham,3,0,2.0,2,37.0,18.0,18,13.0
+2025-12-20,Newcastle,Chelsea,2,2,11.0,11,23.0,4.0,4,29.0
+2025-12-20,Tottenham,Liverpool,1,2,13.0,13,22.0,5.0,5,29.0
+2025-12-20,Everton,Arsenal,0,1,10.0,10,24.0,1.0,1,39.0
+2025-12-20,Leeds,Crystal Palace,4,1,16.0,16,19.0,8.0,8,26.0
+2025-12-15,Man United,Bournemouth,4,4,6.0,6,26.0,13.0,13,21.0
+2025-12-14,Brentford,Leeds,1,1,14.0,14,20.0,17.0,17,16.0
+2025-12-14,West Ham,Aston Villa,2,3,18.0,18,13.0,3.0,3,33.0
+2025-12-14,Sunderland,Newcastle,1,0,7.0,7,26.0,12.0,12,22.0
+2025-12-14,Nottm Forest,Tottenham,3,0,16.0,16,18.0,11.0,11,22.0
+2025-12-14,Crystal Palace,Man City,0,3,5.0,5,26.0,2.0,2,34.0
+2025-12-13,Chelsea,Everton,2,0,4.0,4,28.0,8.0,8,24.0
+2025-12-13,Arsenal,Wolves,2,1,1.0,1,36.0,20.0,20,2.0
+2025-12-13,Burnley,Fulham,2,3,19.0,19,10.0,13.0,13,20.0
+2025-12-13,Liverpool,Brighton,2,0,6.0,6,26.0,9.0,9,23.0
+2025-12-08,Wolves,Man United,1,4,20.0,20,2.0,6.0,6,25.0
+2025-12-07,Brighton,West Ham,1,1,7.0,7,23.0,18.0,18,13.0
+2025-12-07,Fulham,Crystal Palace,1,2,15.0,15,17.0,4.0,4,26.0
+2025-12-06,Leeds,Liverpool,3,3,16.0,16,15.0,8.0,8,23.0
+2025-12-06,Tottenham,Brentford,2,0,9.0,9,22.0,14.0,14,19.0
+2025-12-06,Newcastle,Burnley,2,1,11.0,11,22.0,19.0,19,10.0
+2025-12-06,Man City,Sunderland,3,0,2.0,2,31.0,7.0,7,23.0
+2025-12-06,Everton,Nottm Forest,3,0,5.0,5,24.0,17.0,17,15.0
+2025-12-06,Bournemouth,Chelsea,0,0,13.0,13,20.0,4.0,4,25.0
+2025-12-06,Aston Villa,Arsenal,2,1,3.0,3,30.0,1.0,1,33.0
+2025-12-04,Man United,West Ham,1,1,8.0,8,22.0,18.0,18,12.0
+2025-12-03,Burnley,Crystal Palace,0,1,19.0,19,10.0,5.0,5,23.0
+2025-12-03,Arsenal,Brentford,2,0,1.0,1,33.0,13.0,13,19.0
+2025-12-03,Brighton,Aston Villa,3,4,7.0,7,22.0,3.0,3,27.0
+2025-12-03,Liverpool,Sunderland,1,1,8.0,8,22.0,6.0,6,23.0
+2025-12-03,Wolves,Nottm Forest,0,1,20.0,20,2.0,16.0,16,15.0
+2025-12-03,Leeds,Chelsea,3,1,17.0,17,14.0,4.0,4,24.0
+2025-12-02,Newcastle,Tottenham,2,2,13.0,13,19.0,11.0,11,19.0
+2025-12-02,Fulham,Man City,4,5,15.0,15,17.0,2.0,2,28.0
+2025-12-02,Bournemouth,Everton,0,1,14.0,14,19.0,9.0,9,21.0
+2025-11-30,Crystal Palace,Man United,1,2,9.0,9,20.0,7.0,7,21.0
+2025-11-30,Nottm Forest,Brighton,0,2,16.0,16,12.0,5.0,5,22.0
+2025-11-30,Aston Villa,Wolves,1,0,4.0,4,24.0,20.0,20,2.0
+2025-11-30,West Ham,Liverpool,0,2,17.0,17,11.0,8.0,8,21.0
+2025-11-30,Chelsea,Arsenal,1,1,3.0,3,24.0,1.0,1,30.0
+2025-11-29,Tottenham,Fulham,1,2,10.0,10,18.0,15.0,15,17.0
+2025-11-29,Everton,Newcastle,1,4,14.0,14,18.0,11.0,11,18.0
+2025-11-29,Sunderland,Bournemouth,3,2,4.0,4,22.0,9.0,9,19.0
+2025-11-29,Man City,Leeds,3,2,2.0,2,25.0,18.0,18,11.0
+2025-11-29,Brentford,Burnley,3,1,8.0,8,19.0,19.0,19,10.0
+2025-11-24,Man United,Everton,0,1,10.0,10,18.0,11.0,11,18.0
+2025-11-23,Arsenal,Tottenham,4,1,1.0,1,29.0,9.0,9,18.0
+2025-11-23,Leeds,Aston Villa,1,2,18.0,18,11.0,4.0,4,21.0
+2025-11-22,Newcastle,Man City,2,1,14.0,14,15.0,3.0,3,22.0
+2025-11-22,Wolves,Crystal Palace,0,2,20.0,20,2.0,4.0,4,20.0
+2025-11-22,Liverpool,Nottm Forest,0,3,11.0,11,18.0,16.0,16,12.0
+2025-11-22,Fulham,Sunderland,1,0,15.0,15,14.0,6.0,6,19.0
+2025-11-22,Brighton,Brentford,2,1,5.0,5,19.0,12.0,12,16.0
+2025-11-22,Bournemouth,West Ham,2,2,7.0,7,19.0,17.0,17,11.0
+2025-11-22,Burnley,Chelsea,0,2,19.0,19,10.0,2.0,2,23.0
+2025-11-09,Crystal Palace,Brighton,0,0,10.0,10,17.0,11.0,11,16.0
+2025-11-09,Aston Villa,Bournemouth,4,0,6.0,6,18.0,9.0,9,18.0
+2025-11-09,Brentford,Newcastle,3,1,12.0,12,16.0,14.0,14,12.0
+2025-11-09,Nottm Forest,Leeds,3,1,19.0,19,9.0,16.0,16,11.0
+2025-11-09,Man City,Liverpool,3,0,2.0,2,22.0,8.0,8,18.0
+2025-11-08,Chelsea,Wolves,3,0,2.0,2,20.0,20.0,20,2.0
+2025-11-08,Sunderland,Arsenal,2,2,4.0,4,19.0,1.0,1,26.0
+2025-11-08,West Ham,Burnley,3,2,18.0,18,10.0,17.0,17,10.0
+2025-11-08,Everton,Fulham,2,0,11.0,11,15.0,15.0,15,11.0
+2025-11-08,Tottenham,Man United,2,2,5.0,5,18.0,8.0,8,18.0
+2025-11-03,Sunderland,Everton,1,1,4.0,4,18.0,14.0,14,12.0
+2025-11-02,Man City,Bournemouth,3,1,2.0,2,19.0,4.0,4,18.0
+2025-11-02,West Ham,Newcastle,3,1,18.0,18,7.0,13.0,13,12.0
+2025-11-01,Fulham,Wolves,3,0,14.0,14,11.0,20.0,20,2.0
+2025-11-01,Burnley,Arsenal,0,2,17.0,17,10.0,1.0,1,25.0
+2025-11-01,Crystal Palace,Brentford,2,0,9.0,9,16.0,12.0,12,13.0
+2025-11-01,Brighton,Leeds,3,0,10.0,10,15.0,16.0,16,11.0
+2025-11-01,Nottm Forest,Man United,2,2,18.0,18,6.0,7.0,7,17.0
+2025-11-01,Tottenham,Chelsea,0,1,4.0,4,17.0,5.0,5,17.0
+2025-11-01,Liverpool,Aston Villa,2,0,3.0,3,18.0,11.0,11,15.0
+2025-10-26,Wolves,Burnley,2,3,20.0,20,2.0,16.0,16,10.0
+2025-10-26,Aston Villa,Man City,1,0,8.0,8,15.0,5.0,5,16.0
+2025-10-26,Everton,Tottenham,0,3,14.0,14,11.0,3.0,3,17.0
+2025-10-26,Bournemouth,Nottm Forest,2,0,2.0,2,18.0,18.0,18,5.0
+2025-10-26,Arsenal,Crystal Palace,1,0,1.0,1,22.0,10.0,10,13.0
+2025-10-25,Brentford,Liverpool,3,2,10.0,10,13.0,6.0,6,15.0
+2025-10-25,Man United,Brighton,4,2,4.0,4,16.0,13.0,13,12.0
+2025-10-25,Newcastle,Fulham,2,1,11.0,11,12.0,16.0,16,8.0
+2025-10-25,Chelsea,Sunderland,1,2,8.0,8,14.0,2.0,2,17.0
+2025-10-24,Leeds,West Ham,2,1,13.0,13,11.0,19.0,19,4.0
+2025-10-20,West Ham,Brentford,0,2,19.0,19,4.0,13.0,13,10.0
+2025-10-19,Liverpool,Man United,1,2,3.0,4,15.0,9.0,9,13.0
+2025-10-19,Tottenham,Aston Villa,1,2,6.0,6,14.0,11.0,11,12.0
+2025-10-18,Crystal Palace,Bournemouth,3,3,8.0,8,13.0,4.0,4,15.0
+2025-10-18,Nottm Forest,Chelsea,0,3,18.0,18,5.0,6.0,6,14.0
+2025-10-18,Brighton,Newcastle,2,1,9.0,9,12.0,12.0,12,9.0
+2025-10-18,Burnley,Leeds,2,0,17.0,17,7.0,15.0,15,8.0
+2025-10-18,Man City,Everton,2,0,2.0,2,16.0,10.0,10,11.0
+2025-10-18,Sunderland,Wolves,2,0,7.0,7,14.0,20.0,20,2.0
+2025-10-18,Fulham,Arsenal,0,1,14.0,14,8.0,1.0,1,19.0
+2025-10-05,Brentford,Man City,0,1,16.0,16,7.0,5.0,5,13.0
+2025-10-05,Wolves,Brighton,1,1,20.0,20,2.0,12.0,12,9.0
+2025-10-05,Newcastle,Nottm Forest,2,0,11.0,11,9.0,17.0,17,5.0
+2025-10-05,Aston Villa,Burnley,2,1,13.0,13,9.0,18.0,18,4.0
+2025-10-05,Everton,Crystal Palace,2,1,8.0,8,11.0,6.0,6,12.0
+2025-10-04,Arsenal,West Ham,2,0,1.0,1,16.0,19.0,19,4.0
+2025-10-04,Leeds,Tottenham,1,2,13.0,13,8.0,3.0,3,14.0
+2025-10-04,Chelsea,Liverpool,2,1,6.0,6,11.0,2.0,2,15.0
+2025-10-04,Man United,Sunderland,2,0,9.0,9,10.0,7.0,7,11.0
+2025-10-03,Bournemouth,Fulham,3,1,2.0,2,14.0,11.0,11,8.0
 2025-09-29,Everton,West Ham,1,1,9.0,9,8.0,19.0,19,4.0
 2025-09-28,Newcastle,Arsenal,1,2,15.0,15,6.0,2.0,2,13.0
 2025-09-28,Aston Villa,Fulham,3,1,16.0,16,6.0,10.0,10,8.0
-2025-09-27,Leeds,Bournemouth,2,2,11.0,11,8.0,5.0,5,11.0
-2025-09-27,Brentford,Man United,3,1,13.0,13,7.0,14.0,14,7.0
-2025-09-27,Chelsea,Brighton,1,3,8.0,8,8.0,10.0,10,8.0
-2025-09-27,Crystal Palace,Liverpool,2,1,2.0,2,12.0,1.0,1,15.0
-2025-09-27,Man City,Burnley,5,1,6.0,6,10.0,17.0,17,4.0
-2025-09-27,Nottm Forest,Sunderland,0,1,16.0,16,5.0,4.0,4,11.0
 2025-09-27,Tottenham,Wolves,1,1,3.0,3,11.0,20.0,20,1.0
+2025-09-27,Nottm Forest,Sunderland,0,1,16.0,16,5.0,4.0,4,11.0
+2025-09-27,Man City,Burnley,5,1,6.0,6,10.0,17.0,17,4.0
+2025-09-27,Leeds,Bournemouth,2,2,11.0,11,8.0,5.0,5,11.0
+2025-09-27,Crystal Palace,Liverpool,2,1,2.0,2,12.0,1.0,1,15.0
+2025-09-27,Chelsea,Brighton,1,3,8.0,8,8.0,10.0,10,8.0
+2025-09-27,Brentford,Man United,3,1,13.0,13,7.0,14.0,14,7.0
 2025-09-21,Arsenal,Man City,1,1,2.0,2,10.0,9.0,9,7.0
 2025-09-21,Sunderland,Aston Villa,1,1,7.0,7,8.0,18.0,18,3.0
 2025-09-21,Bournemouth,Newcastle,0,0,4.0,4,10.0,13.0,13,6.0
+2025-09-20,Brighton,Tottenham,2,2,14.0,14,5.0,2.0,2,10.0
 2025-09-20,West Ham,Crystal Palace,1,2,18.0,18,3.0,4.0,4,9.0
 2025-09-20,Liverpool,Everton,2,1,1.0,1,15.0,9.0,9,7.0
-2025-09-20,Brighton,Tottenham,2,2,14.0,14,5.0,2.0,2,10.0
 2025-09-20,Burnley,Nottm Forest,1,1,16.0,16,4.0,15.0,15,5.0
-2025-09-20,Fulham,Brentford,3,1,7.0,7,8.0,17.0,17,4.0
-2025-09-20,Wolves,Leeds,1,3,20.0,20,0.0,11.0,11,7.0
 2025-09-20,Man United,Chelsea,2,1,10.0,10,7.0,6.0,6,8.0
+2025-09-20,Wolves,Leeds,1,3,20.0,20,0.0,11.0,11,7.0
+2025-09-20,Fulham,Brentford,3,1,7.0,7,8.0,17.0,17,4.0
 2025-09-14,Man City,Man United,3,0,8.0,8,6.0,14.0,14,4.0
 2025-09-14,Burnley,Liverpool,0,1,17.0,17,3.0,1.0,1,12.0
-2025-09-13,Bournemouth,Brighton,2,1,4.0,4,9.0,13.0,13,4.0
-2025-09-13,Brentford,Chelsea,2,2,12.0,12,4.0,5.0,5,8.0
-2025-09-13,West Ham,Tottenham,0,3,18.0,18,3.0,2.0,2,9.0
-2025-09-13,Newcastle,Wolves,1,0,9.0,9,5.0,20.0,20,0.0
 2025-09-13,Fulham,Leeds,1,0,10.0,10,5.0,15.0,15,4.0
-2025-09-13,Everton,Aston Villa,0,0,6.0,6,7.0,19.0,19,2.0
-2025-09-13,Crystal Palace,Sunderland,0,0,8.0,8,6.0,6.0,7,7.0
 2025-09-13,Arsenal,Nottm Forest,3,0,1.0,1,9.0,14.0,14,4.0
+2025-09-13,Bournemouth,Brighton,2,1,4.0,4,9.0,13.0,13,4.0
+2025-09-13,Crystal Palace,Sunderland,0,0,8.0,8,6.0,6.0,7,7.0
+2025-09-13,Everton,Aston Villa,0,0,6.0,6,7.0,19.0,19,2.0
+2025-09-13,Newcastle,Wolves,1,0,9.0,9,5.0,20.0,20,0.0
+2025-09-13,West Ham,Tottenham,0,3,18.0,18,3.0,2.0,2,9.0
+2025-09-13,Brentford,Chelsea,2,2,12.0,12,4.0,5.0,5,8.0
+2025-08-31,Aston Villa,Crystal Palace,0,3,19.0,19,1.0,8.0,8,5.0
 2025-08-31,Liverpool,Arsenal,1,0,1.0,1,9.0,3.0,3,6.0
 2025-08-31,Nottm Forest,West Ham,0,3,10.0,10,4.0,16.0,16,3.0
 2025-08-31,Brighton,Man City,2,1,11.0,11,4.0,13.0,13,3.0
-2025-08-31,Aston Villa,Crystal Palace,0,3,19.0,19,1.0,8.0,8,5.0
 2025-08-30,Sunderland,Brentford,2,1,5.0,6,6.0,13.0,13,3.0
+2025-08-30,Chelsea,Fulham,2,0,1.0,1,7.0,16.0,16,2.0
+2025-08-30,Man United,Burnley,3,2,9.0,9,4.0,12.0,12,3.0
+2025-08-30,Tottenham,Bournemouth,0,1,3.0,3,6.0,7.0,7,6.0
 2025-08-30,Leeds,Newcastle,0,0,10.0,10,4.0,15.0,15,2.0
 2025-08-30,Wolves,Everton,2,3,19.0,19,0.0,5.0,5,6.0
-2025-08-30,Tottenham,Bournemouth,0,1,3.0,3,6.0,7.0,7,6.0
-2025-08-30,Man United,Burnley,3,2,9.0,9,4.0,12.0,12,3.0
-2025-08-30,Chelsea,Fulham,2,0,1.0,1,7.0,16.0,16,2.0
 2025-08-25,Newcastle,Liverpool,2,3,15.0,15,1.0,3.0,3,6.0
-2025-08-24,Crystal Palace,Nottm Forest,1,1,14.0,14,2.0,4.0,4,4.0
-2025-08-24,Everton,Brighton,2,0,8.0,8,3.0,18.0,18,1.0
 2025-08-24,Fulham,Man United,1,1,13.0,13,2.0,16.0,16,1.0
-2025-08-23,Man City,Tottenham,0,2,4.0,5,3.0,2.0,2,6.0
+2025-08-24,Everton,Brighton,2,0,8.0,8,3.0,18.0,18,1.0
+2025-08-24,Crystal Palace,Nottm Forest,1,1,14.0,14,2.0,4.0,4,4.0
 2025-08-23,Brentford,Aston Villa,1,0,9.0,9,3.0,16.0,16,1.0
-2025-08-23,Bournemouth,Wolves,1,0,8.0,8,3.0,19.0,19,0.0
 2025-08-23,Arsenal,Leeds,5,0,1.0,1,6.0,11.0,11,3.0
 2025-08-23,Burnley,Sunderland,2,0,9.0,10,3.0,7.0,7,3.0
+2025-08-23,Bournemouth,Wolves,1,0,8.0,8,3.0,19.0,19,0.0
+2025-08-23,Man City,Tottenham,0,2,4.0,5,3.0,2.0,2,6.0
 2025-08-22,West Ham,Chelsea,1,5,20.0,20,0.0,1.0,1,4.0
 2025-08-18,Leeds,Everton,1,0,6.0,7,3.0,14.0,14,0.0
+2025-08-17,Chelsea,Crystal Palace,0,0,9.0,10,1.0,9.0,11,1.0
 2025-08-17,Man United,Arsenal,0,1,15.0,15,0.0,6.0,6,3.0
 2025-08-17,Nottm Forest,Brentford,3,1,5.0,5,3.0,17.0,17,0.0
-2025-08-17,Chelsea,Crystal Palace,0,0,9.0,10,1.0,9.0,11,1.0
 2025-08-16,Sunderland,West Ham,3,0,2.0,2,3.0,18.0,19,0.0
 2025-08-16,Brighton,Fulham,1,1,5.0,5,1.0,5.0,6,1.0
 2025-08-16,Aston Villa,Newcastle,0,0,7.0,7,1.0,7.0,8,1.0
