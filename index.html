@@ -10,77 +10,182 @@
 
     gtag('config', 'G-Z3GSVNGHVM');
   </script>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Standings - Premier League</title>
-
-  <script type="text/javascript" src="https://d3js.org/d3.v7.min.js"></script>
-  <script type="text/javascript" src="javascript/menu.js"></script>
-  <script type="text/javascript" src="javascript/dropdown.js"></script>
-  <script type="text/javascript" src="javascript/get_last_date.js"></script>
-
-  <link rel="stylesheet" type="text/css" href="css/menu.css">
-  <link rel="stylesheet" type="text/css" href="css/dropdown.css">
-  <link rel="stylesheet" type="text/css" href="css/tooltip.css">
-  <link rel="stylesheet" type="text/css" href="css/common.css">
-  <link rel="stylesheet" type="text/css" href="css/ranking.css">
-
-  <!-- Need this to add caret arrow icon on dropdown -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  
+  <title>Premier League - Interactive Dashboard</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-  <h1>Premier League Data Viz</h1>
-  <ul class="top_menu">
-    <li><a class="menu_li active" id="menu_rankings" href="index.html">Standings</a></li>
-    <li><a class="menu_li" id="menu_matches" href="matches.html">Matches</a></li>
-    <li><a class="menu_li" id="menu_teams" href="teams.html">Teams</a></li>
-    <li><a class="menu_li" id="menu_players" href="players.html">Players</a></li>
-    <li><a class="menu_li" id="menu_history" href="history.html">History</a></li>
-  </ul>
+<header>
+  <h1 id="header-title">Premier League Data Viz</h1>
+  <p>Interactive Dashboard for English Premier League</p>
+</header>
 
-  <div id="tooltip_f1" class="tooltip hidden">
-      <p class="ttp_1 ttp_big" style="text-align:center;"></p>
-      <hr>
-      <p class="ttp_2 ttp_big" style="text-align:center;"></p>
-  </div>
-
-  
-  <div class="fg_container" id="f1_container">
-      <div id="dropdown_container" class="flex_container">
-        <div id="dropdown_season_container" class="flex_container">
-          <div class="dropdown_title" id="dropdown_season_title">Season:</div>
-          <div class="dropdown notouch" id="dropdown_season">
-            <button onclick="showDrop('dropdown_content_season')" class="dropbtn" id="dropbtn_season">
-                <span class="left">2025-2026</span>
-                <i class="fa fa-caret-down right"></i>
-            </button>
-            <ul id="dropdown_content_season" class="dropdown_content">
-              <li class="dropdown_content_li" id="dropdown_2025_2026">2025-2026</li>
-              <li class="dropdown_content_li" id="dropdown_2024_2025">2024-2025</li>
-              <li class="dropdown_content_li" id="dropdown_2023_2024">2023-2024</li>
-              <li class="dropdown_content_li" id="dropdown_2022_2023">2022-2023</li>
-              <li class="dropdown_content_li" id="dropdown_2021_2022">2021-2022</li>
-              <li class="dropdown_content_li" id="dropdown_2020_2021">2020-2021</li>
-              <li class="dropdown_content_li" id="dropdown_2019_2020">2019-2020</li>
-              <li class="dropdown_content_li" id="dropdown_2018_2019">2018-2019</li>
-              <li class="dropdown_content_li" id="dropdown_2017_2018">2017-2018</li>
-            </ul>
-          </div>
-        </div>
-        <div id="updated_date" class="updated_date"></div>
+<div class="dashboard">
+  <div class="nav-bar">
+    <div class="season-dropdown" id="season-dropdown">
+      <button class="season-dropdown-btn" id="season-dropdown-btn">2025/26 &#9662;</button>
+      <div class="season-dropdown-menu" id="season-dropdown-menu">
+        <div class="season-dropdown-item" data-season="2017/18">2017/18</div>
+        <div class="season-dropdown-item" data-season="2018/19">2018/19</div>
+        <div class="season-dropdown-item" data-season="2019/20">2019/20</div>
+        <div class="season-dropdown-item" data-season="2020/21">2020/21</div>
+        <div class="season-dropdown-item" data-season="2021/22">2021/22</div>
+        <div class="season-dropdown-item" data-season="2022/23">2022/23</div>
+        <div class="season-dropdown-item" data-season="2023/24">2023/24</div>
+        <div class="season-dropdown-item" data-season="2024/25">2024/25</div>
+        <div class="season-dropdown-item selected" data-season="2025/26">2025/26</div>
       </div>
-      <div class="f1" id="ranking_container"></div>
+    </div>
+    <select class="chart-dropdown" id="chart-dropdown">
+      <option value="bump">Title Race</option>
+      <option value="standings">League Standings</option>
+      <option value="form">Season Form</option>
+      <option value="scatter">Attack vs Defence</option>
+      <option value="radar">Team Comparison</option>
+      <option value="history">Historical Standings</option>
+    </select>
+    <div class="nav-tabs" id="nav-tabs">
+      <div class="nav-tab active" data-tab="bump">Title Race</div>
+      <div class="nav-tab" data-tab="standings">League Standings</div>
+      <div class="nav-tab" data-tab="form">Season Form</div>
+      <div class="nav-tab" data-tab="scatter">Attack vs Defence</div>
+      <div class="nav-tab" data-tab="radar">Team Comparison</div>
+      <div class="nav-tab" data-tab="history">Historical Standings</div>
+    </div>
   </div>
 
-  <script type="module">
-    import { makeRanking } from './javascript/ranking.js';
+  <!-- 1. League Standings -->
+  <div class="viz-section" id="section-standings">
+    <div class="card">
+      <div class="card-header">
+        <div>
+          <div class="card-title">League Standings</div>
+          <div class="card-subtitle">Click column buttons to re-sort. Hover bars for details.</div>
+        </div>
+        <div class="controls">
+          <button class="sort-btn active" data-sort="points">Points</button>
+          <button class="sort-btn" data-sort="gd">Goal Diff</button>
+          <button class="sort-btn" data-sort="gf">Goals For</button>
+          <button class="sort-btn" data-sort="ga">Goals Against</button>
+        </div>
+      </div>
+      <div id="standings-chart"></div>
+    </div>
+  </div>
 
-    getLastDate();
-    makeRanking("2025_2026");
-    AddDropdownClickEvent();
-  </script>
+  <!-- 2. Attack vs Defence Scatter -->
+  <div class="viz-section" id="section-scatter">
+    <div class="card">
+      <div class="card-header">
+        <div>
+          <div class="card-title">Attack vs Defence Analysis</div>
+          <div class="card-subtitle">Hover circles for details. Select a team to see its trajectory across seasons.</div>
+        </div>
+        <div class="controls">
+          <select id="scatter-team">
+            <option value="">All Teams (Season View)</option>
+          </select>
+          <select id="scatter-x">
+            <option value="gf_per_game">Goals Scored / Game</option>
+            <option value="shots">Shots Per Game</option>
+            <option value="shots_target">Shots on Target / Game</option>
+          </select>
+          <select id="scatter-y">
+            <option value="ga_per_game">Goals Conceded / Game</option>
+            <option value="clean_sheets">Clean Sheets</option>
+            <option value="fouls">Fouls Per Game</option>
+          </select>
+        </div>
+      </div>
+      <div id="scatter-chart"></div>
+    </div>
+  </div>
 
+  <!-- 3. Radar Comparison -->
+  <div class="viz-section" id="section-radar">
+    <div class="card">
+      <div class="card-header">
+        <div>
+          <div class="card-title">Team Comparison Radar</div>
+          <div class="card-subtitle">Select 2-4 teams to compare across key metrics. All values normalized to league percentiles.</div>
+        </div>
+      </div>
+      <div class="radar-layout">
+        <div class="team-selector" id="radar-teams"></div>
+        <div id="radar-chart" style="display:flex;justify-content:center"></div>
+        <div class="legend" id="radar-legend"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4. Title Race Bump Chart -->
+  <div class="viz-section active" id="section-bump">
+    <div class="card">
+      <div class="card-header">
+        <div>
+          <div class="card-title">The Title Race - Position Over Time</div>
+          <div class="card-subtitle">Hover over a line to highlight a team's journey. Shows league position after each matchweek.</div>
+        </div>
+        <div class="controls">
+          <select id="bump-filter">
+            <option value="all">All Teams</option>
+            <option value="top6">Top 6</option>
+            <option value="top10">Top 10</option>
+            <option value="relegation">Relegation Battle</option>
+          </select>
+        </div>
+      </div>
+      <div id="bump-chart"></div>
+    </div>
+  </div>
+
+  <!-- 5. Season Form Heatmap -->
+  <div class="viz-section" id="section-form">
+    <div class="card">
+      <div class="card-header">
+        <div>
+          <div class="card-title">Season Form Heatmap</div>
+          <div class="card-subtitle">Win/Draw/Loss results across all matchweeks. Spot hot streaks and collapses at a glance.</div>
+        </div>
+      </div>
+      <div id="form-chart"></div>
+    </div>
+  </div>
+
+  <!-- 6. Historical Standings -->
+  <div class="viz-section" id="section-history">
+    <div class="card">
+      <div class="card-header">
+        <div>
+          <div class="card-title">Historical Standings</div>
+          <div class="card-subtitle">Final league positions across all seasons. Track team trajectories, promotions and relegations.</div>
+        </div>
+        <div class="controls">
+          <select id="history-filter">
+            <option value="all">All Teams</option>
+            <option value="top6">Top 6 (Current)</option>
+            <option value="top10">Top 10 (Current)</option>
+            <option value="ever-present">Ever-Present</option>
+          </select>
+        </div>
+      </div>
+      <div id="history-chart"></div>
+    </div>
+  </div>
+</div>
+
+<div class="tooltip" id="tooltip"></div>
+
+<script src="javascript/common.js"></script>
+<script src="javascript/standings.js"></script>
+<script src="javascript/scatter.js"></script>
+<script src="javascript/radar.js"></script>
+<script src="javascript/bump.js"></script>
+<script src="javascript/form.js"></script>
+<script src="javascript/history.js"></script>
+<script src="javascript/main.js"></script>
 </body>
 </html>
