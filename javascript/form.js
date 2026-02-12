@@ -9,7 +9,7 @@ function renderFormChart() {
   const formLandscape = isLandscape();
   const margin = { top: 25, right: 10, bottom: formLandscape ? 10 : 20, left: formMobile ? 35 : formLandscape ? 60 : 100 };
   const cellPad = formMobile || formLandscape ? 1 : 2;
-  const numWeeks = maxMatchweek;
+  const numWeeks = Math.max(maxMatchweek, ...sorted.map(t => (formData[t.team] || []).length));
   const containerW = container.node().getBoundingClientRect().width;
   const cellW = formMobile || formLandscape ? Math.floor((containerW - margin.left - margin.right) / numWeeks - cellPad) : 20;
   const cellH = formLandscape
