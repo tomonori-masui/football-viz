@@ -204,17 +204,28 @@ async function renderHistoryChart() {
   // Position labels layer (on top of dots)
   const posLabelsG = svg.append("g").attr("class", "history-pos-labels").style("pointer-events", "none");
 
+  // Build flat lookup of all dot positions for proximity search
+  const allDots = [];
+  teamDataArr.forEach(td => {
+    td.history.forEach(d => {
+      allDots.push({ team: td.team, cx: x(d.season), cy: y(d.pos), data: d });
+    });
+  });
+
+  function findNearestDot(event) {
+    const [mx, my] = d3.pointer(event, svg.node());
+    let minDist = Infinity, nearest = null;
+    allDots.forEach(dot => {
+      const dist = (dot.cx - mx) ** 2 + (dot.cy - my) ** 2;
+      if (dist < minDist) { minDist = dist; nearest = dot; }
+    });
+    const maxDist = histMobile || histLandscape ? 40 : 50;
+    return nearest && Math.sqrt(minDist) < maxDist ? nearest : null;
+  }
+
   let activeTeam = null;
+  let hoverTeam = null;
 
-  // Touch detection — track recent touch to distinguish mobile taps from desktop hover
-  let lastTouchTime = 0;
-  svg.node().addEventListener("touchstart", function() {
-    lastTouchTime = Date.now();
-  }, { passive: true });
-
-  function isTouch() { return Date.now() - lastTouchTime < 800; }
-
-  // Highlight + position labels
   function highlightTeam(teamName) {
     const hColor = highlightColorMap[teamName];
 
@@ -289,88 +300,98 @@ async function renderHistoryChart() {
 
   function deselectTeam() {
     activeTeam = null;
+    hoverTeam = null;
     resetHighlight();
   }
 
-  // Deselect on background tap/click
-  svg.on("click", () => { if (activeTeam) deselectTeam(); });
+  function dotTooltipHtml(dot) {
+    const d = dot.data;
+    return `
+      <div class="team-name">${dot.team}</div>
+      <div class="stat-row"><span class="stat-label">Season</span><span class="stat-value">${d.season}</span></div>
+      <div class="stat-row"><span class="stat-label">Position</span><span class="stat-value">#${d.pos}</span></div>
+      <div class="stat-row"><span class="stat-label">Points</span><span class="stat-value">${d.pts}</span></div>
+      <div class="stat-row"><span class="stat-label">Record</span><span class="stat-value">${d.w}W ${d.d}D ${d.l}L</span></div>
+      <div class="stat-row"><span class="stat-label">Goals</span><span class="stat-value">${d.gf}F ${d.ga}A (${d.gd >= 0 ? "+" : ""}${d.gd})</span></div>
+    `;
+  }
 
-  // Attach interactions to fat lines, dots, and labels
-  linesG.selectAll(".history-line-fat")
-    .attr("pointer-events", "stroke")
-    .on("mousemove", function(_, d) {
-      if (activeTeam) return;
-      highlightTeam(d.team);
-      if (isTouch()) activeTeam = d.team; // pin on mobile tap
-    })
-    .on("mouseleave", function() {
-      if (activeTeam) return;
+  // Interaction overlay — captures all pointer events reliably on both mobile and desktop
+  // This replaces per-element handlers which are unreliable for small SVG targets on touch devices
+  const overlay = svg.append("rect")
+    .attr("width", w - teamNameWidth).attr("height", h)
+    .attr("fill", "none").attr("pointer-events", "all")
+    .style("cursor", "pointer");
+
+  // Track pointer down position to distinguish taps from scrolls
+  let ptrDown = null;
+  overlay.on("pointerdown", function(event) {
+    ptrDown = { x: event.clientX, y: event.clientY };
+  });
+
+  overlay.on("pointerup", function(event) {
+    if (!ptrDown) return;
+    const dist = Math.abs(event.clientX - ptrDown.x) + Math.abs(event.clientY - ptrDown.y);
+    ptrDown = null;
+    if (dist > 15) return; // was a scroll
+
+    const nearest = findNearestDot(event);
+    if (!nearest) { if (activeTeam) deselectTeam(); return; }
+
+    if (activeTeam === nearest.team) { deselectTeam(); return; }
+    deselectTeam();
+    activeTeam = nearest.team;
+    highlightTeam(nearest.team);
+
+    // Show dot tooltip for nearby dot
+    const [mx, my] = d3.pointer(event, svg.node());
+    const dotDist = Math.sqrt((nearest.cx - mx) ** 2 + (nearest.cy - my) ** 2);
+    if (dotDist < (histMobile || histLandscape ? 25 : 30)) {
+      showTooltip(event, dotTooltipHtml(nearest));
+    }
+  });
+
+  overlay.on("pointermove", function(event) {
+    if (activeTeam) return;
+    if (event.pointerType === "touch") return; // no hover on touch
+    const nearest = findNearestDot(event);
+    if (nearest) {
+      if (hoverTeam !== nearest.team) {
+        hoverTeam = nearest.team;
+        highlightTeam(nearest.team);
+      }
+      showTooltip(event, dotTooltipHtml(nearest));
+    } else if (hoverTeam) {
+      hoverTeam = null;
       resetHighlight();
-    })
-    .on("click", function(event, d) {
-      event.stopPropagation();
-      if (activeTeam === d.team) { deselectTeam(); return; }
-      deselectTeam();
-      activeTeam = d.team;
-      highlightTeam(d.team);
-    });
+    }
+  });
 
-  dotsG.selectAll(".history-dot")
-    .style("cursor", "pointer")
-    .on("mousemove", function(event, d) {
-      if (activeTeam) return;
-      const teamName = d3.select(this).attr("data-team");
-      highlightTeam(teamName);
-      if (isTouch()) activeTeam = teamName;
-      showTooltip(event, `
-        <div class="team-name">${teamName}</div>
-        <div class="stat-row"><span class="stat-label">Season</span><span class="stat-value">${d.season}</span></div>
-        <div class="stat-row"><span class="stat-label">Position</span><span class="stat-value">#${d.pos}</span></div>
-        <div class="stat-row"><span class="stat-label">Points</span><span class="stat-value">${d.pts}</span></div>
-        <div class="stat-row"><span class="stat-label">Record</span><span class="stat-value">${d.w}W ${d.d}D ${d.l}L</span></div>
-        <div class="stat-row"><span class="stat-label">Goals</span><span class="stat-value">${d.gf}F ${d.ga}A (${d.gd >= 0 ? "+" : ""}${d.gd})</span></div>
-      `);
-    })
-    .on("mouseleave", function() {
-      if (activeTeam) return;
-      resetHighlight();
-    })
-    .on("click", function(event, d) {
-      event.stopPropagation();
-      const teamName = d3.select(this).attr("data-team");
-      if (activeTeam === teamName) { deselectTeam(); return; }
-      deselectTeam();
-      activeTeam = teamName;
-      highlightTeam(teamName);
-      showTooltip(event, `
-        <div class="team-name">${teamName}</div>
-        <div class="stat-row"><span class="stat-label">Season</span><span class="stat-value">${d.season}</span></div>
-        <div class="stat-row"><span class="stat-label">Position</span><span class="stat-value">#${d.pos}</span></div>
-        <div class="stat-row"><span class="stat-label">Points</span><span class="stat-value">${d.pts}</span></div>
-        <div class="stat-row"><span class="stat-label">Record</span><span class="stat-value">${d.w}W ${d.d}D ${d.l}L</span></div>
-        <div class="stat-row"><span class="stat-label">Goals</span><span class="stat-value">${d.gf}F ${d.ga}A (${d.gd >= 0 ? "+" : ""}${d.gd})</span></div>
-      `);
-    });
+  overlay.on("pointerleave", function() {
+    if (activeTeam) return;
+    hoverTeam = null;
+    resetHighlight();
+  });
 
+  // Labels still have their own handlers since they are outside the overlay area
   labelsG.selectAll(".history-team-label")
     .style("cursor", "pointer")
-    .on("mousemove", function() {
-      if (activeTeam) return;
-      const teamName = d3.select(this).attr("data-team");
-      highlightTeam(teamName);
-      if (isTouch()) activeTeam = teamName;
-    })
-    .on("mouseleave", function() {
-      if (activeTeam) return;
-      resetHighlight();
-    })
-    .on("click", function(event) {
-      event.stopPropagation();
+    .on("pointerup", function() {
       const teamName = d3.select(this).attr("data-team");
       if (activeTeam === teamName) { deselectTeam(); return; }
       deselectTeam();
       activeTeam = teamName;
       highlightTeam(teamName);
+    })
+    .on("pointermove", function(event) {
+      if (activeTeam) return;
+      if (event.pointerType === "touch") return;
+      const teamName = d3.select(this).attr("data-team");
+      highlightTeam(teamName);
+    })
+    .on("pointerleave", function() {
+      if (activeTeam) return;
+      resetHighlight();
     });
 
   // Axis labels
