@@ -201,7 +201,20 @@ async function renderHistoryChart() {
       .style("opacity", 1);
   });
 
-  // Hover interactions
+  // Position labels layer (on top of dots)
+  const posLabelsG = svg.append("g").attr("class", "history-pos-labels").style("pointer-events", "none");
+
+  let activeTeam = null;
+
+  // Touch detection — track recent touch to distinguish mobile taps from desktop hover
+  let lastTouchTime = 0;
+  svg.node().addEventListener("touchstart", function() {
+    lastTouchTime = Date.now();
+  }, { passive: true });
+
+  function isTouch() { return Date.now() - lastTouchTime < 800; }
+
+  // Highlight + position labels
   function highlightTeam(teamName) {
     const hColor = highlightColorMap[teamName];
 
@@ -228,6 +241,24 @@ async function renderHistoryChart() {
         return isTarget ? hColor : (colorMap[d3.select(this).attr("data-team")] === "LightGray" ? "DimGray" : highlightColorMap[d3.select(this).attr("data-team")]);
       })
       .attr("font-weight", function() { return d3.select(this).attr("data-team") === teamName ? "700" : "500"; });
+
+    // Show position numbers on circles
+    posLabelsG.selectAll("*").remove();
+    const hist = teamHistory[teamName];
+    if (hist) {
+      const labelR = histMobile || histLandscape ? 8 : 11;
+      hist.forEach(d => {
+        posLabelsG.append("circle")
+          .attr("cx", x(d.season)).attr("cy", y(d.pos)).attr("r", labelR)
+          .attr("fill", hColor).attr("stroke", "#fff").attr("stroke-width", 2);
+        posLabelsG.append("text")
+          .attr("x", x(d.season)).attr("y", y(d.pos)).attr("dy", "0.35em")
+          .attr("text-anchor", "middle").attr("fill", "#fff")
+          .attr("font-size", histMobile || histLandscape ? "8px" : "10px")
+          .attr("font-weight", "700")
+          .text(d.pos);
+      });
+    }
   }
 
   function resetHighlight() {
@@ -252,26 +283,45 @@ async function renderHistoryChart() {
       })
       .attr("font-weight", "500");
 
+    posLabelsG.selectAll("*").remove();
     hideTooltip();
   }
 
-  // Attach hover events to fat lines and dots
+  function deselectTeam() {
+    activeTeam = null;
+    resetHighlight();
+  }
+
+  // Deselect on background tap/click
+  svg.on("click", () => { if (activeTeam) deselectTeam(); });
+
+  // Attach interactions to fat lines, dots, and labels
   linesG.selectAll(".history-line-fat")
-    .on("mousemove", function(event, d) {
+    .attr("pointer-events", "stroke")
+    .on("mousemove", function(_, d) {
+      if (activeTeam) return;
       highlightTeam(d.team);
-      const hist = d.history;
-      const rows = hist.map(h =>
-        `<div class="stat-row"><span class="stat-label">${h.season}</span><span class="stat-value">#${h.pos} (${h.pts}pts)</span></div>`
-      ).join("");
-      showTooltip(event, `<div class="team-name">${d.team}</div>${rows}`);
+      if (isTouch()) activeTeam = d.team; // pin on mobile tap
     })
-    .on("mouseleave", resetHighlight);
+    .on("mouseleave", function() {
+      if (activeTeam) return;
+      resetHighlight();
+    })
+    .on("click", function(event, d) {
+      event.stopPropagation();
+      if (activeTeam === d.team) { deselectTeam(); return; }
+      deselectTeam();
+      activeTeam = d.team;
+      highlightTeam(d.team);
+    });
 
   dotsG.selectAll(".history-dot")
     .style("cursor", "pointer")
     .on("mousemove", function(event, d) {
+      if (activeTeam) return;
       const teamName = d3.select(this).attr("data-team");
       highlightTeam(teamName);
+      if (isTouch()) activeTeam = teamName;
       showTooltip(event, `
         <div class="team-name">${teamName}</div>
         <div class="stat-row"><span class="stat-label">Season</span><span class="stat-value">${d.season}</span></div>
@@ -281,20 +331,47 @@ async function renderHistoryChart() {
         <div class="stat-row"><span class="stat-label">Goals</span><span class="stat-value">${d.gf}F ${d.ga}A (${d.gd >= 0 ? "+" : ""}${d.gd})</span></div>
       `);
     })
-    .on("mouseleave", resetHighlight);
+    .on("mouseleave", function() {
+      if (activeTeam) return;
+      resetHighlight();
+    })
+    .on("click", function(event, d) {
+      event.stopPropagation();
+      const teamName = d3.select(this).attr("data-team");
+      if (activeTeam === teamName) { deselectTeam(); return; }
+      deselectTeam();
+      activeTeam = teamName;
+      highlightTeam(teamName);
+      showTooltip(event, `
+        <div class="team-name">${teamName}</div>
+        <div class="stat-row"><span class="stat-label">Season</span><span class="stat-value">${d.season}</span></div>
+        <div class="stat-row"><span class="stat-label">Position</span><span class="stat-value">#${d.pos}</span></div>
+        <div class="stat-row"><span class="stat-label">Points</span><span class="stat-value">${d.pts}</span></div>
+        <div class="stat-row"><span class="stat-label">Record</span><span class="stat-value">${d.w}W ${d.d}D ${d.l}L</span></div>
+        <div class="stat-row"><span class="stat-label">Goals</span><span class="stat-value">${d.gf}F ${d.ga}A (${d.gd >= 0 ? "+" : ""}${d.gd})</span></div>
+      `);
+    });
 
   labelsG.selectAll(".history-team-label")
     .style("cursor", "pointer")
-    .on("mousemove", function(event) {
+    .on("mousemove", function() {
+      if (activeTeam) return;
       const teamName = d3.select(this).attr("data-team");
       highlightTeam(teamName);
-      const hist = teamHistory[teamName];
-      const rows = hist.map(h =>
-        `<div class="stat-row"><span class="stat-label">${h.season}</span><span class="stat-value">#${h.pos} (${h.pts}pts)</span></div>`
-      ).join("");
-      showTooltip(event, `<div class="team-name">${teamName}</div>${rows}`);
+      if (isTouch()) activeTeam = teamName;
     })
-    .on("mouseleave", resetHighlight);
+    .on("mouseleave", function() {
+      if (activeTeam) return;
+      resetHighlight();
+    })
+    .on("click", function(event) {
+      event.stopPropagation();
+      const teamName = d3.select(this).attr("data-team");
+      if (activeTeam === teamName) { deselectTeam(); return; }
+      deselectTeam();
+      activeTeam = teamName;
+      highlightTeam(teamName);
+    });
 
   // Axis labels
   if (!histMobile && !histLandscape) {

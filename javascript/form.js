@@ -25,6 +25,31 @@ function renderFormChart() {
 
   const colorMap = { W: "#10b981", D: "#f59e0b", L: "#ef4444" };
 
+  // Diagonal stripe pattern for selected cell
+  const defs = svg.append("defs");
+  const pattern = defs.append("pattern")
+    .attr("id", "form-selected-pattern")
+    .attr("patternUnits", "userSpaceOnUse")
+    .attr("width", 5)
+    .attr("height", 5)
+    .attr("patternTransform", "rotate(45)");
+  pattern.append("line")
+    .attr("x1", 0).attr("y1", 0)
+    .attr("x2", 0).attr("y2", 5)
+    .attr("stroke", "rgba(255,255,255,0.45)")
+    .attr("stroke-width", 2.5);
+
+  // Reusable highlight group (border + pattern overlay)
+  const highlight = svg.append("g").style("display", "none").style("pointer-events", "none");
+  const highlightBorder = highlight.append("rect")
+    .attr("fill", "none")
+    .attr("stroke", "#fff")
+    .attr("stroke-width", 3)
+    .attr("rx", 4);
+  const highlightPattern = highlight.append("rect")
+    .attr("fill", "url(#form-selected-pattern)")
+    .attr("rx", 3);
+
   // Column headers
   for (let gw = 0; gw < numWeeks; gw += 5) {
     svg.append("text")
@@ -34,6 +59,22 @@ function renderFormChart() {
       .attr("fill", "#64748b").attr("font-size", "9px")
       .text(gw + 1);
   }
+
+  let activeCell = null;
+
+  function deselectCell() {
+    if (activeCell) {
+      d3.select(activeCell).attr("opacity", 0.85);
+      highlight.style("display", "none");
+      activeCell = null;
+      hideTooltip();
+    }
+  }
+
+  // Tap outside any cell to deselect
+  svg.on("click", (event) => {
+    if (event.target.tagName !== "rect") deselectCell();
+  });
 
   sorted.forEach((t, row) => {
     const yPos = row * (cellH + cellPad + 2);
@@ -55,17 +96,7 @@ function renderFormChart() {
         ? `${months[entry.date.getMonth()]} ${entry.date.getDate()}, ${entry.date.getFullYear()}`
         : '';
       const venueLabel = entry.venue === 'H' ? 'vs' : '@';
-      svg.append("rect")
-        .attr("x", col * (cellW + cellPad))
-        .attr("y", yPos)
-        .attr("width", cellW)
-        .attr("height", cellH)
-        .attr("rx", 3)
-        .attr("fill", colorMap[r])
-        .attr("opacity", 0)
-        .attr("cursor", "pointer")
-        .on("mousemove", (event) => {
-          showTooltip(event, `
+      const tooltipHtml = `
             <div class="team-name">${t.team}</div>
             <div class="stat-row"><span class="stat-label">Matchweek</span><span class="stat-value">${col + 1}</span></div>
             <div class="stat-row"><span class="stat-label">Date</span><span class="stat-value">${dateStr}</span></div>
@@ -74,9 +105,40 @@ function renderFormChart() {
             <div class="stat-row"><span class="stat-label">Score</span><span class="stat-value">${entry.score}</span></div>
             <div class="stat-row"><span class="stat-label">Result</span><span class="stat-value" style="color:${colorMap[r]}">${r === 'W' ? 'Win' : r === 'D' ? 'Draw' : 'Loss'}</span></div>
             <div class="stat-row"><span class="stat-label">Season Record</span><span class="stat-value">${t.w}W ${t.d}D ${t.l}L</span></div>
-          `);
+          `;
+      const cx = col * (cellW + cellPad);
+      svg.append("rect")
+        .attr("x", cx)
+        .attr("y", yPos)
+        .attr("width", cellW)
+        .attr("height", cellH)
+        .attr("rx", 3)
+        .attr("fill", colorMap[r])
+        .attr("opacity", 0)
+        .attr("cursor", "pointer")
+        .on("mousemove", (event) => {
+          if (!activeCell) showTooltip(event, tooltipHtml);
         })
-        .on("mouseleave", hideTooltip)
+        .on("mouseleave", () => {
+          if (!activeCell) hideTooltip();
+        })
+        .on("click", function (event) {
+          event.stopPropagation();
+          const wasActive = activeCell === this;
+          deselectCell();
+          if (!wasActive) {
+            activeCell = this;
+            d3.select(this).attr("opacity", 1);
+            // Position pattern overlay on the cell
+            highlightPattern.attr("x", cx).attr("y", yPos).attr("width", cellW).attr("height", cellH);
+            // Position border outside the cell
+            const pad = 1.5;
+            highlightBorder.attr("x", cx - pad).attr("y", yPos - pad)
+              .attr("width", cellW + pad * 2).attr("height", cellH + pad * 2);
+            highlight.style("display", null).raise();
+            showTooltip(event, tooltipHtml);
+          }
+        })
         .transition().duration(300).delay(col * 15 + row * 5)
         .attr("opacity", 0.85);
     });
