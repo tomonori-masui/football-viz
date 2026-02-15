@@ -394,6 +394,13 @@ async function renderHistoryChart() {
       resetHighlight();
     });
 
+  // Tap outside to deselect on mobile
+  document.body.addEventListener('touchstart', function(event) {
+    if (!activeTeam) return;
+    const inInteractive = event.target.closest('.history-line-fat, .history-dot, .history-team-label');
+    if (!inInteractive) deselectTeam();
+  }, { passive: true });
+
   // Axis labels
   if (!histMobile && !histLandscape) {
     svg.append("text")
