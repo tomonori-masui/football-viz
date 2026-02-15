@@ -1,5 +1,10 @@
 // ========== 4. BUMP CHART ==========
 let bumpAnimTimer = null;
+let bumpAnimPlayed = false;
+
+function resetBumpAnim() {
+  bumpAnimPlayed = false;
+}
 
 function renderBumpChart() {
   const container = d3.select("#bump-chart");
@@ -205,49 +210,69 @@ function renderBumpChart() {
       .text("Standings");
   }
 
-  // Initial Line-Drawing Animation
-  bumpAnimTimer = d3.timer((elapsed) => {
-    const curIdx = Math.floor(elapsed / 25);
-
+  // Initial Line-Drawing Animation (skip if already played, e.g. on resize)
+  if (bumpAnimPlayed) {
     svg.selectAll(".bump-line-thin")
-      .style("opacity", d => d.finalPos <= topN ? 1 : 0)
-      .attr("d", d => valueline(d.points.slice(0, Math.min(curIdx + 1, totalWeeks))));
+      .style("opacity", 1)
+      .attr("d", d => valueline(d.points));
 
     svg.selectAll(".bump-team-text")
-      .style("opacity", d => d.finalPos <= topN ? 1 : 0)
-      .transition().duration(40).ease(d3.easeLinear)
+      .style("opacity", 1)
       .attr("transform", d => {
-        const idx = Math.min(curIdx, totalWeeks - 1);
-        const pt = d.points[Math.min(idx, d.points.length - 1)];
-        return pt ? `translate(${x(pt.week) + 10},${y(pt.position)})` : '';
+        const last = d.points[d.points.length - 1];
+        return last ? `translate(${x(last.week) + 30},${y(last.position)})` : '';
       });
 
-    if (curIdx >= totalWeeks) {
-      bumpAnimTimer.stop();
-      bumpAnimTimer = null;
+    svg.selectAll(".bump-rank-dot").style("opacity", 1);
+    svg.selectAll(".bump-rank-num").style("opacity", 1);
+
+    addEvents();
+  } else {
+    bumpAnimPlayed = true;
+
+    bumpAnimTimer = d3.timer((elapsed) => {
+      const curIdx = Math.floor(elapsed / 25);
 
       svg.selectAll(".bump-line-thin")
-        .transition().duration(1000)
-        .style("opacity", 1);
+        .style("opacity", d => d.finalPos <= topN ? 1 : 0)
+        .attr("d", d => valueline(d.points.slice(0, Math.min(curIdx + 1, totalWeeks))));
 
       svg.selectAll(".bump-team-text")
-        .transition().duration(1000)
-        .style("opacity", 1)
+        .style("opacity", d => d.finalPos <= topN ? 1 : 0)
+        .transition().duration(40).ease(d3.easeLinear)
         .attr("transform", d => {
-          const last = d.points[d.points.length - 1];
-          return last ? `translate(${x(last.week) + 30},${y(last.position)})` : '';
+          const idx = Math.min(curIdx, totalWeeks - 1);
+          const pt = d.points[Math.min(idx, d.points.length - 1)];
+          return pt ? `translate(${x(pt.week) + 10},${y(pt.position)})` : '';
         });
 
-      svg.selectAll(".bump-rank-dot")
-        .transition().delay(500).duration(1000)
-        .style("opacity", 1);
-      svg.selectAll(".bump-rank-num")
-        .transition().delay(500).duration(1000)
-        .style("opacity", 1);
+      if (curIdx >= totalWeeks) {
+        bumpAnimTimer.stop();
+        bumpAnimTimer = null;
 
-      addEvents();
-    }
-  }, 30);
+        svg.selectAll(".bump-line-thin")
+          .transition().duration(1000)
+          .style("opacity", 1);
+
+        svg.selectAll(".bump-team-text")
+          .transition().duration(1000)
+          .style("opacity", 1)
+          .attr("transform", d => {
+            const last = d.points[d.points.length - 1];
+            return last ? `translate(${x(last.week) + 30},${y(last.position)})` : '';
+          });
+
+        svg.selectAll(".bump-rank-dot")
+          .transition().delay(500).duration(1000)
+          .style("opacity", 1);
+        svg.selectAll(".bump-rank-num")
+          .transition().delay(500).duration(1000)
+          .style("opacity", 1);
+
+        addEvents();
+      }
+    }, 30);
+  }
 
   // Interaction Functions
   function lineSelect(teamKey) {
@@ -388,4 +413,7 @@ function renderBumpChart() {
   }
 }
 
-document.getElementById("bump-filter").addEventListener("change", renderBumpChart);
+document.getElementById("bump-filter").addEventListener("change", () => {
+  resetBumpAnim();
+  renderBumpChart();
+});

@@ -15,6 +15,7 @@ function switchTab(tabId) {
   if (navTab) navTab.classList.add('active');
   document.getElementById('section-' + tabId).classList.add('active');
   document.getElementById('chart-dropdown').value = tabId;
+  if (tabId === 'bump') resetBumpAnim();
   const renderer = tabRenderers[tabId];
   if (renderer) renderer();
 }
@@ -57,6 +58,9 @@ async function switchSeason(season) {
 
   // Rebuild radar team selector
   rebuildRadarTeamSelector();
+
+  // Reset bump animation so it replays for the new season
+  resetBumpAnim();
 
   // Re-render the currently active chart tab
   const activeTab = document.querySelector('.nav-tab.active');
